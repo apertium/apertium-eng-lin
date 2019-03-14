@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- eng → lin -->
+
+  <mode name="eng-lin" install="yes" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-lin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-lin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-lin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-lin.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="eng-lin.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-lin.eng-lin.t1x"/>
+        <file name="eng-lin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-lin.eng-lin.t2x"/>
+        <file name="eng-lin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-lin.eng-lin.t3x"/>
+        <file name="eng-lin.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="eng-lin.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="eng-lin.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- lin → eng -->
+
+  <mode name="lin-eng" install="yes" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="lin-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="lin-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="lin-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="lin-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="lin-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-lin.lin-eng.t1x"/>
+        <file name="lin-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-lin.lin-eng.t2x"/>
+        <file name="lin-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-lin.lin-eng.t3x"/>
+        <file name="lin-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="lin-eng.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="lin-eng.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+
