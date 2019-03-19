@@ -44,8 +44,35 @@ from source. If you installed any prerequisite language packages using a
 Testing
 -------------------------------------------------------------------------------
 
+*Current dictionary*: house(ndako), garden(elanga), James(Zaki), Mary(Maria), the, in, is(present and past), see(komona),
+white(pémbé), beautiful(kitoko), I(ngáí), You(bínó), They(bangó)
+
+*Supported syntax*
+
+1. adj+n
+    * i.e beautiful house
+    * correctly translates to "ndako ya pémbé"
+    * n before adj and the connective 'ya' is inserted
+2. np/prn+verb
+    * i.e James saw/sees
+    * correctly translates to "Zaki amónáká/amóni"
+    * verb agrees with prn and suffix(amón-) is changed depending on vrb tense(see https://wikis.swarthmore.edu/ling073/Lingala/Grammar)
+3. np/prn+verb+n
+    * i.e Mary saw a house
+    * correctly translates to "Maria amónáká ndako"
+    * nouns in Lingala do not need determinants
+4. np/prn+verb+adj+noun(little ambiguity)
+    * i.e They saw a beautiful house
+    * translates to "bamónáká  'ya' ndako ya pémbé"(supposed to be "bamónáká ndako ya pémbé")
+    * Pronoun drops and a prefix(ba) is added to reflect the person. In this case, the 3rd person.
+    * *I need to create a rule to remove determinants before adj*
+
+(*I guess I'll have to create a documentation/wiki later on to list all these rules*)
+
 If you are in the source directory after running make, the following
 commands should work:
+
+
 
 ```console
 $ echo "TODO test sentence 1" | apertium -d . eng-lin
