@@ -1,18 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+
     <def-cat n="nom">
       <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
     </def-cat>
+
+    <def-cat n="det"><!--Determinants i predeterminants, van anteposats en català -->
+      <cat-item tags="det.dem.*"/>
+      <cat-item tags="det.ind.*"/>
+      <cat-item tags="det.def.*"/>
+      <cat-item tags="det.pos.*"/>
+      <cat-item tags="det.qnt.*"/>
+      <cat-item tags="det.itg.*"/>
+      <cat-item tags="det.ord.*"/>
+    </def-cat>
+
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_cas">
-      <attr-item tags="nom"/>
+
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+      <attr-item tags="n.acr"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="np.al"/>
+      <attr-item tags="adv"/>
     </def-attr>
+
+      <def-attr n="a_cls">
+        <attr-item tags="cl1"/>
+        <attr-item tags="cl1a"/>
+        <attr-item tags="cl3"/>
+        <attr-item tags="cl5"/>
+        <attr-item tags="cl7"/>
+        <attr-item tags="cl9"/>
+        <attr-item tags="cl11"/>
+        <attr-item tags="cl14"/>
+        <attr-item tags="cl15"/>
+      </def-attr>
+
+      <def-attr n="a_nbr">
+        <attr-item tags="sg"/>
+        <attr-item tags="pl"/>
+      </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -29,6 +68,30 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: DET NOM">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="det_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="2" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="a_cls"/>
+              <clip pos="2" side="tl" part="a_nbr" link-to="2"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
