@@ -13,7 +13,7 @@
       <program name="cg-proc -w">
         <file name="eng-lin.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -x -g $2">
         <file name="eng-lin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -57,7 +57,7 @@
       <program name="cg-proc -w">
         <file name="lin-eng.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -x -g $2">
         <file name="lin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>

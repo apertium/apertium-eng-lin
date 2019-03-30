@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transfer default="chunk">
+  <section-def-cats>
+
+    <def-cat n="nom">
+      <cat-item tags="n.*"/>
+    </def-cat>
+
+    <def-cat n="vrb">
+      <cat-item tags="vblex.*"/>
+      <cat-item tags="vbser.*"/>
+    </def-cat>
+
+    <def-cat n="adj">
+      <cat-item tags="adj"/>
+      <cat-item tags="adj.*"/>
+    </def-cat>
+
+    <!-- Proper nouns -->
+    <def-cat n="pr_n">
+      <cat-item tags="np.*"/>
+    </def-cat>
+
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
+
+    <def-cat n="prep">
+      <cat-item tags="pr.*"/>
+    </def-cat>
+
+    <def-cat n="conn_det"> <!-- To be modified -->
+      <cat-item tags="conn"/>
+      <cat-item tags="conn.*"/>
+      <cat-item tags="det"/>
+      <cat-item tags="det.*"/>
+    </def-cat>
+
+  </section-def-cats>
+
+  <section-def-attrs>
+
+    <def-attr n="a_type">
+      <attr-item tags="n"/>
+      <attr-item tags="prn"/>
+      <attr-item tags="adj"/>
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbser"/>
+    </def-attr>
+
+    <def-attr n="personne">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
+
+    <def-attr n="temps">
+      <attr-item tags="pres"/>
+      <attr-item tags="past"/>
+      <attr-item tags="pri"/>
+      <attr-item tags="inf"/>
+    </def-attr>
+
+    <def-attr n="nbr">
+        <attr-item tags="sg"/>
+        <attr-item tags="pl"/>
+        <attr-item tags="sp"/>
+    </def-attr>
+
+    <def-attr n="gender">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="nt"/>
+    </def-attr>
+
+    <!-- Animate or NonAnimate (not yet in use)-->
+    <def-attr n="a_anim">
+      <attr-item tags="aa"/>
+      <attr-item tags="nn"/>
+    </def-attr>
+
+    <def-attr n="a_class">
+      <attr-item tags="cl7"/>
+      <attr-item tags="cl1a"/>
+    </def-attr>
+
+  </section-def-attrs>
+
+  <!-- only needed for file validation -->
+  <section-def-vars>
+    <def-var n="number"/>
+  </section-def-vars>
+
+  <section-rules>
+    <!-- Rule for personal pronoun + verb -->
+    <rule>
+      <pattern>
+        <pattern-item n="prn"/>
+        <pattern-item n="vrb"/>
+      </pattern>
+      <action>
+        <!-- Checking to see if temps is 'inf' -->
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" side="sl" part="temps" />
+                <lit-tag v="inf"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="2" side="tl" part="temps" />
+              <lit-tag v="pres"/>
+            </let>
+          </when>
+        </choose>
+        <!-- Checking to see if nbr is 'sp', will set nbr to p(more respectful)-->
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="nbr"/>
+                <lit-tag v="sp"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit-tag v="pl"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="a_type"/>
+            <clip pos="2" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="personne"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <lit-tag v="aa"/> <!-- always an animate, innanimate to be implemented later -->
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <!-- Rule for common names -->
+     <rule>
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="a_type"/>
+            <clip pos="1" side="tl" part="a_class"/>
+            <clip pos="1" side="tl" part="nbr"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <!-- Rule for det + common names => (simply drop det) -->
+    <rule>
+      <pattern>
+        <pattern-item n="conn_det"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <!-- put this in a macro -->
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="a_type"/>
+            <clip pos="2" side="tl" part="a_class"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <!-- Rule for proper names -->
+    <rule>
+      <pattern>
+        <pattern-item n="pr_n"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit-tag v="n"/>
+            <lit-tag v="prop"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <!-- Rule for proper names + verb -->
+    <rule>
+      <pattern>
+        <pattern-item n="pr_n"/>
+        <pattern-item n="vrb"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit-tag v="n"/>
+            <lit-tag v="prop"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <lit-tag v="vblex"/> <!-- assumming only vblex --> <!--<clip pos="2" side="tl" part="a_type"/> -->
+            <clip pos="2" side="tl" part="temps"/>
+            <lit-tag v="p3"/> <!-- assuming subject is p3 -->
+            <clip pos="1" side="tl" part="nbr"/>
+            <lit-tag v="aa"/> <!-- for now, we assume that all nouns are living(cannot say 'knife/door is...')-->
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <!-- commoun nouns + adj --> <!-- white house => house + 'ya'+ white => ndako ya pembe -->
+    <rule>
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <!-- replace with macro -->
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="a_type"/>
+            <clip pos="2" side="tl" part="a_class"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </lu>
+          <b />
+          <lu>
+            <lit v="ya"/>
+            <lit-tag v="conn"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="a_type"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+
+
+  </section-rules>
+</transfer>
+
+<!--
+Resources:
+    http://wiki.apertium.org/wiki/Chunking:_A_full_example
+    http://wiki.apertium.org/wiki/Chunking
+    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
+    http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
+    http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
+-->

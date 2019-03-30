@@ -109,39 +109,169 @@
    <section id="main" type="standard">
 
      <!-- Nouns -->
-
       <e><p><l>garden<s n="n"/></l><r>elanga<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>house<s n="n"/></l><r>ndako<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>boy<s n="n"/></l><r>mobali<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>child<s n="n"/></l><r>mwana<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>person<s n="n"/></l><r>moto<s n="n"/><s n="cl1"/></r></p></e>  <!-- or mutu -->
+      <e><p><l>cat<s n="n"/></l><r>nyaú<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>tree<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>water<s n="n"/></l><r>maí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>eye<s n="n"/></l><r>liso<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>year<s n="n"/></l><r>mobú<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>head<s n="n"/></l><r>motu<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>animal<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>answer<s n="n"/></l><r>eyano<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>weather<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>mother<s n="n"/></l><r>mama<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>hand<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>bird<s n="n"/></l><r>ndeke<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>game<s n="n"/></l><r>lisano<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>question<s n="n"/></l><r>botuna<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>window<s n="n"/></l><r>lininisa<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>sound<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>time<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e> <!-- tango or eleko -->
 
-      <!-- Personal Pronous -->
+      <e><p><l>sister<s n="n"/></l><r>ndeko mwasi<s n="n"/><s n="cl1a"/></r></p></e> <!-- compound words -->
+
+      <!--<e><p><l>outside<s n="n"/></l><r><s n="n"/><s n="cl5"/></r></p></e>--> <!-- check if outside can be an adverb in Lingala -->
+
+
+      <!-- Personal Pronous all all -->
       <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- I -->
       <e><p><l>prpers<s n="prn"/></l><r>bínó<s n="prn"/></r></p></e> <!-- You(pl) -->
       <e><p><l>prpers<s n="prn"/></l><r>bangó<s n="prn"/></r></p></e> <!-- They -->
+      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- he/she -->
+      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- mine -->
+      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- her -->
+      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- his -->
+      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- our -->
 
       <!-- Verbs -->
-
       <e><p><l>see<s n="vblex"/></l><r>komóna<s n="vblex"/></r></p></e>
       <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vblex"/></r></p></e>
+      <e><p><l>love<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+      <e><p><l>drink<s n="vblex"/></l><r>komela<s n="vblex"/></r></p></e>
+      <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
+      <e><p><l>laugh<s n="vblex"/></l><r>koseka<s n="vblex"/></r></p></e>
+      <e><p><l>walk<s n="vblex"/></l><r>kotambola<s n="vblex"/></r></p></e>
+      <e><p><l>hear<s n="vblex"/></l><r>koyoka<s n="vblex"/></r></p></e>
+      <e><p><l>think<s n="vblex"/></l><r>kolota<s n="vblex"/></r></p></e> <!-- Kokanisa -->
+      <e><p><l>try<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+      <e><p><l>search<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+      <e><p><l>finish<s n="vblex"/></l><r>kosila<s n="vblex"/></r></p></e>
+      <e><p><l>know<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+      <e><p><l>speak<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>say<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>tell<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e> <!-- Koyebisa -->
+      <e><p><l>run<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+      <e><p><l>find<s n="vblex"/></l><r>kokúta<s n="vblex"/></r></p></e>
+      <e><p><l>hide<s n="vblex"/></l><r>kobómba<s n="vblex"/></r></p></e> <!-- kobomba -->
+      <e><p><l>count<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+      <e><p><l>ask<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+      <e><p><l>sit<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+      <e><p><l>get<s n="vblex"/></l><r>kozua<s n="vblex"/></r></p></e>
+      <e><p><l>look<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+      <!--
+      <e><p><l>answer<s n="vblex"/></l><r>koyanola<s n="vblex"/></r></p></e>
+      <e><p><l>reply<s n="vblex"/></l><r>koyanola<s n="vblex"/></r></p></e>
+      <e><p><l>sleep<s n="vblex"/></l><r>kolala<s n="vblex"/></r></p></e>
+      <e><p><l>go<s n="vblex"/></l><r>kokende<s n="vblex"/></r></p></e>-->
+      <!-- <e><p><l>do<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>-->
+      <!--<e><p><l>have<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>-->
+
+      <!-- Adverbs -->
+      <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
+      <e><p><l>yesterday<s n="adv"/></l><r>lobi<s n="adv"/></r></p></e>
+      <e><p><l>very<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
+      <e><p><l>now<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
+      <e><p><l>quickly<s n="adv"/></l><r>noki<s n="adv"/></r></p></e>
+      <e><p><l>there<s n="adv"/></l><r>kuna<s n="adv"/></r></p></e>
+      <e><p><l>here<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
+      <e><p><l>where<s n="adv"/></l><r>wápi<s n="adv"/></r></p></e>
+      <e><p><l>no<s n="adv"/></l><r>té<s n="adv"/></r></p></e>
+      <e><p><l>behind<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
+      <e><p><l>when<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
+      <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
+      <e><p><l>again<s n="adv"/></l><r>lisúsu<s n="adv"/></r></p></e>
+      <e><p><l>under<s n="adv"/></l><r>nsé<s n="adv"/></r></p></e>
+      <e><p><l>slowly<s n="adv"/></l><r>malembe<s n="adv"/></r></p></e>
+      <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
+      <!--<e><p><l>carefully<s n="adv"/></l><r>x<s n="adv"/></r></p></e> -->
+
 
       <!-- Adjectives -->
-
       <e><p><l>white<s n="adj"/></l><r>pémbé<s n="adj"/></r></p></e>
-      <e><p><l>beautiful<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e> <!-- pretty, handsome -->
+      <e><p><l>beautiful<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e>
+      <e><p><l>small<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
+      <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
+      <e><p><l>big<s n="adj"/></l><r>monéne<s n="adj"/></r></p></e>
+      <e><p><l>old<s n="adj"/></l><r>kala<s n="adj"/></r></p></e>
+      <e><p><l>warm<s n="adj"/></l><r>molungé<s n="adj"/></r></p></e>
+      <e><p><l>happy<s n="adj"/></l><r>esengo<s n="adj"/></r></p></e>
+      <e><p><l>some<s n="adj"/></l><r>mwá<s n="adj"/></r></p></e>
+      <e><p><l>close<s n="adj"/></l><r>mpembéni<s n="adj"/></r></p></e>
+      <e><p><l>good<s n="adj"/></l><r>malámu<s n="adj"/></r></p></e>
+      <e><p><l>nice<s n="adj"/></l><r>malámu<s n="adj"/></r></p></e>
+      <e><p><l>cold<s n="adj"/></l><r>malílí<s n="adj"/></r></p></e>
 
       <!-- Conjunctions and Prepositions -->
-
       <e><p><l>and<s n="cnjcoo"/></l><r>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>na<s n="pr"/></r></p></e> <!-- 'na' has many transations. more rules will be added later -->
+      <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
+      <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+      <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
+      <e><p><l>but<s n="cnjcoo"/></l><r>kasi<s n="cnjcoo"/></r></p></e>
+      <e><p><l>also<s n="adv"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
 
       <!-- Personal Nouns -->
 
       <e><p><l>James<s n="np"/></l><r>Zaki<s n="np"/></r></p></e>
       <e><p><l>Mary<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
 
-      <!-- Other -->
+
+      <!-- Connectives -->
       <e><p><l>the<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
 
+
+      <!-- Other -->
+      <!--
+      <e><p><l>both<s n=""/></l><r>ya<s n=""/></r></p></e>
+      <e><p><l>his<s n=""/></l><r>ya<s n=""/></r></p></e>
+
+      <e><p><l>another<s n=""/></l><r>ya<s n=""/></r></p></e>
+      <e><p><l>then<s n=""/></l><r>ya<s n=""/></r></p></e>
+      <e><p><l>still<s n=""/></l><r>ya<s n=""/></r></p></e>
+      <e><p><l>although<s n=""/></l><r>ya<s n=""/></r></p></e>
+      <e><p><l>around<s n=""/></l><r>ya<s n=""/></r></p></e>
+
+      <e><p><l>why<s n="adv"/></l><r>nini<s n="adv"/></r></p></e>
+      <e><p><l>how<s n="adv"/></l><r>boni<s n="adv"/></r></p></e>
+      <e><p><l>something<s n="prn"/></l><r>elóko móko<s n=""/></r></p></e>
+      <e><p><l>anything<s n="prn"/></l><r>ya<s n=""/></r></p></e>
+      <e><p><l>everywhere<s n="adv"/></l><r>bisika binso<s n=""/></r></p></e>
+      <e><p><l>never<s n="adv"/></l><r>mokolo mókó té<s n="adv"/></r></p></e>
+      <e><p><l>from<s n="pr"/></l><r>ya<s n=""/></r></p></e>
+      <e><p><l>of course<s n="adv"/></l><r>ya<s n=""/></r></p></e>
+      -->
+      <e><p><l>through<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+      <e><p><l>this<s n="det"/></l><r>yangó<s n="det"/></r></p></e>  <!-- pron or adj -->
+      <e><p><l>that<s n="det"/></l><r>óyo<s n="det"/></r></p></e>   <!-- pron or adj -->
+
+      <!-- Numerals -->
+      <e><p><l>one<s n="num"/></l><r>mókó<s n="num"/></r></p></e>
+      <e><p><l>two<s n="num"/></l><r>míbalé<s n="num"/></r></p></e>
+      <e><p><l>three<s n="num"/></l><r>mísáto<s n="num"/></r></p></e>
+      <e><p><l>four<s n="num"/></l><r>mínei<s n="num"/></r></p></e>
+      <e><p><l>five<s n="num"/></l><r>mítáno<s n="num"/></r></p></e>
+      <e><p><l>six<s n="num"/></l><r>motóbá<s n="num"/></r></p></e>
+      <e><p><l>seven<s n="det"/></l><r>sambo<s n="num"/></r></p></e>
+      <e><p><l>eight<s n="num"/></l><r>mwambe<s n="num"/></r></p></e>
+      <e><p><l>nine<s n="num"/></l><r>libwá<s n="num"/></r></p></e>
+      <e><p><l>ten<s n="num"/></l><r>zómi<s n="num"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
