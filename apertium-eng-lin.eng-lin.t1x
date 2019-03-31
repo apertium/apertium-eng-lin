@@ -16,7 +16,9 @@
     </def-cat>
 
     <def-cat n="verbcj">
-      <cat-item tags="vbhaver.pri.*"/>
+      <cat-item tags="vblex.*." />
+      <cat-item tags="vbser.*." />
+      <cat-item tags="vbhaver.*." />
     </def-cat>
 
     <def-cat n="det"><!--Determinants i predeterminants, van anteposats en català -->
@@ -80,6 +82,14 @@
         <attr-item tags="PD"/>
       </def-attr>
 
+      <def-attr n="gen">
+        <attr-item tags="m"/>
+        <attr-item tags="f"/>
+        <attr-item tags="mf"/>
+        <attr-item tags="GD"/>
+        <attr-item tags="nt"/>
+      </def-attr>
+
       <def-attr n="temps">
         <attr-item tags="cni"/>
         <attr-item tags="fti"/>
@@ -103,6 +113,7 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="animate"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -139,7 +150,6 @@
 
 
   <section-rules>
-<!--
     <rule comment="REGLA: DET NOM">
       <pattern>
         <pattern-item n="det"/>
@@ -162,7 +172,7 @@
         </out>
       </action>
     </rule>
--->
+
     <rule comment="REGLA: NOMPROP">
       <pattern>
         <pattern-item n="nompropi"/>
@@ -182,7 +192,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: VERB"><!-- if np, format accordingly. remove cl -->
+    <rule comment="REGLA: VERB">
       <pattern>
         <pattern-item n="verbcj"/>
       </pattern>
@@ -191,46 +201,76 @@
         <out>
           <chunk name="lema_verb" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="SV"/></tag> <!-- a little redundancy -->
               <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps" link-to="2"/>
-              <clip pos="1" side="tl" part="a_nbr" link-to="3"/>
-
+              <clip pos="1" side="tl" part="pers" link-to="3"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="4"/>
+              <lit-tag v="aa"/>
             </lu>
           </chunk>
         </out>
       </action>
     </rule>
-    <!--
+
     <rule comment="REGLA: PRONOUN VERB">
       <pattern>
         <pattern-item n="prnsubj"/>
         <pattern-item n="verbcj"/>
       </pattern>
       <action>
+
+        <choose> <!-- IF gen is 'nt' 'animate'<-'nn' AND 'nbr'<-'sp' ELSE 'animate'<-'aa' -->
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="gen"/>
+                <lit-tag v="nt"/>
+              </equal>
+            </test>
+            <let>
+              <var n="animate"/>
+              <lit-tag v="nn"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <lit-tag v="sp"/>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <var n="animate"/>
+              <lit-tag v="aa"/>
+            </let>
+          </otherwise>
+        </choose>
+
         <out>
           <chunk name="prn_verb" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="2" side="tl" part="a_nbr"/></tag>
+              <tag><clip pos="2" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps" link-to="2"/>
+              <clip pos="1" side="tl" part="pers" link-to="3"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="4"/>
+              <var n="animate"/> <!-- could create a category animacy -->
             </lu>
           </chunk>
         </out>
       </action>
-    </rule> -->
+    </rule>
 
     <rule comment="REGLA: SENT">
       <pattern>
