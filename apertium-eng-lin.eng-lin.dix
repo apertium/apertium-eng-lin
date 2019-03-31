@@ -102,6 +102,26 @@
     <sdef n="cl14"            c="Class 14 nouns"/>
     <sdef n="cl115"           c="Class 15 nouns"/>
 
+    <!-- Additional symbols defined in the original en-fr dix -->
+    <sdef n="tn" />
+    <sdef n="predet" />
+    <sdef n="nn" />
+    <sdef n="percent" />
+    <sdef n="preadv" />
+    <sdef n="lquest" />
+    <sdef n="ND" />
+    <sdef n="GD" />
+    <sdef n="mf" />
+    <sdef n="mon" />
+    <sdef n="enc" />
+    <sdef n="an" />
+    <sdef n="pro" />
+    <sdef n="sep" />
+    <sdef n="obj" />
+    <sdef n="aa" />
+    <sdef n="rel" />
+    <sdef n="subj"/>
+
     <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
@@ -140,14 +160,17 @@
 
 
       <!-- Personal Pronous all all -->
-      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- I -->
-      <e><p><l>prpers<s n="prn"/></l><r>bínó<s n="prn"/></r></p></e> <!-- You(pl) -->
-      <e><p><l>prpers<s n="prn"/></l><r>bangó<s n="prn"/></r></p></e> <!-- They -->
-      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- he/she -->
-      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- mine -->
-      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- her -->
-      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- his -->
-      <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- our -->
+
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- I -->
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- she -->
+
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- he -->
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
+
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- We -->
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
+      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- They -->
 
       <!-- Verbs -->
       <e><p><l>have<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e> <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
