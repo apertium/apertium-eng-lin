@@ -150,8 +150,9 @@
       <e><p><l>prpers<s n="prn"/></l><r>ngáí<s n="prn"/></r></p></e> <!-- our -->
 
       <!-- Verbs -->
-      <e><p><l>see<s n="vblex"/></l><r>komóna<s n="vblex"/></r></p></e>
+      <e><p><l>have<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e> <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
       <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vblex"/></r></p></e>
+      <e><p><l>see<s n="vblex"/></l><r>komóna<s n="vblex"/></r></p></e>
       <e><p><l>love<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
       <e><p><l>drink<s n="vblex"/></l><r>komela<s n="vblex"/></r></p></e>
       <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
@@ -180,7 +181,6 @@
       <e><p><l>sleep<s n="vblex"/></l><r>kolala<s n="vblex"/></r></p></e>
       <e><p><l>go<s n="vblex"/></l><r>kokende<s n="vblex"/></r></p></e>-->
       <!-- <e><p><l>do<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>-->
-      <!--<e><p><l>have<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>-->
 
       <!-- Adverbs -->
       <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
