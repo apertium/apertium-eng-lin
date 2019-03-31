@@ -7,6 +7,18 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
+    <def-cat n="nompropi">
+      <cat-item tags="np.*"/>
+    </def-cat>
+
+    <def-cat n="prnsubj">
+      <cat-item tags="prn.subj.*"/>
+    </def-cat>
+
+    <def-cat n="verbcj">
+      <cat-item tags="vbhaver.pri.*"/>
+    </def-cat>
+
     <def-cat n="det"><!--Determinants i predeterminants, van anteposats en català -->
       <cat-item tags="det.dem.*"/>
       <cat-item tags="det.ind.*"/>
@@ -35,6 +47,14 @@
       <attr-item tags="adv"/>
     </def-attr>
 
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vblex.pron"/>
+      <attr-item tags="vbhaver"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbmod"/>
+    </def-attr>
+
       <def-attr n="a_cls">
         <attr-item tags="cl1"/>
         <attr-item tags="cl1a"/>
@@ -50,7 +70,34 @@
       <def-attr n="a_nbr">
         <attr-item tags="sg"/>
         <attr-item tags="pl"/>
+        <attr-item tags="sp"/>
       </def-attr>
+
+      <def-attr n="pers">
+        <attr-item tags="p1"/>
+        <attr-item tags="p2"/>
+        <attr-item tags="p3"/>
+        <attr-item tags="PD"/>
+      </def-attr>
+
+      <def-attr n="temps">
+        <attr-item tags="cni"/>
+        <attr-item tags="fti"/>
+        <attr-item tags="ifi"/>
+        <attr-item tags="imp"/>
+        <attr-item tags="pii"/>
+        <attr-item tags="pis"/>
+        <attr-item tags="inf"/>
+        <attr-item tags="prs"/>
+        <attr-item tags="pres"/>
+        <attr-item tags="past"/>
+        <attr-item tags="pri"/>
+        <attr-item tags="pp"/>
+        <attr-item tags="ger"/>
+        <attr-item tags="pprs"/>
+        <attr-item tags="subs"/>
+      </def-attr>
+
 
   </section-def-attrs>
 
@@ -59,16 +106,40 @@
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
+
+    <def-macro n="conj_verb1" npar="1">
+      <choose>
+        <when> <!-- changing vblex, vbhaver, vbser to vblex -->
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="sl" part="a_verb"/>
+                <lit-tag v="vblex"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="a_verb"/>
+                <lit-tag v="vhaver"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="a_verb"/>
+                <lit-tag v="vbser"/>
+              </equal>
+            </or>
+          </test>
           <let>
-            <var n="number"/>
-            <lit v=""/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <lit-tag v="vblex"/>
           </let>
+        </when>
+      </choose>
     </def-macro>
+
   </section-def-macros>
 
-  <section-rules>
 
+
+  <section-rules>
+<!--
     <rule comment="REGLA: DET NOM">
       <pattern>
         <pattern-item n="det"/>
@@ -91,6 +162,75 @@
         </out>
       </action>
     </rule>
+-->
+    <rule comment="REGLA: NOMPROP">
+      <pattern>
+        <pattern-item n="nompropi"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="nomprop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: VERB"><!-- if np, format accordingly. remove cl -->
+      <pattern>
+        <pattern-item n="verbcj"/>
+      </pattern>
+      <action>
+
+        <out>
+          <chunk name="lema_verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps" link-to="2"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="3"/>
+
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <!--
+    <rule comment="REGLA: PRONOUN VERB">
+      <pattern>
+        <pattern-item n="prnsubj"/>
+        <pattern-item n="verbcj"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prn_verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lem"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule> -->
 
     <rule comment="REGLA: SENT">
       <pattern>
