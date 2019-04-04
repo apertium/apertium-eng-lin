@@ -152,6 +152,8 @@
       <e><p><l>question<s n="n"/></l><r>botuna<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>window<s n="n"/></l><r>lininisa<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>sound<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>table<s n="n"/></l><r>mesa<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>chair<s n="n"/></l><r>kíti<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>time<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e> <!-- tango or eleko -->
 
       <e><p><l>sister<s n="n"/></l><r>ndeko mwasi<s n="n"/><s n="cl1a"/></r></p></e> <!-- compound words -->
@@ -198,12 +200,12 @@
       <e><p><l>sit<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
       <e><p><l>get<s n="vblex"/></l><r>kozua<s n="vblex"/></r></p></e>
       <e><p><l>look<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+      <e><p><l>do<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
       <!--
       <e><p><l>answer<s n="vblex"/></l><r>koyanola<s n="vblex"/></r></p></e>
       <e><p><l>reply<s n="vblex"/></l><r>koyanola<s n="vblex"/></r></p></e>
       <e><p><l>sleep<s n="vblex"/></l><r>kolala<s n="vblex"/></r></p></e>
       <e><p><l>go<s n="vblex"/></l><r>kokende<s n="vblex"/></r></p></e>-->
-      <!-- <e><p><l>do<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>-->
 
       <!-- Adverbs -->
       <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
@@ -240,18 +242,21 @@
       <e><p><l>nice<s n="adj"/></l><r>malámu<s n="adj"/></r></p></e>
       <e><p><l>cold<s n="adj"/></l><r>malílí<s n="adj"/></r></p></e>
 
-      <!-- Conjunctions and Prepositions -->
-      <e><p><l>and<s n="cnjcoo"/></l><r>na<s n="cnjcoo"/></r></p></e>
+      <!--Prepositions -->
+      <e><p><l>to<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>na<s n="pr"/></r></p></e> <!-- 'na' has many transations. more rules will be added later -->
-      <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
       <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+
+      <!-- Conjunctions -->
+      <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
+      <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
       <e><p><l>but<s n="cnjcoo"/></l><r>kasi<s n="cnjcoo"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
 
       <!-- Personal Nouns -->
-
       <e><p><l>James<s n="np"/></l><r>Zaki<s n="np"/></r></p></e>
+      <e><p><l>Charlie<s n="np"/></l><r>Charle<s n="np"/></r></p></e>
       <e><p><l>Mary<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
 
 
