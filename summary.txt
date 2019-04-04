@@ -1,0 +1,8 @@
+story.txt               : 493 words
+output.txt(translation) : 385 words
+
+unanalysed word(*)        : 74
+incorrect surface form(#) : 63 (most of them are verbs, adj, adv)
+==========================sentence explanation==============================
+
+(Sentence explanation)
