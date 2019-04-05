@@ -46,9 +46,7 @@ Testing
 
 *Current dictionary*: Bidix has about 130 unique entries. I added approximately 95% of words from the story(https://sourceforge.net/p/apertium/svn/HEAD/tree/branches/xupaixkar/rasskaz/en.txt)
 
-*Supported syntax*
-
-Total of 8 rules which give correct translations for:
+Total of *8 rules* which give correct translations for:
 1. prn/np vblex/vbhaver/vbser det n (eg. I see a house) with correct present and past(saw) verb tenses
 2. prn/np vblex/vbhaver/vbser pr det adj n(eg. Mary eats in the beautiful garden)
 3. and other rules for dealing with the infitive form of a verb, and handling the pro-drop behavior of the language.
