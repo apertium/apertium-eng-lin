@@ -70,34 +70,9 @@ TODO test translated sentence 2
 * [`lin-eng-output.txt`](lin-eng-output.txt) - lin-eng output
 * [`summary.txt`](summary.txt) - summary
 
-
-Files and data
--------------------------------------------------------------------------------
-
-* [`apertium-eng-lin.eng-lin.dix`](apertium-eng-lin.eng-lin.dix) - Bilingual dictionary
-* [`apertium-eng-lin.eng-lin.t1x`](apertium-eng-lin.eng-lin.t1x) - Chunking rules for translating into Lingala
-* [`apertium-eng-lin.lin-eng.t1x`](apertium-eng-lin.lin-eng.t1x) - Chunking rules for translating into English
-* [`apertium-eng-lin.eng-lin.t2x`](apertium-eng-lin.eng-lin.t2x) - Interchunk rules for translating into Lingala
-* [`apertium-eng-lin.lin-eng.t2x`](apertium-eng-lin.lin-eng.t2x) - Interchunk rules for translating into English
-* [`apertium-eng-lin.eng-lin.t3x`](apertium-eng-lin.eng-lin.t3x) - Postchunk rules for translating into Lingala
-* [`apertium-eng-lin.lin-eng.t3x`](apertium-eng-lin.lin-eng.t3x) - Postchunk rules for translating into English
-* [`apertium-eng-lin.eng-lin.lrx`](apertium-eng-lin.eng-lin.lrx) - Lexical selection rules for translating into Lingala
-* [`apertium-eng-lin.lin-eng.lrx`](apertium-eng-lin.lin-eng.lrx) - Lexical selection rules for translating into English
-* [`modes.xml`](modes.xml) - Translation modes
-
 For more information
 -------------------------------------------------------------------------------
 
 * http://wiki.apertium.org/wiki/Installation
 * http://wiki.apertium.org/wiki/apertium-eng-lin
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
-
-Help and support
--------------------------------------------------------------------------------
-
-If you need help using this language pair or data, you can contact:
-
-* Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: `#apertium` on irc.freenode.net (irc://irc.freenode.net/#apertium)
-
-See also the file [`AUTHORS`](AUTHORS), included in this distribution.
