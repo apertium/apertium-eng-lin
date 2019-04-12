@@ -21,7 +21,7 @@ You will need the following software installed:
 * vislcg3 (>= 0.9.9.10297)
 * hfst (>= 3.8.2)
 * apertium-eng
-* apertium-lin
+* apertium-lin(https://github.com/thefreezer/apertium-lin)
 
 If this does not make any sense, we recommend you look at: www.apertium.org.
 
