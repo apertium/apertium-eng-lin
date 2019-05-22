@@ -15,8 +15,13 @@
 /install-sh
 /missing
 /modes
+/t
 /*.mode
 /*-*.prob
 /.deps
 /config.in
 /config
+/d.txt
+/dummy.txt
+/raw_text.txt
+/main.py

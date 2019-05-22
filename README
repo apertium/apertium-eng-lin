@@ -64,11 +64,11 @@ $ echo "TODO test sentence 2" | apertium -d . lin-eng
 TODO test translated sentence 2
 ```
 
-* [`story_eng.txt`](story_eng.txt) - English story
-* [`story_lin.txt`](story_lin.txt) - Lingala story
-* [`eng-lin-output.txt`](eng-lin-output.txt) - eng-lin output
-* [`lin-eng-output.txt`](lin-eng-output.txt) - lin-eng output
-* [`summary.txt`](summary.txt) - summary
+* [`story_eng.txt`](dev/story_eng.txt) - English story
+* [`story_lin.txt`](dev/story_lin.txt) - Lingala story
+* [`eng-lin-output.txt`](dev/eng-lin-output.txt) - eng-lin output
+* [`lin-eng-output.txt`](dev/lin-eng-output.txt) - lin-eng output
+* [`summary.txt`](dev/summary.txt) - summary
 
 For more information
 -------------------------------------------------------------------------------
