@@ -1,0 +1,495 @@
+abscess, lituku, pl. matuku,
+affair, mpo, likambo, zambi, pl. mambi, mbembo.
+arm, loboko, pl. maboko.
+arrow, lobasi, pl. mbasi.
+artery, mosisa, pl. misisa.
+axe, soka, pl. basoka.
+bag, libenga, pl. mabenga.
+bamboo, linkeke, pl. mankeke.
+bark, loposo, pl. mposo.
+beach, mbongo, hbongo, pl. mabongo,
+bead, yaka, pl. bayaka.
+beard, lole, pl. njole. ndole.
+beater, mobeti, pl. babeti.
+bed, mbeto, elaleli, pl. bilaleli.
+belly, libumu, pl. mabumu.
+bench, etanda, pl. bitanda, libaiya, pl. mabaiya.
+blacksmith, motuli, pl. batuli.
+blanket, kamba, bolankete, pl. malankete.
+blockhead, elema, pl bilema, motu na ligboma.
+blossom, bontolo, pl. mantolo.
+blow, lobete, pl. mbete.
+boat, bwatu. pl. matu.
+boil, n. lituku, pl. matuku.
+bone, monkua, pl. minkua, nkua.
+book, monkanda, pl minkanda; buku.
+boot, sanpata, ekoto, pl. bikoto, molato, pl. milato.
+borassus palm, lilebu, pl. malebu.
+bottle, molangi, pl. milangi.
+bow, litingbo, pl. matingbo.
+box, sanduku, pl. basanduku.
+boy, elengi, pl. bilengi ; boi.
+bracelet, ekomo, pl. bikomo.
+branch, entapi, pl. bintapi.
+brass wire, motako, pl. mitako.
+breast, libele, pl. mabele.
+brood, lobota, pl. mabota.
+broom, ekombeli, pl. bikombeli; likomboko.
+bruise, n. litutu, pl. matutu ; ekeli, pl. bikeli.
+builder, motongi, pl. batongi.
+bullet, eyeli, pl. biyeli.
+bundle, ebimba, pl. bibimba; ekangilu, pl. bikangilu.
+bunch, etuka, (of bananas) ekango, pl. bikango.
+button, bofunga, pl. bifunga ; nseti.
+cable, nsinga, nkamba, mokulu, pl. mikulu.
+calabash, ekutu, pl. bikutu.
+candle, buzi, moto, pl. mioto.
+canoe, bwatu, pl. matu.
+canon, monsinga, pl. minsinga.
+cap, enkoti, pl. binkoti.
+captain, kapitene, pl. bakapitene.
+cartridge, lisasi, pl. masasi ; eyeli, pl. biyeli.
+cartridge belt, likuba, pl. makuba.
+case, libobo, pl. mabobo.
+chain, monyolo, pl. minyolo.
+chief, mokonzi, pl. bakonzi ; monanga, pl. bananga.
+child, mwana, pl. bana.
+chin, ebeku, pl. bibeku.
+chip,epasu, pl. bipasu.
+claw, nkwala, longongo, pl. mangongo.
+climbing girdle, molango, pl. milango.
+cloth, elamba, pl. bilamba ; ngombe, etobo.
+cloud, lipata, pl. mapata.
+comb, n. lisanola, pl. masanola.
+commandant, kwamanda, pl. bakwamanda.
+commandment, motindo, pl. mitindo.
+complete, adj., mobimba.
+complete, v.t., kokisa, silisa, bongisa.
+completely, nye.
+completed, sila bobele.
+complicate, v.t., bulinginya.
+complicated, bulu bulu, na kakatanu.
+comrade, ndeko, pl. bandeko.
+cord, nsinga, nkamba, mokulu, pl. mikulu; mokoli, pl. mikoli.
+corn, lisangu, pl. masangu.
+corpse, ebembe, pl. bibembe.
+cost, motuya, pl. mituya.
+cotton tree, molondu, pl milondu.
+country, ekolo, ese, pl. biese.
+cough, loketu, pl. nketu ; lokesu, pl. nkesu ; ekokotu.
+cover, n. ebumbeli, pl. bibumbeli, (of a book), ekokolo.
+crack, monkaka, pl. minkaka.
+crime, lisuma, pl. masuma.
+cripple, v.t., lemisa.
+custom, ejaleli, pl. bijaleli.
+custom house, etakoleli, pl. bitakoleli.
+cushion, likoba, pl. makoba.
+dam, moboka, pl. miboka.
+dance, n. bobina, kobina, dancing place, ebineli.
+day, mokolo, pl. mikolo.
+deaf person, looko, pl. balooko.
+debt, nyongo, mombale, pl. mimbale.
+demon, molimo, pl. milimo ; moloki, pl. miloki.
+disciple, moyekoli, pl. bayekoli.
+discourse, mpo, likambo, zambi, pl. mambi.
+dish, saani, lilongo, pl. malongo.
+division (share), likabo, pl. makabo.
+domestic servant, boi, pl. baboi.
+door, monoko, pl. minoko ; ekuki, pl. bikuki ; ejibeli, pl. bijibeli.
+dress, elamba, pl. bilatnba ; molata, etobo.
+drum, mbenda, ngunga, lokole, mokuka, pl. mikuka.
+duck, lisweswe, pl. masweswe ; libata, pl. mabata.
+dust, mobulu, pl. mibulu ; lifulu, pl mafulu.
+duty, lotomo, pl ntomo.
+each, yonso, or by reduplication, e.g. ,
+ear, litoi, pl. matoi.
+egg, likei, pl. makei.
+embark (people), kwela.
+employ, salisa.
+employment, lisala, pt. masala ; kosala.
+enclosure, n. lobala, pl. mabala.
+enemy, monguna, pl. minguna.
+englishman, engilisi, pl. baengilisi.
+entrails, lisopo, pl. masopo.
+entrance, monoko, pl. minoko.
+equal, n. moninga, pl. baninga.
+excuse, mokalo, pl. mikalo.
+expense, motuya, pl. mituya.
+explain, limbola, limbola ntina, kundola.
+eye, lisu, pl. misu.
+eyebrow, lokiki, pl. nkiki.
+eyelid, eteke, pl. biteke.
+face, elongi, pl. bilongi ; bombo, boso.
+family, libota, pl. mabota.
+father, sango, pl. basango ; tata, pl. batata.
+fathom, loboko, pl. maboko, 4 or 8 fathoms, litina, 2 fathoms, doti.
+feather, lunsala, pl. nsala.
+fence, lobalaka, pl. mbalaka.
+fenced in place, lobala, pl. mbala.
+field, cultivated, lisala, pl. masala, enclosure, lobala, pl. mbala.
+fight, n. etumba, pl. bitumba.
+file, mosio, pl. misio.
+finger, mosei, pl. misei ; munsai, pl. minsai ; mosapi, pl. misapi.
+fire, moto, pl. mioto ; meya, //. mieya.
+firebrand, esongi, pl. bisongi.
+fishing camp, molako, pl. milako.
+fishing camp, smoking or drying place, elika, bolika.
+fishing right, elobeli, pl. bilobeli.
+fissure, monkaka, pl. minkaka.
+fist, embotu, pl. bimbotu.
+flag, ebendeli, pl. bibendeli, endeli.
+flame, eloli, pl. biloli ; mololi, pl. miloli.
+flesh, mosuni, pl. nsuni.
+flock, etonga, pl. bitonga.
+flower, ebuma, pl. bibuma, ndunda.
+fog, lopembe, pl. mpembe.
+foot, likaka, pl. makaka.
+footprint, litambi, pl. matambi.
+fork, nkanya, engasa, pl. bingasa.
+form, lolenge, pl. ndenge.
+form, (seat), etanda, pl. bitanda; libaiya, pl. mabaiya.
+fortification, libenge, pl. mabenge.
+foundation, moboko, pl. miboko.
+fragment, eteni, pl. biteni.
+friend, ndeko, pl. bandeko ; koi, pl. bakoi.
+frog, montoki, pl. mintoki.
+function, lotomo, pl. ntomo.
+funnel, mombundo, pl. mimbundo.
+game, lisano, pl. masano.
+garden, lisala, pl. masala; jala, pl. maala.
+gather together (of people), yangana.
+gift, iikabo, pl. makabo ; iibonza, pl. mabonza.
+girl, elenge (mwasi), pl. bilenge (baasi).
+glass, (looking,) talatala, pl. matalatala.
+gourd, ekutu, pl. bikutu.
+grave, liyita, or, lilita, pl. malita ; ngau.
+group, etuka, pl. bituka.
+guard, n. mobateli, pl. babateli ; mo9enzeli, //. basenzeli.
+guinea fowl, linkeme, pl. nkeme.
+gun, bondoki, pl. mandoki.
+habit, ejaleli, pl. bijaleli.
+half, etomba, pl. bitomba.
+small body hairs, nkunza, (of people and animals),
+hammer, hama. etuleli, pl. bituleli.
+hand, likata, pl. makata.
+handkerchief, litambala, pl. matambala.
+hat, enkoti, pl. binkoti.
+hatchet, soka, pl. basoka.
+hawk, nkombe, lilelembe, pl. malelembe.
+head, mutu, pl. miutu.
+heap, libondo, pl. mbondo.
+heart, motema, pl. mitema ; to be hard hearted, lokwa.
+hedge, lobala, pl. mbala.
+heir, motiki, pl. batiki.
+helmet, enkoti, pl. binkoti.
+heron, mokwela, pl. mikwela.
+herb, lititi, pl. matiti.
+heritage, libula, pl. mabula.
+hillock, libondo, pl. mabondo.
+hip, lilongo, pl. malongo.
+hoe, n. lokongo, pl nkongo.
+hole, lilusu, pl. malusu ; monoko, pl. minoko.
+hope, n. elikia, pl. bilikia.
+horse, falasa ; mpunda, pl. bampunda.
+hour, zele, pl. zele ; lobete, pl. mbete.
+verandah, lingongo, pl. mangongo.
+hump, litutu, pl. matutu ; in which cassava is planted, libondo, pl. mabondo.
+hundred, monkama, pl. minkama.
+husband, mobali, pl. babali ; molomi, pl. balomi.
+husk, loposo, pl. mposo.
+hymn, loyembu, pl. nzembu.
+idea, likanisi, pl makanisi.
+idiot, elema, pl. bilema; ligboma, etuku.
+implicate, kakatinya.
+implore, bondela.
+inhabitant, mosi, pl. basi.
+inheritance, libula, pl. mabula.
+intestine, lisopo, pl. masopo.
+iron, ebendi, pl. bibendi ; ebuni, pl. bibuni.
+island, esanga, pl. bisanga.
+jackal monsoli, pl. minsoli.
+jar, libeki, pl. mabeki; limbembeli, pl. mbembeli;
+jaw, ebanga, pl. bibanga.
+journey, lokendo, pl. nkendo ; mobembo, pl. mibembo ; up river, bonani.
+joy, esengo, pl. bisengo ; nsai.
+judge, juje, pl. bajuje; (native) mosemboli, pl. basemboli.
+just man, mosemboli, pl. basemboli.
+key, lifungola, pl. mafungola.
+kilogramme, kilo, pl. bakilo.
+kilometre, kilometa, pl. bakilometa.
+kind, (sort), lolenge, pl. ndenge.
+king, mokonzi, pl. bakonzi.
+knee, libongo, pl. mabongo.
+knife, mbele, kisu, pl. visu.
+knob, litutu, pl. matutu.
+knot, litongo, pl. matongo ; liswe, pl. nswe ; of wood ; litutu, pl. matutu.
+labourer, mosali, pl. basali.
+lad, elenge, pl. bilenge.
+lake, etima, pl bitima.
+landing place, libongo, pl. mabongo ; mbongo, bosemi.
+language, monoko, pl. minoko ; lokota.
+law, motindo, pl. mitindo; mobeko, //. mibeko.
+lawsuit, likambo, pl. makambo.
+leaf, monkanda, pl. minkanda ; lingango, pl. mangango.
+of a tree, lokasa, pl. nkasa.
+leg, lokulu, pl. makulu.
+lemon, lilala, pl. malala.
+lender, mobekisi, pl. babekisi.
+lesson, liteyo, pl. mateyo.
+letter, monkanda, pl. minkanda.
+lettuce, letu, pl. baletu.
+lie, n. lokuta, pl nkuta.
+lime, (fruit), lilala, pl. malala; londimu, //. ndimu.
+line, molongo, pl. milongo.
+lip, lobebu, pl. mbebu.
+litigation, likambo, pl. makambo.
+litre, lita, pl. balita.
+lock, n. lofungola, (mama), pl. mafungola.
+lodging place, esika kolala.
+looking glass, talatala, pl. batalatala.
+machine, makine, pl. bamakine.
+magazine, (store), ebumbeli, pl. bibumbeli ; magazini.
+maiden, ngondo, pl. bangondo.
+maize, lisanga, pl. masanga.
+male, mobali, pl. babali; molomi, pl balomi.
+man, motu, pl. batu
+of character, mompele, pl. bampele.
+mango, mango, pl. bamango ; lingola, pl. mangola.
+manner, ejaleli, pl. bijaleli.
+mark, n. elembo, pl. bilembo ; tribal marks, nkoma.
+market place, libongo, pl. mabongo ; zandu.
+match, (lucifer), alimet, pl. balimet; fofolo.
+measure, n. lomeko, pl. meko ; a rule, emekeli, pl. bimekeli.
+merchant, motekisi, pl. batekisi.
+message, monoko, pl. minoko ; nsango.
+minor, elengi, pl. bilengi.
+mirror, talatala, pl. batalatala.
+money, mosolo, pl. misolo; (european), franka, //. bafranka.
+monsieur, mondele, pl. mindele.
+month, sanja, pl. basanja.
+moon, sanja, pl. basanja.
+morsel, etomba, pl. bitomba ; eteni, pl. biteni.
+mortar, (for pestle), eboka, pl. biboka.
+mosquito, lokungi, pl. nkungi.
+mother, nyango, pl. banyango ; mama, pl. bamama; moboti, pl. baboti.
+mother-in-law, mokilo, pl. bakilo.
+mound, (for cassava), libondo, pl. mabondo.
+mouth, monoko, pl. minoko.
+multiply, yikinya.
+muscle, mosuni, pl. nsuni.
+mushroon, liyebu, pl. mayebu.
+nail puller, ebakoleli, pl. bibakoleli.
+name, nkumbu ; lina, pl. mina.
+native, (of a place), mosenji, pl. basenji.
+native place, mboka.
+needle, lontunga, pl. ntunga ; ntonga.
+nerve, mole, pl. miole.
+nipple, nsonge na libele.
+offspring, libota, pl nbota ; bana.
+onion, litungulu, pl. matungulu.
+opening, monoko, pl. minoko ; nzela ; lilusu, pl. malusu.
+orange, lilanje, pl. malanje ; lilala, pl. malala.
+other people, basusu.
+oyster, lokele, pl. nkele.
+package, ebimba, pl. bibimba ; ebolo.
+paddler, moluki, pl. baluki.
+padlock, lofungola, pl. mafungola.
+page, langu, pl. nyangu ; monkanda, pl. minkanda.
+paint, bokobo, pl. makobo ; langi.
+paper, monkanda, pl. minkanda.
+parable, lisapo, pl. masapo ; libanza, pl. mabanza ; mpo.
+parasol, longembu, pl. ngembu.
+parent, (father), sango, pl. basango ; tata, pl. batata.
+passage, elekela, pl. bilekela.
+paw, likaka, pl. makaka.
+peel, loposo, pl. mposo.
+pen, ekomeli, pl. bikomeli; lapi.
+people, batu.
+people, certain, batu basusu.
+perplex, kakitinya.
+perplexed, to be, kakatana, bulangana.
+pickaxe, etimeli, pl. bitimeli.
+picture, lilingi, pl. malilingi ; bolendela.
+piece, eteni, pl. biteni.
+pigeon, ebenga, pl. bibenga.
+pill, mombuma, pl. mimbuma.
+pillow, likoba, pl. makoba ; nkata ; (native, wooden), ekomba, pl. bikomba.
+pincers, lingato, pl. mangato.
+pipe, mongenzu, pl. mingenzu; (tobacco), nkonango, mweka, potongo.
+pit, libela, pl. mabela.
+place, esika, pl. bisika.
+place, v. tiya.
+placenta, kuku.
+plague, v. tumola, nyokolo.
+plain, n. esobe, pl. bisobe.
+plainly, sembo.
+plane, v. wala, wolo, kombo.
+plane, n. likomboko, pl. makomboko.
+plank, libaiya, pl. mabaiya ; etanda, pl. bitanda.
+plant, v. iona, kona, sika.
+plant, n. ndunda.
+plantain, likondo, pl. makondo.
+plantation, lisala, pl. masala.
+pocket, libenga, pl. mabenga.
+pond, etima, pl. bitima.
+porter, motombi, pl. batombi.
+porterage, (i.e. place where goods are carried overland from canoe to canoe),
+portion, likabo, pl. makabo.
+post, (to support roof), likonji, pl. makonji.
+pot, (used for palm oil), libeke pl. mbeke.
+potato, libengi, pl. mabengi.
+precept, motindo, pl. mitindo ; mobeko, pl. mibeko.
+present, n. likabo, pl. makabo.
+price, motuya, pl. mituya.
+prisoner, mokangami, pl. bakangami.
+purse, libenga, pl. mabenga.
+quality, lolenge, pl. ndenge.
+rafter, molenge, pl. milenge ; lingembo, pl. ngembo ; libasa.
+rag, eteni, pl. biteni.
+ramrod, moswa, pl. miswa.
+razor, lotebu, pl. ntebu.
+receiver, mokuli, pl. bakuli.
+region, ekolo, pl. bikolo.
+reply, butisa.
+reward, libonza, pl. mabonza.
+rib, mopanzi, pl. mipanzi.
+ridge of house, motondo, pl. matondo ; nsonge.
+rind, loposo, pl. mposo.
+ring, lopete, pl. mpete ; of people to watch game, nkondo ;
+rock, libanga, pl. mabanga; litadi, pl. matadi.
+roof, mwanza, pl. mianza ; nsamba.
+root, dried cassava, moteke, pl. miteke ; mpunzo.
+row, n. molongo, pl. milongo.
+rule, motindo, pl. mitindo ; mobeko, pl. mibeko.
+sabbath, eyenga, pl. biyenga.
+sack, mofuku, pl. mifuku ; libenga, pl. mabenga.
+sandbank, zelo, pl. melo.
+sandal, molato, pl. milato.
+saucepan, lobeki ; lisasu, pl. masasu.
+saw, n. mosomani, pl. misomani.
+scaffold, etalangu, pl. bitalangu.
+scale, loposo, pl. mposo.
+screw driver, eyotoleli, pl. biyotoleli.
+seal, n. elembo pl. bilembo; elimbeteli, pl. bilimbeteli.
+seed, mombuma, pl. mimbuma ; momboto, pl. mimboto.
+sender, n. motomi, pl. batomi.
+sentry, senzili, pl. basenzili ; mobateli, pl. babateli.
+sermon, liteyo, pl. mateyo; liteyi.
+servant, boi, pl. baboi ; mosali, pl. basali.
+serviette, litwaya, pl. matwaya.
+shadow, lilingi, pl. malilingi.
+share, likabo, pl. makabo.
+shed, esakango, pl. bisakango ; esamba, pl. bisamba,
+sheet of paper, lingongo, pl. mangongo ; monkanda, pl. minkanda.
+shell, loposo, pl. mposo ; lokele, pl. nkele.
+shoe, ekoto, pl. bikoto ; sampata.
+shore, libongo, pl. mabongo ; mbongo.
+shot, yeli, pl. bayeli.
+shoulder, libeke, pl. mabeke; litotoko, pl. matotoko.
+side, epai ; lokenge, pl. nkenge.
+sigh, monkima, pl. minkima.
+sign, n. elembo, pl. ndembo; monkanda, pl. minkanda ; elimbeteli,
+silver, palata, pl. bapalata.
+simplify, kakola.
+sin, n. lisumu, pl. masumu ; mabe.
+sir, mondele, pl. mindele.
+sister, nkaja, pl. bankaja; ndeko, pl. bandeko.
+sister-in-law, monyali, pl. banyali.
+skin, loposo, pl. mposo.
+slave, moombo, pl. baombo.
+slice, n. eteni, pl. biteni.
+slit, monkaka, pl. minkaka.
+snail, mobembe, pl. mibembe.
+society, lingomba, pl. mangomba.
+soldier, solda, pl. basolda.
+song, loyembo, pl. nzembo.
+sort, n. lolenge, pl. ndenge.
+soul, molimo, pl. milimo.
+spark, lototo, pl. ntoto.
+spear, likongo, pl. nkongo.
+speech, liloba, pl. maloba ; mpo.
+spider, libobe, pl. mabobe.
+spinster, likombi, pl. makombi.
+spirit, molimo, pl. milimo ; elili, pl. bilili ; strong spirit, mbanda, mo-
+splendour, linkembo, nkembo.
+split, v.i., yatwa, ata, paswa.
+split, v.t., yatola, pasola.
+spoon, lokele, pl. nkele; litoko, pl. matoko.
+spring, (water), liziba, pl. maziba.
+banana, eyana, pl. biyana.
+squirrel, esende, pl. bisende.
+stage (for drying fish), etalaka, pl. bitalaka ; botala.
+star, moto, pl. mioto.
+stay in one place, umela.
+stay, n. esukuteli, pl. bisukuteli.
+steps, ngandu ; bonango, pl. manango.
+stick, thick, lingenda, pl. ngenda.
+stomach, libumu, pl. mabumu.
+stone, libanga, pl. mabanga ; litadi, pl. matadi.
+stool, ebonga, pl. bibonga.
+stork, bolamba, pl. malamba.
+storm, ekumbake, pl. bikumbake.
+story, lisapo, pl. masapo ; mpo.
+stride, n. litambi, pl. matambi.
+string, ngoli, nkamba, nsinga, mokulu, pl. mikulu.
+stupid person, elema, pl. bilema.
+sugar, sukari; (native), monkoko, pl. minkoko.
+sum, motuya, pl. mituya.
+supply, pese, (make up a deficiency), kokisa.
+task, mosala, kosala; lotomo, pl. ntomo.
+teacher, molakisi, pl. balakisi; moteyi, pl. bateyi.
+temple (anat. ), lopagatoi.
+thief, moyibi, pl. bayibi.
+thing, eloko, pl. biloko.
+thorn, jaba, pl. maba; monzube, pl. minzube.
+thought, likanisi, pl. makanisi.
+throat, mongongo, pl. mingongo.
+tile, twile, pl. batwile.
+toad, likololo, pl. makololo.
+tobacco, likaiya, pl. makaiya ; tumbako.
+toe, mosei, pl. misei ; munsai, pl. minsai.
+tomato, tomato, pl. batomato.
+tongue, lolemo, pl. ndemo.
+tool, esaleli, pl. bisaleli.
+tooth, lino, pl. mino.
+toothpick, mombai, pl. mimbai.
+torch, esongi, pl. bisongi.
+towel, litambala, pl. matambala.
+trade, mombongo, pl. mimbongo.
+tree, mwete, pl. miete ; njete.
+trench, mongololo, pl. mingololo.
+trickster, mojimbi, pl. bajimbi.
+trumpet, mondule, pl. mindule ; kialo.
+trunk (box), sanduku, pl. basanduku.
+tsetse fly, etuna, pl. bituna,
+tube, mongenzu, pl. mingenzu.
+tumour, etiya, pl. bitiya ; litutu, pl. matutu.
+twin, liasa ; jasa, pl. masa.
+umbrella, longembu, pl. ngembu.
+vein, monsisa, pl. minsisa.
+victim, moboma, pl. baboma.
+vine, monjimbiliki, pl. minjimbiliki ; kamba.
+vocation, lotomo, pl. ntomo.
+voice, monoko, pl. minoko.
+wall, etutu, pl. bitutu ; efelo.
+wallet, libenga, pl. mabenga.
+watch, n. likanga, pl. makanga ; ntangwa.
+wave, mula, pl. miula.
+weed, eyembu, pl. biyembu.
+week, eyenga, pl. biyenga.
+wheel, eyika, pl. biyika; mwiko, pl. miiko.
+white ant, monsekeleke, pl. minsekeleke.
+whiteman, mondele, pl. mindele.
+wife, mwasi, pl. basi; mwasi na bolongani, //. basi na bolongani.
+wind, n. mompe, pl. mimpe ; mompepe, pl. mimpepe.
+wing, lipapu, pl. mapapu.
+witch, moloki, pl. baloki ; witch doctor, monganga.
+wizard, moloki, pl. baloki.
+woman, mwasi, pl. basi.
+with children, moboti, pl. baboti.
+word, mpo; liloba, pl. maloba.
+workman, mosali, pl. basali.
+world, molongo, pl. milongo.
+yawn, n. mwasaso, pl. miasaso.
+year, mbula, elanga ; mobu, pl. mibu.
+younger, mojimi, pl. bajimi.

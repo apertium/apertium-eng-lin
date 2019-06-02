@@ -1,0 +1,2570 @@
+^abandon/abandon<vblex><inf>/abandon<vblex><pres>/abandon<vblex><imp>$
+^abhor/abhor<vblex><inf>/abhor<vblex><pres>/abhor<vblex><imp>$
+^abide/abide<vblex><inf>/abide<vblex><pres>/abide<vblex><imp>$
+^abjure/abjure<vblex><inf>/abjure<vblex><pres>/abjure<vblex><imp>$
+^able/able<adj><sint>$
+^abolish/abolish<vblex><inf>/abolish<vblex><pres>/abolish<vblex><imp>$
+^abominate/abominate<vblex><inf>/abominate<vblex><pres>/abominate<vblex><imp>$
+^abort/abort<vblex><inf>/abort<vblex><pres>/abort<vblex><imp>$
+^abortive/abortive<adj>$
+^abound/abound<vblex><inf>/abound<vblex><pres>/abound<vblex><imp>$
+^above/above<adv>/above<pr>$
+^abscess/abscess<n><sg>$
+^absolve/absolve<vblex><inf>/absolve<vblex><pres>/absolve<vblex><imp>$
+^absorb/absorb<vblex><inf>/absorb<vblex><pres>/absorb<vblex><imp>$
+^abstain/abstain<vblex><inf>/abstain<vblex><pres>/abstain<vblex><imp>$
+^abundance/abundance<n><sg>$
+^abundant/abundant<adj>$
+^abuse/abuse<n><sg>/abuse<vblex><inf>/abuse<vblex><pres>/abuse<vblex><imp>$
+^abyss/abyss<n><sg>$
+^accept/accept<vblex><inf>/accept<vblex><pres>/accept<vblex><imp>$
+^accompany/accompany<vblex><inf>/accompany<vblex><pres>/accompany<vblex><imp>$
+^accomplish/accomplish<vblex><inf>/accomplish<vblex><pres>/accomplish<vblex><imp>$
+^accomplished/accomplish<vblex><pp>/accomplish<vblex><past>$
+^accordeon/*accordeon$
+^accumulate/accumulate<vblex><inf>/accumulate<vblex><pres>/accumulate<vblex><imp>$
+^accuse/accuse<vblex><inf>/accuse<vblex><pres>/accuse<vblex><imp>$
+^accuse/accuse<vblex><inf>/accuse<vblex><pres>/accuse<vblex><imp>$ ^each/each<det><ind><sg>/each<prn><ind><mf><sg>$ ^other/other<det><ind><sp>$
+^accustom/accustom<vblex><inf>/accustom<vblex><pres>/accustom<vblex><imp>$ ^oneself/oneself<prn><ref><p1><mf><sg>/oneself<prn><ref><p3><mf><sg>$
+^achieve/achieve<vblex><inf>/achieve<vblex><pres>/achieve<vblex><imp>$
+^acid/acid<n><sg>$
+^acquaint/acquaint<vblex><inf>/acquaint<vblex><pres>/acquaint<vblex><imp>$
+^acquiesce/acquiesce<vblex><inf>/acquiesce<vblex><pres>/acquiesce<vblex><imp>$
+^acquire/acquire<vblex><inf>/acquire<vblex><pres>/acquire<vblex><imp>$
+^acquit/acquit<vblex><inf>/acquit<vblex><pres>/acquit<vblex><imp>$
+^acquitted/acquit<vblex><past>/acquit<vblex><pp>$
+^adapt/adapt<vblex><inf>/adapt<vblex><pres>/adapt<vblex><imp>$
+^adapted/adapt<vblex><pp>/adapt<vblex><past>$
+^add/add<vblex><inf>/add<vblex><pres>/add<vblex><imp>$
+^adequate/adequate<adj>$
+^adjacent/adjacent<adj>$
+^adjust/adjust<vblex><inf>/adjust<vblex><pres>/adjust<vblex><imp>$
+^admire/admire<vblex><inf>/admire<vblex><pres>/admire<vblex><imp>$
+^adopt/adopt<vblex><inf>/adopt<vblex><pres>/adopt<vblex><imp>$
+^adorned/adorn<vblex><pp>/adorn<vblex><past>$
+^adult/adult<adj>/adult<n><sg>$
+^adultery/adultery<n><sg>$
+^adze/*adze$
+^affair/affair<n><sg>$
+^affirm/affirm<vblex><inf>/affirm<vblex><pres>/affirm<vblex><imp>$
+^afflict/afflict<vblex><inf>/afflict<vblex><pres>/afflict<vblex><imp>$
+^afraid/afraid<adj>$
+^after/after<adv>/after<cnjadv>/after<pr>$
+^afternoon/afternoon<n><sg>$
+^afterwards/afterwards<adv>$
+^again/again<adv>$
+^against/against<adj>/against<adv>/against<pr>$
+^agitate/agitate<vblex><inf>/agitate<vblex><pres>/agitate<vblex><imp>$
+^ago/ago<adv>$
+^agree/agree<vblex><inf>/agree<vblex><pres>/agree<vblex><imp>$
+^agree/agree<vblex><inf>/agree<vblex><pres>/agree<vblex><imp>$ ^together/together<adj>/together<adv>$
+^aid/aid<n><sg>/aid<vblex><inf>/aid<vblex><pres>/aid<vblex><imp>$
+^aim/aim<n><sg>/aim<vblex><inf>/aim<vblex><pres>/aim<vblex><imp>$
+^air/air<n><sg>/air<vblex><inf>/air<vblex><pres>/air<vblex><imp>$
+^alarm/alarm<n><sg>/alarm<vblex><inf>/alarm<vblex><pres>/alarm<vblex><imp>$
+^alarmed/alarm<vblex><pp>/alarm<vblex><past>/alarmed<adj>$
+^albino/albino<adj>/albino<n><sg>$
+^alike/alike<adj>/alike<adv>$
+^alligator/alligator<n><sg>$
+^allow/allow<vblex><inf>/allow<vblex><pres>/allow<vblex><imp>$
+^almost/almost<adv>$
+^alone/alone<adj>/alone<adv>$
+^also/also<adv>$
+^always/always<adv>$
+^amass/amass<vblex><inf>/amass<vblex><pres>/amass<vblex><imp>$
+^amaze/amaze<vblex><inf>/amaze<vblex><pres>/amaze<vblex><imp>$
+^amazed/amazed<adj>/amaze<vblex><past>/amaze<vblex><pp>$
+^amend/amend<vblex><inf>/amend<vblex><pres>/amend<vblex><imp>$
+^amiability/amiability<n><sg>$
+^ammunition/ammunition<n><sg>$
+^among/among<pr>$
+^amputate/amputate<vblex><inf>/amputate<vblex><pres>/amputate<vblex><imp>$
+^amuse/amuse<vblex><inf>/amuse<vblex><pres>/amuse<vblex><imp>$
+^ancestors/ancestor<n><pl>$
+^anchor/anchor<n><sg>/anchor<vblex><inf>/anchor<vblex><pres>/anchor<vblex><imp>$
+^and/and<cnjcoo>$
+^angel/angel<n><sg>$
+^anger/anger<n><sg>/anger<vblex><inf>/anger<vblex><pres>/anger<vblex><imp>$
+^angle/angle<n><sg>/angle<vblex><inf>/angle<vblex><pres>/angle<vblex><imp>$
+^angry/angry<adj><sint>$
+^animal/animal<adj>/animal<n><sg>$
+^announce/announce<vblex><inf>/announce<vblex><pres>/announce<vblex><imp>$
+^annoy/annoy<vblex><inf>/annoy<vblex><pres>/annoy<vblex><imp>$
+^annul/annul<vblex><inf>/annul<vblex><pres>/annul<vblex><imp>$
+^anoint/anoint<vblex><inf>/anoint<vblex><pres>/anoint<vblex><imp>$
+^another/another<det><ind><sg>/another<prn><ind><mf><sg>$
+^answer/answer<n><sg>/answer<vblex><inf>/answer<vblex><pres>/answer<vblex><imp>$
+^ant/ant<n><sg>$
+^antelope/antelope<n><sg>$
+^anus/anus<n><sg>$
+^anvil/anvil<n><sg>$
+^anxiety/anxiety<n><sg>$
+^anxious/anxious<adj>$
+^any/any<adv>/any<det><ind><sp>/any<prn><qnt><mf><sp>$
+^any/any<adv>/any<det><ind><sp>/any<prn><qnt><mf><sp>$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^anyhow/anyhow<adv>$
+^anyone/anyone<prn><ind><mf><sg>$
+^appear/appear<vblex><inf>/appear<vblex><pres>/appear<vblex><imp>$
+^appease/appease<vblex><inf>/appease<vblex><pres>/appease<vblex><imp>$
+^apply/apply<vblex><inf>/apply<vblex><pres>/apply<vblex><imp>$
+^apprehend/apprehend<vblex><inf>/apprehend<vblex><pres>/apprehend<vblex><imp>$
+^approach/approach<n><sg>/approach<vblex><inf>/approach<vblex><pres>/approach<vblex><imp>$
+^aptitude/aptitude<n><sg>$
+^arm/arm<n><sg>/arm<vblex><inf>/arm<vblex><pres>/arm<vblex><imp>$
+^armpit/armpit<n><sg>$
+^arrange/arrange<vblex><inf>/arrange<vblex><pres>/arrange<vblex><imp>$
+^arranged/arrange<vblex><past>/arrange<vblex><pp>$
+^arrive/arrive<vblex><inf>/arrive<vblex><pres>/arrive<vblex><imp>$
+^arrow/arrow<n><sg>$
+^artery/artery<n><sg>$
+^artful/artful<adj>$
+^as/as<adv>/as<preadv>/as<cnjsub>/as<cnjadv>/as<pr>$
+^ascend/ascend<vblex><inf>/ascend<vblex><pres>/ascend<vblex><imp>$
+^ask/ask<vblex><inf>/ask<vblex><pres>/ask<vblex><imp>$
+^ask for/ask<vblex><inf># for/ask<vblex><pres># for/ask<vblex><imp># for$
+^assemble/assemble<vblex><inf>/assemble<vblex><pres>/assemble<vblex><imp>$
+^assent/assent<n><sg>/assent<vblex><inf>/assent<vblex><pres>/assent<vblex><imp>$
+^assist/assist<n><sg>/assist<vblex><inf>/assist<vblex><pres>/assist<vblex><imp>$
+^assure/assure<vblex><inf>/assure<vblex><pres>/assure<vblex><imp>$
+^astonish/astonish<vblex><inf>/astonish<vblex><pres>/astonish<vblex><imp>$
+^astonished/astonish<vblex><pp>/astonish<vblex><past>/astonished<adj>$
+^astonishment/astonishment<n><sg>$
+^attempt/attempt<n><sg>/attempt<vblex><inf>/attempt<vblex><pres>/attempt<vblex><imp>$
+^attention/attention<n><sg>$
+^authority/authority<n><sg>$
+^avarice/avarice<n><sg>$
+^avaricious/avaricious<adj>$
+^avenge/avenge<vblex><inf>/avenge<vblex><pres>/avenge<vblex><imp>$
+^avoid/avoid<vblex><inf>/avoid<vblex><pres>/avoid<vblex><imp>$
+^await/await<vblex><inf>/await<vblex><pres>/await<vblex><imp>$
+^awake/awake<adj>/awake<vblex><inf>/awake<vblex><pres>/awake<vblex><imp>$
+^awaken/awaken<vblex><inf>/awaken<vblex><pres>/awaken<vblex><imp>$
+^axe/axe<n><sg>$
+^back/back<adj>/back<adv>/back<n><sg>/back<vblex><inf>/back<vblex><pres>/back<vblex><imp>$
+^bad/bad<adj><sint>$
+^badly/badly<adv>$
+^bag/bag<n><sg>/bag<vblex><inf>/bag<vblex><pres>/bag<vblex><imp>$
+^baggage/baggage<n><sg>$
+^bail/bail<n><sg>$
+^bake/bake<vblex><inf>/bake<vblex><pres>/bake<vblex><imp>$
+^baldness/baldness<n><sg>$
+^bamboo/bamboo<n><sg>$
+^banana/banana<n><sg>$
+^banana/banana<n><sg>$ ^shoot/shoot<n><sg>/shoot<vblex><inf>/shoot<vblex><pres>/shoot<vblex><imp>$
+^banish/banish<vblex><inf>/banish<vblex><pres>/banish<vblex><imp>$
+^bank/bank<n><sg>/bank<vblex><inf>/bank<vblex><pres>/bank<vblex><imp>$
+^bark/bark<n><sg>/bark<vblex><inf>/bark<vblex><pres>/bark<vblex><imp>$
+^barren/barren<adj><sint>$ ^woman/woman<n><sg>$
+^barter/barter<n><sg>/barter<vblex><inf>/barter<vblex><pres>/barter<vblex><imp>$
+^base/base<n><sg>/base<vblex><inf>/base<vblex><pres>/base<vblex><imp>$
+^basin/basin<n><sg>$
+^basket/basket<n><sg>$
+^bastard/bastard<adj>$
+^bathe/bathe<vblex><inf>/bathe<vblex><pres>/bathe<vblex><imp>$
+^bathe/bathe<vblex><inf>/bathe<vblex><pres>/bathe<vblex><imp>$ ^a/a<det><ind><sg>$ ^wound/wind<vblex><past>/wind<vblex><pp>/wound<n><sg>/wound<vblex><inf>/wound<vblex><pres>/wound<vblex><imp>$
+^batter/batter<n><sg>/batter<vblex><inf>/batter<vblex><pres>/batter<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^battle/battle<n><sg>/battle<vblex><inf>/battle<vblex><pres>/battle<vblex><imp>$
+^be/be<vbser><inf>$
+^be/be<vbser><inf>$ ^quiet/quiet<adj><sint>/quiet<n><sg>$
+^beach/beach<n><sg>$
+^bead/bead<n><sg>/bead<vblex><inf>/bead<vblex><pres>/bead<vblex><imp>$
+^beam/beam<n><sg>$
+^bear/bear<n><sg>/bear<vblex><inf>/bear<vblex><pres>/bear<vblex><imp>$
+^beard/beard<n><sg>$
+^beast/beast<n><sg>$
+^beat/beat<n><sg>/beat<vblex><inf>/beat<vblex><pres>/beat<vblex><past>/beat<vblex><imp>$
+^beater/*beater$
+^beautiful/beautiful<adj>$
+^beauty/beauty<n><sg>$
+^because/because<cnjsub>/because<cnjadv>$
+^bed/bed<n><sg>/bed<vblex><inf>/bed<vblex><pres>/bed<vblex><imp>$
+^bee/bee<n><sg>$
+^beef/beef<n><sg>$
+^before/before<adv>/before<cnjadv>/before<pr>$
+^beg/beg<vblex><inf>/beg<vblex><pres>/beg<vblex><imp>$
+^beget/beget<vblex><inf>/beget<vblex><pres>/beget<vblex><imp>$
+^beggar/beggar<n><sg>$
+^begin/begin<vblex><inf>/begin<vblex><pres>/begin<vblex><imp>$
+^beginning/beginning<n><sg>/begin<vblex><pprs>/begin<vblex><subs>/begin<vblex><ger>$
+^behind/behind<adv>/behind<pr>/behind<n><sg>$
+^believe/believe<vblex><inf>/believe<vblex><pres>/believe<vblex><imp>$
+^bell/bell<n><sg>$
+^belly/belly<n><sg>$
+^bench/bench<n><sg>$
+^bend/bend<n><sg>/bend<vblex><inf>/bend<vblex><pres>/bend<vblex><imp>$
+^beneficent/*beneficent$
+^bent/bent<n><sg>/bend<vblex><past>/bend<vblex><pp>$
+^benumb/benumb<vblex><inf>/benumb<vblex><pres>/benumb<vblex><imp>$
+^beseech/beseech<vblex><inf>/beseech<vblex><pres>/beseech<vblex><imp>$
+^bestow/bestow<vblex><inf>/bestow<vblex><pres>/bestow<vblex><imp>$
+^bestride/bestride<vblex><inf>/bestride<vblex><pres>/bestride<vblex><imp>$
+^bet/bet<n><sg>/bet<vblex><inf>/bet<vblex><pres>/bet<vblex><past>/bet<vblex><pp>/bet<vblex><imp>$
+^betray/betray<vblex><inf>/betray<vblex><pres>/betray<vblex><imp>$
+^better/better<adv>/good<adj><sint><comp>$
+^between/between<pr>$
+^bewail/*bewail$
+^bewitch/bewitch<vblex><inf>/bewitch<vblex><pres>/bewitch<vblex><imp>$
+^beyond/beyond<adv>/beyond<pr>$
+^bible/Bible<n><sg>$
+^big/big<adj><sint>$
+^bile/bile<n><sg>$
+^bind/bind<n><sg>/bind<vblex><inf>/bind<vblex><pres>/bind<vblex><imp>$
+^bird/bird<n><sg>$
+^birth/birth<n><sg>$
+^biscuit/biscuit<n><sg>$
+^bite/bite<n><sg>/bite<vblex><inf>/bite<vblex><pres>/bite<vblex><imp>$
+^bitter/bitter<adj>$
+^bitterness/bitterness<n><sg>$
+^black/black<adj><sint>/black<n><sg>$
+^blacken/blacken<vblex><inf>/blacken<vblex><pres>/blacken<vblex><imp>$
+^blacksmith/blacksmith<n><sg>$
+^blanket/blanket<n><sg>/blanket<vblex><inf>/blanket<vblex><pres>/blanket<vblex><imp>$
+^blaspheme/blaspheme<vblex><inf>/blaspheme<vblex><pres>/blaspheme<vblex><imp>$
+^bleat/bleat<vblex><inf>/bleat<vblex><pres>/bleat<vblex><imp>$
+^bleed/bleed<vblex><inf>/bleed<vblex><pres>/bleed<vblex><imp>$
+^bless/bless<vblex><inf>/bless<vblex><pres>/bless<vblex><imp>$
+^blindness/blindness<n><sg>$
+^blockhead/*blockhead$
+^blood/blood<adj>/blood<n><sg>/blood<vblex><inf>/blood<vblex><pres>/blood<vblex><imp>$
+^blossom/blossom<n><sg>/blossom<vblex><inf>/blossom<vblex><pres>/blossom<vblex><imp>$
+^blow/blow<n><sg>/blow<vblex><inf>/blow<vblex><pres>/blow<vblex><imp>$
+^blow/blow<n><sg>/blow<vblex><inf>/blow<vblex><pres>/blow<vblex><imp>$ ^a/a<det><ind><sg>$ ^horn/horn<n><sg>$
+^blue/blue<adj><sint>/blue<n><sg>$
+^blunt/blunt<adj><sint>/blunt<vblex><inf>/blunt<vblex><pres>/blunt<vblex><imp>$
+^boa/boa<n><sg>$ ^constrictor/*constrictor$
+^boat/boat<n><sg>$
+^body/body<n><sg>$
+^boil/boil<n><sg>/boil<vblex><inf>/boil<vblex><pres>/boil<vblex><imp>$
+^boiler/boiler<n><sg>$
+^boldness/boldness<n><sg>$
+^bolt/bolt<n><sg>/bolt<vblex><inf>/bolt<vblex><pres>/bolt<vblex><imp>$
+^bone/bone<n><sg>$
+^book/book<n><sg>/book<vblex><inf>/book<vblex><pres>/book<vblex><imp>$
+^boot/boot<n><sg>/boot<vblex><inf>/boot<vblex><pres>/boot<vblex><imp>$
+^borassus/*borassus$ ^palm/palm<n><sg>$
+^bore/bore<n><sg>/bore<vblex><inf>/bore<vblex><pres>/bore<vblex><imp>/bear<vblex><past>$
+^born/born<adj>/bear<vblex><pp>$
+^borrow/borrow<vblex><inf>/borrow<vblex><pres>/borrow<vblex><imp>$
+^bottle/bottle<n><sg>/bottle<vblex><inf>/bottle<vblex><pres>/bottle<vblex><imp>$
+^bottom/bottom<adj>/bottom<n><sg>$
+^boundary/boundary<n><sg>$
+^bow/bow<n><sg>/bow<vblex><inf>/bow<vblex><pres>/bow<vblex><imp>$
+^bow/bow<n><sg>/bow<vblex><inf>/bow<vblex><pres>/bow<vblex><imp>$ ^of/of<pr>$ ^a/a<det><ind><sg>$ ^canoe/canoe<n><sg>$
+^bowl/bowl<n><sg>/bowl<vblex><inf>/bowl<vblex><pres>/bowl<vblex><imp>$
+^box/box<n><sg>/box<n><pl>/box<vblex><inf>/box<vblex><pres>/box<vblex><imp>$
+^boy/boy<n><sg>$
+^bracelet/bracelet<n><sg>$
+^brain/brain<n><sg>$
+^branch/branch<n><sg>/branch<vblex><inf>/branch<vblex><pres>/branch<vblex><imp>$
+^branch/branch<n><sg>/branch<vblex><inf>/branch<vblex><pres>/branch<vblex><imp>$ ^out/out<adv>/out<pr>$
+^bras/bra<n><pl>$
+^brass/brass<n><sg>$ ^wire/wire<n><sg>/wire<vblex><inf>/wire<vblex><pres>/wire<vblex><imp>$
+^bread/bread<n><sg>$
+^break/break<n><sg>/break<vblex><inf>/break<vblex><pres>/break<vblex><imp>$
+^breast/breast<n><sg>$
+^breath/breath<n><sg>$
+^breathe/breathe<vblex><inf>/breathe<vblex><pres>/breathe<vblex><imp>$
+^brick/brick<n><sg>/brick<vblex><inf>/brick<vblex><pres>/brick<vblex><imp>$
+^bridge/bridge<n><sg>/bridge<vblex><inf>/bridge<vblex><pres>/bridge<vblex><imp>$
+^brighten/brighten<vblex><inf>/brighten<vblex><pres>/brighten<vblex><imp>$
+^brilliant/brilliant<adj>/brilliant<n><sg>$
+^bring/bring<vblex><inf>/bring<vblex><pres>/bring<vblex><imp>$
+^bring/bring<vblex><inf>/bring<vblex><pres>/bring<vblex><imp>$ ^forth/forth<adv>$
+^bring together/bring<vblex><sep><inf># together/bring<vblex><sep><pres># together/bring<vblex><sep><imp># together$
+^bring/bring<vblex><inf>/bring<vblex><pres>/bring<vblex><imp>$ ^up/up<adv>/up<pr>$ ^a/a<det><ind><sg>$ ^child/child<n><sg>$
+^brood/brood<vblex><inf>/brood<vblex><pres>/brood<vblex><imp>$
+^broom/broom<n><sg>$
+^brother/brother<n><sg>$
+^bruise/bruise<n><sg>/bruise<vblex><inf>/bruise<vblex><pres>/bruise<vblex><imp>$
+^brush/brush<n><sg>/brush<vblex><inf>/brush<vblex><pres>/brush<vblex><imp>$
+^buffalo/buffalo<n><sg>$
+^bugle/*bugle$
+^build/build<n><sg>/build<vblex><inf>/build<vblex><pres>/build<vblex><imp>$
+^builder/builder<n><sg>$
+^bulge/bulge<n><sg>$
+^bullet/bullet<n><sg>$
+^bunch/bunch<n><sg>$
+^bundle/bundle<n><sg>/bundle<vblex><inf>/bundle<vblex><pres>/bundle<vblex><imp>$
+^burial/burial<n><sg>$
+^burn/burn<n><sg>/burn<vblex><inf>/burn<vblex><pres>/burn<vblex><imp>$
+^burn/burn<n><sg>/burn<vblex><inf>/burn<vblex><pres>/burn<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^burst/burst<n><sg>/burst<vblex><inf>/burst<vblex><pres>/burst<vblex><past>/burst<vblex><pp>/burst<vblex><imp>$
+^bury/bury<vblex><inf>/bury<vblex><pres>/bury<vblex><imp>$
+^burying/bury<vblex><pprs>/bury<vblex><subs>/bury<vblex><ger>$ ^ground/ground<n><sg>/ground<vblex><inf>/ground<vblex><pres>/ground<vblex><imp>$
+^bush/bush<n><sg>$
+^but/but<cnjcoo>/but<pr>$
+^butler/butler<n><sg>$
+^button/button<n><sg>/button<vblex><inf>/button<vblex><pres>/button<vblex><imp>$
+^buy/buy<n><sg>/buy<vblex><inf>/buy<vblex><pres>/buy<vblex><imp>$
+^buyer/buyer<n><sg>$
+^by/by<adv>/by<pr>$
+^by/by<adv>/by<pr>$ ^slave/slave<n><sg>$ ^mother/mother<n><sg>/mother<vblex><inf>/mother<vblex><pres>/mother<vblex><imp>$
+^cabin/cabin<n><sg>$
+^cable/cable<n><sg>$
+^calabash/*calabash$
+^calculate/calculate<vblex><inf>/calculate<vblex><pres>/calculate<vblex><imp>$
+^calf/calf<n><sg>$ ^of/of<pr>$ ^leg/leg<n><sg>$
+^call/call<n><sg>/call<vblex><inf>/call<vblex><pres>/call<vblex><imp>$
+^call/call<n><sg>/call<vblex><inf>/call<vblex><pres>/call<vblex><imp>$ ^together/together<adj>/together<adv>$
+^calm/calm<adj><sint>/calm<n><sg>/calm<vblex><inf>/calm<vblex><pres>/calm<vblex><imp>$
+^calm/calm<adj><sint>/calm<n><sg>/calm<vblex><inf>/calm<vblex><pres>/calm<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^candle/candle<n><sg>$
+^canoe/canoe<n><sg>$
+^canon/canon<n><sg>$
+^cap/cap<n><sg>/cap<vblex><inf>/cap<vblex><pres>/cap<vblex><imp>$
+^capable/capable<adj>$
+^capsize/capsize<vblex><inf>/capsize<vblex><pres>/capsize<vblex><imp>$
+^captain/captain<n><sg>/captain<vblex><inf>/captain<vblex><pres>/captain<vblex><imp>$
+^capture/capture<n><sg>/capture<vblex><inf>/capture<vblex><pres>/capture<vblex><imp>$
+^carefully/carefully<adv>$
+^carpenter/carpenter<n><sg>$
+^carry/carry<vblex><inf>/carry<vblex><pres>/carry<vblex><imp>$
+^carry/carry<vblex><inf>/carry<vblex><pres>/carry<vblex><imp>$ ^away/away<adv>$
+^cartridge/cartridge<n><sg>$
+^cartridge/cartridge<n><sg>$ ^belt/belt<n><sg>$
+^carve/carve<vblex><inf>/carve<vblex><pres>/carve<vblex><imp>$
+^case/case<n><sg>$
+^cassava/cassava<n><sg>$
+^cat/cat<n><sg>$
+^catch/catch<n><sg>/catch<vblex><inf>/catch<vblex><pres>/catch<vblex><imp>$ ^drops/drop<n><pl>/drop<vblex><pres><p3><sg>$
+^cause/cause<n><sg>/cause<vblex><inf>/cause<vblex><pres>/cause<vblex><imp>$
+^centre/centre<adj>/centre<n><sg>/centre<vblex><inf>/centre<vblex><pres>/centre<vblex><imp>$
+^certain/certain<adj>$
+^certainly/certainly<adv>$
+^chain/chain<n><sg>/chain<vblex><inf>/chain<vblex><pres>/chain<vblex><imp>$
+^chair/chair<n><sg>/chair<vblex><inf>/chair<vblex><pres>/chair<vblex><imp>$
+^change/change<n><sg>/change<vblex><inf>/change<vblex><pres>/change<vblex><imp>$
+^channel/channel<n><sg>/channel<vblex><inf>/channel<vblex><pres>/channel<vblex><imp>$
+^charcoal/charcoal<n><sg>$
+^charm/charm<n><sg>$
+^chase/chase<n><sg>/chase<vblex><inf>/chase<vblex><pres>/chase<vblex><imp>$
+^chastise/chastise<vblex><inf>/chastise<vblex><pres>/chastise<vblex><imp>$
+^chat/chat<n><sg>/chat<vblex><inf>/chat<vblex><pres>/chat<vblex><imp>$
+^chatter/chatter<n><sg>$
+^cheat/cheat<n><sg>/cheat<vblex><inf>/cheat<vblex><pres>/cheat<vblex><imp>$
+^cheese/cheese<n><sg>$
+^chew/chew<vblex><inf>/chew<vblex><pres>/chew<vblex><imp>$
+^chicken/chicken<n><sg>$
+^chief/chief<n><sg>$
+^chieftainship/*chieftainship$
+^child/child<n><sg>$
+^child/child<n><sg>$ ^by/by<adv>/by<pr>$ ^slave/slave<n><sg>$ ^wife/wife<n><sg>$
+^childbirth/childbirth<n><sg>$
+^chimpanzee/chimpanzee<n><sg>$
+^chin/chin<n><sg>$
+^chip/chip<n><sg>$
+^chocolate/chocolate<n><sg>$
+^choke/choke<n><sg>/choke<vblex><inf>/choke<vblex><pres>/choke<vblex><imp>$
+^choked/choke<vblex><past>/choke<vblex><pp>$
+^choose/choose<vblex><inf>/choose<vblex><pres>/choose<vblex><imp>$
+^chop/chop<n><sg>/chop<vblex><inf>/chop<vblex><pres>/chop<vblex><imp>$
+^church/church<n><sg>$
+^cicatrix/*cicatrix$
+^cinders/cinder<n><pl>$
+^circulate/circulate<vblex><inf>/circulate<vblex><pres>/circulate<vblex><imp>$ ^news/news<n><sg>$
+^circumcise/circumcise<vblex><inf>/circumcise<vblex><pres>/circumcise<vblex><imp>$
+^citron/*citron$
+^civet/*civet$ ^cat/cat<n><sg>$
+^clamour/clamour<n><sg>/clamour<vblex><inf>/clamour<vblex><pres>/clamour<vblex><imp>$
+^clap/clap<n><sg>/clap<vblex><inf>/clap<vblex><pres>/clap<vblex><imp>$ ^hands/hand<n><pl>/hand<vblex><pres><p3><sg>$
+^clarify/clarify<vblex><inf>/clarify<vblex><pres>/clarify<vblex><imp>$
+^claw/claw<n><sg>/claw<vblex><inf>/claw<vblex><pres>/claw<vblex><imp>$
+^clay/clay<n><sg>$
+^clean/clean<adv>/clean<adj><sint>/clean<vblex><inf>/clean<vblex><pres>/clean<vblex><imp>$
+^cleanse/cleanse<vblex><inf>/cleanse<vblex><pres>/cleanse<vblex><imp>$
+^clear/clear<adj><sint>/clear<vblex><inf>/clear<vblex><pres>/clear<vblex><imp>$ ^the/the<det><def><sp>$ ^table/table<n><sg>/table<vblex><inf>/table<vblex><pres>/table<vblex><imp>$
+^clearly/clearly<adv>$
+^cleave/cleave<vblex><inf>/cleave<vblex><pres>/cleave<vblex><imp>$
+^cliff/cliff<n><sg>$
+^climb/climb<vblex><inf>/climb<vblex><pres>/climb<vblex><imp>$
+^climbing/climbing<n><sg>/climb<vblex><pprs>/climb<vblex><subs>/climb<vblex><ger>$ ^girdle/girdle<n><sg>/girdle<vblex><inf>/girdle<vblex><pres>/girdle<vblex><imp>$
+^clip/clip<n><sg>/clip<vblex><inf>/clip<vblex><pres>/clip<vblex><imp>$
+^clock/clock<n><sg>/clock<vblex><inf>/clock<vblex><pres>/clock<vblex><imp>$
+^clod/clod<n><sg>$
+^close/close<adj><sint>/close<n><sg>/close<vblex><inf>/close<vblex><pres>/close<vblex><imp>$
+^cloth/cloth<n><sg>$
+^clothe/clothe<vblex><inf>/clothe<vblex><pres>/clothe<vblex><imp>$
+^cloud/cloud<n><sg>$
+^clutch/clutch<n><sg>/clutch<vblex><inf>/clutch<vblex><pres>/clutch<vblex><imp>$
+^coagulate/coagulate<vblex><inf>/coagulate<vblex><pres>/coagulate<vblex><imp>$
+^cock/cock<n><sg>/cock<vblex><inf>/cock<vblex><pres>/cock<vblex><imp>$
+^cockroach/cockroach<n><sg>$
+^cocoa/cocoa<n><sg>$
+^coffee/coffee<n><sg>$
+^coincide/coincide<vblex><inf>/coincide<vblex><pres>/coincide<vblex><imp>$
+^cold/cold<adj><sint>/cold<n><sg>$
+^coldness/coldness<n><sg>$
+^collar/collar<n><sg>$
+^collect/collect<vblex><inf>/collect<vblex><pres>/collect<vblex><imp>$
+^comb/comb<n><sg>/comb<vblex><inf>/comb<vblex><pres>/comb<vblex><imp>$
+^come/come<vblex><inf>/come<vblex><pres>/come<vblex><pp>/come<vblex><imp>$
+^command/command<n><sg>/command<vblex><inf>/command<vblex><pres>/command<vblex><imp>$
+^commandant/commandant<n><sg>$
+^commandment/commandment<n><sg>$
+^commence/commence<vblex><inf>/commence<vblex><pres>/commence<vblex><imp>$
+^compact/compact<adj>/compact<vblex><inf>/compact<vblex><pres>/compact<vblex><imp>$
+^companion/companion<n><sg>$
+^compassion/compassion<n><sg>$
+^compete/compete<vblex><inf>/compete<vblex><pres>/compete<vblex><imp>$
+^competent/competent<adj>$
+^complete/complete<adj>/complete<vblex><inf>/complete<vblex><pres>/complete<vblex><imp>$
+^completed/complete<vblex><past>/complete<vblex><pp>$
+^completely/completely<adv>$
+^complicate/complicate<vblex><inf>/complicate<vblex><pres>/complicate<vblex><imp>$
+^complicated/complicated<adj>/complicate<vblex><past>/complicate<vblex><pp>$
+^compound/compound<adj>/compound<n><sg>/compound<vblex><inf>/compound<vblex><pres>/compound<vblex><imp>$
+^comprehend/comprehend<vblex><inf>/comprehend<vblex><pres>/comprehend<vblex><imp>$
+^compress/compress<vblex><inf>/compress<vblex><pres>/compress<vblex><imp>$
+^comrade/comrade<n><sg>$
+^conceal/conceal<vblex><inf>/conceal<vblex><pres>/conceal<vblex><imp>$
+^conceive/conceive<vblex><inf>/conceive<vblex><pres>/conceive<vblex><imp>$
+^concubine/concubine<n><sg>$
+^condemn/condemn<vblex><inf>/condemn<vblex><pres>/condemn<vblex><imp>$
+^confess/confess<vblex><inf>/confess<vblex><pres>/confess<vblex><imp>$
+^confined/confined<adj>/confine<vblex><past>/confine<vblex><pp>$
+^confound/*confound$
+^confused/confuse<vblex><past>/confuse<vblex><pp>$
+^confusion/confusion<n><sg>$
+^congeal/congeal<vblex><inf>/congeal<vblex><pres>/congeal<vblex><imp>$
+^consent/consent<n><sg>/consent<vblex><inf>/consent<vblex><pres>/consent<vblex><imp>$
+^construct/construct<vblex><inf>/construct<vblex><pres>/construct<vblex><imp>$
+^consume/consume<vblex><inf>/consume<vblex><pres>/consume<vblex><imp>$
+^contempt/contempt<n><sg>$
+^contend/contend<vblex><inf>/contend<vblex><pres>/contend<vblex><imp>$ ^together/together<adj>/together<adv>$
+^content/content<adj>/content<n><sg>/content<vblex><inf>/content<vblex><pres>/content<vblex><imp>$
+^continue/continue<vblex><inf>/continue<vblex><pres>/continue<vblex><imp>$
+^contradict/contradict<vblex><inf>/contradict<vblex><pres>/contradict<vblex><imp>$
+^contravene/contravene<vblex><inf>/contravene<vblex><pres>/contravene<vblex><imp>$
+^converge/converge<vblex><inf>/converge<vblex><pres>/converge<vblex><imp>$
+^conversation/conversation<n><sg>$
+^converse/converse<adj>/converse<vblex><inf>/converse<vblex><pres>/converse<vblex><imp>$
+^convert/convert<vblex><inf>/convert<vblex><pres>/convert<vblex><imp>$
+^convey/convey<vblex><inf>/convey<vblex><pres>/convey<vblex><imp>$ ^to/to<pr>$
+^convince/convince<vblex><inf>/convince<vblex><pres>/convince<vblex><imp>$
+^cook/cook<n><sg>/cook<vblex><inf>/cook<vblex><pres>/cook<vblex><imp>$
+^cool/cool<adj><sint>/cool<vblex><inf>/cool<vblex><pres>/cool<vblex><imp>$
+^cord/cord<n><sg>$
+^cork/cork<n><sg>/cork<vblex><inf>/cork<vblex><pres>/cork<vblex><imp>$
+^corkscrew/corkscrew<n><sg>$
+^corn/corn<n><sg>$
+^corner/corner<n><sg>/corner<vblex><inf>/corner<vblex><pres>/corner<vblex><imp>$
+^corpse/corpse<n><sg>$
+^correct/correct<adj>/correct<vblex><inf>/correct<vblex><pres>/correct<vblex><imp>$
+^correspond/correspond<vblex><inf>/correspond<vblex><pres>/correspond<vblex><imp>$
+^corrupt/corrupt<adj>/corrupt<vblex><inf>/corrupt<vblex><pres>/corrupt<vblex><imp>$
+^cost/cost<n><sg>/cost<vblex><inf>/cost<vblex><pres>/cost<vblex><past>/cost<vblex><pp>/cost<vblex><imp>$
+^cotton/cotton<n><sg>$
+^cotton/cotton<n><sg>$ ^tree/tree<n><sg>$
+^cough/cough<n><sg>/cough<vblex><inf>/cough<vblex><pres>/cough<vblex><imp>$
+^country/country<n><sg>$
+^courage/courage<n><sg>$
+^cover/cover<n><sg>/cover<vblex><inf>/cover<vblex><pres>/cover<vblex><imp>$
+^covet/covet<vblex><inf>/covet<vblex><pres>/covet<vblex><imp>$
+^covetous/covetous<adj>$
+^coward/coward<n><sg>$
+^crack/crack<n><sg>/crack<vblex><inf>/crack<vblex><pres>/crack<vblex><imp>$
+^crave/crave<vblex><inf>/crave<vblex><pres>/crave<vblex><imp>$ ^for/for<cnjadv>/for<pr>$
+^crawl/crawl<n><sg>/crawl<vblex><inf>/crawl<vblex><pres>/crawl<vblex><imp>$
+^crease/crease<n><sg>/crease<vblex><inf>/crease<vblex><pres>/crease<vblex><imp>$
+^creator/creator<n><sg>$
+^crest/crest<n><sg>$
+^crime/crime<n><sg>$
+^cripple/cripple<vblex><inf>/cripple<vblex><pres>/cripple<vblex><imp>$
+^crocodile/crocodile<n><sg>$
+^crooked/crooked<adj>$
+^cross/cross<n><sg>/cross<vblex><inf>/cross<vblex><pres>/cross<vblex><imp>$
+^cross/cross<n><sg>/cross<vblex><inf>/cross<vblex><pres>/cross<vblex><imp>$ ^over/over<adv>/over<pr>$
+^crow/crow<n><sg>/crow<vblex><inf>/crow<vblex><pres>/crow<vblex><imp>$
+^crowd/crowd<n><sg>/crowd<vblex><inf>/crowd<vblex><pres>/crowd<vblex><imp>$
+^crown/crown<n><sg>/crown<vblex><inf>/crown<vblex><pres>/crown<vblex><imp>$
+^crush/crush<n><sg>/crush<vblex><inf>/crush<vblex><pres>/crush<vblex><imp>$
+^cry/cry<n><sg>/cry<vblex><inf>/cry<vblex><pres>/cry<vblex><imp>$
+^cry/cry<n><sg>/cry<vblex><inf>/cry<vblex><pres>/cry<vblex><imp>$ ^out/out<adv>/out<pr>$
+^cultivate/cultivate<vblex><inf>/cultivate<vblex><pres>/cultivate<vblex><imp>$
+^cunning/cunning<adj>/cunning<n><sg>$
+^cup/cup<n><sg>/cup<vblex><inf>/cup<vblex><pres>/cup<vblex><imp>$
+^curb/curb<n><sg>/curb<vblex><inf>/curb<vblex><pres>/curb<vblex><imp>$
+^cure/cure<n><sg>/cure<vblex><inf>/cure<vblex><pres>/cure<vblex><imp>$
+^cured/cure<vblex><past>/cure<vblex><pp>$
+^curiosity/curiosity<n><sg>$
+^current/current<adj>/current<n><sg>$
+^curse/curse<n><sg>/curse<vblex><inf>/curse<vblex><pres>/curse<vblex><imp>$
+^cushion/cushion<n><sg>/cushion<vblex><inf>/cushion<vblex><pres>/cushion<vblex><imp>$
+^custom/custom<adj>/custom<n><sg>$
+^custom/custom<adj>/custom<n><sg>$ ^house/house<n><sg>/house<vblex><inf>/house<vblex><pres>/house<vblex><imp>$
+^cut/cut<adj>/cut<n><sg>/cut<vblex><inf>/cut<vblex><pres>/cut<vblex><past>/cut<vblex><pp>/cut<vblex><imp>$
+^cut down/cut<vblex><inf># down/cut<vblex><pres># down/cut<vblex><past># down/cut<vblex><pp># down/cut<vblex><imp># down$
+^cut/cut<adj>/cut<n><sg>/cut<vblex><inf>/cut<vblex><pres>/cut<vblex><past>/cut<vblex><pp>/cut<vblex><imp>$ ^in/in<adv>/in<pr>$ ^a/a<det><ind><sg>$ ^tuft/tuft<n><sg>$
+^cut/cut<adj>/cut<n><sg>/cut<vblex><inf>/cut<vblex><pres>/cut<vblex><past>/cut<vblex><pp>/cut<vblex><imp>$ ^in pieces/in pieces<adv>$
+^cut/cut<adj>/cut<n><sg>/cut<vblex><inf>/cut<vblex><pres>/cut<vblex><past>/cut<vblex><pp>/cut<vblex><imp>$ ^off/off<adv>$
+^daily/daily<adj>/daily<adv>$
+^dally/*dally$
+^dam/dam<n><sg>$
+^damage/damage<n><sg>/damage<vblex><inf>/damage<vblex><pres>/damage<vblex><imp>$
+^damp/damp<adj><sint>/damp<n><sg>$
+^dance/dance<n><sg>/dance<vblex><inf>/dance<vblex><pres>/dance<vblex><imp>$
+^darkness/darkness<n><sg>$
+^dart/dart<n><sg>/dart<vblex><inf>/dart<vblex><pres>/dart<vblex><imp>$
+^daub/daub<vblex><inf>/daub<vblex><pres>/daub<vblex><imp>$
+^daughter/daughter<n><sg>$
+^dawdle/dawdle<vblex><inf>/dawdle<vblex><pres>/dawdle<vblex><imp>$
+^day/day<n><sg>$
+^day/day<n><sg>$ ^after/after<adv>/after<cnjadv>/after<pr>$ ^to/to<pr>$^-/-<guio>$^morrow/*morrow$
+^day before yesterday/day<n><sg># before yesterday$
+^daybreak/daybreak<n><sg>$
+^daylight/daylight<n><sg>$
+^dead/dead<adj>$
+^deaf/deaf<adj><sint>$ ^person/person<n><sg>$
+^death/death<n><sg>$
+^debase/*debase$
+^debt/debt<n><sg>$
+^debtor/debtor<n><sg>$
+^decani/*decani$
+^decay/decay<n><sg>/decay<vblex><inf>/decay<vblex><pres>/decay<vblex><imp>$
+^deceive/deceive<vblex><inf>/deceive<vblex><pres>/deceive<vblex><imp>$
+^decide/decide<vblex><inf>/decide<vblex><pres>/decide<vblex><imp>$
+^decide/decide<vblex><inf>/decide<vblex><pres>/decide<vblex><imp>$ ^a/a<det><ind><sg>$ ^palaver/*palaver$
+^decide/decide<vblex><inf>/decide<vblex><pres>/decide<vblex><imp>$ ^against/against<adj>/against<adv>/against<pr>$
+^declare/declare<vblex><inf>/declare<vblex><pres>/declare<vblex><imp>$
+^deduct/deduct<vblex><inf>/deduct<vblex><pres>/deduct<vblex><imp>$
+^deface/deface<vblex><inf>/deface<vblex><pres>/deface<vblex><imp>$
+^defame/*defame$
+^defect/defect<n><sg>/defect<vblex><inf>/defect<vblex><pres>/defect<vblex><imp>$
+^deficient/deficient<adj>$
+^defraud/defraud<vblex><inf>/defraud<vblex><pres>/defraud<vblex><imp>$
+^deliberate/deliberate<adj>/deliberate<vblex><inf>/deliberate<vblex><pres>/deliberate<vblex><imp>$
+^delicate/delicate<adj>$
+^deliver/deliver<vblex><inf>/deliver<vblex><pres>/deliver<vblex><imp>$
+^demolish/demolish<vblex><inf>/demolish<vblex><pres>/demolish<vblex><imp>$
+^demon/demon<n><sg>$
+^demonstrate/demonstrate<vblex><inf>/demonstrate<vblex><pres>/demonstrate<vblex><imp>$
+^denounce/denounce<vblex><inf>/denounce<vblex><pres>/denounce<vblex><imp>$
+^deny/deny<vblex><inf>/deny<vblex><pres>/deny<vblex><imp>$
+^deprave/*deprave$
+^depraved/*depraved$
+^deprive/deprive<vblex><inf>/deprive<vblex><pres>/deprive<vblex><imp>$
+^depth/depth<n><sg>$
+^descend/descend<vblex><inf>/descend<vblex><pres>/descend<vblex><imp>$
+^descend/descend<vblex><inf>/descend<vblex><pres>/descend<vblex><imp>$ ^a/a<det><ind><sg>$ ^river/river<n><sg>$
+^desert/desert<n><sg>/desert<vblex><inf>/desert<vblex><pres>/desert<vblex><imp>$
+^deserve/deserve<vblex><inf>/deserve<vblex><pres>/deserve<vblex><imp>$
+^desire/desire<n><sg>/desire<vblex><inf>/desire<vblex><pres>/desire<vblex><imp>$
+^desist/desist<vblex><inf>/desist<vblex><pres>/desist<vblex><imp>$ ^from/from<pr>$
+^despatch/despatch<vblex><inf>/despatch<vblex><pres>/despatch<vblex><imp>$
+^despise/despise<vblex><inf>/despise<vblex><pres>/despise<vblex><imp>$
+^destroy/destroy<vblex><inf>/destroy<vblex><pres>/destroy<vblex><imp>$
+^destruction/destruction<n><sg>$
+^detach/detach<vblex><inf>/detach<vblex><pres>/detach<vblex><imp>$
+^detached/detach<vblex><pp>/detach<vblex><past>/detached<adj>$
+^determine/determine<vblex><inf>/determine<vblex><pres>/determine<vblex><imp>$
+^detest/detest<vblex><inf>/detest<vblex><pres>/detest<vblex><imp>$
+^detract/detract<vblex><inf>/detract<vblex><pres>/detract<vblex><imp>$
+^devastate/devastate<vblex><inf>/devastate<vblex><pres>/devastate<vblex><imp>$
+^deviate/deviate<vblex><inf>/deviate<vblex><pres>/deviate<vblex><imp>$
+^devour/devour<vblex><inf>/devour<vblex><pres>/devour<vblex><imp>$
+^dew/dew<n><sg>$
+^dexterity/dexterity<n><sg>$
+^diarrhoea/diarrhoea<n><sg>$
+^die/die<n><sg>/die<vblex><inf>/die<vblex><pres>/die<vblex><imp>$
+^different/different<adj>$
+^difficult/difficult<adj>$
+^dig/dig<vblex><inf>/dig<vblex><pres>/dig<vblex><imp>$
+^dig/dig<vblex><inf>/dig<vblex><pres>/dig<vblex><imp>$ ^trenches/trench<n><pl>$
+^dilatoriness/*dilatoriness$
+^diminish/diminish<vblex><inf>/diminish<vblex><pres>/diminish<vblex><imp>$
+^dip/dip<n><sg>/dip<vblex><inf>/dip<vblex><pres>/dip<vblex><imp>$
+^direct/direct<adj>/direct<vblex><inf>/direct<vblex><pres>/direct<vblex><imp>$
+^dirty/dirty<adj><sint>/dirty<vblex><inf>/dirty<vblex><pres>/dirty<vblex><imp>$
+^disappear/disappear<vblex><inf>/disappear<vblex><pres>/disappear<vblex><imp>$
+^disapprove/disapprove<vblex><inf>/disapprove<vblex><pres>/disapprove<vblex><imp>$ ^of/of<pr>$
+^disarrange/disarrange<vblex><inf>/disarrange<vblex><pres>/disarrange<vblex><imp>$
+^disavow/disavow<vblex><inf>/disavow<vblex><pres>/disavow<vblex><imp>$
+^discern/discern<vblex><inf>/discern<vblex><pres>/discern<vblex><imp>$
+^discharge/discharge<n><sg>/discharge<vblex><inf>/discharge<vblex><pres>/discharge<vblex><imp>$ ^cargo/cargo<n><sg>$
+^disciple/disciple<n><sg>$
+^discontinue/discontinue<vblex><inf>/discontinue<vblex><pres>/discontinue<vblex><imp>$
+^discourse/discourse<n><sg>$
+^discover/discover<adv>/discover<vblex><inf>/discover<vblex><pres>/discover<vblex><imp>$
+^discreetly/discreetly<adv>$
+^disembark/disembark<vblex><inf>/disembark<vblex><pres>/disembark<vblex><imp>$
+^disentangle/disentangle<vblex><inf>/disentangle<vblex><pres>/disentangle<vblex><imp>$
+^disfigure/disfigure<vblex><inf>/disfigure<vblex><pres>/disfigure<vblex><imp>$
+^disgrace/disgrace<n><sg>/disgrace<vblex><inf>/disgrace<vblex><pres>/disgrace<vblex><imp>$
+^disgusting/disgusting<adj>/disgust<vblex><pprs>/disgust<vblex><subs>/disgust<vblex><ger>$
+^dish/dish<n><sg>/dish<vblex><inf>/dish<vblex><pres>/dish<vblex><imp>$
+^dishonour/dishonour<n><sg>/dishonour<vblex><inf>/dishonour<vblex><pres>/dishonour<vblex><imp>$
+^disinter/*disinter$
+^disjoin/*disjoin$
+^dismantle/dismantle<vblex><inf>/dismantle<vblex><pres>/dismantle<vblex><imp>$
+^dismay/dismay<n><sg>/dismay<vblex><inf>/dismay<vblex><pres>/dismay<vblex><imp>$
+^dismiss/dismiss<vblex><inf>/dismiss<vblex><pres>/dismiss<vblex><imp>$
+^dismount/dismount<vblex><inf>/dismount<vblex><pres>/dismount<vblex><imp>$
+^disobedience/disobedience<n><sg>$
+^disobey/disobey<vblex><inf>/disobey<vblex><pres>/disobey<vblex><imp>$
+^disorder/disorder<n><sg>$
+^disperse/disperse<vblex><inf>/disperse<vblex><pres>/disperse<vblex><imp>$
+^dispossess/dispossess<vblex><inf>/dispossess<vblex><pres>/dispossess<vblex><imp>$
+^disprove/disprove<vblex><inf>/disprove<vblex><pres>/disprove<vblex><imp>$
+^dispute/dispute<n><sg>/dispute<vblex><inf>/dispute<vblex><pres>/dispute<vblex><imp>$
+^dissarranged/*dissarranged$
+^dissolute/*dissolute$
+^dissolute/*dissolute$ ^person/person<n><sg>$
+^distant/distant<adj>/distant<adv>$
+^distinct/distinct<adj>$
+^distinguish/distinguish<vblex><inf>/distinguish<vblex><pres>/distinguish<vblex><imp>$
+^distribute/distribute<vblex><inf>/distribute<vblex><pres>/distribute<vblex><imp>$
+^district/district<n><sg>$
+^ditch/ditch<n><sg>$
+^divert/divert<vblex><inf>/divert<vblex><pres>/divert<vblex><imp>$
+^divest/divest<vblex><inf>/divest<vblex><pres>/divest<vblex><imp>$
+^divide/divide<vblex><inf>/divide<vblex><pres>/divide<vblex><imp>$
+^divided/divided<adj>/divide<vblex><past>/divide<vblex><pp>$
+^division/division<n><sg>$
+^do/do<vblex><inf>/do<vblex><pres>/do<vblex><imp>/do<vaux><inf>/do<vaux><pres>/do<vbdo><inf>/do<vbdo><pres>/do<vbdo><imp>$
+^docility/*docility$
+^doctor/doctor<n><sg>/doctor<vblex><inf>/doctor<vblex><pres>/doctor<vblex><imp>$
+^dog/dog<n><sg>$
+^domestic/domestic<adj>$ ^servant/servant<n><sg>$
+^dominate/dominate<vblex><inf>/dominate<vblex><pres>/dominate<vblex><imp>$
+^donkey/donkey<n><sg>$
+^door/door<n><sg>$
+^doubt/doubt<n><sg>/doubt<vblex><inf>/doubt<vblex><pres>/doubt<vblex><imp>$
+^down/down<adv>/down<n><sg>$
+^down/down<adv>/down<n><sg>$ ^river/river<n><sg>$
+^drag/drag<vblex><inf>/drag<vblex><pres>/drag<vblex><imp>$
+^draw/draw<n><sg>/draw<vblex><inf>/draw<vblex><pres>/draw<vblex><imp>$ ^out/out<adv>/out<pr>$
+^draw/draw<n><sg>/draw<vblex><inf>/draw<vblex><pres>/draw<vblex><imp>$ ^water/water<n><sg>/water<vblex><inf>/water<vblex><pres>/water<vblex><imp>$
+^dread/dread<n><sg>/dread<vblex><inf>/dread<vblex><pres>/dread<vblex><imp>$
+^dream/dream<n><sg>/dream<vblex><inf>/dream<vblex><pres>/dream<vblex><imp>$
+^dress/dress<n><sg>/dress<vblex><inf>/dress<vblex><pres>/dress<vblex><imp>$
+^drink/drink<n><sg>/drink<vblex><inf>/drink<vblex><pres>/drink<vblex><imp>$
+^drip/drip<vblex><inf>/drip<vblex><pres>/drip<vblex><imp>$
+^drive/drive<n><sg>/drive<vblex><inf>/drive<vblex><pres>/drive<vblex><imp>$ ^away/away<adv>$
+^drown/drown<vblex><inf>/drown<vblex><pres>/drown<vblex><imp>$
+^drum/drum<n><sg>/drum<vblex><inf>/drum<vblex><pres>/drum<vblex><imp>$
+^drunk/drunk<adj>/drunk<n><sg>/drink<vblex><pp>$
+^drunkenness/drunkenness<n><sg>$
+^dry/dry<adj><sint>/dry<vblex><inf>/dry<vblex><pres>/dry<vblex><imp>$
+^dry up/dry<vblex><inf># up/dry<vblex><pres># up/dry<vblex><imp># up$
+^drying/drying<n><sg>/dry<vblex><pprs>/dry<vblex><subs>/dry<vblex><ger>$ ^frame/frame<n><sg>/frame<vblex><inf>/frame<vblex><pres>/frame<vblex><imp>$ ^for/for<cnjadv>/for<pr>$ ^fish/fish<n><sg>/fish<n><pl>/fish<vblex><inf>/fish<vblex><pres>/fish<vblex><imp>$
+^duck/duck<n><sg>$
+^dumb/dumb<adj><sint>$ ^person/person<n><sg>$
+^dumbness/dumbness<n><sg>$
+^dung/dung<n><sg>$
+^dupe/dupe<n><sg>/dupe<vblex><inf>/dupe<vblex><pres>/dupe<vblex><imp>$
+^dust/dust<n><sg>$
+^duty/duty<n><sg>$
+^dwell/dwell<vblex><inf>/dwell<vblex><pres>/dwell<vblex><imp>$
+^dwindle/dwindle<vblex><inf>/dwindle<vblex><pres>/dwindle<vblex><imp>$
+^each/each<det><ind><sg>/each<prn><ind><mf><sg>$
+^ear/ear<n><sg>$
+^early/early<adv>/early<adj><sint>$
+^earth/earth<n><sg>$
+^east/east<adj>/east<adv>/east<n><sg>$
+^easy/easy<adj><sint>$
+^eat/eat<vblex><inf>/eat<vblex><pres>/eat<vblex><imp>$
+^eatch/*eatch$
+^efface/*efface$
+^effort/effort<n><sg>$
+^egg/egg<n><sg>$
+^eight/eight<num><pl>$
+^eighteen/eighteen<num><pl>$
+^eighty/eighty<num><pl>$
+^either/either<adv>/either<cnjcoo>/either<det><ind><sg>/either<prn><qnt><mf><sp>$^.../...<sent>$ ^or/or<cnjcoo>$
+^eject/eject<vblex><inf>/eject<vblex><pres>/eject<vblex><imp>$
+^elbow/elbow<n><sg>$
+^elephant/elephant<n><sg>$
+^eleven/eleven<num><pl>$
+^elsewhere/elsewhere<adv>$
+^embark/embark<vblex><inf>/embark<vblex><pres>/embark<vblex><imp>$
+^embarrass/embarrass<vblex><inf>/embarrass<vblex><pres>/embarrass<vblex><imp>$
+^embolden/embolden<vblex><inf>/embolden<vblex><pres>/embolden<vblex><imp>$
+^embrace/embrace<n><sg>/embrace<vblex><inf>/embrace<vblex><pres>/embrace<vblex><imp>$
+^emerge/emerge<vblex><inf>/emerge<vblex><pres>/emerge<vblex><imp>$
+^emigrate/emigrate<vblex><inf>/emigrate<vblex><pres>/emigrate<vblex><imp>$
+^employ/employ<vblex><inf>/employ<vblex><pres>/employ<vblex><imp>$
+^employment/employment<n><sg>$
+^enact/enact<vblex><inf>/enact<vblex><pres>/enact<vblex><imp>$ ^a/a<det><ind><sg>$ ^decree/decree<n><sg>/decree<vblex><inf>/decree<vblex><pres>/decree<vblex><imp>$
+^enclosure/enclosure<n><sg>$
+^encourage/encourage<vblex><inf>/encourage<vblex><pres>/encourage<vblex><imp>$
+^end/end<n><sg>/end<vblex><inf>/end<vblex><pres>/end<vblex><imp>$
+^endeavour/endeavour<n><sg>/endeavour<vblex><inf>/endeavour<vblex><pres>/endeavour<vblex><imp>$
+^endure/endure<vblex><inf>/endure<vblex><pres>/endure<vblex><imp>$
+^enemy/enemy<n><sg>$
+^energetically/energetically<adv>$
+^energy/energy<n><sg>$
+^englishman/Englishman<n><sg>$
+^engrossed/*engrossed$
+^enjoin/enjoin<vblex><inf>/enjoin<vblex><pres>/enjoin<vblex><imp>$
+^enlarge/enlarge<vblex><inf>/enlarge<vblex><pres>/enlarge<vblex><imp>$
+^enliven/enliven<vblex><inf>/enliven<vblex><pres>/enliven<vblex><imp>$
+^enmity/enmity<n><sg>$
+^enormous/enormous<adj>$
+^enough/enough<adv>/enough<det><qnt><sp>$
+^enquire/enquire<vblex><inf>/enquire<vblex><pres>/enquire<vblex><imp>$
+^enraged/enraged<adj>/enrage<vblex><past>/enrage<vblex><pp>$
+^ensign/*ensign$
+^ensnare/ensnare<vblex><inf>/ensnare<vblex><pres>/ensnare<vblex><imp>$
+^enter/enter<vblex><inf>/enter<vblex><pres>/enter<vblex><imp>$
+^entertain/entertain<vblex><inf>/entertain<vblex><pres>/entertain<vblex><imp>$
+^entirely/entirely<adv>$
+^entrails/*entrails$
+^entrance/entrance<n><sg>$
+^entrap/*entrap$
+^entwine/entwine<vblex><inf>/entwine<vblex><pres>/entwine<vblex><imp>$
+^entwined/entwine<vblex><past>/entwine<vblex><pp>$
+^enumerate/enumerate<vblex><inf>/enumerate<vblex><pres>/enumerate<vblex><imp>$
+^envious/envious<adj>$ ^person/person<n><sg>$
+^envy/envy<n><sg>/envy<vblex><inf>/envy<vblex><pres>/envy<vblex><imp>$
+^epidemic/epidemic<n><sg>$
+^equal/equal<adj>/equal<adv>/equal<n><sg>/equal<vblex><inf>/equal<vblex><pres>/equal<vblex><imp>$
+^equity/equity<n><sg>$
+^equivalent/equivalent<adj>/equivalent<n><sg>$
+^erect/erect<vblex><inf>/erect<vblex><pres>/erect<vblex><imp>$
+^escape/escape<n><sg>/escape<vblex><inf>/escape<vblex><pres>/escape<vblex><imp>$
+^establish/establish<vblex><inf>/establish<vblex><pres>/establish<vblex><imp>$
+^eternal/eternal<adj>$
+^evacuate/evacuate<vblex><inf>/evacuate<vblex><pres>/evacuate<vblex><imp>$
+^evade/evade<vblex><inf>/evade<vblex><pres>/evade<vblex><imp>$
+^even/even<adj>/even<adv>$
+^evening/evening<n><sg>$
+^everlasting/everlasting<adj>$
+^everywhere/everywhere<adv>$
+^evil/evil<adj>/evil<n><sg>$
+^exact/exact<adj>$
+^examine/examine<vblex><inf>/examine<vblex><pres>/examine<vblex><imp>$
+^exasperate/exasperate<vblex><inf>/exasperate<vblex><pres>/exasperate<vblex><imp>$
+^exasperated/exasperate<vblex><past>/exasperate<vblex><pp>$
+^exceed/exceed<vblex><inf>/exceed<vblex><pres>/exceed<vblex><imp>$
+^excel/excel<vblex><inf>/excel<vblex><pres>/excel<vblex><imp>$
+^excellent/excellent<adj>$
+^except/except<cnjcoo>/except<pr>/except<vblex><inf>/except<vblex><pres>/except<vblex><imp>$
+^exchange/exchange<n><sg>/exchange<vblex><inf>/exchange<vblex><pres>/exchange<vblex><imp>$
+^excite/excite<vblex><inf>/excite<vblex><pres>/excite<vblex><imp>$
+^exclaim/exclaim<vblex><inf>/exclaim<vblex><pres>/exclaim<vblex><imp>$
+^excrement/excrement<n><sg>$
+^excuse/excuse<n><sg>/excuse<vblex><inf>/excuse<vblex><pres>/excuse<vblex><imp>$
+^execute/execute<vblex><inf>/execute<vblex><pres>/execute<vblex><imp>$
+^exempt/exempt<vblex><inf>/exempt<vblex><pres>/exempt<vblex><imp>$
+^exhaust/exhaust<n><sg>/exhaust<vblex><inf>/exhaust<vblex><pres>/exhaust<vblex><imp>$
+^exhibit/exhibit<n><sg>/exhibit<vblex><inf>/exhibit<vblex><pres>/exhibit<vblex><imp>$
+^exile/exile<n><sg>/exile<vblex><inf>/exile<vblex><pres>/exile<vblex><imp>$
+^exist/exist<vblex><inf>/exist<vblex><pres>/exist<vblex><imp>$
+^exonerate/exonerate<vblex><inf>/exonerate<vblex><pres>/exonerate<vblex><imp>$
+^expectorate/*expectorate$
+^expectoration/expectoration<n><sg>$
+^expedient/expedient<n><sg>$
+^expel/expel<vblex><inf>/expel<vblex><pres>/expel<vblex><imp>$
+^expense/expense<n><sg>$
+^expiate/*expiate$
+^expire/expire<vblex><inf>/expire<vblex><pres>/expire<vblex><imp>$
+^explain/explain<vblex><inf>/explain<vblex><pres>/explain<vblex><imp>$
+^expose/expose<vblex><inf>/expose<vblex><pres>/expose<vblex><imp>$
+^expose/expose<vblex><inf>/expose<vblex><pres>/expose<vblex><imp>$ ^for sale/for sale<adv>$
+^expound/expound<vblex><inf>/expound<vblex><pres>/expound<vblex><imp>$
+^extinguish/extinguish<vblex><inf>/extinguish<vblex><pres>/extinguish<vblex><imp>$
+^extol/extol<vblex><inf>/extol<vblex><pres>/extol<vblex><imp>$
+^extort/extort<vblex><inf>/extort<vblex><pres>/extort<vblex><imp>$
+^extract/extract<n><sg>/extract<vblex><inf>/extract<vblex><pres>/extract<vblex><imp>$
+^extremity/extremity<n><sg>$
+^eye/eye<n><sg>/eye<vblex><inf>/eye<vblex><pres>/eye<vblex><imp>$
+^eyebrow/eyebrow<n><sg>$
+^eyelid/eyelid<n><sg>$
+^fable/fable<n><sg>$
+^face/face<n><sg>/face<vblex><inf>/face<vblex><pres>/face<vblex><imp>$
+^face to face/face to face<adv>$
+^faeces/faeces<n><pl>$
+^faint/faint<n><sg>/faint<vblex><inf>/faint<vblex><pres>/faint<vblex><imp>$
+^faith/faith<n><sg>$
+^fall/fall<n><sg>/fall<vblex><inf>/fall<vblex><pres>/fall<vblex><imp>$
+^false/false<adj><sint>$
+^falsehood/falsehood<n><sg>$
+^family/family<adj>/family<n><sg>$
+^famish/*famish$
+^famous/famous<adj>$
+^far/far<adv>/far<adj><sint>$
+^fashion/fashion<n><sg>/fashion<vblex><inf>/fashion<vblex><pres>/fashion<vblex><imp>$
+^fast/fast<adv>/fast<adj><sint>/fast<n><sg>/fast<vblex><inf>/fast<vblex><pres>/fast<vblex><imp>$
+^fasten/fasten<vblex><inf>/fasten<vblex><pres>/fasten<vblex><imp>$
+^fat/fat<adj><sint>/fat<n><sg>$
+^father/father<n><sg>/father<vblex><inf>/father<vblex><pres>/father<vblex><imp>$
+^father-in-law/father<n><sg>#-in-law$
+^fathom/fathom<n><sg>$
+^fatigue/fatigue<n><sg>$
+^fatigued/*fatigued$
+^fatten/fatten<vblex><inf>/fatten<vblex><pres>/fatten<vblex><imp>$
+^favourable/favourable<adj>$
+^fear/fear<n><sg>/fear<vblex><inf>/fear<vblex><pres>/fear<vblex><imp>$
+^feast/feast<n><sg>$
+^feather/feather<n><sg>/feather<vblex><inf>/feather<vblex><pres>/feather<vblex><imp>$
+^feathers/feather<n><pl>/feather<vblex><pres><p3><sg>$
+^feeble/feeble<adj><sint>$
+^feed/feed<n><sg>/feed<vblex><inf>/feed<vblex><pres>/feed<vblex><imp>$
+^feel/feel<n><sg>/feel<vblex><inf>/feel<vblex><pres>/feel<vblex><imp>$
+^feign/feign<vblex><inf>/feign<vblex><pres>/feign<vblex><imp>$
+^fell/fell<vblex><inf>/fell<vblex><pres>/fell<vblex><imp>/fall<vblex><past>$ ^a/a<det><ind><sg>$ ^tree/tree<n><sg>$
+^female/female<adj>/female<n><sg>$
+^fence/fence<n><sg>/fence<vblex><inf>/fence<vblex><pres>/fence<vblex><imp>$
+^fence in/fence<vblex><inf># in/fence<vblex><pres># in/fence<vblex><imp># in$
+^fenced in/fence<vblex><past># in/fence<vblex><pp># in$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^fertilise/fertilise<vblex><inf>/fertilise<vblex><pres>/fertilise<vblex><imp>$
+^fetch/fetch<vblex><inf>/fetch<vblex><pres>/fetch<vblex><imp>$
+^few/few<adj><sint>/few<det><qnt><pl>/few<prn><ind><mf><pl>$
+^fibre/fibre<n><sg>$
+^field/field<n><sg>/field<vblex><inf>/field<vblex><pres>/field<vblex><imp>$
+^fifteen/fifteen<num><pl>$
+^fight/fight<n><sg>/fight<vblex><inf>/fight<vblex><pres>/fight<vblex><imp>$
+^fight/fight<n><sg>/fight<vblex><inf>/fight<vblex><pres>/fight<vblex><imp>$ ^together/together<adj>/together<adv>$
+^figure/figure<n><sg>/figure<vblex><inf>/figure<vblex><pres>/figure<vblex><imp>$
+^file/file<n><sg>/file<vblex><inf>/file<vblex><pres>/file<vblex><imp>$
+^fill/fill<vblex><inf>/fill<vblex><pres>/fill<vblex><imp>$
+^fill up/fill<vblex><inf># up/fill<vblex><pres># up/fill<vblex><imp># up/fill<vblex><sep><inf># up/fill<vblex><sep><pres># up/fill<vblex><sep><imp># up$ ^with/with<pr>$ ^earth/earth<n><sg>$
+^filled/fill<vblex><pp>/fill<vblex><past>$
+^find/find<vblex><inf>/find<vblex><pres>/find<vblex><imp>$
+^fine/fine<adv>/fine<adj><sint>/fine<n><sg>/fine<vblex><inf>/fine<vblex><pres>/fine<vblex><imp>$ ^for/for<cnjadv>/for<pr>$
+^finger/finger<n><sg>/finger<vblex><inf>/finger<vblex><pres>/finger<vblex><imp>$
+^finish/finish<n><sg>/finish<vblex><inf>/finish<vblex><pres>/finish<vblex><imp>$
+^finished/finish<vblex><pp>/finish<vblex><past>/finished<adj>$
+^fire/fire<n><sg>/fire<vblex><inf>/fire<vblex><pres>/fire<vblex><imp>$
+^fire/fire<n><sg>/fire<vblex><inf>/fire<vblex><pres>/fire<vblex><imp>$ ^a/a<det><ind><sg>$ ^gun/gun<n><sg>/gun<vblex><inf>/gun<vblex><pres>/gun<vblex><imp>$
+^firebrand/*firebrand$
+^firewood/firewood<n><sg>$
+^firmly/firmly<adv>$
+^first/first<adv>/first<adj><ord>$
+^fish/fish<n><sg>/fish<n><pl>/fish<vblex><inf>/fish<vblex><pres>/fish<vblex><imp>$
+^fishhook/*fishhook$
+^fishing/fishing<n><sg>/fish<vblex><pprs>/fish<vblex><subs>/fish<vblex><ger>$ ^camp/camp<n><sg>/camp<vblex><inf>/camp<vblex><pres>/camp<vblex><imp>$
+^fishing/fishing<n><sg>/fish<vblex><pprs>/fish<vblex><subs>/fish<vblex><ger>$ ^right/right<adj>/right<adv>/right<n><sg>$
+^fishtrap/*fishtrap$
+^fissure/fissure<n><sg>$
+^fist/fist<n><sg>$
+^fit/fit<adj><sint>/fit<n><sg>/fit<vblex><inf>/fit<vblex><pres>/fit<vblex><past>/fit<vblex><pp>/fit<vblex><imp>$ ^in/in<adv>/in<pr>$
+^fitting/fit<vblex><pprs>/fit<vblex><subs>/fit<vblex><ger>$
+^five/five<num><pl>$
+^fix/fix<n><sg>/fix<vblex><inf>/fix<vblex><pres>/fix<vblex><imp>$
+^fixed/fix<vblex><pp>/fix<vblex><past>/fixed<adj>/fixed<adv>$
+^flag/flag<n><sg>/flag<vblex><inf>/flag<vblex><pres>/flag<vblex><imp>$
+^flame/flame<n><sg>/flame<vblex><inf>/flame<vblex><pres>/flame<vblex><imp>$
+^flattery/flattery<n><sg>$
+^flaw/flaw<n><sg>$
+^flay/*flay$
+^flea/flea<n><sg>$
+^flee/flee<vblex><inf>/flee<vblex><pres>/flee<vblex><imp>$
+^flesh/flesh<n><sg>$
+^flexible/flexible<adj>$
+^fling/*fling$
+^flint/flint<n><sg>$ ^gun/gun<n><sg>/gun<vblex><inf>/gun<vblex><pres>/gun<vblex><imp>$
+^float/float<n><sg>/float<vblex><inf>/float<vblex><pres>/float<vblex><imp>$
+^flock/flock<n><sg>/flock<vblex><inf>/flock<vblex><pres>/flock<vblex><imp>$
+^flog/*flog$
+^floor/floor<n><sg>/floor<vblex><inf>/floor<vblex><pres>/floor<vblex><imp>$
+^flour/flour<n><sg>$
+^flower/flower<n><sg>/flower<vblex><inf>/flower<vblex><pres>/flower<vblex><imp>$
+^fly/fly<n><sg>/fly<vblex><inf>/fly<vblex><pres>/fly<vblex><imp>$
+^foam/foam<n><sg>/foam<vblex><inf>/foam<vblex><pres>/foam<vblex><imp>$
+^foetus/foetus<n><sg>$
+^fog/fog<n><sg>/fog<vblex><inf>/fog<vblex><pres>/fog<vblex><imp>$
+^fold/fold<n><sg>/fold<vblex><inf>/fold<vblex><pres>/fold<vblex><imp>$
+^follow/follow<vblex><inf>/follow<vblex><pres>/follow<vblex><imp>$
+^folly/folly<n><sg>$
+^food/food<adj>/food<n><sg>$
+^fool/fool<n><sg>$
+^foolish/foolish<adj>$
+^foot/foot<n><sg>/foot<n><pl>$
+^footprint/footprint<n><sg>$
+^forbear/*forbear$
+^forbid/forbid<vblex><inf>/forbid<vblex><pres>/forbid<vblex><imp>$
+^force/force<n><sg>/force<vblex><inf>/force<vblex><pres>/force<vblex><imp>$
+^forest/forest<adj>/forest<n><sg>/forest<vblex><inf>/forest<vblex><pres>/forest<vblex><imp>$
+^forge/forge<vblex><inf>/forge<vblex><pres>/forge<vblex><imp>$
+^forget/forget<vblex><inf>/forget<vblex><pres>/forget<vblex><imp>$
+^forgetfulness/forgetfulness<n><sg>$
+^fork/fork<n><sg>/fork<vblex><inf>/fork<vblex><pres>/fork<vblex><imp>$
+^form/form<n><sg>/form<vblex><inf>/form<vblex><pres>/form<vblex><imp>$
+^formerly/formerly<adv>$
+^formidable/formidable<adj>$
+^fornication/fornication<n><sg>$
+^forsake/*forsake$
+^fortification/fortification<n><sg>$
+^forty/forty<num><pl>$
+^foundation/foundation<n><sg>$
+^four/four<num><pl>$
+^fourteen/fourteen<num><pl>$
+^fowl/fowl<n><sg>$
+^fragile/fragile<adj>$
+^fragment/fragment<n><sg>/fragment<vblex><inf>/fragment<vblex><pres>/fragment<vblex><imp>$
+^fraternise/fraternise<vblex><inf>/fraternise<vblex><pres>/fraternise<vblex><imp>$
+^free/free<adv>/free<adj><sint>/free<vblex><inf>/free<vblex><pres>/free<vblex><imp>$
+^fresh/fresh<adj><sint>$
+^friday/Friday<n><sg>$
+^friend/friend<n><sg>$
+^friendliness/friendliness<n><sg>$
+^friendship/friendship<n><sg>$
+^fright/fright<n><sg>$
+^frighten/frighten<vblex><inf>/frighten<vblex><pres>/frighten<vblex><imp>$
+^fringe/fringe<n><sg>/fringe<vblex><inf>/fringe<vblex><pres>/fringe<vblex><imp>$
+^frog/frog<n><sg>$
+^from/from<pr>$
+^front/front<adv>/front<n><sg>/front<vblex><inf>/front<vblex><pres>/front<vblex><imp>$
+^frontier/frontier<n><sg>$
+^fruit/fruit<n><sg>$
+^fruitfulness/fruitfulness<n><sg>$
+^fry/fry<n><sg>/fry<vblex><inf>/fry<vblex><pres>/fry<vblex><imp>$
+^frypan/*frypan$
+^full/full<adj><sint>$
+^fullness/fullness<n><sg>$
+^function/function<n><sg>/function<vblex><inf>/function<vblex><pres>/function<vblex><imp>$
+^funeral/funeral<n><sg>$
+^funeral/funeral<n><sg>$ ^gift/gift<n><sg>/gift<vblex><inf>/gift<vblex><pres>/gift<vblex><imp>$
+^funnel/funnel<n><sg>$
+^gable/*gable$
+^gain/gain<n><sg>/gain<vblex><inf>/gain<vblex><pres>/gain<vblex><imp>$
+^gain/gain<n><sg>/gain<vblex><inf>/gain<vblex><pres>/gain<vblex><imp>$ ^a/a<det><ind><sg>$ ^lawsuit/lawsuit<n><sg>$
+^game/game<n><sg>$
+^garden/garden<n><sg>/garden<vblex><inf>/garden<vblex><pres>/garden<vblex><imp>$
+^gather/gather<vblex><inf>/gather<vblex><pres>/gather<vblex><imp>$
+^gather together/gather<vblex><inf># together/gather<vblex><pres># together/gather<vblex><imp># together$
+^gaze/gaze<n><sg>/gaze<vblex><inf>/gaze<vblex><pres>/gaze<vblex><imp>$ ^at/at<pr>$
+^gazelle/gazelle<n><sg>$
+^gel/gel<n><sg>$ ^away/away<adv>$
+^generation/generation<n><sg>$
+^generous/generous<adj>$
+^get/get<vblex><inf>/get<vblex><pres>/get<vblex><imp>$
+^get out/get<vblex><inf># out/get<vblex><pres># out/get<vblex><imp># out$ ^of/of<pr>$ ^the/the<det><def><sp>$
+^way/way<n><sg>$ ^get up/get<vblex><inf># up/get<vblex><pres># up/get<vblex><imp># up$
+^ghost/ghost<n><sg>$
+^gift/gift<n><sg>/gift<vblex><inf>/gift<vblex><pres>/gift<vblex><imp>$
+^girl/girl<n><sg>$
+^give/give<vblex><inf>/give<vblex><pres>/give<vblex><imp>$
+^give back/give<vblex><sep><inf># back/give<vblex><sep><pres># back/give<vblex><sep><imp># back$
+^gladden/gladden<vblex><inf>/gladden<vblex><pres>/gladden<vblex><imp>$
+^glass/glass<n><sg>$
+^glorify/glorify<vblex><inf>/glorify<vblex><pres>/glorify<vblex><imp>$
+^glory/glory<n><sg>$
+^glutton/*glutton$
+^gnaw/gnaw<vblex><inf>/gnaw<vblex><pres>/gnaw<vblex><imp>$
+^go/go<vblex><inf>/go<vblex><pres>/go<vblex><imp>$
+^go/go<vblex><inf>/go<vblex><pres>/go<vblex><imp>$ ^away/away<adv>$
+^go/go<vblex><inf>/go<vblex><pres>/go<vblex><imp>$ ^before/before<adv>/before<cnjadv>/before<pr>$
+^go down/go<vblex><inf># down/go<vblex><pres># down/go<vblex><imp># down$
+^go in/go<vblex><inf># in/go<vblex><pres># in/go<vblex><imp># in$
+^go out/go<vblex><inf># out/go<vblex><pres># out/go<vblex><imp># out$
+^go up/go<vblex><inf># up/go<vblex><pres># up/go<vblex><imp># up$ ^river/river<n><sg>$
+^goat/goat<n><sg>$
+^god/god<n><sg>$
+^going up/go<vblex><pprs># up/go<vblex><subs># up/go<vblex><ger># up$ ^river/river<n><sg>$
+^gong/gong<n><sg>$
+^good/good<adv>/good<adj><sint>/good<n><sg>$
+^gospel/gospel<n><sg>$
+^gourd/gourd<n><sg>$
+^govern/govern<vblex><inf>/govern<vblex><pres>/govern<vblex><imp>$
+^government/government<n><sg>$
+^grace/grace<n><sg>$
+^grand/grand<adj>$^-/-<guio>$^father/father<n><sg>/father<vblex><inf>/father<vblex><pres>/father<vblex><imp>$
+^grand/grand<adj>$^-/-<guio>$^mother/mother<n><sg>/mother<vblex><inf>/mother<vblex><pres>/mother<vblex><imp>$
+^grant/grant<n><sg>/grant<vblex><inf>/grant<vblex><pres>/grant<vblex><imp>$
+^grasp/grasp<n><sg>/grasp<vblex><inf>/grasp<vblex><pres>/grasp<vblex><imp>$
+^grass/grass<n><sg>$
+^grasshopper/grasshopper<n><sg>$
+^grateful/grateful<adj>$
+^gratis/*gratis$
+^gratitude/gratitude<n><sg>$
+^gratuity/*gratuity$
+^grave/grave<adj><sint>/grave<n><sg>$
+^gray/gray<adj><sint>$ ^hair/hair<n><sg>$
+^grease/grease<n><sg>/grease<vblex><inf>/grease<vblex><pres>/grease<vblex><imp>$
+^great/great<adj><sint>$
+^greatness/greatness<n><sg>$
+^grieve/grieve<vblex><inf>/grieve<vblex><pres>/grieve<vblex><imp>$
+^grind/grind<vblex><inf>/grind<vblex><pres>/grind<vblex><imp>$
+^grind/grind<vblex><inf>/grind<vblex><pres>/grind<vblex><imp>$ ^the/the<det><def><sp>$ ^teeth/tooth<n><pl>$
+^groan/groan<vblex><inf>/groan<vblex><pres>/groan<vblex><imp>$
+^grope/grope<vblex><inf>/grope<vblex><pres>/grope<vblex><imp>$
+^ground/ground<n><sg>/ground<vblex><inf>/ground<vblex><pres>/ground<vblex><imp>$
+^group/group<n><sg>/group<vblex><inf>/group<vblex><pres>/group<vblex><imp>$
+^grow/grow<vblex><inf>/grow<vblex><pres>/grow<vblex><imp>$
+^grow/grow<vblex><inf>/grow<vblex><pres>/grow<vblex><imp>$ ^big/big<adj><sint>$
+^grow/grow<vblex><inf>/grow<vblex><pres>/grow<vblex><imp>$ ^ripe/ripe<adj>$
+^guard/guard<n><sg>/guard<vblex><inf>/guard<vblex><pres>/guard<vblex><imp>$
+^guide/guide<n><sg>/guide<vblex><inf>/guide<vblex><pres>/guide<vblex><imp>$
+^guile/*guile$
+^guinea/*guinea$
+^fowl/fowl<n><sg>$ ^gum/gum<n><sg>/gum<vblex><inf>/gum<vblex><pres>/gum<vblex><imp>$ ^copal/copal<n><sg>$
+^gun/gun<n><sg>/gun<vblex><inf>/gun<vblex><pres>/gun<vblex><imp>$
+^gush/gush<n><sg>$ ^out/out<adv>/out<pr>$
+^habit/habit<n><sg>$
+^habituate/*habituate$
+^hack/hack<vblex><inf>/hack<vblex><pres>/hack<vblex><imp>$
+^hail/hail<n><sg>/hail<vblex><inf>/hail<vblex><pres>/hail<vblex><imp>$
+^hailstone/hailstone<n><sg>$
+^hair/hair<n><sg>$
+^haired/*haired$
+^half/half<adj>/half<adv>/half<n><sg>/half<det><qnt><pl>$
+^hammer/hammer<n><sg>/hammer<vblex><inf>/hammer<vblex><pres>/hammer<vblex><imp>$
+^hammock/hammock<n><sg>$
+^hand/hand<n><sg>/hand<vblex><inf>/hand<vblex><pres>/hand<vblex><imp>$
+^handcuff/handcuff<vblex><inf>/handcuff<vblex><pres>/handcuff<vblex><imp>$
+^handkerchief/handkerchief<n><sg>$
+^handle/handle<n><sg>/handle<vblex><inf>/handle<vblex><pres>/handle<vblex><imp>$
+^hang up/hang<vblex><inf># up/hang<vblex><pres># up/hang<vblex><imp># up$
+^happiness/happiness<n><sg>$
+^happy/happy<adj><sint>$
+^harass/harass<vblex><inf>/harass<vblex><pres>/harass<vblex><imp>$
+^hard/hard<adj><sint>/hard<n><sg>$
+^harden/harden<vblex><inf>/harden<vblex><pres>/harden<vblex><imp>$
+^hardened/harden<vblex><pp>/harden<vblex><past>$
+^hardness/hardness<n><sg>$
+^harem/harem<n><sg>$
+^haste/haste<n><sg>$
+^hat/hat<n><sg>$
+^hatchet/hatchet<n><sg>$
+^hate/hate<n><sg>/hate<vblex><inf>/hate<vblex><pres>/hate<vblex><imp>$
+^haul/haul<vblex><inf>/haul<vblex><pres>/haul<vblex><imp>$
+^haul/haul<vblex><inf>/haul<vblex><pres>/haul<vblex><imp>$ ^up/up<adv>/up<pr>$
+^have/have<vbhaver><inf>/have<vbhaver><pres>/have<vblex><inf>/have<vblex><pres>/have<vblex><imp>$
+^hawk/hawk<n><sg>$
+^head/head<n><sg>/head<vblex><inf>/head<vblex><pres>/head<vblex><imp>$
+^headache/headache<n><sg>$
+^heal/heal<vblex><inf>/heal<vblex><pres>/heal<vblex><imp>$
+^health/health<n><sg>$
+^healthy/healthy<adj><sint>$
+^heap/heap<n><sg>/heap<vblex><inf>/heap<vblex><pres>/heap<vblex><imp>$
+^heap together/heap<vblex><inf># together/heap<vblex><pres># together/heap<vblex><imp># together$
+^heap/heap<n><sg>/heap<vblex><inf>/heap<vblex><pres>/heap<vblex><imp>$ ^up/up<adv>/up<pr>$
+^hear/hear<vblex><inf>/hear<vblex><pres>/hear<vblex><imp>$
+^heart/heart<n><sg>$
+^heat/heat<n><sg>/heat<vblex><inf>/heat<vblex><pres>/heat<vblex><imp>$
+^heaven/heaven<n><sg>$
+^heavy/heavy<adv>/heavy<adj><sint>$
+^heavy/heavy<adv>/heavy<adj><sint>$ ^brass/brass<n><sg>$
+^hedge/hedge<n><sg>$
+^height/height<n><sg>$
+^heir/heir<n><sg>$
+^helmet/helmet<n><sg>$
+^help/help<n><sg>/help<vblex><inf>/help<vblex><pres>/help<vblex><imp>$
+^her/her<det><pos><sp>/prpers<prn><obj><p3><f><sg>/prpers<det><pos><p3><f><sg>$
+^herb/herb<n><sg>$
+^here/here<adv>$
+^heritage/heritage<n><sg>$
+^heron/heron<n><sg>$
+^hers/hers<adj><pos><pred>/prpers<prn><pos><p3><f><sg>$
+^hiccough/hiccough<n><sg>$
+^hide/hide<n><sg>/hide<vblex><inf>/hide<vblex><pres>/hide<vblex><imp>$
+^high/high<adv>/high<adj><sint>$
+^high/high<adv>/high<adj><sint>$ ^water/water<n><sg>/water<vblex><inf>/water<vblex><pres>/water<vblex><imp>$
+^hill/hill<n><sg>$
+^hillock/hillock<n><sg>$
+^him/prpers<prn><obj><p3><m><sg>$
+^himself/himself<prn><ref><p3><m><sg>$
+^hindrance/hindrance<n><sg>$
+^hinge/hinge<n><sg>/hinge<vblex><inf>/hinge<vblex><pres>/hinge<vblex><imp>$
+^hip/hip<n><sg>$
+^hippopotamus/hippopotamus<n><sg>$
+^his/his<adj><pos><pred>/his<det><pos><sp>/prpers<prn><pos><p3><m><sg>/prpers<det><pos><p3><m><sg>$
+^hit/hit<n><sg>/hit<vblex><inf>/hit<vblex><pres>/hit<vblex><past>/hit<vblex><pp>/hit<vblex><imp>$
+^hoe/hoe<n><sg>/hoe<vblex><inf>/hoe<vblex><pres>/hoe<vblex><imp>$
+^hoist/hoist<n><sg>/hoist<vblex><inf>/hoist<vblex><pres>/hoist<vblex><imp>$
+^hold/hold<n><sg>/hold<vblex><inf>/hold<vblex><pres>/hold<vblex><imp>$
+^hold/hold<n><sg>/hold<vblex><inf>/hold<vblex><pres>/hold<vblex><imp>$ ^on/on<adv>/on<pr>$
+^hold/hold<n><sg>/hold<vblex><inf>/hold<vblex><pres>/hold<vblex><imp>$ ^your/your<det><pos><sp>/prpers<det><pos><p2><mf><sp>$ ^tongue/tongue<n><sg>$
+^hole/hole<n><sg>$
+^holiday/holiday<n><sg>$
+^homage/homage<n><sg>$
+^honest/honest<adj>$
+^honey/honey<n><sg>$
+^honour/honour<n><sg>/honour<vblex><inf>/honour<vblex><pres>/honour<vblex><imp>$
+^honoured/honour<vblex><pp>/honour<vblex><past>$
+^hope/hope<n><sg>/hope<vblex><inf>/hope<vblex><pres>/hope<vblex><imp>$
+^horn/horn<n><sg>$
+^horror/horror<n><sg>$
+^horse/horse<n><sg>$
+^hour/hour<n><sg>$
+^house/house<n><sg>/house<vblex><inf>/house<vblex><pres>/house<vblex><imp>$
+^how many/how many<adv><itg>/how many<det><itg><pl>/how many<prn><itg><mf><pl>$
+^humbug/*humbug$
+^humiliate/humiliate<vblex><inf>/humiliate<vblex><pres>/humiliate<vblex><imp>$
+^hump/hump<n><sg>$
+^hundred/hundred<n><sg>$
+^hunger/hunger<n><sg>$
+^hungry/hungry<adj><sint>$
+^hunt/hunt<n><sg>/hunt<vblex><inf>/hunt<vblex><pres>/hunt<vblex><imp>$
+^hunter/hunter<n><sg>$
+^hurl/hurl<vblex><inf>/hurl<vblex><pres>/hurl<vblex><imp>$
+^husband/husband<n><sg>$
+^husk/husk<n><sg>$
+^hymn/hymn<n><sg>$
+^hypocrisy/hypocrisy<n><sg>$
+^i/*i$
+^idea/idea<n><sg>$
+^idiot/idiot<n><sg>$
+^if/if<adv>/if<cnjsub>$
+^ignorant/ignorant<adj>$ ^person/person<n><sg>$
+^ill/ill<adj><sint>$
+^illegitimate/illegitimate<adj>$
+^illegitimate child/illegitimate child<n><sg>$
+^illness/illness<n><sg>$
+^illtreat/*illtreat$
+^imbibe/imbibe<vblex><inf>/imbibe<vblex><pres>/imbibe<vblex><imp>$
+^imitate/imitate<vblex><inf>/imitate<vblex><pres>/imitate<vblex><imp>$
+^immediately/immediately<adv>$
+^immerse/immerse<vblex><inf>/immerse<vblex><pres>/immerse<vblex><imp>$
+^immodest/immodest<adj>$
+^immortal/immortal<adj>$
+^immovable/immovable<adj>$
+^impair/impair<vblex><inf>/impair<vblex><pres>/impair<vblex><imp>$
+^impertinence/impertinence<n><sg>$
+^impertinent/impertinent<adj>$
+^implicate/implicate<vblex><inf>/implicate<vblex><pres>/implicate<vblex><imp>$
+^implore/implore<vblex><inf>/implore<vblex><pres>/implore<vblex><imp>$
+^important/important<adj>$
+^impose/impose<vblex><inf>/impose<vblex><pres>/impose<vblex><imp>$ ^upon/upon<pr>$
+^imposter/imposter<n><sg>$
+^impotent/impotent<adj>$ ^man/man<n><sg>$
+^impregnate/impregnate<vblex><inf>/impregnate<vblex><pres>/impregnate<vblex><imp>$
+^impregnated/impregnate<vblex><past>/impregnate<vblex><pp>$
+^imprison/imprison<vblex><inf>/imprison<vblex><pres>/imprison<vblex><imp>$
+^improve/improve<vblex><inf>/improve<vblex><pres>/improve<vblex><imp>$
+^impudence/impudence<n><sg>$
+^in/in<adv>/in<pr>$
+^in/in<adv>/in<pr>$ ^law/law<n><sg>$
+^in/in<adv>/in<pr>$ ^that way/that way<adv>$
+^inadequate/inadequate<adj>$
+^inaintainer/*inaintainer$
+^incline/incline<vblex><inf>/incline<vblex><pres>/incline<vblex><imp>$
+^incompatible/incompatible<adj>$
+^incompetent/incompetent<adj>$
+^increase/increase<n><sg>/increase<vblex><inf>/increase<vblex><pres>/increase<vblex><imp>$
+^inculpate/*inculpate$
+^indecency/*indecency$
+^indemnify/indemnify<vblex><inf>/indemnify<vblex><pres>/indemnify<vblex><imp>$
+^indicate/indicate<vblex><inf>/indicate<vblex><pres>/indicate<vblex><imp>$
+^indifference/indifference<n><sg>$
+^indolence/*indolence$
+^induce/induce<vblex><inf>/induce<vblex><pres>/induce<vblex><imp>$
+^inform/inform<vblex><inf>/inform<vblex><pres>/inform<vblex><imp>$
+^inhabitant/inhabitant<n><sg>$
+^inherit/inherit<vblex><inf>/inherit<vblex><pres>/inherit<vblex><imp>$
+^inheritance/inheritance<n><sg>$
+^ink/ink<n><sg>$
+^innocent/innocent<adj>$
+^instantly/instantly<adv>$
+^intelligence/intelligence<n><sg>$
+^inter/inter<vblex><inf>/inter<vblex><pres>/inter<vblex><imp>$
+^intercede/intercede<vblex><inf>/intercede<vblex><pres>/intercede<vblex><imp>$
+^interchange/interchange<n><sg>$
+^interdict/interdict<n><sg>$
+^interdicted/*interdicted$
+^interpret/interpret<vblex><inf>/interpret<vblex><pres>/interpret<vblex><imp>$
+^interrogate/interrogate<vblex><inf>/interrogate<vblex><pres>/interrogate<vblex><imp>$
+^interval/interval<n><sg>$
+^intestine/intestine<n><sg>$
+^intimidate/intimidate<vblex><inf>/intimidate<vblex><pres>/intimidate<vblex><imp>$
+^into/into<pr>$
+^intoxicate/intoxicate<vblex><inf>/intoxicate<vblex><pres>/intoxicate<vblex><imp>$
+^intoxicated/intoxicated<adj>/intoxicate<vblex><past>/intoxicate<vblex><pp>$
+^invisible/invisible<adj>$
+^invite/invite<vblex><inf>/invite<vblex><pres>/invite<vblex><imp>$
+^invoke/invoke<vblex><inf>/invoke<vblex><pres>/invoke<vblex><imp>$
+^involuntarily/involuntarily<adv>$
+^iron/iron<n><sg>/iron<vblex><inf>/iron<vblex><pres>/iron<vblex><imp>$
+^irritate/irritate<vblex><inf>/irritate<vblex><pres>/irritate<vblex><imp>$
+^island/island<n><sg>$
+^issue/issue<n><sg>/issue<vblex><inf>/issue<vblex><pres>/issue<vblex><imp>$
+^it/prpers<prn><subj><p3><nt><sg>/prpers<prn><obj><p3><nt><sg>$
+^itch/itch<n><sg>/itch<vblex><inf>/itch<vblex><pres>/itch<vblex><imp>$
+^its/its<det><pos><sp>/prpers<det><pos><p3><nt><sg>$
+^itself/itself<prn><ref><p3><nt><sg>$
+^ivory/ivory<n><sg>$
+^jackal/jackal<n><sg>$ ^monsoli/*monsoli$
+^jam/jam<n><sg>/jam<vblex><inf>/jam<vblex><pres>/jam<vblex><imp>$
+^jar/jar<n><sg>/jar<vblex><inf>/jar<vblex><pres>/jar<vblex><imp>$
+^jaw/jaw<n><sg>$
+^jealous/jealous<adj>$
+^jealousy/jealousy<n><sg>$
+^join/join<vblex><inf>/join<vblex><pres>/join<vblex><imp>$
+^joke/joke<n><sg>/joke<vblex><inf>/joke<vblex><pres>/joke<vblex><imp>$
+^journey/journey<n><sg>$
+^joy/joy<n><sg>$
+^judge/judge<n><sg>/judge<vblex><inf>/judge<vblex><pres>/judge<vblex><imp>$
+^judge/judge<n><sg>/judge<vblex><inf>/judge<vblex><pres>/judge<vblex><imp>$ ^a/a<det><ind><sg>$ ^palaver/*palaver$
+^juice/juice<n><sg>$
+^jump/jump<n><sg>/jump<vblex><inf>/jump<vblex><pres>/jump<vblex><imp>$
+^just/just<adv>/just<adj><sint>$
+^just/just<adv>/just<adj><sint>$ ^man/man<n><sg>$
+^just/just<adv>/just<adj><sint>$ ^so/so<adv>/so<preadv>/so<cnjadv>$
+^justly/justly<adv>$
+^keep/keep<n><sg>/keep<vblex><inf>/keep<vblex><pres>/keep<vblex><imp>$
+^kernel/kernel<n><sg>$
+^key/key<adj>/key<n><sg>/key<vblex><inf>/key<vblex><pres>/key<vblex><imp>$
+^kick/kick<n><sg>/kick<vblex><inf>/kick<vblex><pres>/kick<vblex><imp>$
+^kidney/kidney<n><sg>$
+^kill/kill<n><sg>/kill<vblex><inf>/kill<vblex><pres>/kill<vblex><imp>$
+^kilogramme/kilogramme<n><sg>$
+^kilometre/kilometre<n><sg>$
+^kind/kind<adj><sint>/kind<n><sg>$
+^king/king<n><sg>$
+^kingdom/kingdom<n><sg>$
+^kinsman/*kinsman$
+^kiss/kiss<n><sg>/kiss<vblex><inf>/kiss<vblex><pres>/kiss<vblex><imp>$
+^kitchen/kitchen<n><sg>$
+^knead/knead<vblex><inf>/knead<vblex><pres>/knead<vblex><imp>$
+^knee/knee<n><sg>$
+^kneel/kneel<vblex><inf>/kneel<vblex><pres>/kneel<vblex><imp>$
+^knife/knife<n><sg>$
+^knob/knob<n><sg>$
+^knock/knock<n><sg>/knock<vblex><inf>/knock<vblex><pres>/knock<vblex><imp>$
+^knot/knot<n><sg>/knot<vblex><inf>/knot<vblex><pres>/knot<vblex><imp>$
+^know/know<vblex><inf>/know<vblex><pres>/know<vblex><imp>$
+^known/known<adj>/know<vblex><pp>$
+^kundwa/*kundwa$^;/;<sent>$ ^water/water<n><sg>/water<vblex><inf>/water<vblex><pres>/water<vblex><imp>$ ^spirit/spirit<n><sg>$
+^labour/labour<adj>/labour<n><sg>/labour<vblex><inf>/labour<vblex><pres>/labour<vblex><imp>$
+^labourer/labourer<n><sg>$
+^lad/lad<n><sg>$
+^ladder/ladder<n><sg>$
+^lag/*lag$
+^lair/lair<n><sg>$
+^lake/lake<n><sg>$
+^lament/lament<n><sg>/lament<vblex><inf>/lament<vblex><pres>/lament<vblex><imp>$
+^lamp/lamp<n><sg>$
+^land/land<n><sg>/land<vblex><inf>/land<vblex><pres>/land<vblex><imp>$
+^landing/landing<n><sg>/land<vblex><pprs>/land<vblex><subs>/land<vblex><ger>$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^language/language<n><sg>$
+^lantern/lantern<n><sg>$
+^large/large<adj><sint>$
+^lash/lash<n><sg>/lash<vblex><inf>/lash<vblex><pres>/lash<vblex><imp>$
+^last/last<adj>/last<adj><ord>/last<vblex><inf>/last<vblex><pres>/last<vblex><imp>$
+^lath/*lath$
+^laugh/laugh<n><sg>/laugh<vblex><inf>/laugh<vblex><pres>/laugh<vblex><imp>$
+^laugh/laugh<n><sg>/laugh<vblex><inf>/laugh<vblex><pres>/laugh<vblex><imp>$ ^at/at<pr>$
+^laughter/laughter<n><sg>$
+^law/law<n><sg>$
+^lawful/lawful<adj>$
+^lawsuit/lawsuit<n><sg>$
+^lay/lay<adj>/lay<vblex><inf>/lay<vblex><pres>/lay<vblex><imp>/lie<vblex><past>$ ^eggs/egg<n><pl>$
+^lay/lay<adj>/lay<vblex><inf>/lay<vblex><pres>/lay<vblex><imp>/lie<vblex><past>$ ^hold/hold<n><sg>/hold<vblex><inf>/hold<vblex><pres>/hold<vblex><imp>$
+^lay/lay<adj>/lay<vblex><inf>/lay<vblex><pres>/lay<vblex><imp>/lie<vblex><past>$ ^the/the<det><def><sp>$ ^table/table<n><sg>/table<vblex><inf>/table<vblex><pres>/table<vblex><imp>$
+^lay/lay<adj>/lay<vblex><inf>/lay<vblex><pres>/lay<vblex><imp>/lie<vblex><past>$ ^up/up<adv>/up<pr>$
+^lazy/lazy<adj><sint>$
+^lead/lead<n><sg>/lead<vblex><inf>/lead<vblex><pres>/lead<vblex><imp>$
+^leaf/leaf<n><sg>/leaf<vblex><inf>/leaf<vblex><pres>/leaf<vblex><imp>$
+^lean/lean<adj><sint>/lean<n><sg>/lean<vblex><inf>/lean<vblex><pres>/lean<vblex><imp>$
+^leap/leap<n><sg>/leap<vblex><inf>/leap<vblex><pres>/leap<vblex><imp>$
+^learn/learn<vblex><inf>/learn<vblex><pres>/learn<vblex><imp>$
+^leave/leave<n><sg>/leave<vblex><inf>/leave<vblex><pres>/leave<vblex><imp>$
+^leaves/leaf<n><pl>/leave<n><pl>/leave<vblex><pres><p3><sg>$
+^leg/leg<n><sg>$
+^lemon/lemon<n><sg>$
+^lend/lend<vblex><inf>/lend<vblex><pres>/lend<vblex><imp>$
+^lender/lender<n><sg>$
+^lengthen/lengthen<vblex><inf>/lengthen<vblex><pres>/lengthen<vblex><imp>$
+^leopard/leopard<n><sg>$
+^leprosy/leprosy<n><sg>$
+^lesson/lesson<n><sg>$
+^let/let<vblex><inf>/let<vblex><pres>/let<vblex><past>/let<vblex><pp>/let<vblex><imp>$
+^let/let<vblex><inf>/let<vblex><pres>/let<vblex><past>/let<vblex><pp>/let<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^letter/letter<n><sg>$
+^lettuce/lettuce<n><sg>$
+^level/level<n><sg>/level<vblex><inf>/level<vblex><pres>/level<vblex><imp>$
+^liberal/liberal<adj>$ ^person/person<n><sg>$
+^liberality/liberality<n><sg>$
+^liberate/liberate<vblex><inf>/liberate<vblex><pres>/liberate<vblex><imp>$
+^lick/lick<vblex><inf>/lick<vblex><pres>/lick<vblex><imp>$
+^lie/lie<n><sg>/lie<vblex><inf>/lie<vblex><pres>/lie<vblex><imp>$
+^life/life<n><sg>$
+^lift/lift<n><sg>/lift<vblex><inf>/lift<vblex><pres>/lift<vblex><imp>$
+^light/light<adv>/light<adj><sint>/light<n><sg>/light<vblex><inf>/light<vblex><pres>/light<vblex><imp>$
+^lightening/lightening<n><sg>/lighten<vblex><pprs>/lighten<vblex><subs>/lighten<vblex><ger>$
+^lime/lime<n><sg>/lime<vblex><inf>/lime<vblex><pres>/lime<vblex><imp>$
+^limit/limit<n><sg>/limit<vblex><inf>/limit<vblex><pres>/limit<vblex><imp>$
+^limp/limp<vblex><inf>/limp<vblex><pres>/limp<vblex><imp>$
+^line/line<n><sg>/line<vblex><inf>/line<vblex><pres>/line<vblex><imp>$
+^linger/linger<vblex><inf>/linger<vblex><pres>/linger<vblex><imp>$
+^lion/lion<n><sg>$
+^lip/lip<n><sg>$
+^liquid/liquid<adj>/liquid<n><sg>$
+^liquify/*liquify$
+^listen to/listen<vblex><inf># to/listen<vblex><pres># to/listen<vblex><imp># to$
+^litigation/litigation<n><sg>$
+^litre/litre<n><sg>$
+^little/little<adj>/little<adv>/little<det><qnt><sg>$
+^live/live<vblex><inf>/live<vblex><pres>/live<vblex><imp>$
+^live/live<vblex><inf>/live<vblex><pres>/live<vblex><imp>$ ^in/in<adv>/in<pr>$ ^dissension/dissension<n><sg>$
+^liver/liver<n><sg>$
+^lizard/lizard<n><sg>$
+^loan/loan<n><sg>/loan<vblex><inf>/loan<vblex><pres>/loan<vblex><imp>$
+^loathe/loathe<vblex><inf>/loathe<vblex><pres>/loathe<vblex><imp>$
+^lock/lock<n><sg>/lock<vblex><inf>/lock<vblex><pres>/lock<vblex><imp>$
+^lodge/lodge<n><sg>/lodge<vblex><inf>/lodge<vblex><pres>/lodge<vblex><imp>$
+^lodging/lodging<n><sg>/lodge<vblex><pprs>/lodge<vblex><subs>/lodge<vblex><ger>$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^loiter/loiter<vblex><inf>/loiter<vblex><pres>/loiter<vblex><imp>$
+^long/long<adv>/long<adj><sint>/long<vblex><inf>/long<vblex><pres>/long<vblex><imp>$
+^long/long<adv>/long<adj><sint>/long<vblex><inf>/long<vblex><pres>/long<vblex><imp>$ ^ago/ago<adv>$
+^long/long<adv>/long<adj><sint>/long<vblex><inf>/long<vblex><pres>/long<vblex><imp>$ ^cassava/cassava<n><sg>$ ^puddings/pudding<n><pl>$
+^look/look<adv>/look<n><sg>/look<vblex><inf>/look<vblex><pres>/look<vblex><imp>$
+^look at/look<vblex><inf># at/look<vblex><pres># at/look<vblex><imp># at$
+^look for/look<vblex><inf># for/look<vblex><pres># for/look<vblex><imp># for$
+^looking/look<vblex><pprs>/look<vblex><subs>/look<vblex><ger>$ ^glass/glass<n><sg>$
+^looks/look<n><pl>/look<vblex><pres><p3><sg>$
+^loosen/loosen<vblex><inf>/loosen<vblex><pres>/loosen<vblex><imp>$
+^loot/loot<vblex><inf>/loot<vblex><pres>/loot<vblex><imp>$
+^lord/lord<n><sg>/lord<vblex><inf>/lord<vblex><pres>/lord<vblex><imp>$
+^lose/lose<n><sg>/lose<vblex><inf>/lose<vblex><pres>/lose<vblex><imp>$
+^lose/lose<n><sg>/lose<vblex><inf>/lose<vblex><pres>/lose<vblex><imp>$ ^a/a<det><ind><sg>$ ^lawsuit/lawsuit<n><sg>$
+^lose/lose<n><sg>/lose<vblex><inf>/lose<vblex><pres>/lose<vblex><imp>$ ^one’s/one's<prn><ind><mf><sg>$ ^way/way<n><sg>$
+^louse/louse<n><sg>$
+^love/love<n><sg>/love<vblex><inf>/love<vblex><pres>/love<vblex><imp>$
+^low/low<adv>/low<adj><sint>/low<vblex><inf>/low<vblex><pres>/low<vblex><imp>$ ^water/water<n><sg>/water<vblex><inf>/water<vblex><pres>/water<vblex><imp>$
+^lower/lower<adv>/low<adj><sint><comp>/lower<vblex><inf>/lower<vblex><pres>/lower<vblex><imp>$
+^lower/lower<adv>/low<adj><sint><comp>/lower<vblex><inf>/lower<vblex><pres>/lower<vblex><imp>$ ^than/than<cnjsub>$
+^lungs/lung<n><pl>$
+^lust/lust<n><sg>$
+^machine/machine<n><sg>$
+^magazine/magazine<n><sg>$
+^maggot/maggot<n><sg>$
+^magnified/magnify<vblex><pp>/magnify<vblex><past>$
+^magnify/magnify<vblex><inf>/magnify<vblex><pres>/magnify<vblex><imp>$
+^maiden/maiden<adj>/maiden<n><sg>$
+^maim/*maim$
+^maintain/maintain<vblex><inf>/maintain<vblex><pres>/maintain<vblex><imp>$
+^maize/maize<n><sg>$
+^make/make<n><sg>/make<vblex><inf>/make<vblex><pres>/make<vblex><imp>$
+^make/make<n><sg>/make<vblex><inf>/make<vblex><pres>/make<vblex><imp>$ ^an/a<det><ind><sg>$ ^inquiry/inquiry<n><sg>$
+^make/make<n><sg>/make<vblex><inf>/make<vblex><pres>/make<vblex><imp>$ ^fast/fast<adv>/fast<adj><sint>/fast<n><sg>/fast<vblex><inf>/fast<vblex><pres>/fast<vblex><imp>$
+^male/male<adj>/male<n><sg>$
+^malice/malice<n><sg>$
+^malign/malign<adj>/malign<vblex><inf>/malign<vblex><pres>/malign<vblex><imp>$
+^man/man<n><sg>$
+^mango/*mango$
+^manifest/manifest<vblex><inf>/manifest<vblex><pres>/manifest<vblex><imp>$
+^manioc/*manioc$
+^manner/manner<n><sg>$
+^manufacture/manufacture<n><sg>/manufacture<vblex><inf>/manufacture<vblex><pres>/manufacture<vblex><imp>$
+^manure/manure<n><sg>/manure<vblex><inf>/manure<vblex><pres>/manure<vblex><imp>$
+^march/march<n><sg>/march<vblex><inf>/march<vblex><pres>/march<vblex><imp>$
+^mark/mark<n><sg>/mark<vblex><inf>/mark<vblex><pres>/mark<vblex><imp>$
+^market/market<n><sg>/market<vblex><inf>/market<vblex><pres>/market<vblex><imp>$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^marriage/marriage<n><sg>$
+^marry/marry<vblex><inf>/marry<vblex><pres>/marry<vblex><imp>$
+^marvel/marvel<n><sg>$
+^masculine/masculine<adj>$
+^mask/mask<n><sg>/mask<vblex><inf>/mask<vblex><pres>/mask<vblex><imp>$
+^mass/mass<adj>/mass<n><sg>/mass<vblex><inf>/mass<vblex><pres>/mass<vblex><imp>$
+^massage/massage<n><sg>/massage<vblex><inf>/massage<vblex><pres>/massage<vblex><imp>$
+^mat/mat<adj>/mat<n><sg>$
+^match/match<n><sg>/match<vblex><inf>/match<vblex><pres>/match<vblex><imp>$
+^match/match<n><sg>/match<vblex><inf>/match<vblex><pres>/match<vblex><imp>$ ^oneself/oneself<prn><ref><p1><mf><sg>/oneself<prn><ref><p3><mf><sg>$
+^matter/matter<n><sg>/matter<vblex><inf>/matter<vblex><pres>/matter<vblex><imp>$
+^meal/meal<n><sg>$
+^mean/mean<adj><sint>/mean<n><sg>/mean<vblex><inf>/mean<vblex><pres>/mean<vblex><imp>$
+^meaning/meaning<n><sg>/mean<vblex><pprs>/mean<vblex><subs>/mean<vblex><ger>$
+^measure/measure<n><sg>/measure<vblex><inf>/measure<vblex><pres>/measure<vblex><imp>$
+^meat/meat<n><sg>$
+^medicine/medicine<n><sg>$
+^meditate/meditate<vblex><inf>/meditate<vblex><pres>/meditate<vblex><imp>$
+^meet/meet<vblex><inf>/meet<vblex><pres>/meet<vblex><imp>$ ^together/together<adj>/together<adv>$
+^meeting/meeting<n><sg>/meet<vblex><pprs>/meet<vblex><subs>/meet<vblex><ger>$
+^melt/melt<vblex><inf>/melt<vblex><pres>/melt<vblex><imp>$
+^merchant/merchant<n><sg>$
+^mercy/mercy<n><sg>$
+^merely/merely<adv>$
+^message/message<n><sg>$
+^messenger/messenger<n><sg>$
+^midday/midday<n><sg>$
+^middle/middle<adj>/middle<n><sg>$
+^midnight/midnight<n><sg>$
+^midwife/midwife<n><sg>$
+^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$
+^millipede/millipede<n><sg>$
+^mimic/mimic<n><sg>$
+^mince/mince<n><sg>/mince<vblex><inf>/mince<vblex><pres>/mince<vblex><imp>$
+^mine/mine<n><sg>/mine<vblex><inf>/mine<vblex><pres>/mine<vblex><imp>/mine<adj><pos><pred>/prpers<prn><pos><p1><mf><sg>$
+^minor/minor<adj>/minor<n><sg>$
+^minute/minute<n><sg>$
+^mirror/mirror<n><sg>/mirror<vblex><inf>/mirror<vblex><pres>/mirror<vblex><imp>$
+^miser/*miser$
+^misery/misery<n><sg>$
+^mislead/mislead<vblex><inf>/mislead<vblex><pres>/mislead<vblex><imp>$
+^mislead/mislead<vblex><inf>/mislead<vblex><pres>/mislead<vblex><imp>$ ^one/one<num><sg>/one<prn><dem><mf><sg>$ ^another/another<det><ind><sg>/another<prn><ind><mf><sg>$
+^miss/miss<vblex><inf>/miss<vblex><pres>/miss<vblex><imp>/Miss<n><sg>$
+^miss/miss<vblex><inf>/miss<vblex><pres>/miss<vblex><imp>/Miss<n><sg>$ ^fire/fire<n><sg>/fire<vblex><inf>/fire<vblex><pres>/fire<vblex><imp>$
+^mist/mist<n><sg>$
+^mix/mix<n><sg>/mix<vblex><inf>/mix<vblex><pres>/mix<vblex><imp>$
+^mixed/mix<vblex><pp>/mix<vblex><past>/mixed<adj>$
+^moan/moan<n><sg>/moan<vblex><inf>/moan<vblex><pres>/moan<vblex><imp>$
+^mock/mock<vblex><inf>/mock<vblex><pres>/mock<vblex><imp>$
+^moisten/moisten<vblex><inf>/moisten<vblex><pres>/moisten<vblex><imp>$
+^monday/Monday<n><sg>$
+^money/money<n><sg>$
+^monitor/monitor<n><sg>/monitor<vblex><inf>/monitor<vblex><pres>/monitor<vblex><imp>$ ^lizard/lizard<n><sg>$
+^monkey/monkey<n><sg>$
+^monsieur/monsieur<n><sg>$
+^month/month<n><sg>$
+^monthly/monthly<adj>/monthly<adv>/monthly<n><sg>$
+^moon/moon<n><sg>$
+^more/more<adv>/more<preadv>/more<n><sg>/more<det><qnt><sp>$
+^morning/morning<n><sg>$
+^morsel/morsel<n><sg>$
+^mortar/mortar<n><sg>$
+^mosquito/mosquito<n><sg>$
+^mosquito/mosquito<n><sg>$ ^net/net<adv>/net<adj><sint>/net<n><sg>$
+^mother/mother<n><sg>/mother<vblex><inf>/mother<vblex><pres>/mother<vblex><imp>$
+^mother-in-law/mother<n><sg>#-in-law$
+^motive/motive<n><sg>$
+^mound/mound<n><sg>$
+^mount/mount<n><sg>/mount<vblex><inf>/mount<vblex><pres>/mount<vblex><imp>$
+^mountain/mountain<n><sg>$
+^mourn/mourn<vblex><inf>/mourn<vblex><pres>/mourn<vblex><imp>$
+^mouse/mouse<n><sg>$
+^moustache/moustache<n><sg>$
+^mouth/mouth<n><sg>/mouth<vblex><inf>/mouth<vblex><pres>/mouth<vblex><imp>$
+^move/move<n><sg>/move<vblex><inf>/move<vblex><pres>/move<vblex><imp>$
+^much/much<adv>/much<det><qnt><sg>/much<prn><qnt><mf><sp>$
+^mucus/mucus<n><sg>$
+^mud/mud<n><sg>$
+^muddle/muddle<vblex><inf>/muddle<vblex><pres>/muddle<vblex><imp>$
+^muddled/muddled<adj>/muddle<vblex><past>/muddle<vblex><pp>$
+^multiply/multiply<vblex><inf>/multiply<vblex><pres>/multiply<vblex><imp>$
+^murder/murder<n><sg>/murder<vblex><inf>/murder<vblex><pres>/murder<vblex><imp>$
+^murmur/murmur<n><sg>/murmur<vblex><inf>/murmur<vblex><pres>/murmur<vblex><imp>$
+^muscle/muscle<n><sg>$
+^mushroon/*mushroon$
+^music/music<n><sg>$
+^musty/musty<adj><sint>$
+^mute/mute<vblex><inf>/mute<vblex><pres>/mute<vblex><imp>$ ^person/person<n><sg>$
+^my/my<det><pos><sp>/prpers<det><pos><p1><mf><sg>$
+^nail/nail<n><sg>/nail<vblex><inf>/nail<vblex><pres>/nail<vblex><imp>$
+^nail/nail<n><sg>/nail<vblex><inf>/nail<vblex><pres>/nail<vblex><imp>$ ^puller/*puller$
+^naked/naked<adj>$
+^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$
+^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$^-/-<guio>$^sake/sake<adv>/sake<n><sg>$
+^narrate/narrate<vblex><inf>/narrate<vblex><pres>/narrate<vblex><imp>$
+^narrowness/narrowness<n><sg>$
+^nation/nation<n><sg>$
+^native/native<adj>/native<n><sg>$
+^native/native<adj>/native<n><sg>$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^nature/nature<n><sg>$
+^navel/navel<n><sg>$
+^ndako/*ndako$ ^ebongi/*ebongi$
+^near/near<adv>/near<pr>/near<adj><sint>$
+^neck/neck<n><sg>$
+^necklace/necklace<n><sg>$
+^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$
+^needle/needle<n><sg>$
+^neglect/neglect<n><sg>/neglect<vblex><inf>/neglect<vblex><pres>/neglect<vblex><imp>$
+^negro/negro<n><sg>$
+^neighbour/neighbour<n><sg>$
+^nerve/nerve<n><sg>$
+^nervous/nervous<adj>$ ^person/person<n><sg>$
+^net/net<adv>/net<adj><sint>/net<n><sg>$
+^never/never<adv>$
+^nevertheless/nevertheless<adv>$
+^new/new<adj><sint>$
+^news/news<n><sg>$
+^next/next<adj>/next<adv>$
+^next week/next week<adv>$
+^niggardly/*niggardly$
+^night/night<n><sg>$
+^nightmare/nightmare<n><sg>$
+^nine/nine<num><pl>$
+^nipple/nipple<n><sg>$
+^no/no<adv>/no<det><ind><sp>$
+^noise/noise<n><sg>$
+^nonsensical/nonsensical<adj>$ ^talk/talk<n><sg>/talk<vblex><inf>/talk<vblex><pres>/talk<vblex><imp>$
+^nook/*nook$
+^not/not<adv>$
+^nothing/nothing<adv>/nothing<n><sg>/nothing<prn><ind><mf><sg>$
+^notify/notify<vblex><inf>/notify<vblex><pres>/notify<vblex><imp>$
+^nourish/nourish<vblex><inf>/nourish<vblex><pres>/nourish<vblex><imp>$
+^now/now<adv>$
+^nurse/nurse<n><sg>/nurse<vblex><inf>/nurse<vblex><pres>/nurse<vblex><imp>$
+^nuts/nut<n><pl>$
+^oar/oar<n><sg>$
+^oath/oath<n><sg>$
+^obey/obey<vblex><inf>/obey<vblex><pres>/obey<vblex><imp>$
+^obscure/obscure<adj>/obscure<vblex><inf>/obscure<vblex><pres>/obscure<vblex><imp>$
+^obstacle/obstacle<n><sg>$
+^obstinate/*obstinate$
+^obtain/obtain<vblex><inf>/obtain<vblex><pres>/obtain<vblex><imp>$
+^occupation/occupation<n><sg>$
+^of/of<pr>$
+^of/of<pr>$ ^a/a<det><ind><sg>$ ^tree/tree<n><sg>$
+^of/of<pr>$ ^cassava/cassava<n><sg>$
+^of/of<pr>$ ^character/character<n><sg>$
+^of/of<pr>$ ^wind/wind<n><sg>/wind<vblex><inf>/wind<vblex><pres>/wind<vblex><imp>$
+^offer/offer<n><sg>/offer<vblex><inf>/offer<vblex><pres>/offer<vblex><imp>$
+^offspring/offspring<n><sg>$
+^oil/oil<adj>/oil<n><sg>/oil<vblex><inf>/oil<vblex><pres>/oil<vblex><imp>$
+^old/old<adj><sint>$
+^old/old<adj><sint>$ ^man/man<n><sg>$
+^old/old<adj><sint>$ ^times/time<n><pl>/time<vblex><pres><p3><sg>$
+^omit/omit<vblex><inf>/omit<vblex><pres>/omit<vblex><imp>$
+^on/on<adv>/on<pr>$ ^the/the<det><def><sp>$ ^shoulder/shoulder<n><sg>/shoulder<vblex><inf>/shoulder<vblex><pres>/shoulder<vblex><imp>$
+^one/one<num><sg>/one<prn><dem><mf><sg>$
+^one by one/one by one<adv>$
+^onion/onion<n><sg>$
+^only/only<adj>/only<adv>$
+^ooze/ooze<n><sg>$
+^open/open<adj>/open<vblex><inf>/open<vblex><pres>/open<vblex><imp>$
+^opening/opening<adj>/opening<n><sg>/open<vblex><pprs>/open<vblex><subs>/open<vblex><ger>$
+^oppress/oppress<vblex><inf>/oppress<vblex><pres>/oppress<vblex><imp>$
+^or/or<cnjcoo>$
+^orange/orange<adj>/orange<n><sg>$
+^organ/organ<n><sg>$
+^ornamentation/ornamentation<n><sg>$
+^orphan/orphan<adj>/orphan<n><sg>$
+^other/other<det><ind><sp>$
+^other/other<det><ind><sp>$ ^people/people<n><sg>/person<n><pl>$
+^ours/ours<adj><pos><pred>/prpers<prn><pos><p1><mf><pl>$
+^out/out<adv>/out<pr>$
+^outside/outside<adj>/outside<adv>/outside<pr>/outside<n><sg>$
+^oval/oval<adj>/oval<n><sg>$
+^overcoat/overcoat<n><sg>$
+^overcome/overcome<vblex><inf>/overcome<vblex><pres>/overcome<vblex><pp>/overcome<vblex><imp>$
+^overflow/overflow<n><sg>/overflow<vblex><inf>/overflow<vblex><pres>/overflow<vblex><imp>$
+^overthrow/overthrow<n><sg>/overthrow<vblex><inf>/overthrow<vblex><pres>/overthrow<vblex><imp>$
+^owl/owl<n><sg>$
+^own/own<adj>/own<vblex><inf>/own<vblex><pres>/own<vblex><imp>$
+^owner/owner<n><sg>$
+^oyster/oyster<n><sg>$
+^pacified/pacify<vblex><pp>/pacify<vblex><past>$
+^pacify/pacify<vblex><inf>/pacify<vblex><pres>/pacify<vblex><imp>$
+^package/package<n><sg>/package<vblex><inf>/package<vblex><pres>/package<vblex><imp>$
+^paddle/paddle<vblex><inf>/paddle<vblex><pres>/paddle<vblex><imp>$
+^paddler/paddler<n><sg>$
+^padlock/padlock<n><sg>$
+^page/page<n><sg>$
+^pain/pain<n><sg>$
+^paint/paint<n><sg>/paint<vblex><inf>/paint<vblex><pres>/paint<vblex><imp>$
+^palaver/*palaver$
+^pale/pale<adj>$
+^palmtree/*palmtree$
+^paper/paper<n><sg>/paper<vblex><inf>/paper<vblex><pres>/paper<vblex><imp>$
+^parable/parable<n><sg>$
+^paradise/paradise<n><sg>$
+^parasol/parasol<n><sg>$
+^parcel/parcel<n><sg>$
+^pardon/pardon<n><sg>/pardon<vblex><inf>/pardon<vblex><pres>/pardon<vblex><imp>$
+^pardoned/pardon<vblex><pp>/pardon<vblex><past>$
+^parent/parent<n><sg>$
+^parry/*parry$
+^part/part<n><sg>/part<vblex><inf>/part<vblex><pres>/part<vblex><imp>$ ^by/by<adv>/by<pr>$ ^part/part<n><sg>/part<vblex><inf>/part<vblex><pres>/part<vblex><imp>$
+^pass/pass<n><sg>/pass<vblex><inf>/pass<vblex><pres>/pass<vblex><imp>$
+^pass/pass<n><sg>/pass<vblex><inf>/pass<vblex><pres>/pass<vblex><imp>$ ^out/out<adv>/out<pr>$
+^passage/passage<n><sg>$
+^past/past<adj>/past<pr>/past<n><sg>$ ^time/time<n><sg>/time<vblex><inf>/time<vblex><pres>/time<vblex><imp>$
+^paste/paste<n><sg>/paste<vblex><inf>/paste<vblex><pres>/paste<vblex><imp>$
+^path/path<n><sg>$
+^patience/patience<n><sg>$
+^patient/patient<adj>/patient<n><sg>$
+^paw/paw<n><sg>/paw<vblex><inf>/paw<vblex><pres>/paw<vblex><imp>$
+^paw/paw<n><sg>/paw<vblex><inf>/paw<vblex><pres>/paw<vblex><imp>$^-/-<guio>$^paw/paw<n><sg>/paw<vblex><inf>/paw<vblex><pres>/paw<vblex><imp>$
+^pawn/pawn<n><sg>/pawn<vblex><inf>/pawn<vblex><pres>/pawn<vblex><imp>$
+^pay/pay<n><sg>/pay<vblex><inf>/pay<vblex><pres>/pay<vblex><imp>$
+^pea/pea<n><sg>$ ^nut/nut<n><sg>$
+^peace/peace<n><sg>$
+^peel/peel<n><sg>/peel<vblex><inf>/peel<vblex><pres>/peel<vblex><imp>$
+^pen/pen<n><sg>/pen<vblex><inf>/pen<vblex><pres>/pen<vblex><imp>$
+^pencil/pencil<n><sg>/pencil<vblex><inf>/pencil<vblex><pres>/pencil<vblex><imp>$
+^penetrate/penetrate<vblex><inf>/penetrate<vblex><pres>/penetrate<vblex><imp>$
+^people/people<n><sg>/person<n><pl>$
+^pepper/pepper<n><sg>/pepper<vblex><inf>/pepper<vblex><pres>/pepper<vblex><imp>$
+^perceive/perceive<vblex><inf>/perceive<vblex><pres>/perceive<vblex><imp>$
+^perch/perch<n><sg>$
+^perfect/perfect<adj>/perfect<vblex><inf>/perfect<vblex><pres>/perfect<vblex><imp>$
+^perform/perform<vblex><inf>/perform<vblex><pres>/perform<vblex><imp>$
+^perhaps/perhaps<adv>$
+^period/period<n><sg>$
+^perish/perish<vblex><inf>/perish<vblex><pres>/perish<vblex><imp>$
+^permanent/permanent<adj>$
+^permit/permit<n><sg>/permit<vblex><inf>/permit<vblex><pres>/permit<vblex><imp>$
+^perpetual/perpetual<adj>$
+^perplex/*perplex$
+^perplexed/perplexed<adj>$
+^persecute/persecute<vblex><inf>/persecute<vblex><pres>/persecute<vblex><imp>$
+^persecution/persecution<n><sg>$
+^persevere/persevere<vblex><inf>/persevere<vblex><pres>/persevere<vblex><imp>$
+^person/person<n><sg>$
+^perspiration/perspiration<n><sg>$
+^perspire/perspire<vblex><inf>/perspire<vblex><pres>/perspire<vblex><imp>$
+^persuade/persuade<vblex><inf>/persuade<vblex><pres>/persuade<vblex><imp>$
+^pervert/pervert<n><sg>/pervert<vblex><inf>/pervert<vblex><pres>/pervert<vblex><imp>$
+^pestilence/pestilence<n><sg>$
+^pickaxe/pickaxe<n><sg>$
+^picture/picture<n><sg>/picture<vblex><inf>/picture<vblex><pres>/picture<vblex><imp>$
+^pie/pie<n><sg>$
+^piece/piece<n><sg>/piece<vblex><inf>/piece<vblex><pres>/piece<vblex><imp>$
+^pierce/pierce<vblex><inf>/pierce<vblex><pres>/pierce<vblex><imp>$
+^pig/pig<n><sg>$
+^pigeon/pigeon<n><sg>$
+^pilfer/pilfer<vblex><inf>/pilfer<vblex><pres>/pilfer<vblex><imp>$
+^pill/pill<n><sg>$
+^pillage/pillage<n><sg>/pillage<vblex><inf>/pillage<vblex><pres>/pillage<vblex><imp>$
+^pillow/pillow<n><sg>$
+^pilot/pilot<adj>/pilot<n><sg>/pilot<vblex><inf>/pilot<vblex><pres>/pilot<vblex><imp>$
+^pincers/pincers<n><pl>$
+^pipe/pipe<n><sg>/pipe<vblex><inf>/pipe<vblex><pres>/pipe<vblex><imp>$
+^pit/pit<n><sg>/pit<vblex><inf>/pit<vblex><pres>/pit<vblex><imp>$
+^pity/pity<n><sg>/pity<vblex><inf>/pity<vblex><pres>/pity<vblex><imp>$
+^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^placenta/placenta<n><sg>$
+^plague/plague<n><sg>/plague<vblex><inf>/plague<vblex><pres>/plague<vblex><imp>$
+^plain/plain<adj><sint>/plain<n><sg>$
+^plainly/plainly<adv>$
+^plane/plane<n><sg>/plane<vblex><inf>/plane<vblex><pres>/plane<vblex><imp>$
+^plank/plank<n><sg>$
+^plant/plant<n><sg>/plant<vblex><inf>/plant<vblex><pres>/plant<vblex><imp>$
+^plantain/plantain<n><sg>$
+^plantation/plantation<n><sg>$
+^plaster/plaster<n><sg>/plaster<vblex><inf>/plaster<vblex><pres>/plaster<vblex><imp>$
+^plate/plate<n><sg>/plate<vblex><inf>/plate<vblex><pres>/plate<vblex><imp>$
+^play/play<n><sg>/play<vblex><inf>/play<vblex><pres>/play<vblex><imp>$
+^plead/plead<vblex><inf>/plead<vblex><pres>/plead<vblex><imp>$
+^please/please<adv>/please<ij>/please<vblex><inf>/please<vblex><pres>/please<vblex><imp>$
+^pleasure/pleasure<n><sg>$
+^pledge/pledge<n><sg>/pledge<vblex><inf>/pledge<vblex><pres>/pledge<vblex><imp>$
+^pluck/pluck<vblex><inf>/pluck<vblex><pres>/pluck<vblex><imp>$
+^pluck/pluck<vblex><inf>/pluck<vblex><pres>/pluck<vblex><imp>$ ^to/to<pr>$ ^pieces/piece<n><pl>/piece<vblex><pres><p3><sg>$
+^plunder/plunder<vblex><inf>/plunder<vblex><pres>/plunder<vblex><imp>$
+^pocket/pocket<n><sg>/pocket<vblex><inf>/pocket<vblex><pres>/pocket<vblex><imp>$
+^point/point<adj><sint>/point<n><sg>/point<vblex><inf>/point<vblex><pres>/point<vblex><imp>$
+^point/point<adj><sint>/point<n><sg>/point<vblex><inf>/point<vblex><pres>/point<vblex><imp>$ ^out/out<adv>/out<pr>$
+^poison/poison<n><sg>/poison<vblex><inf>/poison<vblex><pres>/poison<vblex><imp>$
+^pole/pole<n><sg>$
+^police/police<adj>/police<n><pl>/police<vblex><inf>/police<vblex><pres>/police<vblex><imp>$
+^polish/Polish<adj>/polish<n><sg>/polish<vblex><inf>/polish<vblex><pres>/polish<vblex><imp>$
+^pollute/pollute<vblex><inf>/pollute<vblex><pres>/pollute<vblex><imp>$
+^polygamist/polygamist<n><sg>$
+^pomp/pomp<n><sg>$
+^pond/pond<n><sg>$
+^ponder/ponder<vblex><inf>/ponder<vblex><pres>/ponder<vblex><imp>$ ^over/over<adv>/over<pr>$
+^poor/poor<adj><sint>/poor<n><pl>$
+^porridge/porridge<n><sg>$
+^porter/porter<n><sg>$
+^porterage/*porterage$
+^portion/portion<n><sg>$
+^portion/portion<n><sg>$ ^out/out<adv>/out<pr>$
+^possess/possess<vblex><inf>/possess<vblex><pres>/possess<vblex><imp>$
+^possessor/possessor<n><sg>$
+^possible/possible<adj>$
+^post/post<n><sg>/post<vblex><inf>/post<vblex><pres>/post<vblex><imp>$
+^pot/pot<n><sg>$
+^potato/potato<n><sg>$
+^pound/pound<n><sg>/pound<vblex><inf>/pound<vblex><pres>/pound<vblex><imp>$
+^pour/pour<vblex><inf>/pour<vblex><pres>/pour<vblex><imp>$
+^pour/pour<vblex><inf>/pour<vblex><pres>/pour<vblex><imp>$ ^away/away<adv>$
+^pour/pour<vblex><inf>/pour<vblex><pres>/pour<vblex><imp>$ ^into/into<pr>$
+^poverty/poverty<n><sg>$
+^powder/powder<n><sg>/powder<vblex><inf>/powder<vblex><pres>/powder<vblex><imp>$
+^power/power<n><sg>/power<vblex><inf>/power<vblex><pres>/power<vblex><imp>$
+^praise/praise<n><sg>/praise<vblex><inf>/praise<vblex><pres>/praise<vblex><imp>$
+^pray/pray<vblex><inf>/pray<vblex><pres>/pray<vblex><imp>$
+^prayer/prayer<n><sg>$
+^preach/preach<vblex><inf>/preach<vblex><pres>/preach<vblex><imp>$
+^precede/precede<vblex><inf>/precede<vblex><pres>/precede<vblex><imp>$
+^precept/precept<n><sg>$
+^precious/precious<adj>$
+^prefer/prefer<vblex><inf>/prefer<vblex><pres>/prefer<vblex><imp>$
+^pregnant/pregnant<adj>$
+^prejudiced/prejudice<vblex><past>/prejudice<vblex><pp>$
+^prep/*prep$
+^prepare/prepare<vblex><inf>/prepare<vblex><pres>/prepare<vblex><imp>$
+^present/present<adj>/present<n><sg>/present<vblex><inf>/present<vblex><pres>/present<vblex><imp>$
+^preserve/preserve<n><sg>/preserve<vblex><inf>/preserve<vblex><pres>/preserve<vblex><imp>$
+^press/press<n><sg>/press<vblex><inf>/press<vblex><pres>/press<vblex><imp>$
+^press/press<n><sg>/press<vblex><inf>/press<vblex><pres>/press<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^pretend/pretend<vblex><inf>/pretend<vblex><pres>/pretend<vblex><imp>$
+^pretty/pretty<preadv>/pretty<adj><sint>$
+^prevail/prevail<vblex><inf>/prevail<vblex><pres>/prevail<vblex><imp>$
+^prevaricate/prevaricate<vblex><inf>/prevaricate<vblex><pres>/prevaricate<vblex><imp>$
+^previous/previous<adj>$
+^previously/previously<adv>$
+^price/price<n><sg>/price<vblex><inf>/price<vblex><pres>/price<vblex><imp>$
+^prick/prick<vblex><inf>/prick<vblex><pres>/prick<vblex><imp>$
+^print/print<n><sg>/print<vblex><inf>/print<vblex><pres>/print<vblex><imp>$
+^prison/prison<n><sg>$
+^prisoner/prisoner<n><sg>$
+^privation/*privation$
+^probably/probably<adv>$
+^proclaim/proclaim<vblex><inf>/proclaim<vblex><pres>/proclaim<vblex><imp>$
+^procure/procure<vblex><inf>/procure<vblex><pres>/procure<vblex><imp>$
+^produce/produce<n><sg>/produce<vblex><inf>/produce<vblex><pres>/produce<vblex><imp>$
+^profane/profane<adj>$
+^profligate/profligate<n><sg>$
+^prohibited/prohibit<vblex><pp>/prohibit<vblex><past>/prohibited<adj>$ ^thing/thing<n><sg>$
+^promise/promise<n><sg>/promise<vblex><inf>/promise<vblex><pres>/promise<vblex><imp>$
+^promptly/promptly<adv>$
+^pronounce/pronounce<vblex><inf>/pronounce<vblex><pres>/pronounce<vblex><imp>$
+^pronounce/pronounce<vblex><inf>/pronounce<vblex><pres>/pronounce<vblex><imp>$ ^sentence/sentence<n><sg>/sentence<vblex><inf>/sentence<vblex><pres>/sentence<vblex><imp>$
+^prop/prop<n><sg>/prop<vblex><inf>/prop<vblex><pres>/prop<vblex><imp>$
+^proper/proper<adj>$
+^proportion/proportion<n><sg>$
+^proprietor/proprietor<n><sg>$
+^prostitution/prostitution<n><sg>$
+^protect/protect<vblex><inf>/protect<vblex><pres>/protect<vblex><imp>$
+^prove/prove<vblex><inf>/prove<vblex><pres>/prove<vblex><imp>$
+^provisions/provision<n><pl>/provision<vblex><pres><p3><sg>$
+^provoke/provoke<vblex><inf>/provoke<vblex><pres>/provoke<vblex><imp>$
+^prow/prow<n><sg>$ ^of/of<pr>$ ^a/a<det><ind><sg>$ ^canoe/canoe<n><sg>$
+^prudence/prudence<n><sg>$
+^publicly/publicly<adv>$
+^publish/publish<vblex><inf>/publish<vblex><pres>/publish<vblex><imp>$
+^puddle/puddle<n><sg>$
+^puddled/*puddled$
+^pull/pull<n><sg>/pull<vblex><inf>/pull<vblex><pres>/pull<vblex><imp>$
+^pull out/pull<vblex><sep><inf># out/pull<vblex><sep><pres># out/pull<vblex><sep><imp># out$
+^pull/pull<n><sg>/pull<vblex><inf>/pull<vblex><pres>/pull<vblex><imp>$ ^to/to<pr>$ ^pieces/piece<n><pl>/piece<vblex><pres><p3><sg>$
+^pumpkin/pumpkin<n><sg>$
+^punish/punish<vblex><inf>/punish<vblex><pres>/punish<vblex><imp>$
+^punishment/punishment<n><sg>$
+^pure/pure<adj><sint>$
+^purge/purge<n><sg>/purge<vblex><inf>/purge<vblex><pres>/purge<vblex><imp>$
+^purify/purify<vblex><inf>/purify<vblex><pres>/purify<vblex><imp>$
+^purity/purity<n><sg>$
+^purlin/*purlin$
+^purpose/purpose<n><sg>$
+^purposely/purposely<adv>$
+^purse/purse<n><sg>/purse<vblex><inf>/purse<vblex><pres>/purse<vblex><imp>$
+^pursue/pursue<vblex><inf>/pursue<vblex><pres>/pursue<vblex><imp>$
+^pus/pus<n><sg>$
+^push/push<n><sg>/push<vblex><inf>/push<vblex><pres>/push<vblex><imp>$
+^push/push<n><sg>/push<vblex><inf>/push<vblex><pres>/push<vblex><imp>$ ^off/off<adv>$
+^put/put<vblex><inf>/put<vblex><pres>/put<vblex><past>/put<vblex><pp>/put<vblex><imp>$
+^put/put<vblex><inf>/put<vblex><pres>/put<vblex><past>/put<vblex><pp>/put<vblex><imp>$ ^back/back<adj>/back<adv>/back<n><sg>/back<vblex><inf>/back<vblex><pres>/back<vblex><imp>$
+^put/put<vblex><inf>/put<vblex><pres>/put<vblex><past>/put<vblex><pp>/put<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^put/put<vblex><inf>/put<vblex><pres>/put<vblex><past>/put<vblex><pp>/put<vblex><imp>$ ^in/in<adv>/in<pr>$ ^at/at<pr>$ ^beach/beach<n><sg>$
+^put/put<vblex><inf>/put<vblex><pres>/put<vblex><past>/put<vblex><pp>/put<vblex><imp>$ ^in/in<adv>/in<pr>$
+^order/order<n><sg>/order<vblex><inf>/order<vblex><pres>/order<vblex><imp>$ ^putrified/*putrified$
+^putrify/*putrify$
+^puzzle/puzzle<n><sg>$
+^puzzled/puzzled<adj>$
+^puzzling/*puzzling$
+^quality/quality<n><sg>$
+^quantity/quantity<n><sg>$
+^quarrel/quarrel<n><sg>/quarrel<vblex><inf>/quarrel<vblex><pres>/quarrel<vblex><imp>$
+^quench/*quench$
+^quenched/*quenched$
+^question/question<n><sg>/question<vblex><inf>/question<vblex><pres>/question<vblex><imp>$
+^quick/quick<adv>/quick<adj><sint>$
+^quickness/quickness<n><sg>$
+^quiet/quiet<adj><sint>/quiet<n><sg>$
+^quinine/quinine<n><sg>$
+^quit/quit<vblex><inf>/quit<vblex><pres>/quit<vblex><past>/quit<vblex><pp>/quit<vblex><imp>$
+^quote/quote<n><sg>/quote<vblex><inf>/quote<vblex><pres>/quote<vblex><imp>$
+^rabbit/rabbit<n><sg>$
+^radiant/radiant<adj>$
+^rafter/rafter<n><sg>$
+^rag/rag<n><sg>$
+^rage/rage<n><sg>/rage<vblex><inf>/rage<vblex><pres>/rage<vblex><imp>$
+^rain/rain<n><sg>/rain<vblex><inf>/rain<vblex><pres>/rain<vblex><imp>$
+^rainbow/rainbow<n><sg>$
+^raise/raise<vblex><inf>/raise<vblex><pres>/raise<vblex><imp>$
+^raise/raise<vblex><inf>/raise<vblex><pres>/raise<vblex><imp>$ ^from/from<pr>$ ^the/the<det><def><sp>$ ^dead/dead<adj>$
+^raise/raise<vblex><inf>/raise<vblex><pres>/raise<vblex><imp>$ ^up/up<adv>/up<pr>$ ^earth/earth<n><sg>$ ^for/for<cnjadv>/for<pr>$ ^floor/floor<n><sg>/floor<vblex><inf>/floor<vblex><pres>/floor<vblex><imp>$
+^raise/raise<vblex><inf>/raise<vblex><pres>/raise<vblex><imp>$ ^up/up<adv>/up<pr>$ ^tombela/*tombela$
+^rake/rake<n><sg>/rake<vblex><inf>/rake<vblex><pres>/rake<vblex><imp>$
+^ramrod/*ramrod$
+^rancid/rancid<adj>$
+^rapid/rapid<adj>/rapid<n><sg>$
+^rat/rat<n><sg>$
+^ration/ration<n><sg>/ration<vblex><inf>/ration<vblex><pres>/ration<vblex><imp>$
+^rave/*rave$
+^raw/raw<adj><sint>$
+^razor/razor<n><sg>$
+^reach/reach<n><sg>/reach<vblex><inf>/reach<vblex><pres>/reach<vblex><imp>$ ^to/to<pr>$
+^read/read<adj>/read<vblex><inf>/read<vblex><pres>/read<vblex><past>/read<vblex><pp>/read<vblex><imp>$
+^reading/reading<n><sg>/read<vblex><pprs>/read<vblex><subs>/read<vblex><ger>$
+^reason/reason<n><sg>/reason<vblex><inf>/reason<vblex><pres>/reason<vblex><imp>$
+^rebuke/rebuke<n><sg>/rebuke<vblex><inf>/rebuke<vblex><pres>/rebuke<vblex><imp>$
+^recall/recall<n><sg>/recall<vblex><inf>/recall<vblex><pres>/recall<vblex><imp>$
+^recall/recall<n><sg>/recall<vblex><inf>/recall<vblex><pres>/recall<vblex><imp>$ ^to/to<pr>$ ^memory/memory<n><sg>$
+^receive/receive<vblex><inf>/receive<vblex><pres>/receive<vblex><imp>$
+^receiver/receiver<n><sg>$
+^reckon/reckon<vblex><inf>/reckon<vblex><pres>/reckon<vblex><imp>$
+^recognise/recognise<vblex><inf>/recognise<vblex><pres>/recognise<vblex><imp>$
+^recollect/recollect<vblex><inf>/recollect<vblex><pres>/recollect<vblex><imp>$
+^recommend/recommend<vblex><inf>/recommend<vblex><pres>/recommend<vblex><imp>$
+^recompense/recompense<n><sg>$
+^reconcile/reconcile<vblex><inf>/reconcile<vblex><pres>/reconcile<vblex><imp>$
+^recover/recover<vblex><inf>/recover<vblex><pres>/recover<vblex><imp>$
+^recruit/recruit<n><sg>/recruit<vblex><inf>/recruit<vblex><pres>/recruit<vblex><imp>$
+^rectify/rectify<vblex><inf>/rectify<vblex><pres>/rectify<vblex><imp>$
+^red/red<adj><sint>/red<n><sg>$
+^redeem/redeem<vblex><inf>/redeem<vblex><pres>/redeem<vblex><imp>$
+^redemption/redemption<n><sg>$
+^reduce/reduce<vblex><inf>/reduce<vblex><pres>/reduce<vblex><imp>$
+^reflect/reflect<vblex><inf>/reflect<vblex><pres>/reflect<vblex><imp>$
+^refusal/refusal<n><sg>$
+^refuse/refuse<n><sg>/refuse<vblex><inf>/refuse<vblex><pres>/refuse<vblex><imp>$
+^region/region<n><sg>$
+^regret/regret<n><sg>/regret<vblex><inf>/regret<vblex><pres>/regret<vblex><imp>$
+^rejoice/rejoice<vblex><inf>/rejoice<vblex><pres>/rejoice<vblex><imp>$
+^relation/relation<n><sg>$ ^by/by<adv>/by<pr>$ ^marriage/marriage<n><sg>$
+^relax/relax<vblex><inf>/relax<vblex><pres>/relax<vblex><imp>$
+^rely/rely<vblex><inf>/rely<vblex><pres>/rely<vblex><imp>$ ^upon/upon<pr>$
+^remainder/remainder<n><sg>$
+^remedy/remedy<n><sg>/remedy<vblex><inf>/remedy<vblex><pres>/remedy<vblex><imp>$
+^remember/remember<vblex><inf>/remember<vblex><pres>/remember<vblex><imp>$
+^remote/remote<adj>$
+^remove/remove<vblex><inf>/remove<vblex><pres>/remove<vblex><imp>$
+^renounce/renounce<vblex><inf>/renounce<vblex><pres>/renounce<vblex><imp>$
+^repair/repair<n><sg>/repair<vblex><inf>/repair<vblex><pres>/repair<vblex><imp>$
+^repel/repel<vblex><inf>/repel<vblex><pres>/repel<vblex><imp>$
+^reply/reply<n><sg>/reply<vblex><inf>/reply<vblex><pres>/reply<vblex><imp>$
+^repose/*repose$
+^repress/repress<vblex><inf>/repress<vblex><pres>/repress<vblex><imp>$
+^reprimand/reprimand<n><sg>$
+^reproduce/reproduce<vblex><inf>/reproduce<vblex><pres>/reproduce<vblex><imp>$
+^repudiate/repudiate<vblex><inf>/repudiate<vblex><pres>/repudiate<vblex><imp>$
+^repulse/repulse<vblex><inf>/repulse<vblex><pres>/repulse<vblex><imp>$
+^require/require<vblex><inf>/require<vblex><pres>/require<vblex><imp>$
+^resemble/resemble<vblex><inf>/resemble<vblex><pres>/resemble<vblex><imp>$
+^resin/resin<n><sg>$
+^resolve/resolve<n><sg>/resolve<vblex><inf>/resolve<vblex><pres>/resolve<vblex><imp>$
+^respect/respect<n><sg>/respect<vblex><inf>/respect<vblex><pres>/respect<vblex><imp>$
+^rest/rest<n><sg>/rest<vblex><inf>/rest<vblex><pres>/rest<vblex><imp>$
+^restore/restore<vblex><inf>/restore<vblex><pres>/restore<vblex><imp>$
+^restrain/restrain<vblex><inf>/restrain<vblex><pres>/restrain<vblex><imp>$
+^resurrection/resurrection<n><sg>$
+^retire/retire<vblex><inf>/retire<vblex><pres>/retire<vblex><imp>$
+^return/return<n><sg>/return<vblex><inf>/return<vblex><pres>/return<vblex><imp>$
+^reveal/reveal<vblex><inf>/reveal<vblex><pres>/reveal<vblex><imp>$
+^reverence/reverence<n><sg>$
+^revive/revive<vblex><inf>/revive<vblex><pres>/revive<vblex><imp>$
+^revolt/revolt<n><sg>/revolt<vblex><inf>/revolt<vblex><pres>/revolt<vblex><imp>$
+^reward/reward<n><sg>/reward<vblex><inf>/reward<vblex><pres>/reward<vblex><imp>$
+^rib/rib<n><sg>$
+^rice/rice<n><sg>$
+^rich/rich<adj><sint>$ ^man/man<n><sg>$
+^riches/riches<n><pl>$
+^ridge/ridge<n><sg>/ridge<vblex><inf>/ridge<vblex><pres>/ridge<vblex><imp>$ ^of/of<pr>$ ^house/house<n><sg>/house<vblex><inf>/house<vblex><pres>/house<vblex><imp>$
+^rind/rind<n><sg>$
+^ring/ring<n><sg>/ring<vblex><inf>/ring<vblex><pres>/ring<vblex><imp>$
+^ring/ring<n><sg>/ring<vblex><inf>/ring<vblex><pres>/ring<vblex><imp>$ ^bell/bell<n><sg>$
+^ripen/*ripen$
+^rise/rise<n><sg>/rise<vblex><inf>/rise<vblex><pres>/rise<vblex><imp>$ ^from/from<pr>$ ^the/the<det><def><sp>$ ^dead/dead<adj>$
+^river/river<n><sg>$
+^road/road<adj>/road<n><sg>$
+^roast/roast<n><sg>/roast<vblex><inf>/roast<vblex><pres>/roast<vblex><imp>$
+^rob/rob<vblex><inf>/rob<vblex><pres>/rob<vblex><imp>$
+^robber/robber<n><sg>$
+^robbery/robbery<n><sg>$
+^rock/rock<n><sg>/rock<vblex><inf>/rock<vblex><pres>/rock<vblex><imp>$
+^roll/roll<n><sg>/roll<vblex><inf>/roll<vblex><pres>/roll<vblex><imp>$
+^roll up/roll<vblex><sep><inf># up/roll<vblex><sep><pres># up/roll<vblex><sep><imp># up$
+^roof/roof<n><sg>/roof<vblex><inf>/roof<vblex><pres>/roof<vblex><imp>$
+^root/root<n><sg>/root<vblex><inf>/root<vblex><pres>/root<vblex><imp>$
+^root/root<n><sg>/root<vblex><inf>/root<vblex><pres>/root<vblex><imp>$ ^out/out<adv>/out<pr>$
+^rot/rot<n><sg>/rot<vblex><inf>/rot<vblex><pres>/rot<vblex><imp>$
+^rotten/rotten<adj>$
+^row/row<n><sg>/row<vblex><inf>/row<vblex><pres>/row<vblex><imp>$
+^rower/rower<n><sg>$
+^rub/rub<n><sg>/rub<vblex><inf>/rub<vblex><pres>/rub<vblex><imp>$
+^rub/rub<n><sg>/rub<vblex><inf>/rub<vblex><pres>/rub<vblex><imp>$ ^over/over<adv>/over<pr>$
+^rudder/rudder<n><sg>$
+^ruin/ruin<n><sg>/ruin<vblex><inf>/ruin<vblex><pres>/ruin<vblex><imp>$
+^rule/rule<n><sg>/rule<vblex><inf>/rule<vblex><pres>/rule<vblex><imp>$
+^run/run<n><sg>/run<vblex><inf>/run<vblex><pres>/run<vblex><pp>/run<vblex><imp>$
+^run aground/run<vblex><inf># aground/run<vblex><pres># aground/run<vblex><pp># aground/run<vblex><imp># aground$
+^run away/run<vblex><inf># away/run<vblex><pres># away/run<vblex><pp># away/run<vblex><imp># away$
+^rust/rust<n><sg>/rust<vblex><inf>/rust<vblex><pres>/rust<vblex><imp>$
+^sabbath/sabbath<n><sg>$
+^sack/sack<n><sg>/sack<vblex><inf>/sack<vblex><pres>/sack<vblex><imp>$
+^sacrifice/sacrifice<n><sg>/sacrifice<vblex><inf>/sacrifice<vblex><pres>/sacrifice<vblex><imp>$
+^sadden/sadden<vblex><inf>/sadden<vblex><pres>/sadden<vblex><imp>$
+^salad/salad<n><sg>$
+^salt/salt<n><sg>/salt<vblex><inf>/salt<vblex><pres>/salt<vblex><imp>$
+^salutation/salutation<n><sg>$
+^salute/salute<n><sg>$
+^same/same<adj>$
+^same/same<adj>$ ^as/as<adv>/as<preadv>/as<cnjsub>/as<cnjadv>/as<pr>$
+^sandal/sandal<n><sg>$
+^sandbank/sandbank<n><sg>$
+^sap/sap<n><sg>$
+^satan/Satan<n><sg>$
+^satiate/satiate<vblex><inf>/satiate<vblex><pres>/satiate<vblex><imp>$
+^satiated/satiate<vblex><past>/satiate<vblex><pp>$
+^saturday/Saturday<n><sg>$
+^saucepan/saucepan<n><sg>$
+^save/save<vblex><inf>/save<vblex><pres>/save<vblex><imp>$
+^save money/save<vblex><inf># money/save<vblex><pres># money/save<vblex><imp># money$
+^saved/saved<adj>/save<vblex><past>/save<vblex><pp>$
+^saviour/saviour<n><sg>$
+^saw/saw<n><sg>/saw<vblex><inf>/saw<vblex><pres>/saw<vblex><imp>/see<vblex><past>$
+^saw/saw<n><sg>/saw<vblex><inf>/saw<vblex><pres>/saw<vblex><imp>/see<vblex><past>$ ^crosswise/*crosswise$
+^saw/saw<n><sg>/saw<vblex><inf>/saw<vblex><pres>/saw<vblex><imp>/see<vblex><past>$ ^lengthwise/lengthwise<adv>$
+^say/say<vblex><inf>/say<vblex><pres>/say<vblex><imp>$
+^scaffold/scaffold<n><sg>$
+^scald/scald<vblex><inf>/scald<vblex><pres>/scald<vblex><imp>$
+^scale/scale<n><sg>/scale<vblex><inf>/scale<vblex><pres>/scale<vblex><imp>$
+^scamper/scamper<vblex><inf>/scamper<vblex><pres>/scamper<vblex><imp>$ ^away/away<adv>$
+^scare/scare<n><sg>/scare<vblex><inf>/scare<vblex><pres>/scare<vblex><imp>$
+^scared/scared<adj>/scare<vblex><past>/scare<vblex><pp>$
+^scatter/scatter<vblex><inf>/scatter<vblex><pres>/scatter<vblex><imp>$
+^scent/scent<n><sg>/scent<vblex><inf>/scent<vblex><pres>/scent<vblex><imp>$
+^school/school<adj>/school<n><sg>$
+^science/science<n><sg>$
+^scissors/scissors<n><pl>$
+^scold/scold<vblex><inf>/scold<vblex><pres>/scold<vblex><imp>$
+^scorch/scorch<vblex><inf>/scorch<vblex><pres>/scorch<vblex><imp>$ ^meat/meat<n><sg>$
+^scorn/scorn<n><sg>$
+^scorpion/scorpion<n><sg>$
+^scour/scour<n><sg>/scour<vblex><inf>/scour<vblex><pres>/scour<vblex><imp>$
+^scourge/scourge<n><sg>/scourge<vblex><inf>/scourge<vblex><pres>/scourge<vblex><imp>$
+^scrape/scrape<n><sg>/scrape<vblex><inf>/scrape<vblex><pres>/scrape<vblex><imp>$
+^scratch/scratch<n><sg>/scratch<vblex><inf>/scratch<vblex><pres>/scratch<vblex><imp>$
+^scream/scream<n><sg>/scream<vblex><inf>/scream<vblex><pres>/scream<vblex><imp>$
+^screw/screw<n><sg>/screw<vblex><inf>/screw<vblex><pres>/screw<vblex><imp>$ ^driver/driver<n><sg>$
+^scrutinise/scrutinise<vblex><inf>/scrutinise<vblex><pres>/scrutinise<vblex><imp>$
+^sea/sea<n><sg>$
+^seal/seal<n><sg>/seal<vblex><inf>/seal<vblex><pres>/seal<vblex><imp>$
+^search for/search<vblex><inf># for/search<vblex><pres># for/search<vblex><imp># for$
+^season/season<n><sg>/season<vblex><inf>/season<vblex><pres>/season<vblex><imp>$
+^seat/seat<n><sg>/seat<vblex><inf>/seat<vblex><pres>/seat<vblex><imp>$
+^second/second<adv>/second<adj><ord>/second<n><sg>/second<vblex><inf>/second<vblex><pres>/second<vblex><imp>$
+^secrecy/secrecy<n><sg>$
+^seduce/seduce<vblex><inf>/seduce<vblex><pres>/seduce<vblex><imp>$
+^see/see<vblex><inf>/see<vblex><pres>/see<vblex><imp>$
+^seed/seed<n><sg>/seed<n><pl>/seed<vblex><inf>/seed<vblex><pres>/seed<vblex><imp>$
+^seek/seek<vblex><inf>/seek<vblex><pres>/seek<vblex><imp>$
+^seek/seek<vblex><inf>/seek<vblex><pres>/seek<vblex><imp>$ ^each/each<det><ind><sg>/each<prn><ind><mf><sg>$ ^other/other<det><ind><sp>$
+^seize/seize<vblex><inf>/seize<vblex><pres>/seize<vblex><imp>$
+^select/select<adj>/select<vblex><inf>/select<vblex><pres>/select<vblex><imp>$
+^self/self<adv>/self<n><sg>$
+^sell/sell<vblex><inf>/sell<vblex><pres>/sell<vblex><imp>$
+^send/send<vblex><inf>/send<vblex><pres>/send<vblex><imp>$
+^send/send<vblex><inf>/send<vblex><pres>/send<vblex><imp>$ ^away/away<adv>$
+^send back/send<vblex><sep><inf># back/send<vblex><sep><pres># back/send<vblex><sep><imp># back$
+^send/send<vblex><inf>/send<vblex><pres>/send<vblex><imp>$ ^word/word<n><sg>$ ^to/to<pr>$
+^sender/sender<n><sg>$
+^sensation/sensation<n><sg>$
+^sentry/sentry<n><sg>$
+^separate/separate<adj>/separate<vblex><inf>/separate<vblex><pres>/separate<vblex><imp>$
+^sermon/sermon<n><sg>$
+^servant/servant<n><sg>$
+^serve/serve<vblex><inf>/serve<vblex><pres>/serve<vblex><imp>$
+^serviette/serviette<n><sg>$
+^servile/servile<adj>$
+^servitude/servitude<n><sg>$
+^set/set<n><sg>/set<vblex><inf>/set<vblex><pres>/set<vblex><past>/set<vblex><pp>/set<vblex><imp>$ ^forth/forth<adv>$
+^set on/set<vblex><inf># on/set<vblex><pres># on/set<vblex><past># on/set<vblex><pp># on/set<vblex><imp># on$ ^fire/fire<n><sg>/fire<vblex><inf>/fire<vblex><pres>/fire<vblex><imp>$
+^seven/seven<num><pl>$
+^seventeen/seventeen<num><pl>$
+^seventy/seventy<num><pl>$
+^several/several<det><ind><pl>/several<prn><ind><mf><pl>$
+^severe/severe<adj>$
+^sew/sew<vblex><inf>/sew<vblex><pres>/sew<vblex><imp>$
+^sex/sex<n><sg>$
+^shade/shade<n><sg>/shade<vblex><inf>/shade<vblex><pres>/shade<vblex><imp>$
+^shadow/shadow<n><sg>$
+^shake/shake<n><sg>/shake<vblex><inf>/shake<vblex><pres>/shake<vblex><imp>$
+^sham/*sham$
+^shame/shame<n><sg>/shame<vblex><inf>/shame<vblex><pres>/shame<vblex><imp>$
+^share/share<n><sg>/share<vblex><inf>/share<vblex><pres>/share<vblex><imp>$
+^sharp/sharp<adj><sint>$
+^sharpen/sharpen<vblex><inf>/sharpen<vblex><pres>/sharpen<vblex><imp>$
+^shave/shave<vblex><inf>/shave<vblex><pres>/shave<vblex><imp>$
+^she/prpers<prn><subj><p3><f><sg>$
+^sheath/sheath<n><sg>$
+^shed/shed<n><sg>/shed<vblex><inf>/shed<vblex><pres>/shed<vblex><past>/shed<vblex><pp>/shed<vblex><imp>$
+^sheep/sheep<n><sg>/sheep<n><pl>$
+^sheet of paper/sheet<n><sg># of paper$
+^shell/shell<n><sg>/shell<vblex><inf>/shell<vblex><pres>/shell<vblex><imp>$
+^shew/*shew$
+^shield/shield<n><sg>/shield<vblex><inf>/shield<vblex><pres>/shield<vblex><imp>$
+^shifty/*shifty$ ^person/person<n><sg>$
+^shine/shine<n><sg>/shine<vblex><inf>/shine<vblex><pres>/shine<vblex><imp>$
+^shining/shine<vblex><pprs>/shine<vblex><subs>/shine<vblex><ger>$
+^shirt/shirt<n><sg>$
+^shiver/shiver<n><sg>/shiver<vblex><inf>/shiver<vblex><pres>/shiver<vblex><imp>$
+^shoe/shoe<n><sg>/shoe<vblex><inf>/shoe<vblex><pres>/shoe<vblex><imp>$
+^shoot/shoot<n><sg>/shoot<vblex><inf>/shoot<vblex><pres>/shoot<vblex><imp>$
+^shoot/shoot<n><sg>/shoot<vblex><inf>/shoot<vblex><pres>/shoot<vblex><imp>$ ^a/a<det><ind><sg>$ ^rapid/rapid<adj>/rapid<n><sg>$
+^shore/shore<n><sg>$
+^short/short<adv>/short<adj><sint>$
+^shorten/shorten<vblex><inf>/shorten<vblex><pres>/shorten<vblex><imp>$
+^shot/shot<adj>/shot<n><sg>/shoot<vblex><past>/shoot<vblex><pp>$
+^shoulder/shoulder<n><sg>/shoulder<vblex><inf>/shoulder<vblex><pres>/shoulder<vblex><imp>$
+^shout/shout<n><sg>/shout<vblex><inf>/shout<vblex><pres>/shout<vblex><imp>$
+^shovel/shovel<n><sg>/shovel<vblex><inf>/shovel<vblex><pres>/shovel<vblex><imp>$
+^show/show<n><sg>/show<vblex><inf>/show<vblex><pres>/show<vblex><imp>$
+^shun/shun<vblex><inf>/shun<vblex><pres>/shun<vblex><imp>$
+^shut/shut<vblex><inf>/shut<vblex><pres>/shut<vblex><past>/shut<vblex><pp>/shut<vblex><imp>$
+^sick/sick<adj><sint>$
+^sickness/sickness<n><sg>$
+^side/side<adv>/side<n><sg>/side<vblex><inf>/side<vblex><pres>/side<vblex><imp>$
+^sieve/sieve<n><sg>/sieve<vblex><inf>/sieve<vblex><pres>/sieve<vblex><imp>$ ^for/for<cnjadv>/for<pr>$ ^rice/rice<n><sg>$
+^sift/sift<vblex><inf>/sift<vblex><pres>/sift<vblex><imp>$
+^sigh/sigh<n><sg>/sigh<vblex><inf>/sigh<vblex><pres>/sigh<vblex><imp>$
+^sign/sign<n><sg>/sign<vblex><inf>/sign<vblex><pres>/sign<vblex><imp>$
+^silence/silence<n><sg>/silence<vblex><inf>/silence<vblex><pres>/silence<vblex><imp>$
+^silver/silver<n><sg>$
+^similitude/similitude<n><sg>$
+^simplify/simplify<vblex><inf>/simplify<vblex><pres>/simplify<vblex><imp>$
+^simultaneously/simultaneously<adv>$
+^sin/sin<n><sg>/sin<vblex><inf>/sin<vblex><pres>/sin<vblex><imp>$
+^sincere/sincere<adj><sint>$
+^sink/sink<n><sg>/sink<vblex><inf>/sink<vblex><pres>/sink<vblex><imp>$
+^sir/sir<n><sg>$
+^sister/sister<n><sg>$
+^sister-in-law/sister<n><sg>#-in-law$
+^sit/sit<vblex><inf>/sit<vblex><pres>/sit<vblex><imp>$
+^six/six<num><pl>$
+^sixteen/sixteen<num><pl>$
+^sixty/sixty<num><pl>$
+^size/size<n><sg>/size<vblex><inf>/size<vblex><pres>/size<vblex><imp>$
+^skeleton/skeleton<n><sg>$
+^skill/skill<n><sg>$
+^skin/skin<n><sg>/skin<vblex><inf>/skin<vblex><pres>/skin<vblex><imp>$
+^skip/skip<n><sg>/skip<vblex><inf>/skip<vblex><pres>/skip<vblex><imp>$
+^skirt/skirt<n><sg>$
+^skirt/skirt<n><sg>$ ^of/of<pr>$ ^fibre/fibre<n><sg>$
+^slander/slander<n><sg>/slander<vblex><inf>/slander<vblex><pres>/slander<vblex><imp>$
+^slash/slash<n><sg>/slash<vblex><inf>/slash<vblex><pres>/slash<vblex><imp>$
+^slave/slave<n><sg>$
+^slavery/slavery<n><sg>$
+^sleep/sleep<n><sg>/sleep<vblex><inf>/sleep<vblex><pres>/sleep<vblex><imp>$
+^slice/slice<n><sg>/slice<vblex><inf>/slice<vblex><pres>/slice<vblex><imp>$
+^slip/slip<n><sg>/slip<vblex><inf>/slip<vblex><pres>/slip<vblex><imp>$
+^slippers/slipper<n><pl>$
+^slit/slit<n><sg>/slit<vblex><inf>/slit<vblex><pres>/slit<vblex><imp>$
+^slowly/slowly<adv>$
+^small/small<adj><sint>$ ^body/body<n><sg>$ ^hairs/hair<n><pl>$
+^smallpox/smallpox<n><sg>$
+^smash/smash<n><sg>/smash<vblex><inf>/smash<vblex><pres>/smash<vblex><imp>$
+^smear/smear<n><sg>/smear<vblex><inf>/smear<vblex><pres>/smear<vblex><imp>$
+^smell/smell<n><sg>/smell<vblex><inf>/smell<vblex><pres>/smell<vblex><imp>$
+^smile/smile<n><sg>/smile<vblex><inf>/smile<vblex><pres>/smile<vblex><imp>$
+^smoke/smoke<n><sg>/smoke<vblex><inf>/smoke<vblex><pres>/smoke<vblex><imp>$
+^smoke/smoke<n><sg>/smoke<vblex><inf>/smoke<vblex><pres>/smoke<vblex><imp>$ ^tobacco/tobacco<n><sg>$
+^smooth/smooth<adj><sint>/smooth<vblex><inf>/smooth<vblex><pres>/smooth<vblex><imp>$
+^snail/snail<n><sg>$
+^snake/snake<n><sg>/snake<vblex><inf>/snake<vblex><pres>/snake<vblex><imp>$
+^snare/snare<n><sg>/snare<vblex><inf>/snare<vblex><pres>/snare<vblex><imp>$
+^snatch/snatch<n><sg>/snatch<vblex><inf>/snatch<vblex><pres>/snatch<vblex><imp>$ ^away/away<adv>$
+^sneeze/sneeze<n><sg>/sneeze<vblex><inf>/sneeze<vblex><pres>/sneeze<vblex><imp>$
+^snore/snore<n><sg>/snore<vblex><inf>/snore<vblex><pres>/snore<vblex><imp>$
+^snuff/snuff<n><sg>$
+^so/so<adv>/so<preadv>/so<cnjadv>$
+^soak/soak<vblex><inf>/soak<vblex><pres>/soak<vblex><imp>$
+^soap/soap<n><sg>/soap<vblex><inf>/soap<vblex><pres>/soap<vblex><imp>$
+^society/society<n><sg>$
+^soda/soda<n><sg>$
+^soft/soft<adj><sint>$
+^soften/soften<vblex><inf>/soften<vblex><pres>/soften<vblex><imp>$
+^softly/softly<adv>$
+^soil/soil<n><sg>/soil<vblex><inf>/soil<vblex><pres>/soil<vblex><imp>$
+^sojourn/sojourn<n><sg>$
+^solder/solder<vblex><inf>/solder<vblex><pres>/solder<vblex><imp>$
+^soldier/soldier<n><sg>$
+^solitary/solitary<adj>/solitary<n><sg>$
+^solitude/solitude<n><sg>$
+^sometimes/sometimes<adv>$
+^son/son<n><sg>$
+^song/song<n><sg>$
+^sore/sore<adj><sint>/sore<n><sg>$
+^sort/sort<n><sg>/sort<vblex><inf>/sort<vblex><pres>/sort<vblex><imp>$
+^soul/soul<n><sg>$
+^sound/sound<n><sg>/sound<vblex><inf>/sound<vblex><pres>/sound<vblex><imp>$
+^sounder/*sounder$
+^soup/soup<n><sg>$
+^sour/sour<adj><sint>/sour<vblex><inf>/sour<vblex><pres>/sour<vblex><imp>$
+^sow/sow<n><sg>/sow<vblex><inf>/sow<vblex><pres>/sow<vblex><imp>$ ^seeds/seed<n><pl>/seed<vblex><pres><p3><sg>$
+^sower/sower<n><sg>$
+^spade/spade<n><sg>$
+^spark/spark<n><sg>/spark<vblex><inf>/spark<vblex><pres>/spark<vblex><imp>$
+^sparkle/sparkle<vblex><inf>/sparkle<vblex><pres>/sparkle<vblex><imp>$
+^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$
+^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$ ^together/together<adj>/together<adv>$
+^speaker/speaker<n><sg>$
+^spear/spear<n><sg>/spear<vblex><inf>/spear<vblex><pres>/spear<vblex><imp>$
+^species/species<n><sg>/species<n><pl>$
+^speech/speech<n><sg>$
+^speed/speed<n><sg>/speed<vblex><inf>/speed<vblex><pres>/speed<vblex><imp>$
+^spell/spell<n><sg>/spell<vblex><inf>/spell<vblex><pres>/spell<vblex><imp>$
+^spend/spend<vblex><inf>/spend<vblex><pres>/spend<vblex><imp>$
+^spider/spider<n><sg>$
+^spill/spill<n><sg>/spill<vblex><inf>/spill<vblex><pres>/spill<vblex><imp>$
+^spinster/spinster<n><sg>$
+^spirit/spirit<n><sg>$
+^spit/spit<n><sg>/spit<vblex><inf>/spit<vblex><pres>/spit<vblex><imp>$
+^spite/spite<n><sg>/spite<vblex><inf>/spite<vblex><pres>/spite<vblex><imp>$
+^spittle/spittle<n><sg>$
+^splendour/splendour<n><sg>$
+^split/split<n><sg>/split<vblex><inf>/split<vblex><pres>/split<vblex><past>/split<vblex><pp>/split<vblex><imp>$
+^spoil/spoil<vblex><inf>/spoil<vblex><pres>/spoil<vblex><imp>$
+^spoiled/spoil<vblex><pp>/spoil<vblex><past>$
+^spoon/spoon<n><sg>/spoon<vblex><inf>/spoon<vblex><pres>/spoon<vblex><imp>$
+^spotted/spot<vblex><past>/spot<vblex><pp>$
+^spread/spread<adj>/spread<n><sg>/spread<vblex><inf>/spread<vblex><pres>/spread<vblex><past>/spread<vblex><pp>/spread<vblex><imp>$ ^the/the<det><def><sp>$ ^cloth/cloth<n><sg>$
+^spring/spring<n><sg>/spring<vblex><inf>/spring<vblex><pres>/spring<vblex><imp>$
+^sprinkle/sprinkle<vblex><inf>/sprinkle<vblex><pres>/sprinkle<vblex><imp>$
+^sprout/sprout<n><sg>/sprout<vblex><inf>/sprout<vblex><pres>/sprout<vblex><imp>$
+^spy/spy<n><sg>/spy<vblex><inf>/spy<vblex><pres>/spy<vblex><imp>$
+^spy/spy<n><sg>/spy<vblex><inf>/spy<vblex><pres>/spy<vblex><imp>$ ^on/on<adv>/on<pr>$
+^squander/squander<vblex><inf>/squander<vblex><pres>/squander<vblex><imp>$
+^squandered/squander<vblex><pp>/squander<vblex><past>$
+^squash/squash<n><sg>$
+^squat/squat<adj>/squat<n><sg>/squat<vblex><inf>/squat<vblex><pres>/squat<vblex><imp>$
+^squeeze/squeeze<n><sg>/squeeze<vblex><inf>/squeeze<vblex><pres>/squeeze<vblex><imp>$
+^squeeze/squeeze<n><sg>/squeeze<vblex><inf>/squeeze<vblex><pres>/squeeze<vblex><imp>$ ^out/out<adv>/out<pr>$ ^moisture/moisture<n><sg>$
+^squirrel/squirrel<n><sg>$
+^stage/stage<adj>/stage<n><sg>/stage<vblex><inf>/stage<vblex><pres>/stage<vblex><imp>$
+^stained/stain<vblex><pp>/stain<vblex><past>$
+^stairs/stair<n><pl>$
+^stammer/stammer<vblex><inf>/stammer<vblex><pres>/stammer<vblex><imp>$
+^stammering/stammering<n><sg>/stammer<vblex><pprs>/stammer<vblex><subs>/stammer<vblex><ger>$
+^stamp/stamp<n><sg>/stamp<vblex><inf>/stamp<vblex><pres>/stamp<vblex><imp>$
+^stand/stand<n><sg>/stand<vblex><inf>/stand<vblex><pres>/stand<vblex><imp>$
+^stand/stand<n><sg>/stand<vblex><inf>/stand<vblex><pres>/stand<vblex><imp>$ ^in/in<adv>/in<pr>$ ^line/line<n><sg>/line<vblex><inf>/line<vblex><pres>/line<vblex><imp>$
+^stand/stand<n><sg>/stand<vblex><inf>/stand<vblex><pres>/stand<vblex><imp>$ ^up/up<adv>/up<pr>$
+^star/star<n><sg>/star<vblex><inf>/star<vblex><pres>/star<vblex><imp>$
+^stare/stare<vblex><inf>/stare<vblex><pres>/stare<vblex><imp>$
+^start/start<n><sg>/start<vblex><inf>/start<vblex><pres>/start<vblex><imp>$
+^staunch/staunch<adj>/staunch<vblex><inf>/staunch<vblex><pres>/staunch<vblex><imp>$
+^stay/stay<n><sg>/stay<vblex><inf>/stay<vblex><pres>/stay<vblex><imp>$
+^stay/stay<n><sg>/stay<vblex><inf>/stay<vblex><pres>/stay<vblex><imp>$ ^in/in<adv>/in<pr>$ ^one/one<num><sg>/one<prn><dem><mf><sg>$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$
+^steadfast/steadfast<adj>$
+^steal/steal<vblex><inf>/steal<vblex><pres>/steal<vblex><imp>$
+^steal/steal<vblex><inf>/steal<vblex><pres>/steal<vblex><imp>$ ^away/away<adv>$
+^steam/steam<n><sg>/steam<vblex><inf>/steam<vblex><pres>/steam<vblex><imp>$
+^steamer/steamer<n><sg>$
+^steep/steep<adj>/steep<adj><sint>/steep<vblex><inf>/steep<vblex><pres>/steep<vblex><imp>$
+^steer/steer<vblex><inf>/steer<vblex><pres>/steer<vblex><imp>$
+^stench/stench<n><sg>$
+^steps/step<n><pl>/step<vblex><pres><p3><sg>$
+^sterile/sterile<adj>$
+^stern/stern<n><sg>$
+^stew/stew<n><sg>/stew<vblex><inf>/stew<vblex><pres>/stew<vblex><imp>$
+^stick/stick<n><sg>/stick<vblex><inf>/stick<vblex><pres>/stick<vblex><imp>$
+^sting/sting<n><sg>/sting<vblex><inf>/sting<vblex><pres>/sting<vblex><imp>$
+^stir/stir<n><sg>/stir<vblex><inf>/stir<vblex><pres>/stir<vblex><imp>$
+^stomach/stomach<n><sg>/stomach<vblex><inf>/stomach<vblex><pres>/stomach<vblex><imp>$
+^stomach ache/stomach ache<n><sg>$
+^stone/stone<n><sg>/stone<vblex><inf>/stone<vblex><pres>/stone<vblex><imp>$
+^stool/stool<n><sg>$
+^stoop/stoop<vblex><inf>/stoop<vblex><pres>/stoop<vblex><imp>$
+^stop/stop<n><sg>/stop<vblex><inf>/stop<vblex><pres>/stop<vblex><imp>$
+^stop/stop<n><sg>/stop<vblex><inf>/stop<vblex><pres>/stop<vblex><imp>$ ^up/up<adv>/up<pr>$
+^store/store<n><sg>/store<vblex><inf>/store<vblex><pres>/store<vblex><imp>$
+^stork/stork<n><sg>$
+^storm/storm<n><sg>/storm<vblex><inf>/storm<vblex><pres>/storm<vblex><imp>$
+^story/story<n><sg>$
+^straight/straight<adj>/straight<adv>$
+^straighten/straighten<n><sg>/straighten<vblex><inf>/straighten<vblex><pres>/straighten<vblex><imp>$
+^strap/strap<n><sg>/strap<vblex><inf>/strap<vblex><pres>/strap<vblex><imp>$
+^street/street<n><sg>$
+^strength/strength<n><sg>$
+^strengthen/strengthen<vblex><inf>/strengthen<vblex><pres>/strengthen<vblex><imp>$
+^stretch/stretch<n><sg>/stretch<vblex><inf>/stretch<vblex><pres>/stretch<vblex><imp>$
+^stride/stride<n><sg>/stride<vblex><inf>/stride<vblex><pres>/stride<vblex><imp>$
+^strike/strike<n><sg>/strike<vblex><inf>/strike<vblex><pres>/strike<vblex><imp>$
+^strike/strike<n><sg>/strike<vblex><inf>/strike<vblex><pres>/strike<vblex><imp>$ ^one/one<num><sg>/one<prn><dem><mf><sg>$ ^another/another<det><ind><sg>/another<prn><ind><mf><sg>$
+^strike/strike<n><sg>/strike<vblex><inf>/strike<vblex><pres>/strike<vblex><imp>$ ^one’s/one's<prn><ind><mf><sg>$ ^foot/foot<n><sg>/foot<n><pl>$ ^against/against<adj>/against<adv>/against<pr>$
+^string/string<n><sg>/string<vblex><inf>/string<vblex><pres>/string<vblex><imp>$
+^strip/strip<n><sg>/strip<vblex><inf>/strip<vblex><pres>/strip<vblex><imp>$
+^strive/strive<vblex><inf>/strive<vblex><pres>/strive<vblex><imp>$
+^strongly/strongly<adv>$
+^struggle/struggle<n><sg>/struggle<vblex><inf>/struggle<vblex><pres>/struggle<vblex><imp>$
+^stubborn/stubborn<adj>$ ^person/person<n><sg>$
+^studding/stud<vblex><pprs>/stud<vblex><subs>/stud<vblex><ger>$
+^stumble/stumble<n><sg>/stumble<vblex><inf>/stumble<vblex><pres>/stumble<vblex><imp>$
+^stupid/stupid<adj>$ ^person/person<n><sg>$
+^style/style<n><sg>/style<vblex><inf>/style<vblex><pres>/style<vblex><imp>$ ^of/of<pr>$ ^hair/hair<n><sg>$ ^dress/dress<n><sg>/dress<vblex><inf>/dress<vblex><pres>/dress<vblex><imp>$
+^submerge/submerge<vblex><inf>/submerge<vblex><pres>/submerge<vblex><imp>$
+^submit/submit<vblex><inf>/submit<vblex><pres>/submit<vblex><imp>$
+^subsist/*subsist$
+^subtract/subtract<vblex><inf>/subtract<vblex><pres>/subtract<vblex><imp>$
+^succeed/succeed<vblex><inf>/succeed<vblex><pres>/succeed<vblex><imp>$ ^one/one<num><sg>/one<prn><dem><mf><sg>$ ^another/another<det><ind><sg>/another<prn><ind><mf><sg>$
+^succour/succour<n><sg>/succour<vblex><inf>/succour<vblex><pres>/succour<vblex><imp>$
+^succumb/succumb<vblex><inf>/succumb<vblex><pres>/succumb<vblex><imp>$
+^suck/suck<vblex><inf>/suck<vblex><pres>/suck<vblex><imp>$
+^suckle/suckle<vblex><inf>/suckle<vblex><pres>/suckle<vblex><imp>$
+^suddenly/suddenly<adv>$
+^suffer/suffer<vblex><inf>/suffer<vblex><pres>/suffer<vblex><imp>$
+^suffering/suffering<n><sg>/suffer<vblex><pprs>/suffer<vblex><subs>/suffer<vblex><ger>$
+^sufficient/sufficient<adj>$
+^suffocate/suffocate<vblex><inf>/suffocate<vblex><pres>/suffocate<vblex><imp>$
+^suffocated/suffocate<vblex><past>/suffocate<vblex><pp>$
+^sugar/sugar<n><sg>$
+^suitable/suitable<adj>$
+^sulphur/sulphur<n><sg>$
+^sum/sum<n><sg>/sum<vblex><inf>/sum<vblex><pres>/sum<vblex><imp>$
+^summit/summit<n><sg>$
+^summon/summon<vblex><inf>/summon<vblex><pres>/summon<vblex><imp>$
+^sun/sun<n><sg>/sun<vblex><inf>/sun<vblex><pres>/sun<vblex><imp>$
+^sunlight/sunlight<n><sg>$
+^sunrise/sunrise<n><sg>$
+^sunset/sunset<n><sg>$
+^superintend/*superintend$
+^superior/superior<adj>$
+^supply/supply<n><sg>/supply<vblex><inf>/supply<vblex><pres>/supply<vblex><imp>$
+^support/support<n><sg>/support<vblex><inf>/support<vblex><pres>/support<vblex><imp>$
+^suppurate/*suppurate$
+^surety/surety<n><sg>$
+^surface/surface<n><sg>/surface<vblex><inf>/surface<vblex><pres>/surface<vblex><imp>$
+^surpass/surpass<vblex><inf>/surpass<vblex><pres>/surpass<vblex><imp>$
+^surround/surround<vblex><inf>/surround<vblex><pres>/surround<vblex><imp>$
+^survive/survive<vblex><inf>/survive<vblex><pres>/survive<vblex><imp>$
+^suspend/suspend<vblex><inf>/suspend<vblex><pres>/suspend<vblex><imp>$
+^sustain/sustain<vblex><inf>/sustain<vblex><pres>/sustain<vblex><imp>$
+^swaddle/*swaddle$
+^swallow/swallow<n><sg>/swallow<vblex><inf>/swallow<vblex><pres>/swallow<vblex><imp>$
+^swarm/swarm<n><sg>/swarm<vblex><inf>/swarm<vblex><pres>/swarm<vblex><imp>$
+^swear/swear<vblex><inf>/swear<vblex><pres>/swear<vblex><imp>$
+^swear/swear<vblex><inf>/swear<vblex><pres>/swear<vblex><imp>$ ^an/a<det><ind><sg>$ ^oath/oath<n><sg>$
+^sweat/sweat<n><sg>/sweat<vblex><inf>/sweat<vblex><pres>/sweat<vblex><imp>$
+^sweep/sweep<vblex><inf>/sweep<vblex><pres>/sweep<vblex><imp>$
+^sweet/sweet<adj><sint>/sweet<n><sg>$
+^swell/swell<n><sg>/swell<vblex><inf>/swell<vblex><pres>/swell<vblex><imp>$
+^swim/swim<n><sg>/swim<vblex><inf>/swim<vblex><pres>/swim<vblex><imp>$
+^swimmer/swimmer<n><sg>$
+^swindle/swindle<n><sg>/swindle<vblex><inf>/swindle<vblex><pres>/swindle<vblex><imp>$
+^switch/switch<n><sg>/switch<vblex><inf>/switch<vblex><pres>/switch<vblex><imp>$
+^swoon/swoon<vblex><inf>/swoon<vblex><pres>/swoon<vblex><imp>$
+^sword/sword<n><sg>$
+^symptom/symptom<n><sg>$
+^table/table<n><sg>/table<vblex><inf>/table<vblex><pres>/table<vblex><imp>$
+^table cloth/table cloth<n><sg>$
+^taboo/taboo<adj>/taboo<n><sg>$
+^tail/tail<n><sg>/tail<vblex><inf>/tail<vblex><pres>/tail<vblex><imp>$
+^tainted/*tainted$
+^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$
+^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^apart/apart<adv>$
+^take away/take<vblex><sep><inf># away/take<vblex><sep><pres># away/take<vblex><sep><imp># away$
+^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^back/back<adj>/back<adv>/back<n><sg>/back<vblex><inf>/back<vblex><pres>/back<vblex><imp>$
+^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^take off/take<vblex><sep><inf># off/take<vblex><sep><pres># off/take<vblex><sep><imp># off$
+^take out/take<vblex><sep><inf># out/take<vblex><sep><pres># out/take<vblex><sep><imp># out$
+^talent/talent<n><sg>$
+^talk/talk<n><sg>/talk<vblex><inf>/talk<vblex><pres>/talk<vblex><imp>$
+^talkative/talkative<adj>$
+^tall/tall<adj><sint>$
+^talon/*talon$
+^tap/tap<n><sg>/tap<vblex><inf>/tap<vblex><pres>/tap<vblex><imp>$
+^task/task<n><sg>/task<vblex><inf>/task<vblex><pres>/task<vblex><imp>$
+^taste/taste<n><sg>/taste<vblex><inf>/taste<vblex><pres>/taste<vblex><imp>$
+^tatoo/*tatoo$
+^tax/tax<n><sg>/tax<vblex><inf>/tax<vblex><pres>/tax<vblex><imp>$
+^tea/tea<n><sg>$
+^teach/teach<vblex><inf>/teach<vblex><pres>/teach<vblex><imp>$
+^teacher/teacher<n><sg>$
+^tear/tear<n><sg>/tear<vblex><inf>/tear<vblex><pres>/tear<vblex><imp>$
+^teardrops/*teardrops$
+^tease/tease<vblex><inf>/tease<vblex><pres>/tease<vblex><imp>$
+^tell/tell<vblex><inf>/tell<vblex><pres>/tell<vblex><imp>$
+^temple/temple<n><sg>$
+^tempt/tempt<vblex><inf>/tempt<vblex><pres>/tempt<vblex><imp>$
+^temptation/temptation<n><sg>$
+^ten/ten<num><pl>/ten<n><sg>$
+^tenacity/tenacity<n><sg>$
+^tender/tender<adj><sint>/tender<n><sg>$
+^tent/tent<n><sg>$
+^terrify/terrify<vblex><inf>/terrify<vblex><pres>/terrify<vblex><imp>$
+^terror/terror<n><sg>$
+^test/test<n><sg>/test<vblex><inf>/test<vblex><pres>/test<vblex><imp>$
+^testify/testify<vblex><inf>/testify<vblex><pres>/testify<vblex><imp>$
+^thank/thank<vblex><inf>/thank<vblex><pres>/thank<vblex><imp>$
+^thanks/thanks<ij>/thanks<n><pl>/thank<vblex><pres><p3><sg>$
+^that/that<cnjsub>/that<det><dem><sg>/that<prn><dem><mf><sg>/that<prn><rel><an><mf><sp>$
+^the/the<det><def><sp>$ ^nose/nose<n><sg>/nose<vblex><inf>/nose<vblex><pres>/nose<vblex><imp>$
+^them/that<prn><dem><pl>/prpers<prn><obj><p3><mf><pl>$
+^then/then<adv>/then<cnjadv>$
+^there/there<adv>$
+^thick/thick<adj><sint>$
+^thickness/thickness<n><sg>$
+^thief/thief<n><sg>$
+^thigh/thigh<n><sg>$
+^thin/thin<adj><sint>/thin<vblex><inf>/thin<vblex><pres>/thin<vblex><imp>$
+^thine/*thine$
+^thing/thing<n><sg>$
+^think/think<vblex><inf>/think<vblex><pres>/think<vblex><imp>$
+^thirst/thirst<n><sg>/thirst<vblex><inf>/thirst<vblex><pres>/thirst<vblex><imp>$
+^thirsty/thirsty<adj><sint>$
+^thirteen/thirteen<num><pl>$
+^thirty/thirty<num><pl>$
+^this/this<det><dem><sg>/this<prn><dem><mf><sg>/this<prn><rel><an><mf><sp>$
+^thorn/thorn<n><sg>$
+^though/though<adv>/though<cnjsub>/though<cnjadv>$
+^thought/think<vblex><past>/think<vblex><pp>/thought<n><sg>$
+^thousand/thousand<num><pl>/thousand<n><sg>$
+^thread/thread<n><sg>/thread<vblex><inf>/thread<vblex><pres>/thread<vblex><imp>$
+^threaten/threaten<vblex><inf>/threaten<vblex><pres>/threaten<vblex><imp>$
+^throat/throat<n><sg>$
+^throw/throw<n><sg>/throw<vblex><inf>/throw<vblex><pres>/throw<vblex><imp>$
+^throw/throw<n><sg>/throw<vblex><inf>/throw<vblex><pres>/throw<vblex><imp>$ ^down/down<adv>/down<n><sg>$
+^thunder/thunder<n><sg>/thunder<vblex><inf>/thunder<vblex><pres>/thunder<vblex><imp>$
+^thursday/Thursday<n><sg>$
+^thus/thus<adv>/thus<cnjcoo>/thus<cnjadv>$
+^thy/thy<det><pos><sp>$
+^tickle/tickle<vblex><inf>/tickle<vblex><pres>/tickle<vblex><imp>$
+^tie/tie<n><sg>/tie<vblex><inf>/tie<vblex><pres>/tie<vblex><imp>$
+^tile/tile<n><sg>/tile<vblex><inf>/tile<vblex><pres>/tile<vblex><imp>$
+^till/till<pr>/till<n><sg>/till<vblex><inf>/till<vblex><pres>/till<vblex><imp>$
+^time/time<n><sg>/time<vblex><inf>/time<vblex><pres>/time<vblex><imp>$
+^times/time<n><pl>/time<vblex><pres><p3><sg>$
+^tin/tin<n><sg>$
+^tire/tire<n><sg>/tire<vblex><inf>/tire<vblex><pres>/tire<vblex><imp>$
+^tired/tired<adj>/tire<vblex><past>/tire<vblex><pp>$
+^to/to<pr>$
+^to/to<pr>$ ^decide/decide<vblex><inf>/decide<vblex><pres>/decide<vblex><imp>$
+^to/to<pr>$ ^do/do<vblex><inf>/do<vblex><pres>/do<vblex><imp>/do<vaux><inf>/do<vaux><pres>/do<vbdo><inf>/do<vbdo><pres>/do<vbdo><imp>$ ^a/a<det><ind><sg>$ ^thing/thing<n><sg>$ ^turn/turn<n><sg>/turn<vblex><inf>/turn<vblex><pres>/turn<vblex><imp>$ ^by/by<adv>/by<pr>$
+^turn/turn<n><sg>/turn<vblex><inf>/turn<vblex><pres>/turn<vblex><imp>$ ^to/to<pr>$ ^judge/judge<n><sg>/judge<vblex><inf>/judge<vblex><pres>/judge<vblex><imp>$
+^to/to<pr>$ ^lose/lose<n><sg>/lose<vblex><inf>/lose<vblex><pres>/lose<vblex><imp>$
+^to/to<pr>$
+^make/make<n><sg>/make<vblex><inf>/make<vblex><pres>/make<vblex><imp>$ ^to/to<pr>$^-/-<guio>$^day/day<n><sg>$
+^to/to<pr>$^-/-<guio>$^morrow/*morrow$
+^toad/toad<n><sg>$
+^tobacco/tobacco<n><sg>$
+^toe/toe<n><sg>$
+^together/together<adj>/together<adv>$
+^tomato/tomato<n><sg>$
+^tongue/tongue<n><sg>$
+^tool/tool<n><sg>$
+^tooth/tooth<n><sg>$
+^toothpick/toothpick<n><sg>$
+^top/top<adj>/top<n><sg>/top<vblex><inf>/top<vblex><pres>/top<vblex><imp>$
+^torch/torch<n><sg>$
+^torment/torment<n><sg>/torment<vblex><inf>/torment<vblex><pres>/torment<vblex><imp>$
+^tortoise/tortoise<n><sg>$
+^torture/torture<n><sg>/torture<vblex><inf>/torture<vblex><pres>/torture<vblex><imp>$
+^total/total<adj>/total<adv>/total<n><sg>/total<vblex><inf>/total<vblex><pres>/total<vblex><imp>$
+^touch/touch<n><sg>/touch<vblex><inf>/touch<vblex><pres>/touch<vblex><imp>$
+^tow/tow<vblex><inf>/tow<vblex><pres>/tow<vblex><imp>$
+^towel/towel<n><sg>$
+^town/town<n><sg>$
+^trace/trace<n><sg>/trace<vblex><inf>/trace<vblex><pres>/trace<vblex><imp>$
+^track/track<n><sg>/track<vblex><inf>/track<vblex><pres>/track<vblex><imp>$
+^trade/trade<n><sg>/trade<vblex><inf>/trade<vblex><pres>/trade<vblex><imp>$
+^train/train<n><sg>/train<vblex><inf>/train<vblex><pres>/train<vblex><imp>$
+^tranquillize/*tranquillize$
+^transcribe/transcribe<vblex><inf>/transcribe<vblex><pres>/transcribe<vblex><imp>$
+^transfigure/*transfigure$
+^transform/transform<vblex><inf>/transform<vblex><pres>/transform<vblex><imp>$
+^translate/translate<vblex><inf>/translate<vblex><pres>/translate<vblex><imp>$
+^transport/transport<n><sg>/transport<vblex><inf>/transport<vblex><pres>/transport<vblex><imp>$
+^trap/trap<n><sg>/trap<vblex><inf>/trap<vblex><pres>/trap<vblex><imp>$
+^tree/tree<n><sg>$
+^tremble/tremble<vblex><inf>/tremble<vblex><pres>/tremble<vblex><imp>$
+^trench/trench<n><sg>$
+^tribal/tribal<adj>$ ^mark/mark<n><sg>/mark<vblex><inf>/mark<vblex><pres>/mark<vblex><imp>$
+^tribute/tribute<n><sg>$
+^trick/trick<n><sg>/trick<vblex><inf>/trick<vblex><pres>/trick<vblex><imp>$
+^trickster/*trickster$
+^trifle/trifle<n><sg>$
+^triumph/triumph<n><sg>/triumph<vblex><inf>/triumph<vblex><pres>/triumph<vblex><imp>$
+^trouble/trouble<n><sg>/trouble<vblex><inf>/trouble<vblex><pres>/trouble<vblex><imp>$
+^trousers/trouser<n><pl>/trousers<n><pl>$
+^truly/truly<adv>$
+^trumpet/trumpet<n><sg>$
+^trunk/trunk<n><sg>$
+^truth/truth<n><sg>$
+^try/try<vblex><inf>/try<vblex><pres>/try<vblex><imp>$
+^tsetse/*tsetse$ ^fly/fly<n><sg>/fly<vblex><inf>/fly<vblex><pres>/fly<vblex><imp>$
+^tube/tube<n><sg>/tube<vblex><inf>/tube<vblex><pres>/tube<vblex><imp>$
+^tuesday/Tuesday<n><sg>$
+^tuft/tuft<n><sg>$
+^tumble/tumble<n><sg>/tumble<vblex><inf>/tumble<vblex><pres>/tumble<vblex><imp>$
+^tumour/*tumour$
+^turn/turn<n><sg>/turn<vblex><inf>/turn<vblex><pres>/turn<vblex><imp>$
+^turn/turn<n><sg>/turn<vblex><inf>/turn<vblex><pres>/turn<vblex><imp>$ ^aside/aside<adv>$
+^turn/turn<n><sg>/turn<vblex><inf>/turn<vblex><pres>/turn<vblex><imp>$ ^by/by<adv>/by<pr>$
+^turn/turn<n><sg>/turn<vblex><inf>/turn<vblex><pres>/turn<vblex><imp>$ ^turn out/turn<vblex><inf># out/turn<vblex><pres># out/turn<vblex><imp># out$
+^turn/turn<n><sg>/turn<vblex><inf>/turn<vblex><pres>/turn<vblex><imp>$ ^round/round<adv>/round<pr>/round<adj><sint>/round<n><sg>/round<vblex><inf>/round<vblex><pres>/round<vblex><imp>$
+^tusk/tusk<n><sg>$ ^of/of<pr>$ ^elephant/elephant<n><sg>$
+^twelve/twelve<num><pl>$
+^twenty/twenty<num><pl>$
+^twin/twin<n><sg>/twin<vblex><inf>/twin<vblex><pres>/twin<vblex><imp>$
+^twine/twine<n><sg>/twine<vblex><inf>/twine<vblex><pres>/twine<vblex><imp>$
+^twist/twist<n><sg>/twist<vblex><inf>/twist<vblex><pres>/twist<vblex><imp>$
+^two/two<num><pl>$
+^tyrant/tyrant<n><sg>$
+^ugly/ugly<adj><sint>$ ^man/man<n><sg>$
+^ulcer/ulcer<n><sg>$
+^ulcerate/ulcerate<vblex><inf>/ulcerate<vblex><pres>/ulcerate<vblex><imp>$
+^umbrella/umbrella<n><sg>$
+^unanimously/unanimously<adv>$
+^unbar/*unbar$
+^unbind/*unbind$
+^unchain/unchain<vblex><inf>/unchain<vblex><pres>/unchain<vblex><imp>$
+^unclose/*unclose$
+^unclothe/*unclothe$
+^uncover/uncover<vblex><inf>/uncover<vblex><pres>/uncover<vblex><imp>$
+^under/under<adv>/under<pr>$
+^underneath/underneath<adv>$
+^understand/understand<vblex><inf>/understand<vblex><pres>/understand<vblex><imp>$
+^undo/undo<vblex><inf>/undo<vblex><pres>/undo<vblex><imp>$
+^undress/undress<vblex><inf>/undress<vblex><pres>/undress<vblex><imp>$
+^unequal/unequal<adj>$
+^unfold/unfold<vblex><inf>/unfold<vblex><pres>/unfold<vblex><imp>$
+^unhinge/unhinge<vblex><inf>/unhinge<vblex><pres>/unhinge<vblex><imp>$
+^unhook/*unhook$
+^uniform/uniform<adj>/uniform<n><sg>$
+^unite/unite<vblex><inf>/unite<vblex><pres>/unite<vblex><imp>$
+^universe/universe<n><sg>$
+^unlock/unlock<vblex><inf>/unlock<vblex><pres>/unlock<vblex><imp>$
+^unmoor/*unmoor$
+^unnail/*unnail$
+^unravel/unravel<vblex><inf>/unravel<vblex><pres>/unravel<vblex><imp>$
+^unripe/unripe<adj>$
+^unsheath/*unsheath$
+^unstick/*unstick$
+^untie/untie<vblex><inf>/untie<vblex><pres>/untie<vblex><imp>$
+^until/until<cnjsub>/until<cnjadv>/until<pr>$
+^unwell/*unwell$
+^up/up<adv>/up<pr>$
+^upon/upon<pr>$
+^upright/upright<adj>$
+^uproar/uproar<n><sg>$
+^urinate/urinate<vblex><inf>/urinate<vblex><pres>/urinate<vblex><imp>$
+^urine/urine<n><sg>$
+^us/prpers<prn><obj><p1><mf><pl>$
+^useless/useless<adj>$
+^utter/utter<adj>/utter<vblex><inf>/utter<vblex><pres>/utter<vblex><imp>$
+^utterly/utterly<adv>$
+^vacant/vacant<adj>$
+^vacillate/vacillate<vblex><inf>/vacillate<vblex><pres>/vacillate<vblex><imp>$
+^vainly/vainly<adv>$
+^valley/valley<n><sg>$
+^value/value<n><sg>/value<vblex><inf>/value<vblex><pres>/value<vblex><imp>$
+^vanish/vanish<vblex><inf>/vanish<vblex><pres>/vanish<vblex><imp>$
+^vanquish/*vanquish$
+^variegated/variegated<adj>$
+^vary/vary<vblex><inf>/vary<vblex><pres>/vary<vblex><imp>$
+^vegetable/vegetable<n><sg>$
+^vein/vein<n><sg>$
+^veracity/veracity<n><sg>$
+^verandah/*verandah$
+^very/very<adv>/very<preadv>$
+^vex/vex<vblex><inf>/vex<vblex><pres>/vex<vblex><imp>$
+^vexed/vex<vblex><pp>/vex<vblex><past>$
+^vibration/vibration<n><sg>$
+^victim/victim<n><sg>$
+^vigorously/vigorously<adv>$
+^village/village<n><sg>$
+^vine/vine<n><sg>$
+^vinegar/vinegar<n><sg>$
+^violate/violate<vblex><inf>/violate<vblex><pres>/violate<vblex><imp>$ ^a/a<det><ind><sg>$ ^person/person<n><sg>$
+^violent/violent<adj>$
+^visible/visible<adj>$
+^vision/vision<n><sg>$
+^visit/visit<n><sg>/visit<vblex><inf>/visit<vblex><pres>/visit<vblex><imp>$
+^vitiate/*vitiate$
+^vocation/vocation<n><sg>$
+^voice/voice<n><sg>/voice<vblex><inf>/voice<vblex><pres>/voice<vblex><imp>$
+^voluntarily/voluntarily<adv>$
+^vomit/vomit<n><sg>/vomit<vblex><inf>/vomit<vblex><pres>/vomit<vblex><imp>$
+^voyage/voyage<n><sg>$
+^wages/wage<n><pl>$
+^wait/wait<n><sg>/wait<vblex><inf>/wait<vblex><pres>/wait<vblex><imp>$
+^wait for/wait<vblex><inf># for/wait<vblex><pres># for/wait<vblex><imp># for$
+^walk/walk<n><sg>/walk<vblex><inf>/walk<vblex><pres>/walk<vblex><imp>$
+^wall/wall<n><sg>/wall<vblex><inf>/wall<vblex><pres>/wall<vblex><imp>$
+^wallet/wallet<n><sg>$
+^wander/wander<vblex><inf>/wander<vblex><pres>/wander<vblex><imp>$
+^want/want<n><sg>/want<vblex><inf>/want<vblex><pres>/want<vblex><imp>$
+^war/war<n><sg>$
+^warm/warm<adj><sint>/warm<vblex><inf>/warm<vblex><pres>/warm<vblex><imp>$
+^wash/wash<n><sg>/wash<vblex><inf>/wash<vblex><pres>/wash<vblex><imp>$
+^waste/waste<n><sg>/waste<vblex><inf>/waste<vblex><pres>/waste<vblex><imp>$
+^waste away/waste<vblex><inf># away/waste<vblex><pres># away/waste<vblex><imp># away$
+^waste/waste<n><sg>/waste<vblex><inf>/waste<vblex><pres>/waste<vblex><imp>$ ^money/money<n><sg>$
+^watch/watch<n><sg>/watch<vblex><inf>/watch<vblex><pres>/watch<vblex><imp>$
+^watch over/watch<vblex><inf># over/watch<vblex><pres># over/watch<vblex><imp># over$
+^water/water<n><sg>/water<vblex><inf>/water<vblex><pres>/water<vblex><imp>$
+^water/water<n><sg>/water<vblex><inf>/water<vblex><pres>/water<vblex><imp>$ ^animals/animal<n><pl>$
+^water/water<n><sg>/water<vblex><inf>/water<vblex><pres>/water<vblex><imp>$ ^cooler/cool<adj><sint><comp>/cooler<n><sg>$
+^waterpot/*waterpot$
+^wattle/wattle<n><sg>$ ^and/and<cnjcoo>$ ^daub/daub<vblex><inf>/daub<vblex><pres>/daub<vblex><imp>$
+^wave/wave<adj>/wave<n><sg>/wave<vblex><inf>/wave<vblex><pres>/wave<vblex><imp>$
+^weak/weak<adv>/weak<adj><sint>$
+^weaken/weaken<vblex><inf>/weaken<vblex><pres>/weaken<vblex><imp>$
+^wealth/wealth<n><sg>$
+^wean/wean<vblex><inf>/wean<vblex><pres>/wean<vblex><imp>$
+^wear/wear<n><sg>/wear<vblex><inf>/wear<vblex><pres>/wear<vblex><imp>$ ^clothes/clothes<n><pl>/clothe<vblex><pres><p3><sg>$
+^weariness/weariness<n><sg>$
+^weary/weary<vblex><inf>/weary<vblex><pres>/weary<vblex><imp>$
+^weave/weave<vblex><inf>/weave<vblex><pres>/weave<vblex><imp>$
+^weed/weed<n><sg>/weed<vblex><inf>/weed<vblex><pres>/weed<vblex><imp>$
+^week/week<n><sg>$
+^weep/weep<vblex><inf>/weep<vblex><pres>/weep<vblex><imp>$
+^weigh/weigh<vblex><inf>/weigh<vblex><pres>/weigh<vblex><imp>$
+^welcome/welcome<adj>/welcome<n><sg>/welcome<vblex><inf>/welcome<vblex><pres>/welcome<vblex><imp>$
+^weld/weld<vblex><inf>/weld<vblex><pres>/weld<vblex><imp>$
+^well/well<adv>/well<n><sg>$
+^wet/wet<adj><sint>/wet<vblex><inf>/wet<vblex><pres>/wet<vblex><past>/wet<vblex><pp>/wet<vblex><imp>$
+^whale/whale<n><sg>$
+^what/what<det><itg><sp>/what<prn><itg><mf><sp>/what<prn><rel><nn><mf><sg>$
+^wheel/wheel<n><sg>/wheel<vblex><inf>/wheel<vblex><pres>/wheel<vblex><imp>$
+^when/when<adv>/when<cnjsub>/when<cnjadv>/when<adv><itg>$
+^where/where<adv>/where<adv><itg>$
+^whet/whet<vblex><inf>/whet<vblex><pres>/whet<vblex><imp>$
+^whine/whine<n><sg>/whine<vblex><inf>/whine<vblex><pres>/whine<vblex><imp>$
+^whip/whip<n><sg>/whip<vblex><inf>/whip<vblex><pres>/whip<vblex><imp>$
+^whirl/whirl<vblex><inf>/whirl<vblex><pres>/whirl<vblex><imp>$
+^whirlpool/*whirlpool$
+^whisper/whisper<n><sg>/whisper<vblex><inf>/whisper<vblex><pres>/whisper<vblex><imp>$
+^whistle/whistle<n><sg>/whistle<vblex><inf>/whistle<vblex><pres>/whistle<vblex><imp>$
+^whistle/whistle<n><sg>/whistle<vblex><inf>/whistle<vblex><pres>/whistle<vblex><imp>$ ^of/of<pr>$ ^steamer/steamer<n><sg>$
+^white/white<adj><sint>/white<n><sg>$
+^white/white<adj><sint>/white<n><sg>$ ^ant/ant<n><sg>$
+^whiteman/*whiteman$
+^whiten/whiten<vblex><inf>/whiten<vblex><pres>/whiten<vblex><imp>$
+^whiteness/whiteness<n><sg>$
+^who/who<prn><itg><mf><sp>/who<prn><rel><an><mf><sp>$
+^whole/whole<adj>/whole<n><sg>$
+^why/why<adv><itg>$
+^wick/wick<n><sg>$
+^widow/widow<n><sg>/widow<vblex><inf>/widow<vblex><pres>/widow<vblex><imp>$
+^widower/widower<n><sg>$
+^wife/wife<n><sg>$
+^will/will<n><sg>/will<vbmod><inf>/will<vbmod><pres>/will<vblex><inf>/will<vblex><pres>/will<vblex><imp>$
+^win/win<n><sg>/win<vblex><inf>/win<vblex><pres>/win<vblex><imp>$
+^wind/wind<n><sg>/wind<vblex><inf>/wind<vblex><pres>/wind<vblex><imp>$
+^window/window<n><sg>$
+^wine/wine<n><sg>$
+^wing/wing<n><sg>$
+^winnow/*winnow$
+^wipe/wipe<vblex><inf>/wipe<vblex><pres>/wipe<vblex><imp>$
+^wisdom/wisdom<n><sg>$
+^wise/wise<adj><sint>$
+^wish/wish<n><sg>/wish<vblex><inf>/wish<vblex><pres>/wish<vblex><imp>$
+^wish/wish<n><sg>/wish<vblex><inf>/wish<vblex><pres>/wish<vblex><imp>$ ^for/for<cnjadv>/for<pr>$
+^witch/witch<n><sg>$
+^witchcraft/witchcraft<n><sg>$
+^with/with<pr>$
+^with/with<pr>$ ^a/a<det><ind><sg>$ ^line/line<n><sg>/line<vblex><inf>/line<vblex><pres>/line<vblex><imp>$
+^with/with<pr>$ ^a/a<det><ind><sg>$ ^tool/tool<n><sg>$
+^with/with<pr>$ ^children/child<n><pl>$
+^within/within<adv>/within<pr>$
+^without/without<adv>/without<pr>$
+^witness/witness<n><sg>/witness<vblex><inf>/witness<vblex><pres>/witness<vblex><imp>$
+^wittingly/*wittingly$
+^wizard/wizard<n><sg>$
+^woman/woman<n><sg>$
+^wonder/wonder<n><sg>/wonder<vblex><inf>/wonder<vblex><pres>/wonder<vblex><imp>$
+^wool/wool<n><sg>$
+^word/word<n><sg>$
+^work/work<n><sg>/work<vblex><inf>/work<vblex><pres>/work<vblex><imp>$
+^workman/workman<n><sg>$
+^world/world<adj>/world<n><sg>$
+^worry/worry<n><sg>/worry<vblex><inf>/worry<vblex><pres>/worry<vblex><imp>$
+^wound/wind<vblex><past>/wind<vblex><pp>/wound<n><sg>/wound<vblex><inf>/wound<vblex><pres>/wound<vblex><imp>$
+^wrangle/wrangle<vblex><inf>/wrangle<vblex><pres>/wrangle<vblex><imp>$
+^wrap up/wrap<vblex><inf># up/wrap<vblex><pres># up/wrap<vblex><imp># up$
+^wrench/wrench<vblex><inf>/wrench<vblex><pres>/wrench<vblex><imp>$
+^wrestle/wrestle<vblex><inf>/wrestle<vblex><pres>/wrestle<vblex><imp>$
+^write/write<vblex><inf>/write<vblex><pres>/write<vblex><imp>$
+^writhe/writhe<vblex><inf>/writhe<vblex><pres>/writhe<vblex><imp>$
+^writing/writing<n><sg>/write<vblex><pprs>/write<vblex><subs>/write<vblex><ger>$
+^wrong/wrong<adj>/wrong<adv>/wrong<n><sg>/wrong<vblex><inf>/wrong<vblex><pres>/wrong<vblex><imp>$
+^yam/yam<n><sg>$
+^yawn/yawn<n><sg>/yawn<vblex><inf>/yawn<vblex><pres>/yawn<vblex><imp>$
+^year/year<n><sg>$
+^yes/yes<adv>/yes<ij>$
+^yesterday/yesterday<adv>/yesterday<n><sg>$
+^yet/yet<adv>/yet<cnjadv>$
+^you/you<prn><pers><p2><mf><sg>/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$
+^younger/young<adj><sint><comp>$
+^yours/yours<adj><pos><pred>/prpers<prn><pos><p2><mf><sp>$
+^youth/youth<n><sg>$
+^zero/zero<num><sg>/zero<n><sg>$^./.<sent>$
