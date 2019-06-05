@@ -97,22 +97,20 @@ def verbs_final_dummy():
                             break
     print(c, 'words added')
     
-#verbs_final_dummy()
-
-def nouns():
-    with open('eng_lin_dic.txt', 'r') as d:
-        with open('nouns_1.txt', 'a+') as f :
-            for line in d:
-                if 'pl' in line:
-                    f.write(line)
-
-def calculate_duplicates():
+def verbs():
     with open('../lin_verbs_final.txt', 'r') as d:
-        o_list = []
-        for line in d:
-            o_list.append(line.split(':')[0])
-        print(len(o_list)-len(list(set(o_list))), 'duplicates')
-        print(set([x for x in o_list if o_list.count(x) > 1]))
+        with open('restored_1.txt', 'r') as f:
+            with open('verbs.txt', 'a+') as o:
+                for line in d:
+                    out = f.readline().strip()+ ' ' + ' '.join(line.split()[1:])+'\n'
+                    o.write(out)
+
+def dicritic_restoration():
+    with open('restored.txt', 'r') as d:
+        with open('restored_1.txt', 'a+') as f:
+            for line in d:
+                out = line.strip()+':'+line[2:len(line)-2]+'\n'   
+                f.write(out)
 
 def nouns_1():
     c = 0
@@ -165,43 +163,27 @@ def nouns_1():
                         no_class.append(line)
                 i += 1
 
-    print('mo_ba_class', len(mo_ba_class))
-    print(mo_ba_class)
-    print('')
-    print('ba_class', len(ba_class))
-    print(ba_class)
-    print('')
-    print('mo_mi_class', len(mo_mi_class))
-    print(mo_mi_class)
-    print('')
-    print('li_ma_class', len(li_ma_class))
-    print(li_ma_class)
-    print('')
-    print('e_bi_class', len(e_bi_class))
-    print(e_bi_class)
-    print('')
-    print('lo_ma_class', len(lo_ma_class))
-    print(lo_ma_class)
-    print('')
-    print('no_class', len(no_class))
-    print(no_class)
-    print('')
+    for word in li_ma_class:
+        print(word)
 
+def calculate_duplicates():
+    with open('nouns_2.txt', 'r') as d:
+        o_list = []
+        for line in d:
+            o_list.append(line.strip())
+        print(len(o_list)-len(list(set(o_list))), 'duplicates')
+        print(set([x for x in o_list if o_list.count(x) > 1]))
 
-def dicritic_restoration():
-    with open('restored.txt', 'r') as d:
-        with open('restored_1.txt', 'a+') as f:
-            for line in d:
-                out = line.strip()+':'+line[2:len(line)-2]+'\n'   
+def nouns():
+    with open('nouns_2.txt', 'r') as d:
+        with open('nouns.txt', 'a+') as f :
+            for word in d:
+                out = word.strip() + ':' + word.strip().replace('mo', '') + ' III-IV5-Suffix ; ! ""' + '\n'
                 f.write(out)
 
-def verbs():
-    with open('../lin_verbs_final.txt', 'r') as d:
-        with open('restored_1.txt', 'r') as f:
-            with open('verbs.txt', 'a+') as o:
-                for line in d:
-                    out = f.readline().strip()+ ' ' + ' '.join(line.split()[1:])+'\n'
-                    o.write(out)
+nouns_1()
 
-verbs()
+
+
+
 

@@ -1,7 +1,7 @@
+!! Lots of duplicates and innacurate translations.
+!! Will take some time to clean it up
+
 kotambola-mpamba:tambola-mpamba Verb-Suffix ; ! "To wander"
-
-
-
 kokangana:kangana Verb-Suffix ; ! "To coagulate"
 konkumbu:nkumbu Verb-Suffix ; ! "To name"
 kolina:lina Verb-Suffix ; ! "To name"
