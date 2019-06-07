@@ -129,40 +129,745 @@
    <section id="main" type="standard">
 
      <!-- Nouns -->
-      <e><p><l>garden<s n="n"/></l><r>elanga<s n="n"/><s n="cl7"/></r></p></e>
-      <e><p><l>house<s n="n"/></l><r>ndako<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>boy<s n="n"/></l><r>mobali<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
-      <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>child<s n="n"/></l><r>mwana<s n="n"/><s n="cl1"/></r></p></e>
-      <e><p><l>person<s n="n"/></l><r>moto<s n="n"/><s n="cl1"/></r></p></e>  <!-- or mutu -->
-      <e><p><l>cat<s n="n"/></l><r>nyaú<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>tree<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>water<s n="n"/></l><r>maí<s n="n"/><s n="cl5"/></r></p></e>
-      <e><p><l>eye<s n="n"/></l><r>liso<s n="n"/><s n="cl5"/></r></p></e>
-      <e><p><l>year<s n="n"/></l><r>mobú<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>head<s n="n"/></l><r>motu<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>animal<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>answer<s n="n"/></l><r>eyano<s n="n"/><s n="cl7"/></r></p></e>
-      <e><p><l>weather<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e>
-      <e><p><l>mother<s n="n"/></l><r>mama<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>hand<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e>
-      <e><p><l>bird<s n="n"/></l><r>ndeke<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>game<s n="n"/></l><r>lisano<s n="n"/><s n="cl1"/></r></p></e>
-      <e><p><l>question<s n="n"/></l><r>botuna<s n="n"/><s n="cl1"/></r></p></e>
-      <e><p><l>window<s n="n"/></l><r>lininisa<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>sound<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>table<s n="n"/></l><r>mesa<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>beater<s n="n"/></l><r>mobeti<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>blacksmith<s n="n"/></l><r>motúli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>tailor<s n="n"/></l><r>motóngi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>builder<s n="n"/></l><r>motóngi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>king<s n="n"/></l><r>mokónzi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>chief<s n="n"/></l><r>monanga<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>disciple<s n="n"/></l><r>moyékoli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>heir<s n="n"/></l><r>motíkí<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>husband<s n="n"/></l><r>molɔ́mí<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>habitant<s n="n"/></l><r>mosí<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>just<s n="n"/></l><r>mosémboli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>judge<s n="n"/></l><r>mobekisi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>husband<s n="n"/></l><r>mobáli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>man<s n="n"/></l><r>motu<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>merchant<s n="n"/></l><r>motɛ́kisi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>mother<s n="n"/></l><r>mobóti<s n="n"/><s n="cl1"/></r></p></e>
+      <!-- <e><p><l>mother<br/>in<br/>law<s n="n"/></l><r>mokilo<s n="n"/><s n="cl1"/></r></p></e> -->
+      <e><p><l>native<s n="n"/></l><r>mosɛnjí<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>paddler<s n="n"/></l><r>molúki<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>porter<s n="n"/></l><r>motómbí<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>prisoner<s n="n"/></l><r>mokangámí<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>mokuli<s n="n"/></l><r>mokuli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>guard<s n="n"/></l><r>mobateli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>protector<s n="n"/></l><r>mobateli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>labourer<s n="n"/></l><r>mosáli<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>worker<s n="n"/></l><r>mosáli<s n="n"/><s n="cl1"/></r></p></e>
+      <!-- <e><p><l>sister<br/>in<br/>law<s n="n"/></l><r>monyalí<s n="n"/><s n="cl1"/></r></p></e> -->
+      <e><p><l>slave<s n="n"/></l><r>moómbó<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>preacher<s n="n"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>teacher<s n="n"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>trickster<s n="n"/></l><r>mojímbí<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>victim<s n="n"/></l><r>moboma<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>witch<s n="n"/></l><r>molɔki<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>person<s n="n"/></l><r>mobátísi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>savior<s n="n"/></l><r>mobíkisi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>chief<s n="n"/></l><r>mokambi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>boss<s n="n"/></l><r>mokambi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>christian<s n="n"/></l><r>mokristo<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>teacher<s n="n"/></l><r>molakisi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>sower<s n="n"/></l><r>molóni<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>enemy<s n="n"/></l><r>monguna<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>friend<s n="n"/></l><r>moníngá<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>pangan<s n="n"/></l><r>mopǎgánu<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>visitor<s n="n"/></l><r>mopaya<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>saint<s n="n"/></l><r>mosántu<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>other<s n="n"/></l><r>mosúsu<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>person<s n="n"/></l><r>moto<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>slave<s n="n"/></l><r>moúmbu<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>singer<s n="n"/></l><r>moyémbi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>thief<s n="n"/></l><r>moyíbi<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>angel<s n="n"/></l><r>anjelu<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>sibling<s n="n"/></l><r>léki<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>school<s n="n"/></l><r>kelasi<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>chair<s n="n"/></l><r>kíti<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>time<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e> <!-- tango or eleko -->
-
-      <e><p><l>sister<s n="n"/></l><r>ndeko mwasi<s n="n"/><s n="cl1a"/></r></p></e> <!-- compound words -->
-
-      <!--<e><p><l>outside<s n="n"/></l><r><s n="n"/><s n="cl5"/></r></p></e>--> <!-- check if outside can be an adverb in Lingala -->
-
+      <e><p><l>throne<s n="n"/></l><r>kíti<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>grandparent<s n="n"/></l><r>kóko<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>broom<s n="n"/></l><r>kómbo<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>mom<s n="n"/></l><r>mama<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>guard<s n="n"/></l><r>mbuta<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>house<s n="n"/></l><r>ndako<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>sibling<s n="n"/></l><r>ndeko<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>crocodile<s n="n"/></l><r>ngando<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>controller<s n="n"/></l><r>ngando<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>expert<s n="n"/></l><r>nganga<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>magician<s n="n"/></l><r>nganga<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>healer<s n="n"/></l><r>nganga<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>amulet<s n="n"/></l><r>nkísi<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>medicine<s n="n"/></l><r>nkísi<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>drug<s n="n"/></l><r>nkísi<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>lord<s n="n"/></l><r>nkolo<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>owner<s n="n"/></l><r>nkolo<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>uncle<s n="n"/></l><r>nókó<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>free<s n="n"/></l><r>nsómí<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>apostle<s n="n"/></l><r>ntoma<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>bee<s n="n"/></l><r>nzói<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>prophet<s n="n"/></l><r>profete<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>priest<s n="n"/></l><r>sángó<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>soldier<s n="n"/></l><r>sodá<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>dad<s n="n"/></l><r>tata<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>demon<s n="n"/></l><r>zábolo<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>artery<s n="n"/></l><r>mosisa<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>vein<s n="n"/></l><r>mosisa<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>dress<s n="n"/></l><r>moláto<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>bottle<s n="n"/></l><r>molangi<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>cable<s n="n"/></l><r>mokulu<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>string<s n="n"/></l><r>mokulu<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>star<s n="n"/></l><r>mozonto<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>canon<s n="n"/></l><r>monsinga<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>chain<s n="n"/></l><r>monyɔlɔ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>rule<s n="n"/></l><r>motíndo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>commandment<s n="n"/></l><r>motíndo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>cord<s n="n"/></l><r>mokɔli<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>price<s n="n"/></l><r>motúya<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>cost<s n="n"/></l><r>motúya<s n="n"/><s n="cl3"/></r></p></e>
+      <!-- <e><p><l>cotton<br/>free<s n="n"/></l><r>molɔndú<s n="n"/><s n="cl3"/></r></p></e> -->
+      <e><p><l>crack<s n="n"/></l><r>monkaka<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>dam<s n="n"/></l><r>mobóka<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>debt<s n="n"/></l><r>mombalé<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>spirit<s n="n"/></l><r>molímó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>soul<s n="n"/></l><r>molímó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>witch<s n="n"/></l><r>molɔki<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>mouth<s n="n"/></l><r>monɔkɔ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>language<s n="n"/></l><r>monɔkɔ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>entrance<s n="n"/></l><r>monɔkɔ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>drum<s n="n"/></l><r>mokúka<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>enemy<s n="n"/></l><r>monguna<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>excuse<s n="n"/></l><r>bolimbisi<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>pardon<s n="n"/></l><r>bolimbisi<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>file<s n="n"/></l><r>mosío<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>toe<s n="n"/></l><r>monsai<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>finger<s n="n"/></l><r>mosapi<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>camp<s n="n"/></l><r>moláko<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>flame<s n="n"/></l><r>mololi<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>foundation<s n="n"/></l><r>mobóko<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>frog<s n="n"/></l><r>mombemba<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>funnel<s n="n"/></l><r>mombúndo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>heron<s n="n"/></l><r>mokwéla<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>jackal<s n="n"/></l><r>monsoli<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>trip<s n="n"/></l><r>mobémbo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>travel<s n="n"/></l><r>mobémbo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>journey<s n="n"/></l><r>mobémbo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>line<s n="n"/></l><r>molɔ́ngɔ́<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>row<s n="n"/></l><r>molɔ́ngɔ́<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>rafter<s n="n"/></l><r>mole<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>seed<s n="n"/></l><r>mombuma<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>pill<s n="n"/></l><r>mombuma<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>tube<s n="n"/></l><r>mongenzu<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>pipe<s n="n"/></l><r>mongenzu<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>ramrod<s n="n"/></l><r>moswá<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>rib<s n="n"/></l><r>mopanzí<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>side<s n="n"/></l><r>mopanzí<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>root<s n="n"/></l><r>mótɛkɛ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>flour<s n="n"/></l><r>mótɛkɛ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>sack<s n="n"/></l><r>mofuku<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>saw<s n="n"/></l><r>mosómáni<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>seed<s n="n"/></l><r>mombóto<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>snail<s n="n"/></l><r>mobɛmbɛ́<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>thorn<s n="n"/></l><r>monzúbɛ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>toothpick<s n="n"/></l><r>mombai<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>trade<s n="n"/></l><r>mombóngo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>trench<s n="n"/></l><r>mongololo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>trumpet<s n="n"/></l><r>mondule<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>vine<s n="n"/></l><r>monjímbilíkí<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>white<s n="n"/></l><r>monsekeleke<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>ant<s n="n"/></l><r>monsekeleke<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l><s n="n"/></l><r>mondɛ́lɛ́<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>wind<s n="n"/></l><r>mompé<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>wind<s n="n"/></l><r>mompɛpɛ<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>boy<s n="n"/></l><r>mobali<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>man<s n="n"/></l><r>mobali<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>husband<s n="n"/></l><r>mobali<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>law<s n="n"/></l><r>mobeko<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>command<s n="n"/></l><r>mobeko<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>year<s n="n"/></l><r>mobú<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>disorder<s n="n"/></l><r>mobúlú<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>book<s n="n"/></l><r>mokandá<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>commitment<s n="n"/></l><r>mokano<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>section<s n="n"/></l><r>mokapo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>of<s n="n"/></l><r>mokapo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>law<s n="n"/></l><r>mokapo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>tail<s n="n"/></l><r>mokila<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>earth<s n="n"/></l><r>mokili<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>day<s n="n"/></l><r>mokolo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>bone<s n="n"/></l><r>mokúwa<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>determination<s n="n"/></l><r>moléndé<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>energy<s n="n"/></l><r>moléndé<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>nothing<s n="n"/></l><r>molili<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>darkness<s n="n"/></l><r>molili<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>world<s n="n"/></l><r>molóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>river<s n="n"/></l><r>moluka<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>meet<s n="n"/></l><r>molúlú<s n="n"/><s n="cl3"/></r></p></e>
+      <!-- <e><p><l>white<br/>person<s n="n"/></l><r>mondélé<s n="n"/><s n="cl3"/></r></p></e> -->
+      <e><p><l>throat<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>voice<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>sound<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>east<s n="n"/></l><r>monyele<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>torment<s n="n"/></l><r>monyókoli<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>work<s n="n"/></l><r>mosálá<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>occupation<s n="n"/></l><r>mosálá<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>far<s n="n"/></l><r>mosíká<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>dowry<s n="n"/></l><r>mosolo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>money<s n="n"/></l><r>mosolo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>other<s n="n"/></l><r>mosusu<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>trap<s n="n"/></l><r>motámbo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>light<s n="n"/></l><r>motáné<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>color<s n="n"/></l><r>motáné<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>heart<s n="n"/></l><r>motéma<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>reason<s n="n"/></l><r>motíndo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>head<s n="n"/></l><r>motu<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>car<s n="n"/></l><r>mótuka<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>theft<s n="n"/></l><r>moyíbi<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>depth<s n="n"/></l><r>mozindó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>question<s n="n"/></l><r>motuna<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>abcess<s n="n"/></l><r>litukú<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bag<s n="n"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>purse<s n="n"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pocket<s n="n"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bamboo<s n="n"/></l><r>linkɛké<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>stomach<s n="n"/></l><r>libumu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bow<s n="n"/></l><r>litíngbo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>breast<s n="n"/></l><r>libɛ́lɛ<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>gun<s n="n"/></l><r>lisási<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>cartridge<s n="n"/></l><r>lisási<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>case<s n="n"/></l><r>libóbó<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>comb<s n="n"/></l><r>lisanola<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>beer<s n="n"/></l><r>lisanga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>wine<s n="n"/></l><r>lisanga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pillow<s n="n"/></l><r>likoba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>duck<s n="n"/></l><r>lisbata<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>dust<s n="n"/></l><r>lifúlu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>potato<s n="n"/></l><r>libɛngɛ́<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>grave<s n="n"/></l><r>lilita<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>shoulder<s n="n"/></l><r>libeke<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>scarf<s n="n"/></l><r>litambála<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>towel<s n="n"/></l><r>litambála<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>handkerchief<s n="n"/></l><r>litambála<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>hawk<s n="n"/></l><r>lilelɛmbɛ́<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>hip<s n="n"/></l><r>lilóngo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>hole<s n="n"/></l><r>lidúsu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>inheritance<s n="n"/></l><r>libula<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>intestine<s n="n"/></l><r>lisopɔ́<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>entrail<s n="n"/></l><r>lisopɔ́<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>jar<s n="n"/></l><r>libeki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pot<s n="n"/></l><r>libeki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>key<s n="n"/></l><r>lifúngola<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>knot<s n="n"/></l><r>litongo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bruise<s n="n"/></l><r>litútu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>tumour<s n="n"/></l><r>litútu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sermon<s n="n"/></l><r>litéya<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>mango<s n="n"/></l><r>lingóla<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>beach<s n="n"/></l><r>libóngo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>shore<s n="n"/></l><r>libóngo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>heap<s n="n"/></l><r>libóndo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>mushroom<s n="n"/></l><r>liyɛbu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>onion<s n="n"/></l><r>litungúlu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>orange<s n="n"/></l><r>lilála<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>parable<s n="n"/></l><r>libanza<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>paw<s n="n"/></l><r>likáká<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>picture<s n="n"/></l><r>lilingí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>crab<s n="n"/></l><r>lingató<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>plane<s n="n"/></l><r>likómbɔ́kɔ<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>plank<s n="n"/></l><r>libáíya<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>banana<s n="n"/></l><r>likémba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>plantain<s n="n"/></l><r>likémba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>field<s n="n"/></l><r>lisalá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>garden<s n="n"/></l><r>lisalá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>portion<s n="n"/></l><r>likabo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>post<s n="n"/></l><r>likonjí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>saucepan<s n="n"/></l><r>lisasú<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>serviette<s n="n"/></l><r>litwáya<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sheet<s n="n"/></l><r>lingɔngɔ<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>spider<s n="n"/></l><r>libobe<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bachelor<s n="n"/></l><r>likómbe<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>single<s n="n"/></l><r>likómbe<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>spring<s n="n"/></l><r>liziba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>rock<s n="n"/></l><r>litádi<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>footprint<s n="n"/></l><r>litámbí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>stride<s n="n"/></l><r>litámbí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>toad<s n="n"/></l><r>likololɔ<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>tobacco<s n="n"/></l><r>likáíya<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>watch<s n="n"/></l><r>likánga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>wing<s n="n"/></l><r>lipapú<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>marriage<s n="n"/></l><r>libála<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>outisde<s n="n"/></l><r>libanda<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pebble<s n="n"/></l><r>libángá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>stone<s n="n"/></l><r>libángá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>eternity<s n="n"/></l><r>libela<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>forever<s n="n"/></l><r>libela<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>fireplace<s n="n"/></l><r>libóko<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>prayer<s n="n"/></l><r>libóndeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>gift<s n="n"/></l><r>libonza<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>family<s n="n"/></l><r>libota<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>lineage<s n="n"/></l><r>libota<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>hole<s n="n"/></l><r>libulu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>well<s n="n"/></l><r>libulu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>salary<s n="n"/></l><r>lifuta<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>toad<s n="n"/></l><r>ligóródó<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>offering<s n="n"/></l><r>likabo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>gift<s n="n"/></l><r>likabo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>incident<s n="n"/></l><r>likama<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>case<s n="n"/></l><r>likambo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>problem<s n="n"/></l><r>likambo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>miracle<s n="n"/></l><r>likámwisi<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>thought<s n="n"/></l><r>likanisi<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>egg<s n="n"/></l><r>liki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>meeting<s n="n"/></l><r>likita<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>assembly<s n="n"/></l><r>likita<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>conspiracy<s n="n"/></l><r>likita<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>means<s n="n"/></l><r>likoki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>resources<s n="n"/></l><r>likoki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>right<s n="n"/></l><r>likoki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sky<s n="n"/></l><r>likoló<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>above<s n="n"/></l><r>likoló<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>demonology<s n="n"/></l><r>liloki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>talk<s n="n"/></l><r>liloba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>speech<s n="n"/></l><r>liloba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l><s n="n"/></l><r>liloba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>respect<s n="n"/></l><r>limemya<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>worm<s n="n"/></l><r>limpiká<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>spider<s n="n"/></l><r>limpúlututú<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>mango<s n="n"/></l><r>lingolo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>community<s n="n"/></l><r>lingomba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>tooth<s n="n"/></l><r>lino<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bread<s n="n"/></l><r>lipa<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>independence<s n="n"/></l><r>lipandá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>cloud<s n="n"/></l><r>lipata<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>declaration<s n="n"/></l><r>lisakoli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>help<s n="n"/></l><r>lisálísí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>meeting<s n="n"/></l><r>lisangá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>corn<s n="n"/></l><r>lisángó<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>tale<s n="n"/></l><r>lisapo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sin<s n="n"/></l><r>lisúmu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>crime<s n="n"/></l><r>lisúmu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>aid<s n="n"/></l><r>lisungi<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>cheek<s n="n"/></l><r>litáma<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>lesson<s n="n"/></l><r>litéya<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>grass'<s n="n"/></l><r>litíti<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>ear<s n="n"/></l><r>litói<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>death<s n="n"/></l><r>liwá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>press<s n="n"/></l><r>liyebisi<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>existence<s n="n"/></l><r>lizali<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>window<s n="n"/></l><r>lininisa<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>game<s n="n"/></l><r>lisano<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sand<s n="n"/></l><r>mabele<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>earth<s n="n"/></l><r>mabele<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>oil<s n="n"/></l><r>mafúta<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>perfume<s n="n"/></l><r>malási<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>water<s n="n"/></l><r>maí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>blood<s n="n"/></l><r>makilá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>equator<s n="n"/></l><r>mambénga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>vaccine<s n="n"/></l><r>mangwele<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>ship<s n="n"/></l><r>masúwa<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>intelligence<s n="n"/></l><r>mayéle<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bedroom<s n="n"/></l><r>elálelo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>mad<s n="n"/></l><r>elémá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>fool<s n="n"/></l><r>elémá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bracelet<s n="n"/></l><r>ekómo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>branch<s n="n"/></l><r>etápi<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bunch<s n="n"/></l><r>ekango<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pumpkin<s n="n"/></l><r>ekútu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>chip<s n="n"/></l><r>epásu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>house<s n="n"/></l><r>etakoleli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>flock<s n="n"/></l><r>étónga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>rights<s n="n"/></l><r>elobélí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>group<s n="n"/></l><r>etuka<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>department<s n="n"/></l><r>etuka<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>hammer<s n="n"/></l><r>etubeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>oven<s n="n"/></l><r>etumbeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>cap<s n="n"/></l><r>enkoti<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>crown<s n="n"/></l><r>enkoti<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>ruler<s n="n"/></l><r>emekeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>measure<s n="n"/></l><r>emekeli<s n="n"/><s n="cl5"/></r></p></e>
+      <!-- <e><p><l>nail<br/>puller<s n="n"/></l><r>ebakoleli<s n="n"/><s n="cl5"/></r></p></e> -->
+      <e><p><l>passage<s n="n"/></l><r>elékéla<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>way<s n="n"/></l><r>elékéla<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pickaxe<s n="n"/></l><r>etimeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>screwdriver<s n="n"/></l><r>eyotoleli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>shed<s n="n"/></l><r>esamba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>squirrel<s n="n"/></l><r>esende<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>tool<s n="n"/></l><r>esaléli<s n="n"/><s n="cl5"/></r></p></e>
+      <!-- <e><p><l>tsete<br/>fly<s n="n"/></l><r>etuna<s n="n"/><s n="cl5"/></r></p></e> -->
+      <e><p><l>weed<s n="n"/></l><r>eyémbu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sunday<s n="n"/></l><r>eyenga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>holiday<s n="n"/></l><r>eyenga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>festival<s n="n"/></l><r>eyenga<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>broom<s n="n"/></l><r>ekombeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>brush<s n="n"/></l><r>ekombeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>parcel<s n="n"/></l><r>ekangilu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>corpse<s n="n"/></l><r>ebembe<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>cover<s n="n"/></l><r>ebumbeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>fist<s n="n"/></l><r>embotu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>flame<s n="n"/></l><r>eloli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>fork<s n="n"/></l><r>engasa<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bench<s n="n"/></l><r>etanda<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>metal<s n="n"/></l><r>ebende<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>iron<s n="n"/></l><r>engomeli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>seat<s n="n"/></l><r>ebóngá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>torch<s n="n"/></l><r>esóngí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>eyelid<s n="n"/></l><r>étɛ́kɛ<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>young<s n="n"/></l><r>elɛngɛ́<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>custom<s n="n"/></l><r>ejáleli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>habit<s n="n"/></l><r>ejáleli<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>good<s n="n"/></l><r>elɛ́ngí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sweet<s n="n"/></l><r>elɛ́ngí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>morsel<s n="n"/></l><r>etombá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>mortar<s n="n"/></l><r>eboka<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>package<s n="n"/></l><r>ebimba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>bundle<s n="n"/></l><r>ebimba<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pen<s n="n"/></l><r>ekomélí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pencil<s n="n"/></l><r>ekomélí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>pigeon<s n="n"/></l><r>ebengá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>dove<s n="n"/></l><r>ebengá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>impotent<s n="n"/></l><r>ekɔ́mbá<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>meadow<s n="n"/></l><r>esóbé<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>plain<s n="n"/></l><r>esóbé<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>scaffold<s n="n"/></l><r>etálángu<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>sign<s n="n"/></l><r>elembo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>symptom<s n="n"/></l><r>elembo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>seal<s n="n"/></l><r>elembo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>mark<s n="n"/></l><r>elembo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>shed<s n="n"/></l><r>esakángo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>shoe<s n="n"/></l><r>ekoto<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>spirit<s n="n"/></l><r>elímo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>display<s n="n"/></l><r>etáláká<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>storm<s n="n"/></l><r>ekúmbakɛ<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>wall<s n="n"/></l><r>etutú<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>wall<s n="n"/></l><r>efelo<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>wheel<s n="n"/></l><r>eyíká<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>mango<s n="n"/></l><r>mángá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>tuber<s n="n"/></l><r>mbálá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>jaw<s n="n"/></l><r>mbángá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>procelain<s n="n"/></l><r>mbele<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>knife<s n="n"/></l><r>mbelí<s n="n"/><s n="cl9"/></r></p></e>
+      <!-- <e><p><l>palm<br/>tree<s n="n"/></l><r>mbíla<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>village<s n="n"/></l><r>mbóka<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>country<s n="n"/></l><r>mbóka<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>money<s n="n"/></l><r>mbongo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>birth<s n="n"/></l><r>mbótama<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>greetings<s n="n"/></l><r>mbóte<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>gamete<s n="n"/></l><r>mbóto<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>rain<s n="n"/></l><r>mbúla<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>fruit<s n="n"/></l><r>mbuma<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>sheep<s n="n"/></l><r>mémé<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>table<s n="n"/></l><r>mesa<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>tax<s n="n"/></l><r>mpáku<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>example<s n="n"/></l><r>ndakisa<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>part<s n="n"/></l><r>ndámbo<s n="n"/><s n="cl9"/></r></p></e>
+      <!-- <e><p><l>citrus<br/>fruit<s n="n"/></l><r>ndímo<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>authorization<s n="n"/></l><r>ndingisa<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>dream<s n="n"/></l><r>ndóto<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>hallucination<s n="n"/></l><r>ndóto<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>prostitute<s n="n"/></l><r>ndúmba<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>vegetable<s n="n"/></l><r>ndúnda<s n="n"/><s n="cl9"/></r></p></e>
+      <!-- <e><p><l>other<br/>side<s n="n"/></l><r>ngámbo<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>bar<s n="n"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>restaurant<s n="n"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>grace<s n="n"/></l><r>ngolu<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>mountain<s n="n"/></l><r>ngómba<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>bell<s n="n"/></l><r>ngonga<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>mosquito<s n="n"/></l><r>ngungi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>strength<s n="n"/></l><r>nguya<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>ape<s n="n"/></l><r>nkéma<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>economy<s n="n"/></l><r>nkita<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>business<s n="n"/></l><r>nkita<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>leopard<s n="n"/></l><r>nkoi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>crocodile<s n="n"/></l><r>nkóli<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>seed<s n="n"/></l><r>nkóna<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>lion<s n="n"/></l><r>nkósi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>miles<s n="n"/></l><r>ntáká<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>cheetah<s n="n"/></l><r>ntambwe<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>animal<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>tapeworm<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>cat<s n="n"/></l><r>nyaú<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>snake<s n="n"/></l><r>nyoka<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>hunger<s n="n"/></l><r>nzala<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>street<s n="n"/></l><r>nzelá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>road<s n="n"/></l><r>nzelá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>opening<s n="n"/></l><r>nzelá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>song<s n="n"/></l><r>nzémbo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>tree<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>wood<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>elephant<s n="n"/></l><r>nzoku<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>body<s n="n"/></l><r>nzóto<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>ball<s n="n"/></l><r>balé<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>baptism<s n="n"/></l><r>batísimo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>care<s n="n"/></l><r>bozó<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>book<s n="n"/></l><r>búku<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>night<s n="n"/></l><r>butú<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>boat<s n="n"/></l><r>bwátu<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>canoe<s n="n"/></l><r>bwátu<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>party<s n="n"/></l><r>fétí<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>chemistry<s n="n"/></l><r>kemi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>shrimp<s n="n"/></l><r>kosákosá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>cross<s n="n"/></l><r>kurúze<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>disease<s n="n"/></l><r>maládi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>plate<s n="n"/></l><r>pálaki<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>door<s n="n"/></l><r>porte<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>moon<s n="n"/></l><r>sanza<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>month<s n="n"/></l><r>sanza<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>secret<s n="n"/></l><r>sekelé<s n="n"/><s n="cl9"/></r></p></e>
+      <!-- <e><p><l>in<br/>truth<s n="n"/></l><r>séléká<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>cemetary<s n="n"/></l><r>simetiere<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>sugar<s n="n"/></l><r>sukali<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>city<s n="n"/></l><r>vile<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>wine<s n="n"/></l><r>víno<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>wine<s n="n"/></l><r>víno<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>sand<s n="n"/></l><r>zélo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>bird<s n="n"/></l><r>ndeke<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>nothing<s n="n"/></l><r>mpámba<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>suffering<s n="n"/></l><r>mpási<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>close<s n="n"/></l><r>mpembéni<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>twilight<s n="n"/></l><r>mpókwa<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>evening<s n="n"/></l><r>mpókwa<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>sleep<s n="n"/></l><r>mpongí<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>envy<s n="n"/></l><r>mpósá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>anger<s n="n"/></l><r>nkándá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>thunder<s n="n"/></l><r>nkáké<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>calm<s n="n"/></l><r>nkímyá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>calm<s n="n"/></l><r>nkímyá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>bicycle<s n="n"/></l><r>nkínga<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>name<s n="n"/></l><r>nkómbó<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>information<s n="n"/></l><r>nsangó<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>behind<s n="n"/></l><r>nsima<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>wire<s n="n"/></l><r>nsinga<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>terror<s n="n"/></l><r>nsómo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>shame<s n="n"/></l><r>nsóni<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>target<s n="n"/></l><r>nsúka<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>end<s n="n"/></l><r>nsúka<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>number<s n="n"/></l><r>ntálo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>time<s n="n"/></l><r>ntángo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>morning<s n="n"/></l><r>ntóngó<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>reason<s n="n"/></l><r>ntina<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>cause<s n="n"/></l><r>ntina<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>doubt<s n="n"/></l><r>ntembe<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>advice<s n="n"/></l><r>ntolí<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>torso<s n="n"/></l><r>ntólo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>forest<s n="n"/></l><r>nzámba<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>lip<s n="n"/></l><r>lobebo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>life<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>existence<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>arm<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>hand<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>vanity<s n="n"/></l><r>lofundu<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>leaf<s n="n"/></l><r>lokásá<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>page<s n="n"/></l><r>lokásá<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>foot<s n="n"/></l><r>lokolo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>leg<s n="n"/></l><r>lokolo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>glory<s n="n"/></l><r>lokúmu<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>honor<s n="n"/></l><r>lokúmu<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>respect<s n="n"/></l><r>lokúmu<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>lie<s n="n"/></l><r>lokutá<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>paradise<s n="n"/></l><r>lóla<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>pride<s n="n"/></l><r>loléndo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>method<s n="n"/></l><r>loléngé<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>waves<s n="n"/></l><r>londende<s n="n"/><s n="cl11"/></r></p></e>
+      <!-- <e><p><l>residential<br/>parcel<s n="n"/></l><r>lopángo<s n="n"/><s n="cl11"/></r></p></e> -->
+      <e><p><l>evil<s n="n"/></l><r>bobé<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>ugliness<s n="n"/></l><r>bobé<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>friendship<s n="n"/></l><r>bobóto<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>power<s n="n"/></l><r>bokási<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>illness<s n="n"/></l><r>bokono<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>length<s n="n"/></l><r>bolaí<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>kindness<s n="n"/></l><r>bolámu<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>love<s n="n"/></l><r>bolingo<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>friendship<s n="n"/></l><r>bolingo<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>prison<s n="n"/></l><r>boloko<s n="n"/><s n="cl14"/></r></p></e>
+      <!-- <e><p><l>lack<br/>of<br/>freedom<s n="n"/></l><r>boloko<s n="n"/><s n="cl14"/></r></p></e> -->
+      <e><p><l>adulthood<s n="n"/></l><r>bokóló<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>direction<s n="n"/></l><r>bokulaka<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>rule<s n="n"/></l><r>bokulaka<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>nudity<s n="n"/></l><r>bolúmbú<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>wealth<s n="n"/></l><r>bomengo<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>life<s n="n"/></l><r>bómoí<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>existence<s n="n"/></l><r>bómoí<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>human<s n="n"/></l><r>bomoto<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>personality<s n="n"/></l><r>bomoto<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>size<s n="n"/></l><r>bonéne<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>height<s n="n"/></l><r>bonéne<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>friendship<s n="n"/></l><r>bondeko<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>witchcraft<s n="n"/></l><r>bondoki<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>brain<s n="n"/></l><r>bongó<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>prohibition<s n="n"/></l><r>bopekisi<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>freedom<s n="n"/></l><r>bonsomi<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>holiness<s n="n"/></l><r>bosántu<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>truth<s n="n"/></l><r>bosémbo<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>peace<s n="n"/></l><r>bosémbo<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>justic<s n="n"/></l><r>bosémbo<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>goodness<s n="n"/></l><r>bosémbo<s n="n"/><s n="cl14"/></r></p></e>
+      <!-- <e><p><l>in<br/>front<br/>of<s n="n"/></l><r>bosó<s n="n"/><s n="cl14"/></r></p></e> -->
+      <e><p><l>truth<s n="n"/></l><r>bosolo<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>curse<s n="n"/></l><r>botutu<s n="n"/><s n="cl14"/></r></p></e>
+      <!-- <e><p><l>bad<br/>luck<s n="n"/></l><r>botutu<s n="n"/><s n="cl14"/></r></p></e> -->
+      <e><p><l>slavery<s n="n"/></l><r>boúmbu<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>duration<s n="n"/></l><r>boúmeli<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>many<s n="n"/></l><r>boyíké<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>ignorance<s n="n"/></l><r>bozóba<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>stupidity<s n="n"/></l><r>bozóba<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>fatness<s n="n"/></l><r>bozitó<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>possession<s n="n"/></l><r>bozwi<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>Abel<s n="np"/></l><r>Abel<s n="np"/></r></p></e>
+      <e><p><l>Abraham<s n="np"/></l><r>Abraham<s n="np"/></r></p></e>
+      <e><p><l>Adam<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
+      <e><p><l>Africa<s n="np"/></l><r>Afrika<s n="np"/></r></p></e>
+      <e><p><l>Alma<s n="np"/></l><r>Alama<s n="np"/></r></p></e>
+      <e><p><l>America<s n="np"/></l><r>Amerika<s n="np"/></r></p></e>
+      <e><p><l>Angola<s n="np"/></l><r>Angola<s n="np"/></r></p></e>
+      <e><p><l>Antioch<s n="np"/></l><r>Antioshe<s n="np"/></r></p></e>
+      <e><p><l>Asaph<s n="np"/></l><r>Asaf<s n="np"/></r></p></e>
+      <e><p><l>Assyria<s n="np"/></l><r>Asulia<s n="np"/></r></p></e>
+      <e><p><l>Asia<s n="np"/></l><r>Azia<s n="np"/></r></p></e>
+      <e><p><l>Barnabas<s n="np"/></l><r>Barnabas<s n="np"/></r></p></e>
+      <e><p><l>Judaism<s n="np"/></l><r>Bayuda<s n="np"/></r></p></e>
+      <e><p><l>Myanmar<s n="np"/></l><r>Birmani<s n="np"/></r></p></e>
+      <e><p><l>Brazzaville<s n="np"/></l><r>Brazzaville<s n="np"/></r></p></e>
+      <e><p><l>Burundi<s n="np"/></l><r>Burundi<s n="np"/></r></p></e>
+      <e><p><l>Cain<s n="np"/></l><r>Cain<s n="np"/></r></p></e>
+      <e><p><l>Ciluba<s n="np"/></l><r>Ciluba<s n="np"/></r></p></e>
+      <e><p><l>Congo<s n="np"/></l><r>Congo<s n="np"/></r></p></e>
+      <e><p><l>Charlie<s n="np"/></l><r>Charle<s n="np"/></r></p></e>
+      <e><p><l>David<s n="np"/></l><r>David<s n="np"/></r></p></e>
+      <e><p><l>Democratic<s n="np"/></l><r>Demokratiki<s n="np"/></r></p></e>
+      <e><p><l>Ephesians<s n="np"/></l><r>Efeze<s n="np"/></r></p></e>
+      <e><p><l>Egypt<s n="np"/></l><r>Ejipte<s n="np"/></r></p></e>
+      <e><p><l>Helaman<s n="np"/></l><r>Elamani<s n="np"/></r></p></e>
+      <e><p><l>Elijah<s n="np"/></l><r>Eliya<s n="np"/></r></p></e>
+      <e><p><l>Herod<s n="np"/></l><r>Erode<s n="np"/></r></p></e>
+      <e><p><l>Europe<s n="np"/></l><r>Eropa<s n="np"/></r></p></e>
+      <e><p><l>Eve<s n="np"/></l><r>Eva<s n="np"/></r></p></e>
+      <e><p><l>Isaiah<s n="np"/></l><r>Ezaya<s n="np"/></r></p></e>
+      <e><p><l>France<s n="np"/></l><r>Falansia<s n="np"/></r></p></e>
+      <e><p><l>Gabon<s n="np"/></l><r>Gabon<s n="np"/></r></p></e>
+      <e><p><l>Galilee<s n="np"/></l><r>Galilé<s n="np"/></r></p></e>
+      <e><p><l>Gihon<s n="np"/></l><r>Gihona<s n="np"/></r></p></e>
+      <e><p><l>Grace<s n="np"/></l><r>Gracia<s n="np"/></r></p></e>
+      <e><p><l>Pharisees<s n="np"/></l><r>Farizé<s n="np"/></r></p></e>
+      <e><p><l>Phillip<s n="np"/></l><r>Filipe<s n="np"/></r></p></e>
+      <e><p><l>Havilah<s n="np"/></l><r>Hawila<s n="np"/></r></p></e>
+      <e><p><l>Hiddekel<s n="np"/></l><r>Hidekele<s n="np"/></r></p></e>
+      <e><p><l>India<s n="np"/></l><r>India<s n="np"/></r></p></e>
+      <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/></r></p></e>
+      <e><p><l>Jake<s n="np"/></l><r>Jake<s n="np"/></r></p></e>
+      <e><p><l>Joseph<s n="np"/></l><r>Joseph<s n="np"/></r></p></e>
+      <e><p><l>Joseph<s n="np"/></l><r>Jozef<s n="np"/></r></p></e>
+      <e><p><l>Kabila<s n="np"/></l><r>Kabila<s n="np"/></r></p></e>
+      <e><p><l>Katanga<s n="np"/></l><r>Katanga<s n="np"/></r></p></e>
+      <e><p><l>Kenya<s n="np"/></l><r>Kenya<s n="np"/></r></p></e>
+      <e><p><l>Kikongo<s n="np"/></l><r>Kikongo<s n="np"/></r></p></e>
+      <e><p><l>Kinshasa<s n="np"/></l><r>Kinsasa<s n="np"/></r></p></e>
+      <e><p><l>Christ<s n="np"/></l><r>Klisto<s n="np"/></r></p></e>
+      <e><p><l>Congo<s n="np"/></l><r>Kongo<s n="np"/></r></p></e>
+      <e><p><l>Corinth<s n="np"/></l><r>Korente<s n="np"/></r></p></e>
+      <e><p><l>Christ<s n="np"/></l><r>Kristo<s n="np"/></r></p></e>
+      <e><p><l>Ethiopia<s n="np"/></l><r>Kusi<s n="np"/></r></p></e>
+      <e><p><l>Laman<s n="np"/></l><r>Lamani<s n="np"/></r></p></e>
+      <e><p><l>Lehi<s n="np"/></l><r>Lehi<s n="np"/></r></p></e>
+      <e><p><l>France<s n="np"/></l><r>lifalanse<s n="np"/></r></p></e>
+      <e><p><l>Lingala<s n="np"/></l><r>Lingala<s n="np"/></r></p></e>
+      <e><p><l>Luanda<s n="np"/></l><r>Luanda<s n="np"/></r></p></e>
+      <e><p><l>Mary<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
+      <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
+      <e><p><l>Matt<s n="np"/></l><r>Mat<s n="np"/></r></p></e>
+      <e><p><l>Matthew<s n="np"/></l><r>Matie<s n="np"/></r></p></e>
+      <e><p><l>Messiah<s n="np"/></l><r>Mesia<s n="np"/></r></p></e>
+      <e><p><l>Moses<s n="np"/></l><r>Moize<s n="np"/></r></p></e>
+      <e><p><l>Nazareth<s n="np"/></l><r>Nazaret<s n="np"/></r></p></e>
+      <e><p><l>Nefi<s n="np"/></l><r>Nefi<s n="np"/></r></p></e>
+      <e><p><l>Lord<s n="np"/></l><r>Nkolo<s n="np"/></r></p></e>
+      <e><p><l>Noah<s n="np"/></l><r>Noé<s n="np"/></r></p></e>
+      <e><p><l>God<s n="np"/></l><r>Nzambe<s n="np"/></r></p></e>
+      <e><p><l>Lord<s n="np"/></l><r>Nzambe<s n="np"/></r></p></e>
+      <e><p><l>Passover<s n="np"/></l><r>Pake<s n="np"/></r></p></e>
+      <e><p><l>Euphrates<s n="np"/></l><r>Pelata<s n="np"/></r></p></e>
+      <e><p><l>Paul<s n="np"/></l><r>Pólo<s n="np"/></r></p></e>
+      <e><p><l>Peter<s n="np"/></l><r>Piere<s n="np"/></r></p></e>
+      <e><p><l>Pierre<s n="np"/></l><r>Pierre<s n="np"/></r></p></e>
+      <e><p><l>Pilate<s n="np"/></l><r>Pilate<s n="np"/></r></p></e>
+      <e><p><l>Pison<s n="np"/></l><r>Pisoni<s n="np"/></r></p></e>
+      <e><p><l>Republic<s n="np"/></l><r>Republiki<s n="np"/></r></p></e>
+      <e><p><l>Romans<s n="np"/></l><r>Rome<s n="np"/></r></p></e>
+      <e><p><l>Rwanda<s n="np"/></l><r>Rwanda<s n="np"/></r></p></e>
+      <e><p><l>Sadducees<s n="np"/></l><r>Sadusé<s n="np"/></r></p></e>
+      <e><p><l>Sam<s n="np"/></l><r>Sam<s n="np"/></r></p></e>
+      <e><p><l>Satan<s n="np"/></l><r>Satan<s n="np"/></r></p></e>
+      <e><p><l>Saul<s n="np"/></l><r>Saul<s n="np"/></r></p></e>
+      <e><p><l>Simon<s n="np"/></l><r>Simon<s n="np"/></r></p></e>
+      <e><p><l>Sion<s n="np"/></l><r>Sion<s n="np"/></r></p></e>
+      <e><p><l>Tanzania<s n="np"/></l><r>Tanzania<s n="np"/></r></p></e>
+      <e><p><l>Timothy<s n="np"/></l><r>Timote<s n="np"/></r></p></e>
+      <e><p><l>Tshiluba<s n="np"/></l><r>Tshiluba<s n="np"/></r></p></e>
+      <e><p><l>Uganda<s n="np"/></l><r>Uganda<s n="np"/></r></p></e>
+      <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/></r></p></e>
+      <e><p><l>James<s n="np"/></l><r>Zaki<s n="np"/></r></p></e>
+      <e><p><l>God<s n="np"/></l><r>Yawe<s n="np"/></r></p></e>
+      <e><p><l>Jerusalem<s n="np"/></l><r>Yelusaleme<s n="np"/></r></p></e>
+      <e><p><l>Jerusalem<s n="np"/></l><r>Yeruzalem<s n="np"/></r></p></e>
+      <e><p><l>Jesus<s n="np"/></l><r>Yesu<s n="np"/></r></p></e>
+      <e><p><l>Jesus<s n="np"/></l><r>Yézu<s n="np"/></r></p></e>
+      <e><p><l>Israel<s n="np"/></l><r>Yisalaele<s n="np"/></r></p></e>
+      <e><p><l>John<s n="np"/></l><r>Yoane<s n="np"/></r></p></e>
+      <e><p><l>Judah<s n="np"/></l><r>Yuda<s n="np"/></r></p></e>
+      <e><p><l>Judas<s n="np"/></l><r>Yudas<s n="np"/></r></p></e>
+      <e><p><l>Zaire<s n="np"/></l><r>Zaíre<s n="np"/></r></p></e>
+      <e><p><l>river<s n="n"/></l><r>ebale<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>beginning<s n="n"/></l><r>ebandeli<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>wave<s n="n"/></l><r>ebangá<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>chin<s n="n"/></l><r>ebekú<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>thigh<s n="n"/></l><r>ebelo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>article<s n="n"/></l><r>ekakoli<s n="n"/><s n="cl7"/></r></p></e>
+      <!-- <e><p><l>living<br/>being<s n="n"/></l><r>ekelamo<s n="n"/><s n="cl7"/></r></p></e> -->
+      <e><p><l>abstinence<s n="n"/></l><r>ekila<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>church<s n="n"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>church<s n="n"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>country<s n="n"/></l><r>ekolo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>pencil<s n="n"/></l><r>ekomele<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>costume<s n="n"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>dress<s n="n"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>garment<s n="n"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>garden<s n="n"/></l><r>elanga<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>farm<s n="n"/></l><r>elanga<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>period<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>time<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>weather<s n="n"/></l><r>eleko<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>hope<s n="n"/></l><r>elikya<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>thing<s n="n"/></l><r>elóko<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>object<s n="n"/></l><r>elóko<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>face<s n="n"/></l><r>elongi<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>city<s n="n"/></l><r>engumba<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>place<s n="n"/></l><r>epái<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>location<s n="n"/></l><r>epái<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>work<s n="n"/></l><r>esalelo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>material<s n="n"/></l><r>esalelo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>court<s n="n"/></l><r>esambiselo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>island<s n="n"/></l><r>esanga<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>lake<s n="n"/></l><r>esanga<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>happiness<s n="n"/></l><r>esɛngɔ<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>savannah<s n="n"/></l><r>esóbé<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>desert<s n="n"/></l><r>esóbé<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>opposition<s n="n"/></l><r>esóngó<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>flat<s n="n"/></l><r>etando<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>surface<s n="n"/></l><r>etando<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>branch<s n="n"/></l><r>etápe<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>unknown<s n="n"/></l><r>etebu<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>piece<s n="n"/></l><r>eténi<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>fragment<s n="n"/></l><r>eténi<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>pond<s n="n"/></l><r>etímá<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>lake<s n="n"/></l><r>etímá<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>battle<s n="n"/></l><r>etumba<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>furnace<s n="n"/></l><r>etúmbu<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>punishment<s n="n"/></l><r>etúmbu<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>answer<s n="n"/></l><r>eyano<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>school<s n="n"/></l><r>eyékwelo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>conduct<s n="n"/></l><r>ezaleli<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>door<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>lid<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
 
       <!-- Personal Pronous all all -->
-
       <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- I -->
       <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
       <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- she -->
@@ -175,37 +880,607 @@
       <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- They -->
 
       <!-- Verbs -->
-      <e><p><l>have<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e> <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
-      <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vblex"/></r></p></e>
-      <e><p><l>see<s n="vblex"/></l><r>komóna<s n="vblex"/></r></p></e>
-      <e><p><l>love<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
-      <e><p><l>drink<s n="vblex"/></l><r>komela<s n="vblex"/></r></p></e>
-      <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
-      <e><p><l>laugh<s n="vblex"/></l><r>koseka<s n="vblex"/></r></p></e>
       <e><p><l>walk<s n="vblex"/></l><r>kotambola<s n="vblex"/></r></p></e>
-      <e><p><l>hear<s n="vblex"/></l><r>koyoka<s n="vblex"/></r></p></e>
-      <e><p><l>think<s n="vblex"/></l><r>kolota<s n="vblex"/></r></p></e> <!-- Kokanisa -->
-      <e><p><l>try<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
-      <e><p><l>search<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
-      <e><p><l>finish<s n="vblex"/></l><r>kosila<s n="vblex"/></r></p></e>
-      <e><p><l>know<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
-      <e><p><l>speak<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
-      <e><p><l>say<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
-      <e><p><l>tell<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e> <!-- Koyebisa -->
-      <e><p><l>run<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
-      <e><p><l>find<s n="vblex"/></l><r>kokúta<s n="vblex"/></r></p></e>
-      <e><p><l>hide<s n="vblex"/></l><r>kobómba<s n="vblex"/></r></p></e> <!-- kobomba -->
-      <e><p><l>count<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+
+      <e><p><l>rise<s n="vblex"/></l><r>kokundwa<s n="vblex"/></r></p></e>
+      <e><p><l>save<s n="vblex"/></l><r>kobumba<s n="vblex"/></r></p></e>
+      <e><p><l>hide<s n="vblex"/></l><r>kobumba<s n="vblex"/></r></p></e>
+      <e><p><l>cleave<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+      <e><p><l>break<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+      <e><p><l>dismount<s n="vblex"/></l><r>kobákola<s n="vblex"/></r></p></e>
+      <e><p><l>grant<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+      <e><p><l>die<s n="vblex"/></l><r>kokúfwa<s n="vblex"/></r></p></e>
+      <e><p><l>encourage<s n="vblex"/></l><r>komekisa<s n="vblex"/></r></p></e>
+      <e><p><l>publish<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+      <e><p><l>move<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+      <e><p><l>dispossess<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+      <e><p><l>take-away<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+      <e><p><l>value<s n="vblex"/></l><r>komotúya<s n="vblex"/></r></p></e>
+      <e><p><l>value<s n="vblex"/></l><r>komosɔlo<s n="vblex"/></r></p></e>
+      <e><p><l>inform<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+      <e><p><l>acquaint<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+      <e><p><l>enjoin<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+      <e><p><l>assent<s n="vblex"/></l><r>kodima<s n="vblex"/></r></p></e>
+      <e><p><l>assemble<s n="vblex"/></l><r>koyanginya<s n="vblex"/></r></p></e>
+      <e><p><l>renounce<s n="vblex"/></l><r>koyanginya<s n="vblex"/></r></p></e>
+      <e><p><l>sharpen<s n="vblex"/></l><r>koséba<s n="vblex"/></r></p></e>
+      <e><p><l>skip<s n="vblex"/></l><r>kopombwa<s n="vblex"/></r></p></e>
+      <e><p><l>finish<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+      <e><p><l>complete<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+      <e><p><l>accomplish<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+      <e><p><l>wash<s n="vblex"/></l><r>kosukola<s n="vblex"/></r></p></e>
+      <e><p><l>bathe<s n="vblex"/></l><r>kosukola<s n="vblex"/></r></p></e>
+      <e><p><l>shower<s n="vblex"/></l><r>kosukola<s n="vblex"/></r></p></e>
+      <e><p><l>write<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
+      <e><p><l>mark<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
       <e><p><l>ask<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
-      <e><p><l>sit<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
-      <e><p><l>get<s n="vblex"/></l><r>kozua<s n="vblex"/></r></p></e>
+      <e><p><l>interrogate<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+      <e><p><l>whirl<s n="vblex"/></l><r>kojelinginya<s n="vblex"/></r></p></e>
+      <e><p><l>lick<s n="vblex"/></l><r>kofíba<s n="vblex"/></r></p></e>
+      <e><p><l>squeeze<s n="vblex"/></l><r>kokámola<s n="vblex"/></r></p></e>
+      <e><p><l>remove<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+      <e><p><l>subtract<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+      <e><p><l>smell<s n="vblex"/></l><r>kolumba<s n="vblex"/></r></p></e>
+      <e><p><l>take<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+      <e><p><l>clutch<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+      <e><p><l>grasp<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+      <e><p><l>receive<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+      <e><p><l>touch<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+      <e><p><l>grasp<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+      <e><p><l>shun<s n="vblex"/></l><r>kopɛngɔá<s n="vblex"/></r></p></e>
+      <e><p><l>ignore<s n="vblex"/></l><r>kopɛngɔá<s n="vblex"/></r></p></e>
+      <e><p><l>shun<s n="vblex"/></l><r>kopɛngwa<s n="vblex"/></r></p></e>
+      <e><p><l>lie<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+      <e><p><l>cheat<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+      <e><p><l>deceive<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+      <e><p><l>be-born<s n="vblex"/></l><r>kobótama<s n="vblex"/></r></p></e>
+      <e><p><l>contradict<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
+      <e><p><l>lift<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+      <e><p><l>exalt<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
+      <e><p><l>proclaim<s n="vblex"/></l><r>kosakola<s n="vblex"/></r></p></e>
+      <e><p><l>announce<s n="vblex"/></l><r>kosakola<s n="vblex"/></r></p></e>
+      <e><p><l>inform<s n="vblex"/></l><r>kosakola<s n="vblex"/></r></p></e>
+      <e><p><l>acquaint<s n="vblex"/></l><r>kosakola<s n="vblex"/></r></p></e>
+      <e><p><l>humiliate<s n="vblex"/></l><r>kosɔ́kía<s n="vblex"/></r></p></e>
+      <e><p><l>humiliate<s n="vblex"/></l><r>kokwisa<s n="vblex"/></r></p></e>
+      <e><p><l>open<s n="vblex"/></l><r>kofungola<s n="vblex"/></r></p></e>
+      <e><p><l>unlock<s n="vblex"/></l><r>kofungola<s n="vblex"/></r></p></e>
+      <e><p><l>pacify<s n="vblex"/></l><r>kobɔ́ndɔ<s n="vblex"/></r></p></e>
+      <e><p><l>pluck<s n="vblex"/></l><r>komuka<s n="vblex"/></r></p></e>
+      <e><p><l>pluck<s n="vblex"/></l><r>konúka<s n="vblex"/></r></p></e>
+      <e><p><l>pull<s n="vblex"/></l><r>kobénda<s n="vblex"/></r></p></e>
+      <e><p><l>haul<s n="vblex"/></l><r>kobénda<s n="vblex"/></r></p></e>
+      <e><p><l>drag<s n="vblex"/></l><r>kobénda<s n="vblex"/></r></p></e>
+      <e><p><l>snore<s n="vblex"/></l><r>kokololɔ<s n="vblex"/></r></p></e>
+      <e><p><l>strip<s n="vblex"/></l><r>kopúlola<s n="vblex"/></r></p></e>
+      <e><p><l>deny<s n="vblex"/></l><r>koángana<s n="vblex"/></r></p></e>
+      <e><p><l>disavow<s n="vblex"/></l><r>koángana<s n="vblex"/></r></p></e>
+      <e><p><l>fill<s n="vblex"/></l><r>kotóndisa<s n="vblex"/></r></p></e>
+      <e><p><l>satiate<s n="vblex"/></l><r>kotóndisa<s n="vblex"/></r></p></e>
+      <e><p><l>fill<s n="vblex"/></l><r>konyálisa<s n="vblex"/></r></p></e>
+      <e><p><l>scrutinise<s n="vblex"/></l><r>kosɔsɔlɔ<s n="vblex"/></r></p></e>
+      <e><p><l>trouble<s n="vblex"/></l><r>kotungisa<s n="vblex"/></r></p></e>
+      <e><p><l>calm<s n="vblex"/></l><r>kotilimisa<s n="vblex"/></r></p></e>
+      <e><p><l>guard<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+      <e><p><l>protect<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+      <e><p><l>tremble<s n="vblex"/></l><r>kolɛ́nga<s n="vblex"/></r></p></e>
+      <e><p><l>apply<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+      <e><p><l>join<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+      <e><p><l>shake<s n="vblex"/></l><r>konyangisa<s n="vblex"/></r></p></e>
+      <e><p><l>joke<s n="vblex"/></l><r>kosɛkisa<s n="vblex"/></r></p></e>
+      <e><p><l>amuse<s n="vblex"/></l><r>kosɛkisa<s n="vblex"/></r></p></e>
+      <e><p><l>pray<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+      <e><p><l>implore<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+      <e><p><l>accomplish<s n="vblex"/></l><r>kosúkisa<s n="vblex"/></r></p></e>
+      <e><p><l>refuse<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+      <e><p><l>renounce<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+      <e><p><l>annul<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+      <e><p><l>spy<s n="vblex"/></l><r>komokɛ́ngéla<s n="vblex"/></r></p></e>
+      <e><p><l>bestow<s n="vblex"/></l><r>kokabela<s n="vblex"/></r></p></e>
+      <e><p><l>covet<s n="vblex"/></l><r>kolúla<s n="vblex"/></r></p></e>
+      <e><p><l>land<s n="vblex"/></l><r>kolabwa<s n="vblex"/></r></p></e>
+      <e><p><l>survive<s n="vblex"/></l><r>kobíka<s n="vblex"/></r></p></e>
+      <e><p><l>intoxicate<s n="vblex"/></l><r>kolángisa<s n="vblex"/></r></p></e>
+      <e><p><l>wrangle<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+      <e><p><l>argue<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+      <e><p><l>worry<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
+      <e><p><l>amuse<s n="vblex"/></l><r>kosepelisa<s n="vblex"/></r></p></e>
+      <e><p><l>polish<s n="vblex"/></l><r>kotánisa<s n="vblex"/></r></p></e>
+      <e><p><l>beat<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+      <e><p><l>strike<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+      <e><p><l>borrow<s n="vblex"/></l><r>kobéka<s n="vblex"/></r></p></e>
+      <e><p><l>plant<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+      <e><p><l>cultivate<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+      <e><p><l>grope<s n="vblex"/></l><r>komɔ́mo<s n="vblex"/></r></p></e>
+      <e><p><l>guide<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+      <e><p><l>lead<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+      <e><p><l>demolish<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+      <e><p><l>untie<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+      <e><p><l>purify<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+      <e><p><l>cleanse<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+      <e><p><l>float<s n="vblex"/></l><r>kotɛ́tá<s n="vblex"/></r></p></e>
+      <e><p><l>float<s n="vblex"/></l><r>kotépa<s n="vblex"/></r></p></e>
+      <e><p><l>divert<s n="vblex"/></l><r>kopɛngɔla<s n="vblex"/></r></p></e>
+      <e><p><l>divert<s n="vblex"/></l><r>kopɛndɛ<s n="vblex"/></r></p></e>
+      <e><p><l>rub<s n="vblex"/></l><r>kokúla<s n="vblex"/></r></p></e>
+      <e><p><l>receive<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+      <e><p><l>adopt<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+      <e><p><l>believe<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+      <e><p><l>accept<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+      <e><p><l>agree<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+      <e><p><l>adopt<s n="vblex"/></l><r>koámba<s n="vblex"/></r></p></e>
+      <e><p><l>restrain<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+      <e><p><l>help<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+      <e><p><l>suckle<s n="vblex"/></l><r>konúngisa<s n="vblex"/></r></p></e>
+      <e><p><l>cook<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
+      <e><p><l>employ<s n="vblex"/></l><r>kosálisa<s n="vblex"/></r></p></e>
+      <e><p><l>collect<s n="vblex"/></l><r>kotákola<s n="vblex"/></r></p></e>
+      <e><p><l>recruit<s n="vblex"/></l><r>kotákola<s n="vblex"/></r></p></e>
+      <e><p><l>collect<s n="vblex"/></l><r>kotɔ́nɔ<s n="vblex"/></r></p></e>
+      <e><p><l>interpret<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+      <e><p><l>explain<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+      <e><p><l>fasten<s n="vblex"/></l><r>kofunga<s n="vblex"/></r></p></e>
+      <e><p><l>detach<s n="vblex"/></l><r>kopusola<s n="vblex"/></r></p></e>
+      <e><p><l>detach<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+      <e><p><l>loosen<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+      <e><p><l>relax<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+      <e><p><l>detached<s n="vblex"/></l><r>kolutwa<s n="vblex"/></r></p></e>
+      <e><p><l>protect<s n="vblex"/></l><r>kokɛ́ngɛlɛ<s n="vblex"/></r></p></e>
+      <e><p><l>shout<s n="vblex"/></l><r>kongánga<s n="vblex"/></r></p></e>
+      <e><p><l>exclaim<s n="vblex"/></l><r>kongánga<s n="vblex"/></r></p></e>
+      <e><p><l>knock<s n="vblex"/></l><r>kobɛ́tɛlɛ<s n="vblex"/></r></p></e>
+      <e><p><l>quote<s n="vblex"/></l><r>kotúya<s n="vblex"/></r></p></e>
+      <e><p><l>return<s n="vblex"/></l><r>kobutwisa<s n="vblex"/></r></p></e>
+      <e><p><l>return<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
+      <e><p><l>come<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
+      <e><p><l>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
+      <e><p><l>return<s n="vblex"/></l><r>kozóngisa<s n="vblex"/></r></p></e>
+      <e><p><l>enter<s n="vblex"/></l><r>komosálí<s n="vblex"/></r></p></e>
+      <e><p><l>enter<s n="vblex"/></l><r>komabáíya<s n="vblex"/></r></p></e>
+      <e><p><l>enter<s n="vblex"/></l><r>kokapintá<s n="vblex"/></r></p></e>
+      <e><p><l>lower<s n="vblex"/></l><r>kobibuma<s n="vblex"/></r></p></e>
+      <e><p><l>lower<s n="vblex"/></l><r>kondúnda<s n="vblex"/></r></p></e>
+      <e><p><l>think<s n="vblex"/></l><r>kokanisa<s n="vblex"/></r></p></e>
+      <e><p><l>gaze<s n="vblex"/></l><r>kokeka<s n="vblex"/></r></p></e>
+      <e><p><l>meditate<s n="vblex"/></l><r>komanyolela<s n="vblex"/></r></p></e>
+      <e><p><l>pretend<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+      <e><p><l>pretend<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+      <e><p><l>swindle<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+      <e><p><l>break<s n="vblex"/></l><r>kobúka<s n="vblex"/></r></p></e>
+      <e><p><l>crack<s n="vblex"/></l><r>kobúka<s n="vblex"/></r></p></e>
+      <e><p><l>fear<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
+      <e><p><l>adapt<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+      <e><p><l>arrange<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+      <e><p><l>adapt<s n="vblex"/></l><r>kokokisa<s n="vblex"/></r></p></e>
+      <e><p><l>complete<s n="vblex"/></l><r>kokokisa<s n="vblex"/></r></p></e>
+      <e><p><l>adapt<s n="vblex"/></l><r>koyéngíbinya<s n="vblex"/></r></p></e>
+      <e><p><l>limit<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+      <e><p><l>pour<s n="vblex"/></l><r>kosopa<s n="vblex"/></r></p></e>
+      <e><p><l>spill<s n="vblex"/></l><r>kosopa<s n="vblex"/></r></p></e>
+      <e><p><l>pour<s n="vblex"/></l><r>koswela<s n="vblex"/></r></p></e>
+      <e><p><l>provoke<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+      <e><p><l>harass<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+      <e><p><l>lean<s n="vblex"/></l><r>koténgía<s n="vblex"/></r></p></e>
+      <e><p><l>chop<s n="vblex"/></l><r>kokwété<s n="vblex"/></r></p></e>
+      <e><p><l>diminish<s n="vblex"/></l><r>kobukola<s n="vblex"/></r></p></e>
+      <e><p><l>fertilise<s n="vblex"/></l><r>kobótisa<s n="vblex"/></r></p></e>
+      <e><p><l>lend<s n="vblex"/></l><r>kodéfisa<s n="vblex"/></r></p></e>
+      <e><p><l>persuade<s n="vblex"/></l><r>koyambisa<s n="vblex"/></r></p></e>
+      <e><p><l>complicate<s n="vblex"/></l><r>kobúlinginya<s n="vblex"/></r></p></e>
+      <e><p><l>fly<s n="vblex"/></l><r>kopúmbwa<s n="vblex"/></r></p></e>
+      <e><p><l>scare<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+      <e><p><l>frighten<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+      <e><p><l>alarm<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+      <e><p><l>intimidate<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+      <e><p><l>plaster<s n="vblex"/></l><r>kolámbola<s n="vblex"/></r></p></e>
+      <e><p><l>accuse<s n="vblex"/></l><r>kopata<s n="vblex"/></r></p></e>
+      <e><p><l>accuse<s n="vblex"/></l><r>kotuba<s n="vblex"/></r></p></e>
+      <e><p><l>dress<s n="vblex"/></l><r>kolátisa<s n="vblex"/></r></p></e>
+      <e><p><l>clothe<s n="vblex"/></l><r>kolátisa<s n="vblex"/></r></p></e>
+      <e><p><l>dress-oneself<s n="vblex"/></l><r>koláta<s n="vblex"/></r></p></e>
+      <e><p><l>converse<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
+      <e><p><l>narrate<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
+      <e><p><l>expose<s n="vblex"/></l><r>kotálisa<s n="vblex"/></r></p></e>
+      <e><p><l>appear<s n="vblex"/></l><r>komɔ́nana<s n="vblex"/></r></p></e>
+      <e><p><l>appear<s n="vblex"/></l><r>kobimela<s n="vblex"/></r></p></e>
+      <e><p><l>clarify<s n="vblex"/></l><r>kokengisa<s n="vblex"/></r></p></e>
+      <e><p><l>damage<s n="vblex"/></l><r>kobébisa<s n="vblex"/></r></p></e>
+      <e><p><l>disfigure<s n="vblex"/></l><r>kobébisa<s n="vblex"/></r></p></e>
+      <e><p><l>straighten<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+      <e><p><l>smooth<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+      <e><p><l>level<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+      <e><p><l>wonder<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+      <e><p><l>be-astonished<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+      <e><p><l>split<s n="vblex"/></l><r>kokabola<s n="vblex"/></r></p></e>
+      <e><p><l>transform<s n="vblex"/></l><r>kobóngwinya<s n="vblex"/></r></p></e>
+      <e><p><l>transform<s n="vblex"/></l><r>kobongwana<s n="vblex"/></r></p></e>
+      <e><p><l>powder<s n="vblex"/></l><r>komínyola<s n="vblex"/></r></p></e>
+      <e><p><l>terrify<s n="vblex"/></l><r>kojikámisá<s n="vblex"/></r></p></e>
+      <e><p><l>throw<s n="vblex"/></l><r>kobwáka<s n="vblex"/></r></p></e>
+      <e><p><l>tire<s n="vblex"/></l><r>kolɛmbisa<s n="vblex"/></r></p></e>
+      <e><p><l>soften<s n="vblex"/></l><r>kolɛmbisa<s n="vblex"/></r></p></e>
+      <e><p><l>omit<s n="vblex"/></l><r>kolekisa<s n="vblex"/></r></p></e>
+      <e><p><l>flint<s n="vblex"/></l><r>kofátákí<s n="vblex"/></r></p></e>
+      <e><p><l>cut<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+      <e><p><l>exchange<s n="vblex"/></l><r>kosúmbutána<s n="vblex"/></r></p></e>
+      <e><p><l>hate<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
+      <e><p><l>loathe<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
+      <e><p><l>despise<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
+      <e><p><l>abhor<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
+      <e><p><l>become<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+      <e><p><l>known<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+      <e><p><l>sift<s n="vblex"/></l><r>kosásá<s n="vblex"/></r></p></e>
+      <e><p><l>grind<s n="vblex"/></l><r>kotɔkɔ<s n="vblex"/></r></p></e>
+      <e><p><l>amputate<s n="vblex"/></l><r>koténa<s n="vblex"/></r></p></e>
+      <e><p><l>loosen<s n="vblex"/></l><r>kotúngóla<s n="vblex"/></r></p></e>
+      <e><p><l>loosen<s n="vblex"/></l><r>kobándola<s n="vblex"/></r></p></e>
+      <e><p><l>come<s n="vblex"/></l><r>koyâ<s n="vblex"/></r></p></e>
+      <e><p><l>honour<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+      <e><p><l>praise<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+      <e><p><l>glorify<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+      <e><p><l>astonish<s n="vblex"/></l><r>kokamwisa<s n="vblex"/></r></p></e>
+      <e><p><l>suspend<s n="vblex"/></l><r>kobakía<s n="vblex"/></r></p></e>
+      <e><p><l>convert<s n="vblex"/></l><r>kobongola<s n="vblex"/></r></p></e>
+      <e><p><l>help<s n="vblex"/></l><r>kosunga<s n="vblex"/></r></p></e>
       <e><p><l>look<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+      <e><p><l>be-drunk<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+      <e><p><l>be-tipsy<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+      <e><p><l>discover<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+      <e><p><l>find<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+      <e><p><l>uncover<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+      <e><p><l>recover<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+      <e><p><l>discover<s n="vblex"/></l><r>kolibola<s n="vblex"/></r></p></e>
+      <e><p><l>discover<s n="vblex"/></l><r>kobumbóla<s n="vblex"/></r></p></e>
+      <e><p><l>uncover<s n="vblex"/></l><r>kobumbóla<s n="vblex"/></r></p></e>
+      <e><p><l>expose<s n="vblex"/></l><r>kotándola<s n="vblex"/></r></p></e>
+      <e><p><l>calculate<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+      <e><p><l>studdy<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+      <e><p><l>reckon<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+      <e><p><l>spoil<s n="vblex"/></l><r>kobéba<s n="vblex"/></r></p></e>
+      <e><p><l>sink<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+      <e><p><l>submerge<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+      <e><p><l>submerge<s n="vblex"/></l><r>kozindisa<s n="vblex"/></r></p></e>
+      <e><p><l>immerge<s n="vblex"/></l><r>kozindisa<s n="vblex"/></r></p></e>
+      <e><p><l>trip<s n="vblex"/></l><r>kozindisa<s n="vblex"/></r></p></e>
+      <e><p><l>lengthen<s n="vblex"/></l><r>kokólisa<s n="vblex"/></r></p></e>
+      <e><p><l>faint<s n="vblex"/></l><r>kotimba<s n="vblex"/></r></p></e>
+      <e><p><l>abstain<s n="vblex"/></l><r>kokila<s n="vblex"/></r></p></e>
+      <e><p><l>dry<s n="vblex"/></l><r>kokékisa<s n="vblex"/></r></p></e>
+      <e><p><l>scold<s n="vblex"/></l><r>kopalela<s n="vblex"/></r></p></e>
+      <e><p><l>sparkle<s n="vblex"/></l><r>kongɛnga<s n="vblex"/></r></p></e>
+      <e><p><l>swim<s n="vblex"/></l><r>konyanya<s n="vblex"/></r></p></e>
+      <e><p><l>dwindle<s n="vblex"/></l><r>koɔndɔ́<s n="vblex"/></r></p></e>
+      <e><p><l>revolt<s n="vblex"/></l><r>koyúnzóla<s n="vblex"/></r></p></e>
+      <e><p><l>sweep<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+      <e><p><l>quit<s n="vblex"/></l><r>kolongwa<s n="vblex"/></r></p></e>
+      <e><p><l>cough<s n="vblex"/></l><r>kokɔsɔla<s n="vblex"/></r></p></e>
+      <e><p><l>cripple<s n="vblex"/></l><r>kolemisá<s n="vblex"/></r></p></e>
+      <e><p><l>reply<s n="vblex"/></l><r>kobutisa<s n="vblex"/></r></p></e>
+      <e><p><l>build<s n="vblex"/></l><r>kotónga<s n="vblex"/></r></p></e>
+      <e><p><l>appease<s n="vblex"/></l><r>kobɔ́ndisa<s n="vblex"/></r></p></e>
+      <e><p><l>calm<s n="vblex"/></l><r>kobɔ́ndisa<s n="vblex"/></r></p></e>
+      <e><p><l>assure<s n="vblex"/></l><r>koléndisa<s n="vblex"/></r></p></e>
+      <e><p><l>reimburse<s n="vblex"/></l><r>kofúta<s n="vblex"/></r></p></e>
+      <e><p><l>indemnify<s n="vblex"/></l><r>kofúta<s n="vblex"/></r></p></e>
+      <e><p><l>nourish<s n="vblex"/></l><r>kobɔkɔla<s n="vblex"/></r></p></e>
+      <e><p><l>stained<s n="vblex"/></l><r>kondinkana<s n="vblex"/></r></p></e>
+      <e><p><l>beg<s n="vblex"/></l><r>kopekelé<s n="vblex"/></r></p></e>
+      <e><p><l>beg<s n="vblex"/></l><r>koɔnga<s n="vblex"/></r></p></e>
+      <e><p><l>vomit<s n="vblex"/></l><r>kosánza<s n="vblex"/></r></p></e>
+      <e><p><l>scald<s n="vblex"/></l><r>kojíka<s n="vblex"/></r></p></e>
+      <e><p><l>embark<s n="vblex"/></l><r>kokwela<s n="vblex"/></r></p></e>
+      <e><p><l>embark<s n="vblex"/></l><r>kokwésízá<s n="vblex"/></r></p></e>
+      <e><p><l>establish<s n="vblex"/></l><r>kozalisa<s n="vblex"/></r></p></e>
+      <e><p><l>stay<s n="vblex"/></l><r>kotíkala<s n="vblex"/></r></p></e>
+      <e><p><l>play<s n="vblex"/></l><r>kosakana<s n="vblex"/></r></p></e>
+      <e><p><l>sew<s n="vblex"/></l><r>tóngá<s n="vblex"/></r></p></e>
+      <e><p><l>plead<s n="vblex"/></l><r>kosámbela<s n="vblex"/></r></p></e>
+      <e><p><l>expose<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+      <e><p><l>pull-out<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+      <e><p><l>issue<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+      <e><p><l>show<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+      <e><p><l>issue<s n="vblex"/></l><r>koyuma<s n="vblex"/></r></p></e>
+      <e><p><l>snatch<s n="vblex"/></l><r>kobótola<s n="vblex"/></r></p></e>
+      <e><p><l>store<s n="vblex"/></l><r>kobómba<s n="vblex"/></r></p></e>
+      <e><p><l>bruise<s n="vblex"/></l><r>konyatélá<s n="vblex"/></r></p></e>
+      <e><p><l>bruise<s n="vblex"/></l><r>kobola<s n="vblex"/></r></p></e>
+      <e><p><l>run<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+      <e><p><l>escape<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+      <e><p><l>shake<s n="vblex"/></l><r>konyíngána<s n="vblex"/></r></p></e>
+      <e><p><l>vacillate<s n="vblex"/></l><r>konyíngána<s n="vblex"/></r></p></e>
+      <e><p><l>agitate<s n="vblex"/></l><r>konyíngána<s n="vblex"/></r></p></e>
+      <e><p><l>repulse<s n="vblex"/></l><r>kopíma<s n="vblex"/></r></p></e>
+      <e><p><l>save<s n="vblex"/></l><r>kobíkisa<s n="vblex"/></r></p></e>
+      <e><p><l>cure<s n="vblex"/></l><r>kobíkisa<s n="vblex"/></r></p></e>
+      <e><p><l>plunder<s n="vblex"/></l><r>kopunza<s n="vblex"/></r></p></e>
+      <e><p><l>hope<s n="vblex"/></l><r>kolíkia<s n="vblex"/></r></p></e>
+      <e><p><l>enlarge<s n="vblex"/></l><r>konánola<s n="vblex"/></r></p></e>
+      <e><p><l>hunt<s n="vblex"/></l><r>kobéngisa<s n="vblex"/></r></p></e>
+      <e><p><l>dwell<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>
+      <e><p><l>accumulate<s n="vblex"/></l><r>koyíkinya<s n="vblex"/></r></p></e>
+      <e><p><l>make<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+      <e><p><l>manufacture<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+      <e><p><l>penetrate<s n="vblex"/></l><r>kotúbia<s n="vblex"/></r></p></e>
+      <e><p><l>fit-in<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+      <e><p><l>smooth<s n="vblex"/></l><r>kolɛ́ngɛlɛ<s n="vblex"/></r></p></e>
+      <e><p><l>understand<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+      <e><p><l>know<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+      <e><p><l>wrench<s n="vblex"/></l><r>kokwakola<s n="vblex"/></r></p></e>
+      <e><p><l>wrench<s n="vblex"/></l><r>koyósɔla<s n="vblex"/></r></p></e>
+      <e><p><l>give<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+      <e><p><l>offer<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+      <e><p><l>bestow<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+      <e><p><l>separate<s n="vblex"/></l><r>kokabwa<s n="vblex"/></r></p></e>
+      <e><p><l>forge<s n="vblex"/></l><r>kotúla<s n="vblex"/></r></p></e>
+      <e><p><l>roll<s n="vblex"/></l><r>kobúngitinya<s n="vblex"/></r></p></e>
+      <e><p><l>bestride<s n="vblex"/></l><r>kokwákíya<s n="vblex"/></r></p></e>
+      <e><p><l>scrape<s n="vblex"/></l><r>kowála<s n="vblex"/></r></p></e>
+      <e><p><l>scrape<s n="vblex"/></l><r>kowalola<s n="vblex"/></r></p></e>
+      <e><p><l>show<s n="vblex"/></l><r>komɔ́nisa<s n="vblex"/></r></p></e>
+      <e><p><l>exhibit<s n="vblex"/></l><r>komɔ́nisa<s n="vblex"/></r></p></e>
+      <e><p><l>forgive<s n="vblex"/></l><r>kolímbisa<s n="vblex"/></r></p></e>
+      <e><p><l>absolve<s n="vblex"/></l><r>kolímbisa<s n="vblex"/></r></p></e>
+      <e><p><l>confess<s n="vblex"/></l><r>koyambola<s n="vblex"/></r></p></e>
+      <e><p><l>squat<s n="vblex"/></l><r>kosɔ́ndéme<s n="vblex"/></r></p></e>
+      <e><p><l>kneel<s n="vblex"/></l><r>kosɔ́ndéme<s n="vblex"/></r></p></e>
+      <e><p><l>squat<s n="vblex"/></l><r>kosotóma<s n="vblex"/></r></p></e>
+      <e><p><l>prevaricate<s n="vblex"/></l><r>kokakitínya<s n="vblex"/></r></p></e>
+      <e><p><l>mock<s n="vblex"/></l><r>kosisola<s n="vblex"/></r></p></e>
+      <e><p><l>total<s n="vblex"/></l><r>koyɔ́nsɔ<s n="vblex"/></r></p></e>
+      <e><p><l>deceive<s n="vblex"/></l><r>kojimba<s n="vblex"/></r></p></e>
+      <e><p><l>unravel<s n="vblex"/></l><r>kolingóla<s n="vblex"/></r></p></e>
+      <e><p><l>pose<s n="vblex"/></l><r>kobáká<s n="vblex"/></r></p></e>
+      <e><p><l>begin<s n="vblex"/></l><r>kobanda<s n="vblex"/></r></p></e>
+      <e><p><l>attach<s n="vblex"/></l><r>kobanda<s n="vblex"/></r></p></e>
+      <e><p><l>sew<s n="vblex"/></l><r>kobanda<s n="vblex"/></r></p></e>
+      <e><p><l>be-scared<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
+      <e><p><l>think<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+      <e><p><l>believe<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+      <e><p><l>remember<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+      <e><p><l>watch<s n="vblex"/></l><r>kobatá<s n="vblex"/></r></p></e>
+      <e><p><l>damage<s n="vblex"/></l><r>kobéba<s n="vblex"/></r></p></e>
+      <e><p><l>cook<s n="vblex"/></l><r>kobɛla<s n="vblex"/></r></p></e>
+      <e><p><l>hail<s n="vblex"/></l><r>kobélela<s n="vblex"/></r></p></e>
+      <e><p><l>call<s n="vblex"/></l><r>kobénga<s n="vblex"/></r></p></e>
+      <e><p><l>name<s n="vblex"/></l><r>kobénga<s n="vblex"/></r></p></e>
+      <e><p><l>beatrain<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+      <e><p><l>call<s n="vblex"/></l><r>kobianga<s n="vblex"/></r></p></e>
+      <e><p><l>save<s n="vblex"/></l><r>kobíka<s n="vblex"/></r></p></e>
+      <e><p><l>go-outout<s n="vblex"/></l><r>kobima<s n="vblex"/></r></p></e>
+      <e><p><l>exit<s n="vblex"/></l><r>kobima<s n="vblex"/></r></p></e>
+      <e><p><l>appear<s n="vblex"/></l><r>kobima<s n="vblex"/></r></p></e>
+      <e><p><l>kill<s n="vblex"/></l><r>koboma<s n="vblex"/></r></p></e>
+      <e><p><l>improve-oneself<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+      <e><p><l>prepare<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+      <e><p><l>arrange<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+      <e><p><l>adapt<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+      <e><p><l>break<s n="vblex"/></l><r>kobúka<s n="vblex"/></r></p></e>
+      <e><p><l>throw<s n="vblex"/></l><r>kobwáka<s n="vblex"/></r></p></e>
+      <e><p><l>disappear<s n="vblex"/></l><r>kolimwa<s n="vblex"/></r></p></e>
+      <e><p><l>hide<s n="vblex"/></l><r>kobómba<s n="vblex"/></r></p></e>
+      <e><p><l>give<s n="vblex"/></l><r>kobóta<s n="vblex"/></r></p></e>
+      <e><p><l>birth<s n="vblex"/></l><r>kobóta<s n="vblex"/></r></p></e>
+      <e><p><l>refuse<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+      <e><p><l>disdain<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+      <e><p><l>deny<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+      <e><p><l>drop<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+      <e><p><l>throw<s n="vblex"/></l><r>kobuáka<s n="vblex"/></r></p></e>
+      <e><p><l>fight<s n="vblex"/></l><r>kobunda<s n="vblex"/></r></p></e>
+      <e><p><l>sit<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+      <e><p><l>stay<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+      <e><p><l>live<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+      <e><p><l>insult<s n="vblex"/></l><r>kofínga<s n="vblex"/></r></p></e>
+      <e><p><l>accuse<s n="vblex"/></l><r>kofúnda<s n="vblex"/></r></p></e>
+      <e><p><l>shout<s n="vblex"/></l><r>kogánga<s n="vblex"/></r></p></e>
+      <e><p><l>bend<s n="vblex"/></l><r>kogúmba<s n="vblex"/></r></p></e>
+      <e><p><l>donate<s n="vblex"/></l><r>kokaba<s n="vblex"/></r></p></e>
+      <e><p><l>negotiate<s n="vblex"/></l><r>kokákola<s n="vblex"/></r></p></e>
+      <e><p><l>be-surprised<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+      <e><p><l>amazed<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+      <e><p><l>decide<s n="vblex"/></l><r>kokána<s n="vblex"/></r></p></e>
+      <e><p><l>close<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+      <e><p><l>catch<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+      <e><p><l>grab<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+      <e><p><l>imprison<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+      <e><p><l>cut<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+      <e><p><l>hang-up<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+      <e><p><l>shave<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+      <e><p><l>dry<s n="vblex"/></l><r>kokauka<s n="vblex"/></r></p></e>
+      <e><p><l>pay<s n="vblex"/></l><r>kokéba<s n="vblex"/></r></p></e>
+      <e><p><l>attention<s n="vblex"/></l><r>kokéba<s n="vblex"/></r></p></e>
+      <e><p><l>generate<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+      <e><p><l>give-life<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+      <e><p><l>create<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+      <e><p><l>invent<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+      <e><p><l>compare<s n="vblex"/></l><r>kokɛsɛna<s n="vblex"/></r></p></e>
+      <e><p><l>avoid<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+      <e><p><l>run<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+      <e><p><l>run-away<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+      <e><p><l>land<s n="vblex"/></l><r>kokita<s n="vblex"/></r></p></e>
+      <e><p><l>advance<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+      <e><p><l>grow<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+      <e><p><l>increase<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+      <e><p><l>ripe<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+      <e><p><l>mature<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+      <e><p><l>arrive<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
+      <e><p><l>happen<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
+      <e><p><l>become<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
+      <!-- <e><p><l>start-to<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e> -->
+      <e><p><l>monopolize<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+      <!-- <e><p><l>occupy-by-force<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e> -->
+      <e><p><l>lie<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+      <e><p><l>fool<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+      <e><p><l>enter<s n="vblex"/></l><r>kokɔ́ta<s n="vblex"/></r></p></e>
+      <e><p><l>die<s n="vblex"/></l><r>kokúfa<s n="vblex"/></r></p></e>
+      <e><p><l>fail<s n="vblex"/></l><r>kokúfa<s n="vblex"/></r></p></e>
+      <e><p><l>dismantle<s n="vblex"/></l><r>kokúkúla<s n="vblex"/></r></p></e>
+      <e><p><l>remove<s n="vblex"/></l><r>kokúkúla<s n="vblex"/></r></p></e>
+      <e><p><l>win<s n="vblex"/></l><r>kokúma<s n="vblex"/></r></p></e>
+      <e><p><l>dominate<s n="vblex"/></l><r>kokúma<s n="vblex"/></r></p></e>
+      <e><p><l>drive<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+      <e><p><l>pilot<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+      <e><p><l>transport<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+      <e><p><l>carry<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+      <e><p><l>bury<s n="vblex"/></l><r>kokunda<s n="vblex"/></r></p></e>
+      <e><p><l>find<s n="vblex"/></l><r>kokúta<s n="vblex"/></r></p></e>
+      <e><p><l>take<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+      <e><p><l>snatch<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+      <e><p><l>catch<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+      <e><p><l>capture<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+      <e><p><l>recover<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+      <e><p><l>fall<s n="vblex"/></l><r>kokwéya<s n="vblex"/></r></p></e>
+      <e><p><l>warn<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
+      <e><p><l>predict<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
+      <e><p><l>advise<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
+      <e><p><l>prepare<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
+      <e><p><l>follow<s n="vblex"/></l><r>kolanda<s n="vblex"/></r></p></e>
+      <e><p><l>get-drunk<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+      <e><p><l>cry<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
+      <e><p><l>whine<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
+      <e><p><l>pass<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+      <e><p><l>surpass<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+      <e><p><l>exceed<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+      <e><p><l>be-tired<s n="vblex"/></l><r>kolɛ́mba<s n="vblex"/></r></p></e>
+      <e><p><l>hope<s n="vblex"/></l><r>kolikya<s n="vblex"/></r></p></e>
+      <e><p><l>reach<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+      <e><p><l>love<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+      <e><p><l>want<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+      <e><p><l>desire<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+      <e><p><l>speak<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>talk<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>whisper<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>tell<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>say<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>pick<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+      <e><p><l>up<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+      <e><p><l>defeat<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
+      <e><p><l>win<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
+      <e><p><l>dream<s n="vblex"/></l><r>kolɔ́ta<s n="vblex"/></r></p></e>
+      <e><p><l>think<s n="vblex"/></l><r>kolɔ́ta<s n="vblex"/></r></p></e>
+      <e><p><l>search<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+      <e><p><l>seek<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+      <e><p><l>excel<s n="vblex"/></l><r>kolútá<s n="vblex"/></r></p></e>
+      <e><p><l>climb<s n="vblex"/></l><r>komáta<s n="vblex"/></r></p></e>
+      <e><p><l>try<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+      <e><p><l>test<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+      <e><p><l>taste<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+      <e><p><l>attempt<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+      <e><p><l>persevere<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+      <e><p><l>drink<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+      <e><p><l>swallow<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+      <e><p><l>wear<s n="vblex"/></l><r>komɛma<s n="vblex"/></r></p></e>
+      <e><p><l>carry<s n="vblex"/></l><r>komɛma<s n="vblex"/></r></p></e>
+      <e><p><l>transport<s n="vblex"/></l><r>komɛma<s n="vblex"/></r></p></e>
+      <e><p><l>see<s n="vblex"/></l><r>komɔ́na<s n="vblex"/></r></p></e>
+      <e><p><l>accept<s n="vblex"/></l><r>kondima<s n="vblex"/></r></p></e>
+      <e><p><l>admit<s n="vblex"/></l><r>kondima<s n="vblex"/></r></p></e>
+      <e><p><l>believe<s n="vblex"/></l><r>kondima<s n="vblex"/></r></p></e>
+      <e><p><l>trample<s n="vblex"/></l><r>koniátá<s n="vblex"/></r></p></e>
+      <e><p><l>shake<s n="vblex"/></l><r>koninga<s n="vblex"/></r></p></e>
+      <e><p><l>speak-loud<s n="vblex"/></l><r>kongala<s n="vblex"/></r></p></e>
+      <e><p><l>plot<s n="vblex"/></l><r>konyanga<s n="vblex"/></r></p></e>
+      <e><p><l>apply<s n="vblex"/></l><r>kopakola<s n="vblex"/></r></p></e>
+      <e><p><l>disperse<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+      <e><p><l>spread<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+      <e><p><l>diffuse<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+      <e><p><l>spread<s n="vblex"/></l><r>kopanza<s n="vblex"/></r></p></e>
+      <e><p><l>scatter<s n="vblex"/></l><r>kopanza<s n="vblex"/></r></p></e>
+      <e><p><l>prohibit<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+      <e><p><l>forbid<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+      <e><p><l>prevent<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+      <e><p><l>breathe<s n="vblex"/></l><r>kopéma<s n="vblex"/></r></p></e>
+      <e><p><l>give<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+      <e><p><l>distribute<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+      <e><p><l>refuse<s n="vblex"/></l><r>kopíma<s n="vblex"/></r></p></e>
+      <e><p><l>know<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+      <e><p><l>bless<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+      <e><p><l>get-wet<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
+      <e><p><l>soak<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
+      <e><p><l>choose<s n="vblex"/></l><r>kopɔna<s n="vblex"/></r></p></e>
+      <e><p><l>work<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
       <e><p><l>do<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
-      <!--
-      <e><p><l>answer<s n="vblex"/></l><r>koyanola<s n="vblex"/></r></p></e>
-      <e><p><l>reply<s n="vblex"/></l><r>koyanola<s n="vblex"/></r></p></e>
-      <e><p><l>sleep<s n="vblex"/></l><r>kolala<s n="vblex"/></r></p></e>
-      <e><p><l>go<s n="vblex"/></l><r>kokende<s n="vblex"/></r></p></e>-->
+      <e><p><l>happen<s n="vblex"/></l><r>kosálema<s n="vblex"/></r></p></e>
+      <e><p><l>plead<s n="vblex"/></l><r>kosámba<s n="vblex"/></r></p></e>
+      <e><p><l>appear-in-court<s n="vblex"/></l><r>kosámba<s n="vblex"/></r></p></e>
+      <e><p><l>meet<s n="vblex"/></l><r>kosánga<s n="vblex"/></r></p></e>
+      <e><p><l>vomit<s n="vblex"/></l><r>kosánza<s n="vblex"/></r></p></e>
+      <e><p><l>laugh<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
+      <e><p><l>ask<s n="vblex"/></l><r>kosɛ́nga<s n="vblex"/></r></p></e>
+      <e><p><l>rejoice<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
+      <e><p><l>enjoy<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
+      <e><p><l>have-fun<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
+      <e><p><l>recite<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+      <e><p><l>liberate<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+      <e><p><l>deliver<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+      <e><p><l>remove<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+      <e><p><l>finish<s n="vblex"/></l><r>kosíla<s n="vblex"/></r></p></e>
+      <e><p><l>terminate<s n="vblex"/></l><r>kosíla<s n="vblex"/></r></p></e>
+      <e><p><l>get-angry<s n="vblex"/></l><r>kosilika<s n="vblex"/></r></p></e>
+      <e><p><l>hold<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+      <e><p><l>discuss<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
+      <e><p><l>chat<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
+      <e><p><l>analyze<s n="vblex"/></l><r>kosɔsɔla<s n="vblex"/></r></p></e>
+      <e><p><l>discern<s n="vblex"/></l><r>kosɔsɔla<s n="vblex"/></r></p></e>
+      <e><p><l>reach<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+      <e><p><l>end<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+      <e><p><l>watch<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+      <e><p><l>advance<s n="vblex"/></l><r>kotámba<s n="vblex"/></r></p></e>
+      <e><p><l>go-forward<s n="vblex"/></l><r>kotámba<s n="vblex"/></r></p></e>
+      <e><p><l>read<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+      <e><p><l>count<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+      <e><p><l>study<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+      <e><p><l>sell<s n="vblex"/></l><r>kotɛ́ka<s n="vblex"/></r></p></e>
+      <e><p><l>sell-out<s n="vblex"/></l><r>kotɛ́ka<s n="vblex"/></r></p></e>
+      <e><p><l>stand-up<s n="vblex"/></l><r>kotelema<s n="vblex"/></r></p></e>
+      <e><p><l>halt<s n="vblex"/></l><r>kotelema<s n="vblex"/></r></p></e>
+      <e><p><l>teach<s n="vblex"/></l><r>kotéya<s n="vblex"/></r></p></e>
+      <e><p><l>leave<s n="vblex"/></l><r>kotíka<s n="vblex"/></r></p></e>
+      <e><p><l>plow<s n="vblex"/></l><r>kotima<s n="vblex"/></r></p></e>
+      <e><p><l>ship<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
+      <e><p><l>send<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
+      <e><p><l>boil<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+      <e><p><l>draw-water<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+      <e><p><l>pour<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+      <e><p><l>rebel<s n="vblex"/></l><r>kotɔmbɔka<s n="vblex"/></r></p></e>
+      <e><p><l>saturate<s n="vblex"/></l><r>kotónda<s n="vblex"/></r></p></e>
+      <e><p><l>obey<s n="vblex"/></l><r>kotósa<s n="vblex"/></r></p></e>
+      <e><p><l>submit<s n="vblex"/></l><r>kotósa<s n="vblex"/></r></p></e>
+      <e><p><l>abuse<s n="vblex"/></l><r>kotúka<s n="vblex"/></r></p></e>
+      <e><p><l>ask<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+      <e><p><l>take<s n="vblex"/></l><r>koúma<s n="vblex"/></r></p></e>
+      <e><p><l>come<s n="vblex"/></l><r>koúta<s n="vblex"/></r></p></e>
+      <e><p><l>come<s n="vblex"/></l><r>kowúta<s n="vblex"/></r></p></e>
+      <e><p><l>trample<s n="vblex"/></l><r>konyata<s n="vblex"/></r></p></e>
+      <e><p><l>learn<s n="vblex"/></l><r>koyékola<s n="vblex"/></r></p></e>
+      <e><p><l>sing<s n="vblex"/></l><r>koyémba<s n="vblex"/></r></p></e>
+      <e><p><l>steal<s n="vblex"/></l><r>koyíba<s n="vblex"/></r></p></e>
+      <e><p><l>increase<s n="vblex"/></l><r>koyíka<s n="vblex"/></r></p></e>
+      <e><p><l>multiply<s n="vblex"/></l><r>koyíka<s n="vblex"/></r></p></e>
+      <e><p><l>complyn<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
+      <e><p><l>understand<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
+      <e><p><l>listen<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
+      <e><p><l>hear<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
+      <e><p><l>miss<s n="vblex"/></l><r>kozánga<s n="vblex"/></r></p></e>
+      <e><p><l>wait<s n="vblex"/></l><r>kozela<s n="vblex"/></r></p></e>
+      <!-- <e><p><l>tie-up<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e> -->
+      <e><p><l>cross<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+      <e><p><l>warp<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+      <e><p><l>earn<s n="vblex"/></l><r>kozúa<s n="vblex"/></r></p></e>
+      <e><p><l>get<s n="vblex"/></l><r>kozúa<s n="vblex"/></r></p></e>
+      <e><p><l>take<s n="vblex"/></l><r>kozúa<s n="vblex"/></r></p></e>
+      <e><p><l>receive<s n="vblex"/></l><r>kozúa<s n="vblex"/></r></p></e>
+      <e><p><l>return<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
+      <e><p><l>go-back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
+      <e><p><l>go<s n="vblex"/></l><r>kokɛndɛ<s n="vblex"/></r></p></e>
+      <e><p><l>reply<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
+      <e><p><l>answer<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
+      <e><p><l>sleep<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
+      <e><p><l>nap<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
+      <!-- <e><p><l>dwell-a-long-time<s n="vblex"/></l><r>koúmela<s n="vblex"/></r></p></e> -->
+      <e><p><l>have<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e> <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
+      <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
+      <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vblex"/></r></p></e>
+
 
       <!-- Adverbs -->
       <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
@@ -224,7 +1499,6 @@
       <e><p><l>under<s n="adv"/></l><r>nsé<s n="adv"/></r></p></e>
       <e><p><l>slowly<s n="adv"/></l><r>malembe<s n="adv"/></r></p></e>
       <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
-      <!--<e><p><l>carefully<s n="adv"/></l><r>x<s n="adv"/></r></p></e> -->
 
 
       <!-- Adjectives -->

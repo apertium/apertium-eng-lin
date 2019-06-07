@@ -48,10 +48,10 @@ def unique_words():
         with open('unique_words.txt', 'w+') as f:
             for line in d:
               alist.append(line)
-            
+
             alist = list(set(alist)) # removing duplicates
             alist.sort()
-            
+
             for word in alist:
                 f.write(word)
 
@@ -72,7 +72,7 @@ def verbs_final():
                             f.write(out)
                             c+=1
                             break
-                            
+
     print(c,'total words')
 
 
@@ -96,7 +96,7 @@ def verbs_final_dummy():
                                     c+=1
                             break
     print(c, 'words added')
-    
+
 def verbs():
     with open('../lin_verbs_final.txt', 'r') as d:
         with open('restored_1.txt', 'r') as f:
@@ -109,7 +109,7 @@ def dicritic_restoration():
     with open('restored.txt', 'r') as d:
         with open('restored_1.txt', 'a+') as f:
             for line in d:
-                out = line.strip()+':'+line[2:len(line)-2]+'\n'   
+                out = line.strip()+':'+line[2:len(line)-2]+'\n'
                 f.write(out)
 
 def nouns_1():
@@ -121,15 +121,15 @@ def nouns_1():
     e_bi_class = []
     lo_ma_class = []
     no_class = []
-    
+
     with open('nouns_1.txt', 'r') as d:
         for line in d:
             line = line.split()
-            
+
             i = 0
             while i < len(line):
                 if 'pl' in line[i]:
-                    # mo_ba 
+                    # mo_ba
                     if line[i-1].startswith('mo') and line[i+1].startswith('ba'):
                         word = [line[i-1], line[i+1], line[0]]
                         #print(word)
@@ -180,10 +180,3 @@ def nouns():
             for word in d:
                 out = word.strip() + ':' + word.strip().replace('mo', '') + ' III-IV5-Suffix ; ! ""' + '\n'
                 f.write(out)
-
-nouns_1()
-
-
-
-
-
