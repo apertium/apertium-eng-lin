@@ -128,7 +128,29 @@
 
    <section id="main" type="standard">
 
-     <!-- Nouns -->
+     <!-- SECTION: Pronouns -->
+
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- I -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Me -->
+
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
+
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- she -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- he -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- her -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- him -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
+
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- We -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Us -->
+
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- They -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Them -->
+
+     <!-- SECTION: Nouns -->
+
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>child<s n="n"/></l><r>mwana<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>beater<s n="n"/></l><r>mobeti<s n="n"/><s n="cl1"/></r></p></e>
@@ -147,7 +169,7 @@
       <e><p><l>man<s n="n"/></l><r>motu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>merchant<s n="n"/></l><r>motɛ́kisi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>mother<s n="n"/></l><r>mobóti<s n="n"/><s n="cl1"/></r></p></e>
-      <!-- <e><p><l>mother<br/>in<br/>law<s n="n"/></l><r>mokilo<s n="n"/><s n="cl1"/></r></p></e> -->
+      <e><p><l>mother<b/>in<b/>law<s n="n"/></l><r>mokilo<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>native<s n="n"/></l><r>mosɛnjí<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>paddler<s n="n"/></l><r>molúki<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>porter<s n="n"/></l><r>motómbí<s n="n"/><s n="cl1"/></r></p></e>
@@ -157,7 +179,7 @@
       <e><p><l>protector<s n="n"/></l><r>mobateli<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>labourer<s n="n"/></l><r>mosáli<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>worker<s n="n"/></l><r>mosáli<s n="n"/><s n="cl1"/></r></p></e>
-      <!-- <e><p><l>sister<br/>in<br/>law<s n="n"/></l><r>monyalí<s n="n"/><s n="cl1"/></r></p></e> -->
+      <e><p><l>sister<b/>in<b/>law<s n="n"/></l><r>monyalí<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>slave<s n="n"/></l><r>moómbó<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>preacher<s n="n"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>teacher<s n="n"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
@@ -226,7 +248,7 @@
       <e><p><l>cord<s n="n"/></l><r>mokɔli<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>price<s n="n"/></l><r>motúya<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>cost<s n="n"/></l><r>motúya<s n="n"/><s n="cl3"/></r></p></e>
-      <!-- <e><p><l>cotton<br/>free<s n="n"/></l><r>molɔndú<s n="n"/><s n="cl3"/></r></p></e> -->
+      <e><p><l>cotton<b/>free<s n="n"/></l><r>molɔndú<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>crack<s n="n"/></l><r>monkaka<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>dam<s n="n"/></l><r>mobóka<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>debt<s n="n"/></l><r>mombalé<s n="n"/><s n="cl3"/></r></p></e>
@@ -303,7 +325,7 @@
       <e><p><l>world<s n="n"/></l><r>molóngó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>river<s n="n"/></l><r>moluka<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>meet<s n="n"/></l><r>molúlú<s n="n"/><s n="cl3"/></r></p></e>
-      <!-- <e><p><l>white<br/>person<s n="n"/></l><r>mondélé<s n="n"/><s n="cl3"/></r></p></e> -->
+      <e><p><l>white<b/>person<s n="n"/></l><r>mondélé<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>throat<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>voice<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>sound<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
@@ -484,7 +506,7 @@
       <e><p><l>crown<s n="n"/></l><r>enkoti<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>ruler<s n="n"/></l><r>emekeli<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>measure<s n="n"/></l><r>emekeli<s n="n"/><s n="cl5"/></r></p></e>
-      <!-- <e><p><l>nail<br/>puller<s n="n"/></l><r>ebakoleli<s n="n"/><s n="cl5"/></r></p></e> -->
+      <e><p><l>nail<b/>puller<s n="n"/></l><r>ebakoleli<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>passage<s n="n"/></l><r>elékéla<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>way<s n="n"/></l><r>elékéla<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>pickaxe<s n="n"/></l><r>etimeli<s n="n"/><s n="cl5"/></r></p></e>
@@ -492,7 +514,7 @@
       <e><p><l>shed<s n="n"/></l><r>esamba<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>squirrel<s n="n"/></l><r>esende<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>tool<s n="n"/></l><r>esaléli<s n="n"/><s n="cl5"/></r></p></e>
-      <!-- <e><p><l>tsete<br/>fly<s n="n"/></l><r>etuna<s n="n"/><s n="cl5"/></r></p></e> -->
+      <e><p><l>tsete<b/>fly<s n="n"/></l><r>etuna<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>weed<s n="n"/></l><r>eyémbu<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>sunday<s n="n"/></l><r>eyenga<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>holiday<s n="n"/></l><r>eyenga<s n="n"/><s n="cl5"/></r></p></e>
@@ -545,7 +567,7 @@
       <e><p><l>jaw<s n="n"/></l><r>mbángá<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>procelain<s n="n"/></l><r>mbele<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>knife<s n="n"/></l><r>mbelí<s n="n"/><s n="cl9"/></r></p></e>
-      <!-- <e><p><l>palm<br/>tree<s n="n"/></l><r>mbíla<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>palm<b/>tree<s n="n"/></l><r>mbíla<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>village<s n="n"/></l><r>mbóka<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>country<s n="n"/></l><r>mbóka<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>money<s n="n"/></l><r>mbongo<s n="n"/><s n="cl9"/></r></p></e>
@@ -559,13 +581,13 @@
       <e><p><l>tax<s n="n"/></l><r>mpáku<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>example<s n="n"/></l><r>ndakisa<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>part<s n="n"/></l><r>ndámbo<s n="n"/><s n="cl9"/></r></p></e>
-      <!-- <e><p><l>citrus<br/>fruit<s n="n"/></l><r>ndímo<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>citrus<b/>fruit<s n="n"/></l><r>ndímo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>authorization<s n="n"/></l><r>ndingisa<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>dream<s n="n"/></l><r>ndóto<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>hallucination<s n="n"/></l><r>ndóto<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>prostitute<s n="n"/></l><r>ndúmba<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>vegetable<s n="n"/></l><r>ndúnda<s n="n"/><s n="cl9"/></r></p></e>
-      <!-- <e><p><l>other<br/>side<s n="n"/></l><r>ngámbo<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>other<b/>side<s n="n"/></l><r>ngámbo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>bar<s n="n"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>restaurant<s n="n"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>grace<s n="n"/></l><r>ngolu<s n="n"/><s n="cl9"/></r></p></e>
@@ -612,7 +634,7 @@
       <e><p><l>moon<s n="n"/></l><r>sanza<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>month<s n="n"/></l><r>sanza<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>secret<s n="n"/></l><r>sekelé<s n="n"/><s n="cl9"/></r></p></e>
-      <!-- <e><p><l>in<br/>truth<s n="n"/></l><r>séléká<s n="n"/><s n="cl9"/></r></p></e> -->
+      <e><p><l>in<b/>truth<s n="n"/></l><r>séléká<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>cemetary<s n="n"/></l><r>simetiere<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>sugar<s n="n"/></l><r>sukali<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>city<s n="n"/></l><r>vile<s n="n"/><s n="cl9"/></r></p></e>
@@ -667,7 +689,7 @@
       <e><p><l>pride<s n="n"/></l><r>loléndo<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>method<s n="n"/></l><r>loléngé<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>waves<s n="n"/></l><r>londende<s n="n"/><s n="cl11"/></r></p></e>
-      <!-- <e><p><l>residential<br/>parcel<s n="n"/></l><r>lopángo<s n="n"/><s n="cl11"/></r></p></e> -->
+      <e><p><l>residential<b/>parcel<s n="n"/></l><r>lopángo<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>evil<s n="n"/></l><r>bobé<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>ugliness<s n="n"/></l><r>bobé<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>friendship<s n="n"/></l><r>bobóto<s n="n"/><s n="cl14"/></r></p></e>
@@ -678,7 +700,7 @@
       <e><p><l>love<s n="n"/></l><r>bolingo<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>friendship<s n="n"/></l><r>bolingo<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>prison<s n="n"/></l><r>boloko<s n="n"/><s n="cl14"/></r></p></e>
-      <!-- <e><p><l>lack<br/>of<br/>freedom<s n="n"/></l><r>boloko<s n="n"/><s n="cl14"/></r></p></e> -->
+      <e><p><l>lack<b/>of<b/>freedom<s n="n"/></l><r>boloko<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>adulthood<s n="n"/></l><r>bokóló<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>direction<s n="n"/></l><r>bokulaka<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>rule<s n="n"/></l><r>bokulaka<s n="n"/><s n="cl14"/></r></p></e>
@@ -700,10 +722,10 @@
       <e><p><l>peace<s n="n"/></l><r>bosémbo<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>justic<s n="n"/></l><r>bosémbo<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>goodness<s n="n"/></l><r>bosémbo<s n="n"/><s n="cl14"/></r></p></e>
-      <!-- <e><p><l>in<br/>front<br/>of<s n="n"/></l><r>bosó<s n="n"/><s n="cl14"/></r></p></e> -->
+      <e><p><l>in<b/>front<b/>of<s n="n"/></l><r>bosó<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>truth<s n="n"/></l><r>bosolo<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>curse<s n="n"/></l><r>botutu<s n="n"/><s n="cl14"/></r></p></e>
-      <!-- <e><p><l>bad<br/>luck<s n="n"/></l><r>botutu<s n="n"/><s n="cl14"/></r></p></e> -->
+      <e><p><l>bad<b/>luck<s n="n"/></l><r>botutu<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>slavery<s n="n"/></l><r>boúmbu<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>duration<s n="n"/></l><r>boúmeli<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>many<s n="n"/></l><r>boyíké<s n="n"/><s n="cl14"/></r></p></e>
@@ -820,7 +842,7 @@
       <e><p><l>chin<s n="n"/></l><r>ebekú<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>thigh<s n="n"/></l><r>ebelo<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>article<s n="n"/></l><r>ekakoli<s n="n"/><s n="cl7"/></r></p></e>
-      <!-- <e><p><l>living<br/>being<s n="n"/></l><r>ekelamo<s n="n"/><s n="cl7"/></r></p></e> -->
+      <e><p><l>living<b/>being<s n="n"/></l><r>ekelamo<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>abstinence<s n="n"/></l><r>ekila<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>church<s n="n"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>church<s n="n"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
@@ -867,21 +889,9 @@
       <e><p><l>door<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>lid<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
 
-      <!-- Personal Pronous all all -->
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- I -->
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- she -->
+      <!-- SECTION: Verbs -->
 
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- he -->
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
-
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- We -->
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
-      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- They -->
-
-      <!-- Verbs -->
       <e><p><l>walk<s n="vblex"/></l><r>kotambola<s n="vblex"/></r></p></e>
-
       <e><p><l>rise<s n="vblex"/></l><r>kokundwa<s n="vblex"/></r></p></e>
       <e><p><l>save<s n="vblex"/></l><r>kobumba<s n="vblex"/></r></p></e>
       <e><p><l>hide<s n="vblex"/></l><r>kobumba<s n="vblex"/></r></p></e>
@@ -894,7 +904,7 @@
       <e><p><l>publish<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
       <e><p><l>move<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
       <e><p><l>dispossess<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
-      <e><p><l>take-away<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+      <e><p><l>take<b/>away<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
       <e><p><l>value<s n="vblex"/></l><r>komotúya<s n="vblex"/></r></p></e>
       <e><p><l>value<s n="vblex"/></l><r>komosɔlo<s n="vblex"/></r></p></e>
       <e><p><l>inform<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
@@ -933,7 +943,7 @@
       <e><p><l>lie<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
       <e><p><l>cheat<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
       <e><p><l>deceive<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
-      <e><p><l>be-born<s n="vblex"/></l><r>kobótama<s n="vblex"/></r></p></e>
+      <e><p><l>be<b/>born<s n="vblex"/></l><r>kobótama<s n="vblex"/></r></p></e>
       <e><p><l>contradict<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
       <e><p><l>lift<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
       <e><p><l>exalt<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
@@ -1032,8 +1042,7 @@
       <e><p><l>quote<s n="vblex"/></l><r>kotúya<s n="vblex"/></r></p></e>
       <e><p><l>return<s n="vblex"/></l><r>kobutwisa<s n="vblex"/></r></p></e>
       <e><p><l>return<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
-      <e><p><l>come<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
-      <e><p><l>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
+      <e><p><l>come<b/>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
       <e><p><l>return<s n="vblex"/></l><r>kozóngisa<s n="vblex"/></r></p></e>
       <e><p><l>enter<s n="vblex"/></l><r>komosálí<s n="vblex"/></r></p></e>
       <e><p><l>enter<s n="vblex"/></l><r>komabáíya<s n="vblex"/></r></p></e>
@@ -1077,7 +1086,7 @@
       <e><p><l>accuse<s n="vblex"/></l><r>kotuba<s n="vblex"/></r></p></e>
       <e><p><l>dress<s n="vblex"/></l><r>kolátisa<s n="vblex"/></r></p></e>
       <e><p><l>clothe<s n="vblex"/></l><r>kolátisa<s n="vblex"/></r></p></e>
-      <e><p><l>dress-oneself<s n="vblex"/></l><r>koláta<s n="vblex"/></r></p></e>
+      <e><p><l>dress<b/>oneself<s n="vblex"/></l><r>koláta<s n="vblex"/></r></p></e>
       <e><p><l>converse<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
       <e><p><l>narrate<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
       <e><p><l>expose<s n="vblex"/></l><r>kotálisa<s n="vblex"/></r></p></e>
@@ -1090,7 +1099,7 @@
       <e><p><l>smooth<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
       <e><p><l>level<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
       <e><p><l>wonder<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
-      <e><p><l>be-astonished<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+      <e><p><l>be<b/>astonished<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
       <e><p><l>split<s n="vblex"/></l><r>kokabola<s n="vblex"/></r></p></e>
       <e><p><l>transform<s n="vblex"/></l><r>kobóngwinya<s n="vblex"/></r></p></e>
       <e><p><l>transform<s n="vblex"/></l><r>kobongwana<s n="vblex"/></r></p></e>
@@ -1107,14 +1116,12 @@
       <e><p><l>loathe<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
       <e><p><l>despise<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
       <e><p><l>abhor<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
-      <e><p><l>become<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
       <e><p><l>known<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
       <e><p><l>sift<s n="vblex"/></l><r>kosásá<s n="vblex"/></r></p></e>
       <e><p><l>grind<s n="vblex"/></l><r>kotɔkɔ<s n="vblex"/></r></p></e>
       <e><p><l>amputate<s n="vblex"/></l><r>koténa<s n="vblex"/></r></p></e>
       <e><p><l>loosen<s n="vblex"/></l><r>kotúngóla<s n="vblex"/></r></p></e>
       <e><p><l>loosen<s n="vblex"/></l><r>kobándola<s n="vblex"/></r></p></e>
-      <e><p><l>come<s n="vblex"/></l><r>koyâ<s n="vblex"/></r></p></e>
       <e><p><l>honour<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
       <e><p><l>praise<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
       <e><p><l>glorify<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
@@ -1123,8 +1130,8 @@
       <e><p><l>convert<s n="vblex"/></l><r>kobongola<s n="vblex"/></r></p></e>
       <e><p><l>help<s n="vblex"/></l><r>kosunga<s n="vblex"/></r></p></e>
       <e><p><l>look<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
-      <e><p><l>be-drunk<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
-      <e><p><l>be-tipsy<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+      <e><p><l>be<b/>drunk<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+      <e><p><l>be<b/>tipsy<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
       <e><p><l>discover<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
       <e><p><l>find<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
       <e><p><l>uncover<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
@@ -1132,7 +1139,7 @@
       <e><p><l>discover<s n="vblex"/></l><r>kolibola<s n="vblex"/></r></p></e>
       <e><p><l>discover<s n="vblex"/></l><r>kobumbóla<s n="vblex"/></r></p></e>
       <e><p><l>uncover<s n="vblex"/></l><r>kobumbóla<s n="vblex"/></r></p></e>
-      <e><p><l>expose<s n="vblex"/></l><r>kotándola<s n="vblex"/></r></p></e>
+      <e><p><l>expose<s n="vblex"/></l><r>kotándola<s n="vblex"/></r></p></e> <!-- expose for sale -->
       <e><p><l>calculate<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
       <e><p><l>studdy<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
       <e><p><l>reckon<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
@@ -1168,7 +1175,7 @@
       <e><p><l>beg<s n="vblex"/></l><r>koɔnga<s n="vblex"/></r></p></e>
       <e><p><l>vomit<s n="vblex"/></l><r>kosánza<s n="vblex"/></r></p></e>
       <e><p><l>scald<s n="vblex"/></l><r>kojíka<s n="vblex"/></r></p></e>
-      <e><p><l>embark<s n="vblex"/></l><r>kokwela<s n="vblex"/></r></p></e>
+      <e><p><l>embark<s n="vblex"/></l><r>kokwela<s n="vblex"/></r></p></e> <!-- embark people -->
       <e><p><l>embark<s n="vblex"/></l><r>kokwésízá<s n="vblex"/></r></p></e>
       <e><p><l>establish<s n="vblex"/></l><r>kozalisa<s n="vblex"/></r></p></e>
       <e><p><l>stay<s n="vblex"/></l><r>kotíkala<s n="vblex"/></r></p></e>
@@ -1176,7 +1183,7 @@
       <e><p><l>sew<s n="vblex"/></l><r>tóngá<s n="vblex"/></r></p></e>
       <e><p><l>plead<s n="vblex"/></l><r>kosámbela<s n="vblex"/></r></p></e>
       <e><p><l>expose<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
-      <e><p><l>pull-out<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+      <e><p><l>pull<b/>out<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
       <e><p><l>issue<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
       <e><p><l>show<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
       <e><p><l>issue<s n="vblex"/></l><r>koyuma<s n="vblex"/></r></p></e>
@@ -1201,7 +1208,7 @@
       <e><p><l>make<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
       <e><p><l>manufacture<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
       <e><p><l>penetrate<s n="vblex"/></l><r>kotúbia<s n="vblex"/></r></p></e>
-      <e><p><l>fit-in<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+      <e><p><l>fit<b/>in<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
       <e><p><l>smooth<s n="vblex"/></l><r>kolɛ́ngɛlɛ<s n="vblex"/></r></p></e>
       <e><p><l>understand<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
       <e><p><l>know<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
@@ -1224,7 +1231,7 @@
       <e><p><l>squat<s n="vblex"/></l><r>kosɔ́ndéme<s n="vblex"/></r></p></e>
       <e><p><l>kneel<s n="vblex"/></l><r>kosɔ́ndéme<s n="vblex"/></r></p></e>
       <e><p><l>squat<s n="vblex"/></l><r>kosotóma<s n="vblex"/></r></p></e>
-      <e><p><l>prevaricate<s n="vblex"/></l><r>kokakitínya<s n="vblex"/></r></p></e>
+      <e><p><l>prevaricate<s n="vblex"/></l><r>kokakitínya<s n="vblex"/></r></p></e> <!-- beat around the bush -->
       <e><p><l>mock<s n="vblex"/></l><r>kosisola<s n="vblex"/></r></p></e>
       <e><p><l>total<s n="vblex"/></l><r>koyɔ́nsɔ<s n="vblex"/></r></p></e>
       <e><p><l>deceive<s n="vblex"/></l><r>kojimba<s n="vblex"/></r></p></e>
@@ -1233,7 +1240,7 @@
       <e><p><l>begin<s n="vblex"/></l><r>kobanda<s n="vblex"/></r></p></e>
       <e><p><l>attach<s n="vblex"/></l><r>kobanda<s n="vblex"/></r></p></e>
       <e><p><l>sew<s n="vblex"/></l><r>kobanda<s n="vblex"/></r></p></e>
-      <e><p><l>be-scared<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
+      <e><p><l>be<b/>scared<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
       <e><p><l>think<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
       <e><p><l>believe<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
       <e><p><l>remember<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
@@ -1243,14 +1250,14 @@
       <e><p><l>hail<s n="vblex"/></l><r>kobélela<s n="vblex"/></r></p></e>
       <e><p><l>call<s n="vblex"/></l><r>kobénga<s n="vblex"/></r></p></e>
       <e><p><l>name<s n="vblex"/></l><r>kobénga<s n="vblex"/></r></p></e>
-      <e><p><l>beatrain<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+      <e><p><l>rain<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
       <e><p><l>call<s n="vblex"/></l><r>kobianga<s n="vblex"/></r></p></e>
       <e><p><l>save<s n="vblex"/></l><r>kobíka<s n="vblex"/></r></p></e>
-      <e><p><l>go-outout<s n="vblex"/></l><r>kobima<s n="vblex"/></r></p></e>
+      <e><p><l>go<b/>out<s n="vblex"/></l><r>kobima<s n="vblex"/></r></p></e>
       <e><p><l>exit<s n="vblex"/></l><r>kobima<s n="vblex"/></r></p></e>
       <e><p><l>appear<s n="vblex"/></l><r>kobima<s n="vblex"/></r></p></e>
       <e><p><l>kill<s n="vblex"/></l><r>koboma<s n="vblex"/></r></p></e>
-      <e><p><l>improve-oneself<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+      <e><p><l>improve<b/>oneself<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
       <e><p><l>prepare<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
       <e><p><l>arrange<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
       <e><p><l>adapt<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
@@ -1275,7 +1282,7 @@
       <e><p><l>bend<s n="vblex"/></l><r>kogúmba<s n="vblex"/></r></p></e>
       <e><p><l>donate<s n="vblex"/></l><r>kokaba<s n="vblex"/></r></p></e>
       <e><p><l>negotiate<s n="vblex"/></l><r>kokákola<s n="vblex"/></r></p></e>
-      <e><p><l>be-surprised<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+      <e><p><l>be<b/>surprised<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
       <e><p><l>amazed<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
       <e><p><l>decide<s n="vblex"/></l><r>kokána<s n="vblex"/></r></p></e>
       <e><p><l>close<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
@@ -1283,19 +1290,19 @@
       <e><p><l>grab<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
       <e><p><l>imprison<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
       <e><p><l>cut<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
-      <e><p><l>hang-up<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+      <e><p><l>hang<b/>up<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
       <e><p><l>shave<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
       <e><p><l>dry<s n="vblex"/></l><r>kokauka<s n="vblex"/></r></p></e>
       <e><p><l>pay<s n="vblex"/></l><r>kokéba<s n="vblex"/></r></p></e>
       <e><p><l>attention<s n="vblex"/></l><r>kokéba<s n="vblex"/></r></p></e>
       <e><p><l>generate<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
-      <e><p><l>give-life<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+      <e><p><l>give<b/>life<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
       <e><p><l>create<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
       <e><p><l>invent<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
       <e><p><l>compare<s n="vblex"/></l><r>kokɛsɛna<s n="vblex"/></r></p></e>
       <e><p><l>avoid<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
       <e><p><l>run<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
-      <e><p><l>run-away<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+      <e><p><l>run<b/>away<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
       <e><p><l>land<s n="vblex"/></l><r>kokita<s n="vblex"/></r></p></e>
       <e><p><l>advance<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
       <e><p><l>grow<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
@@ -1305,9 +1312,9 @@
       <e><p><l>arrive<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
       <e><p><l>happen<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
       <e><p><l>become<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
-      <!-- <e><p><l>start-to<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e> -->
+      <e><p><l>start<b/>to<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
       <e><p><l>monopolize<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
-      <!-- <e><p><l>occupy-by-force<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e> -->
+      <e><p><l>occupy<b/>by<b/>force<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
       <e><p><l>lie<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
       <e><p><l>fool<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
       <e><p><l>enter<s n="vblex"/></l><r>kokɔ́ta<s n="vblex"/></r></p></e>
@@ -1334,13 +1341,13 @@
       <e><p><l>advise<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
       <e><p><l>prepare<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
       <e><p><l>follow<s n="vblex"/></l><r>kolanda<s n="vblex"/></r></p></e>
-      <e><p><l>get-drunk<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+      <e><p><l>get<b/>drunk<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
       <e><p><l>cry<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
       <e><p><l>whine<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
       <e><p><l>pass<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
       <e><p><l>surpass<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
       <e><p><l>exceed<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
-      <e><p><l>be-tired<s n="vblex"/></l><r>kolɛ́mba<s n="vblex"/></r></p></e>
+      <e><p><l>be<b/>tired<s n="vblex"/></l><r>kolɛ́mba<s n="vblex"/></r></p></e>
       <e><p><l>hope<s n="vblex"/></l><r>kolikya<s n="vblex"/></r></p></e>
       <e><p><l>reach<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
       <e><p><l>love<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
@@ -1377,9 +1384,9 @@
       <e><p><l>believe<s n="vblex"/></l><r>kondima<s n="vblex"/></r></p></e>
       <e><p><l>trample<s n="vblex"/></l><r>koniátá<s n="vblex"/></r></p></e>
       <e><p><l>shake<s n="vblex"/></l><r>koninga<s n="vblex"/></r></p></e>
-      <e><p><l>speak-loud<s n="vblex"/></l><r>kongala<s n="vblex"/></r></p></e>
+      <e><p><l>speak<b/>loud<s n="vblex"/></l><r>kongala<s n="vblex"/></r></p></e>
       <e><p><l>plot<s n="vblex"/></l><r>konyanga<s n="vblex"/></r></p></e>
-      <e><p><l>apply<s n="vblex"/></l><r>kopakola<s n="vblex"/></r></p></e>
+      <e><p><l>apply<s n="vblex"/></l><r>kopakola<s n="vblex"/></r></p></e> <!-- apply oil, lotion, butter -->
       <e><p><l>disperse<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
       <e><p><l>spread<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
       <e><p><l>diffuse<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
@@ -1394,28 +1401,28 @@
       <e><p><l>refuse<s n="vblex"/></l><r>kopíma<s n="vblex"/></r></p></e>
       <e><p><l>know<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
       <e><p><l>bless<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
-      <e><p><l>get-wet<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
+      <e><p><l>get<b/>wet<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
       <e><p><l>soak<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
       <e><p><l>choose<s n="vblex"/></l><r>kopɔna<s n="vblex"/></r></p></e>
       <e><p><l>work<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
       <e><p><l>do<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
       <e><p><l>happen<s n="vblex"/></l><r>kosálema<s n="vblex"/></r></p></e>
       <e><p><l>plead<s n="vblex"/></l><r>kosámba<s n="vblex"/></r></p></e>
-      <e><p><l>appear-in-court<s n="vblex"/></l><r>kosámba<s n="vblex"/></r></p></e>
+      <e><p><l>appear<b/>in<b/>court<s n="vblex"/></l><r>kosámba<s n="vblex"/></r></p></e>
       <e><p><l>meet<s n="vblex"/></l><r>kosánga<s n="vblex"/></r></p></e>
       <e><p><l>vomit<s n="vblex"/></l><r>kosánza<s n="vblex"/></r></p></e>
       <e><p><l>laugh<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
       <e><p><l>ask<s n="vblex"/></l><r>kosɛ́nga<s n="vblex"/></r></p></e>
       <e><p><l>rejoice<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
       <e><p><l>enjoy<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
-      <e><p><l>have-fun<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
+      <e><p><l>have<b/>fun<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
       <e><p><l>recite<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
       <e><p><l>liberate<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
       <e><p><l>deliver<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
       <e><p><l>remove<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
       <e><p><l>finish<s n="vblex"/></l><r>kosíla<s n="vblex"/></r></p></e>
       <e><p><l>terminate<s n="vblex"/></l><r>kosíla<s n="vblex"/></r></p></e>
-      <e><p><l>get-angry<s n="vblex"/></l><r>kosilika<s n="vblex"/></r></p></e>
+      <e><p><l>get<b/>angry<s n="vblex"/></l><r>kosilika<s n="vblex"/></r></p></e>
       <e><p><l>hold<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
       <e><p><l>discuss<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
       <e><p><l>chat<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
@@ -1425,13 +1432,13 @@
       <e><p><l>end<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
       <e><p><l>watch<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
       <e><p><l>advance<s n="vblex"/></l><r>kotámba<s n="vblex"/></r></p></e>
-      <e><p><l>go-forward<s n="vblex"/></l><r>kotámba<s n="vblex"/></r></p></e>
+      <e><p><l>go<b/>forward<s n="vblex"/></l><r>kotámba<s n="vblex"/></r></p></e>
       <e><p><l>read<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
       <e><p><l>count<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
       <e><p><l>study<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
       <e><p><l>sell<s n="vblex"/></l><r>kotɛ́ka<s n="vblex"/></r></p></e>
-      <e><p><l>sell-out<s n="vblex"/></l><r>kotɛ́ka<s n="vblex"/></r></p></e>
-      <e><p><l>stand-up<s n="vblex"/></l><r>kotelema<s n="vblex"/></r></p></e>
+      <e><p><l>sell<b/>out<s n="vblex"/></l><r>kotɛ́ka<s n="vblex"/></r></p></e>
+      <e><p><l>stand<b/>up<s n="vblex"/></l><r>kotelema<s n="vblex"/></r></p></e>
       <e><p><l>halt<s n="vblex"/></l><r>kotelema<s n="vblex"/></r></p></e>
       <e><p><l>teach<s n="vblex"/></l><r>kotéya<s n="vblex"/></r></p></e>
       <e><p><l>leave<s n="vblex"/></l><r>kotíka<s n="vblex"/></r></p></e>
@@ -1439,7 +1446,7 @@
       <e><p><l>ship<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
       <e><p><l>send<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
       <e><p><l>boil<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
-      <e><p><l>draw-water<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+      <e><p><l>draw<b/>water<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
       <e><p><l>pour<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
       <e><p><l>rebel<s n="vblex"/></l><r>kotɔmbɔka<s n="vblex"/></r></p></e>
       <e><p><l>saturate<s n="vblex"/></l><r>kotónda<s n="vblex"/></r></p></e>
@@ -1456,13 +1463,13 @@
       <e><p><l>steal<s n="vblex"/></l><r>koyíba<s n="vblex"/></r></p></e>
       <e><p><l>increase<s n="vblex"/></l><r>koyíka<s n="vblex"/></r></p></e>
       <e><p><l>multiply<s n="vblex"/></l><r>koyíka<s n="vblex"/></r></p></e>
-      <e><p><l>complyn<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
+      <e><p><l>comply<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
       <e><p><l>understand<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
       <e><p><l>listen<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
       <e><p><l>hear<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
       <e><p><l>miss<s n="vblex"/></l><r>kozánga<s n="vblex"/></r></p></e>
       <e><p><l>wait<s n="vblex"/></l><r>kozela<s n="vblex"/></r></p></e>
-      <!-- <e><p><l>tie-up<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e> -->
+      <e><p><l>tie<b/>up<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
       <e><p><l>cross<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
       <e><p><l>warp<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
       <e><p><l>earn<s n="vblex"/></l><r>kozúa<s n="vblex"/></r></p></e>
@@ -1470,76 +1477,160 @@
       <e><p><l>take<s n="vblex"/></l><r>kozúa<s n="vblex"/></r></p></e>
       <e><p><l>receive<s n="vblex"/></l><r>kozúa<s n="vblex"/></r></p></e>
       <e><p><l>return<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
-      <e><p><l>go-back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
-      <e><p><l>go<s n="vblex"/></l><r>kokɛndɛ<s n="vblex"/></r></p></e>
+      <e><p><l>go<b/>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
       <e><p><l>reply<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
       <e><p><l>answer<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
       <e><p><l>sleep<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
       <e><p><l>nap<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
-      <!-- <e><p><l>dwell-a-long-time<s n="vblex"/></l><r>koúmela<s n="vblex"/></r></p></e> -->
-      <e><p><l>have<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e> <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
+      <e><p><l>dwell<b/>a<b/>long<b/>time<s n="vblex"/></l><r>koúmela<s n="vblex"/></r></p></e>
       <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
+
+      <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
+      <!-- <e><p><l>have<s n="vbhaver"/></l><r>kozala<s n="vblex"/></r></p></e> -->
       <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vblex"/></r></p></e>
+      <e><p><l>go<s n="vblex"/></l><r>kokɛndɛ<s n="vblex"/></r></p></e>
 
+      <e><p><l>come<s n="vblex"/></l><r>koyâ<s n="vblex"/></r></p></e>
 
-      <!-- Adverbs -->
+      <!-- SECTION: Adverbs -->
+
+      <e><p><l>even<s n="adv"/></l><r>atá<s n="adv"/></r></p></e>
+      <e><p><l>even<b/>if<s n="adv"/></l><r>atako<s n="adv"/></r></p></e>
+      <e><p><l>here<s n="adv"/></l><r>áwa<s n="adv"/></r></p></e>
+      <e><p><l>since<s n="adv"/></l><r>bandá<s n="adv"/></r></p></e>
+      <e><p><l>only<s n="adv"/></l><r>bobele<s n="adv"/></r></p></e>
+      <e><p><l>like<b/>this<s n="adv"/></l><r>boye<s n="adv"/></r></p></e>
+      <e><p><l>yes<s n="adv"/></l><r>ee<s n="adv"/></r></p></e>
+      <e><p><l>no<s n="adv"/></l><r>té<s n="adv"/></r></p></e>
+      <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
+      <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
+      <e><p><l>only<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
+      <e><p><l>once<b/>upon<b/>a<b/>time<s n="adv"/></l><r>kala<s n="adv"/></r></p></e>
+      <e><p><l>there<s n="adv"/></l><r>kuna<s n="adv"/></r></p></e>
+      <e><p><l>moreover<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
+      <e><p><l>rather<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
       <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
       <e><p><l>yesterday<s n="adv"/></l><r>lobi<s n="adv"/></r></p></e>
-      <e><p><l>very<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
-      <e><p><l>now<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
-      <e><p><l>quickly<s n="adv"/></l><r>noki<s n="adv"/></r></p></e>
-      <e><p><l>there<s n="adv"/></l><r>kuna<s n="adv"/></r></p></e>
-      <e><p><l>here<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
-      <e><p><l>where<s n="adv"/></l><r>wápi<s n="adv"/></r></p></e>
-      <e><p><l>no<s n="adv"/></l><r>té<s n="adv"/></r></p></e>
-      <e><p><l>behind<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
-      <e><p><l>when<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
-      <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
       <e><p><l>again<s n="adv"/></l><r>lisúsu<s n="adv"/></r></p></e>
-      <e><p><l>under<s n="adv"/></l><r>nsé<s n="adv"/></r></p></e>
+      <e><p><l>really<s n="adv"/></l><r>mpenzá<s n="adv"/></r></p></e>
+      <e><p><l>already<s n="adv"/></l><r>nanu<s n="adv"/></r></p></e>
+      <e><p><l>as<b/>if<s n="adv"/></l><r>neti<s n="adv"/></r></p></e>
+      <e><p><l>quickly<s n="adv"/></l><r>noki<s n="adv"/></r></p></e>
       <e><p><l>slowly<s n="adv"/></l><r>malembe<s n="adv"/></r></p></e>
+      <e><p><l>however<s n="adv"/></l><r>kasi<s n="adv"/></r></p></e>
+      <e><p><l>very<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
+      <e><p><l>really<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
+      <e><p><l>very<b/>close<s n="adv"/></l><r>penepene<s n="adv"/></r></p></e>
+      <e><p><l>now<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
+      <e><p><l>now<s n="adv"/></l><r>sikawa<s n="adv"/></r></p></e>
+      <e><p><l>immediately<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
+      <e><p><l>where?<s n="adv"/></l><r>wápi<s n="adv"/></r></p></e>
+      <e><p><l>when?<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
+      <e><p><l>behind<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
+      <e><p><l>so<s n="adv"/></l><r>boyé<s n="adv"/></r></p></e>
+      <e><p><l>under<s n="adv"/></l><r>nsé<s n="adv"/></r></p></e>
       <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
+      <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
+      <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
 
-
-      <!-- Adjectives -->
-      <e><p><l>white<s n="adj"/></l><r>pémbé<s n="adj"/></r></p></e>
-      <e><p><l>beautiful<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e>
-      <e><p><l>small<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
+      <!-- SECTION: Adjectives -->
       <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
+      <e><p><l>small<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
+      <e><p><l>short<s n="adj"/></l><r>mokúsé<s n="adj"/></r></p></e>
+      <e><p><l>long<s n="adj"/></l><r>molaí<s n="adj"/></r></p></e>
       <e><p><l>big<s n="adj"/></l><r>monéne<s n="adj"/></r></p></e>
-      <e><p><l>old<s n="adj"/></l><r>kala<s n="adj"/></r></p></e>
-      <e><p><l>warm<s n="adj"/></l><r>molungé<s n="adj"/></r></p></e>
-      <e><p><l>happy<s n="adj"/></l><r>esengo<s n="adj"/></r></p></e>
-      <e><p><l>some<s n="adj"/></l><r>mwá<s n="adj"/></r></p></e>
-      <e><p><l>close<s n="adj"/></l><r>mpembéni<s n="adj"/></r></p></e>
+      <e><p><l>all<s n="adj"/></l><r>banso<s n="adj"/></r></p></e>
+      <e><p><l>only<s n="adj"/></l><r>bobele<s n="adj"/></r></p></e>
+      <e><p><l>sour<s n="adj"/></l><r>ngai<s n="adj"/></r></p></e>
+      <e><p><l>sour<s n="adj"/></l><r>bololo<s n="adj"/></r></p></e>
+      <e><p><l>bitter<s n="adj"/></l><r>bololo<s n="adj"/></r></p></e>
+      <e><p><l>bad<s n="adj"/></l><r>mabé<s n="adj"/></r></p></e>
+      <e><p><l>strong<s n="adj"/></l><r>makási<s n="adj"/></r></p></e>
+      <e><p><l>hard<s n="adj"/></l><r>makási<s n="adj"/></r></p></e>
+      <e><p><l>difficult<s n="adj"/></l><r>makási<s n="adj"/></r></p></e>
       <e><p><l>good<s n="adj"/></l><r>malámu<s n="adj"/></r></p></e>
-      <e><p><l>nice<s n="adj"/></l><r>malámu<s n="adj"/></r></p></e>
+      <e><p><l>raw<s n="adj"/></l><r>mobésu<s n="adj"/></r></p></e>
+      <e><p><l>whole<s n="adj"/></l><r>mobimba<s n="adj"/></r></p></e>
+      <e><p><l>some<s n="adj"/></l><r>mwá<s n="adj"/></r></p></e>
+      <e><p><l>african<s n="adj"/></l><r>mwíndo<s n="adj"/></r></p></e>
+      <e><p><l>black<s n="adj"/></l><r>mwíndo<s n="adj"/></r></p></e>
+      <e><p><l>central<s n="adj"/></l><r>ntei<s n="adj"/></r></p></e>
+      <e><p><l>middle<s n="adj"/></l><r>ntei<s n="adj"/></r></p></e>
+      <e><p><l>beautiful<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e>
+      <e><p><l>white<s n="adj"/></l><r>pémbé<s n="adj"/></r></p></e>
+      <e><p><l>white<s n="adj"/></l><r>mpémbé/lr<s n="adj"/></r></p></e>
+      <e><p><l>near<s n="adj"/></l><r>pene<s n="adj"/></r></p></e>
+      <e><p><l>clear<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
+      <e><p><l>open<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
+      <e><p><l>eternal<s n="adj"/></l><r>seko<s n="adj"/></r></p></e>
+      <e><p><l>new<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
+      <e><p><l>true<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
+      <e><p><l>first<s n="adj"/></l><r>yambo<s n="adj"/></r></p></e>
+      <e><p><l>close<s n="adj"/></l><r>mpembéni<s n="adj"/></r></p></e>
+      <e><p><l>old<s n="adj"/></l><r>kala<s n="adj"/></r></p></e>
+      <e><p><l>hot<s n="adj"/></l><r>molungé<s n="adj"/></r></p></e>
       <e><p><l>cold<s n="adj"/></l><r>malílí<s n="adj"/></r></p></e>
+      <e><p><l>happy<s n="adj"/></l><r>esengo<s n="adj"/></r></p></e>
+      <e><p><l>far<s n="adj"/></l><r>mosíká<s n="adj"/></r></p></e>
+      <e><p><l>deep<s n="adj"/></l><r>bonzido<s n="adj"/></r></p></e>
+      <e><p><l>cold<s n="adj"/></l><r>mpío<s n="adj"/></r></p></e>
+      <e><p><l>clean<s n="adj"/></l><r>petwa<s n="adj"/></r></p></e>
+      <e><p><l>weak<s n="adj"/></l><r>molémbu<s n="adj"/></r></p></e>
+      <e><p><l>easy<s n="adj"/></l><r>molémbu<s n="adj"/></r></p></e>
+      <e><p><l>dark<s n="adj"/></l><r>moíndo<s n="adj"/></r></p></e>
+      <e><p><l>black<s n="adj"/></l><r>moíndo<s n="adj"/></r></p></e>
+      <e><p><l>blue<s n="adj"/></l><r>bulo<s n="adj"/></r></p></e>
+      <e><p><l>bald<s n="adj"/></l><r>libáta<s n="adj"/></r></p></e>
+      <e><p><l>quick<s n="adj"/></l><r>noki<s n="adj"/></r></p></e>
+      <e><p><l>correct<s n="adj"/></l><r>sambá<s n="adj"/></r></p></e>
+      <e><p><l>elder<s n="adj"/></l><r>yaya<s n="adj"/></r></p></e>
+      <e><p><l>ripe<s n="adj"/></l><r>téla<s n="adj"/></r></p></e>
+      <e><p><l>south<s n="adj"/></l><r>sudi<s n="adj"/></r></p></e>
+      <e><p><l>north<s n="adj"/></l><r>nordi<s n="adj"/></r></p></e>
+      <e><p><l>comfortable<s n="adj"/></l><r>séí<s n="adj"/></r></p></e>
+      <e><p><l>new<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
+      <e><p><l>recent<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
 
-      <!--Prepositions -->
+      <!--SECTION: Prepositions -->
+
       <e><p><l>to<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>na<s n="pr"/></r></p></e> <!-- 'na' has many transations. more rules will be added later -->
       <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+      <e><p><l>inside<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
+      <e><p><l>between<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
+      <e><p><l>like<s n="pr"/></l><r>lokola<s n="pr"/></r></p></e>
+      <e><p><l>as<s n="pr"/></l><r>lokola<s n="pr"/></r></p></e>
+      <e><p><l>up<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
+      <e><p><l>until<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
 
-      <!-- Conjunctions -->
-      <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
-      <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
-      <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
+      <!-- SECTION: Conjunctions -->
+
+      <e><p><l>so<s n="adv"/></l><r>bongo<s n="cnjcoo"/></r></p></e>
       <e><p><l>but<s n="cnjcoo"/></l><r>kasi<s n="cnjcoo"/></r></p></e>
-      <e><p><l>also<s n="adv"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
+      <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
+      <e><p><l>and<s n="adv"/></l><r>pé<s n="cnjcoo"/></r></p></e>
+      <e><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
+      <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
+      <e><p><l>until<s n="adv"/></l><r>tii<s n="cnjcoo"/></r></p></e>
+      <e><p><l>été<s n="adv"/></l><r>that<s n="cnjcoo"/></r></p></e>
+      <e><p><l>if<s n="adv"/></l><r>soki<s n="cnjcoo"/></r></p></e>
+      <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
+      <e><p><l>because<s n="cnjcoo"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
+      <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
 
-      <!-- Personal Nouns -->
-      <e><p><l>James<s n="np"/></l><r>Zaki<s n="np"/></r></p></e>
-      <e><p><l>Charlie<s n="np"/></l><r>Charle<s n="np"/></r></p></e>
-      <e><p><l>Mary<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
+      <!-- SECTION: Connectives -->
 
-
-      <!-- Connectives -->
       <e><p><l>the<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
 
+      <!-- SECTION: DETERMINER -->
 
-      <!-- Other -->
+      <e><p><l>all<s n="predet"/></l><r>nyónso<s n="det"/></r></p></e>
+      <!-- <e><p><l>through<s n="pr"/></l><r>na<s n="pr"/></r></p></e> -->
+      <e><p><l>this<s n="det"/></l><r>yangó<s n="det"/></r></p></e>  <!-- pron or adj -->
+      <e><p><l>that<s n="det"/></l><r>óyo<s n="det"/></r></p></e>   <!-- pron or adj -->
+
+      <!-- SECTION: TODO -->
       <!--
       <e><p><l>both<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>his<s n=""/></l><r>ya<s n=""/></r></p></e>
@@ -1552,16 +1643,13 @@
 
       <e><p><l>why<s n="adv"/></l><r>nini<s n="adv"/></r></p></e>
       <e><p><l>how<s n="adv"/></l><r>boni<s n="adv"/></r></p></e>
-      <e><p><l>something<s n="prn"/></l><r>elóko<br/>móko<s n=""/></r></p></e>
+      <e><p><l>something<s n="prn"/></l><r>elóko<b/>móko<s n=""/></r></p></e>
       <e><p><l>anything<s n="prn"/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>everywhere<s n="adv"/></l><r>bisika binso<s n=""/></r></p></e>
       <e><p><l>never<s n="adv"/></l><r>mokolo mókó té<s n="adv"/></r></p></e>
       <e><p><l>from<s n="pr"/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>of course<s n="adv"/></l><r>ya<s n=""/></r></p></e>
       -->
-      <e><p><l>through<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
-      <e><p><l>this<s n="det"/></l><r>yangó<s n="det"/></r></p></e>  <!-- pron or adj -->
-      <e><p><l>that<s n="det"/></l><r>óyo<s n="det"/></r></p></e>   <!-- pron or adj -->
 
       <!-- Numerals -->
       <e><p><l>one<s n="num"/></l><r>mókó<s n="num"/></r></p></e>

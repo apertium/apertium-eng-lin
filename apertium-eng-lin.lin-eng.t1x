@@ -1,18 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+
+    <def-cat n="to">
+      <cat-item lemma="to" tags="pr"/>
+    </def-cat>
+
     <def-cat n="nom">
       <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
     </def-cat>
+
+    <def-cat n="nompropi">
+      <cat-item tags="np.*"/>
+    </def-cat>
+
+    <def-cat n="prnsubj">
+      <cat-item tags="prn.subj.*"/>
+    </def-cat>
+
+    <def-cat n="adj">
+      <cat-item tags="adj"/>
+      <cat-item tags="adj.comp"/>
+      <cat-item tags="adj.sup"/>
+      <cat-item tags="adj.pos"/>
+      <cat-item tags="adj.sint"/>
+      <cat-item tags="adj.sint.*"/>
+    </def-cat>
+
+    <def-cat n="det">
+      <cat-item tags="det.dem.*"/>
+      <cat-item tags="det.ind.*"/>
+      <cat-item tags="det.def.*"/>
+      <cat-item tags="det.pos.*"/>
+      <cat-item tags="det.qnt.*"/>
+      <cat-item tags="det.itg.*"/>
+      <cat-item tags="det.ord.*"/>
+    </def-cat>
+
+    <def-cat n="inf">
+      <cat-item tags="vblex.inf"/>
+      <cat-item tags="vblex.sep.inf"/>
+      <cat-item tags="vbser.inf"/>
+      <cat-item tags="vbmod.inf"/>
+      <cat-item tags="vaux.inf"/>
+    </def-cat>
+
+    <def-cat n="verbcj">
+      <cat-item tags="vblex.*." />
+      <cat-item tags="vbser.*." />
+      <cat-item tags="vbhaver.*." />
+  </def-cat>
+
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_cas">
-      <attr-item tags="nom"/>
+
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+      <attr-item tags="n.acr"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="np.al"/>
+      <attr-item tags="adv"/>
     </def-attr>
+
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vblex.pron"/>
+      <attr-item tags="vbhaver"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbmod"/>
+    </def-attr>
+
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+    </def-attr>
+
+      <def-attr n="a_cls">
+        <attr-item tags="cl1"/>
+        <attr-item tags="cl1a"/>
+        <attr-item tags="cl3"/>
+        <attr-item tags="cl5"/>
+        <attr-item tags="cl7"/>
+        <attr-item tags="cl9"/>
+        <attr-item tags="cl11"/>
+        <attr-item tags="cl14"/>
+        <attr-item tags="cl15"/>
+      </def-attr>
+
+      <def-attr n="a_nbr">
+        <attr-item tags="sg"/>
+        <attr-item tags="pl"/>
+        <attr-item tags="sp"/>
+      </def-attr>
+
+      <def-attr n="a_pers">
+        <attr-item tags="p1"/>
+        <attr-item tags="p2"/>
+        <attr-item tags="p3"/>
+        <attr-item tags="PD"/>
+      </def-attr>
+
+      <def-attr n="a_gen">
+        <attr-item tags="m"/>
+        <attr-item tags="f"/>
+        <attr-item tags="mf"/>
+        <attr-item tags="GD"/>
+        <attr-item tags="nt"/>
+      </def-attr>
+
+      <def-attr n="a_temps">
+        <attr-item tags="cni"/>
+        <attr-item tags="fti"/>
+        <attr-item tags="ifi"/>
+        <attr-item tags="imp"/>
+        <attr-item tags="pii"/>
+        <attr-item tags="pis"/>
+        <attr-item tags="inf"/>
+        <attr-item tags="prs"/>
+        <attr-item tags="pres"/>
+        <attr-item tags="past"/>
+        <attr-item tags="pri"/>
+        <attr-item tags="pp"/>
+        <attr-item tags="ger"/>
+        <attr-item tags="pprs"/>
+        <attr-item tags="subs"/>
+      </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -29,6 +149,75 @@
   </section-def-macros>
 
   <section-rules>
+
+    <!--********************************* REGLES DE SN ***************************************************** -->
+
+    <!--********************************* REGLES DE SV ***************************************************** -->
+
+    <rule comment="RULE: VERB">
+      <pattern>
+        <pattern-item n="verbcj"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="prpers"/>
+              <lit-tag v="prn"/>
+              <lit-tag v="subj"/>
+              <clip pos="1" side="tl" part="a_pers" />
+              <lit-tag v="mf"/>
+              <clip pos="1" side="tl" part="a_nbr" />
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="a_temps"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="RULE: NOM VERB">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="verbcj"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="nom_verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="a_temps"/>
+              <clip pos="2" side="tl" part="a_pers"/>
+              <clip pos="2" side="tl" part="a_nbr" link-to="2"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
@@ -57,4 +246,3 @@ Resources:
     http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
     http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
 -->
-
