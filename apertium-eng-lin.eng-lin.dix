@@ -316,7 +316,7 @@
       <e><p><l>law<s n="n"/></l><r>mokapo<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>tail<s n="n"/></l><r>mokila<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>earth<s n="n"/></l><r>mokili<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>day<s n="n"/></l><r>mokolo<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>day<s n="n"/></l><r>mokɔlɔ<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>bone<s n="n"/></l><r>mokúwa<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>determination<s n="n"/></l><r>moléndé<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>energy<s n="n"/></l><r>moléndé<s n="n"/><s n="cl3"/></r></p></e>
@@ -616,7 +616,7 @@
       <e><p><l>tree<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>wood<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>elephant<s n="n"/></l><r>nzoku<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>body<s n="n"/></l><r>nzóto<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>body<s n="n"/></l><r>nzɔ́to<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>ball<s n="n"/></l><r>balé<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>baptism<s n="n"/></l><r>batísimo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>care<s n="n"/></l><r>bozó<s n="n"/><s n="cl9"/></r></p></e>
@@ -631,8 +631,8 @@
       <e><p><l>disease<s n="n"/></l><r>maládi<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>plate<s n="n"/></l><r>pálaki<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>door<s n="n"/></l><r>porte<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>moon<s n="n"/></l><r>sanza<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>month<s n="n"/></l><r>sanza<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>moon<s n="n"/></l><r>sánzá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>month<s n="n"/></l><r>sánzá<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>secret<s n="n"/></l><r>sekelé<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>in<b/>truth<s n="n"/></l><r>séléká<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>cemetary<s n="n"/></l><r>simetiere<s n="n"/><s n="cl9"/></r></p></e>
@@ -736,9 +736,9 @@
       <e><p><l>Abel<s n="np"/></l><r>Abel<s n="np"/></r></p></e>
       <e><p><l>Abraham<s n="np"/></l><r>Abraham<s n="np"/></r></p></e>
       <e><p><l>Adam<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
-      <e><p><l>Africa<s n="np"/></l><r>Afrika<s n="np"/></r></p></e>
+      <e><p><l>Africa<s n="np"/></l><r>Afríka<s n="np"/></r></p></e>
       <e><p><l>Alma<s n="np"/></l><r>Alama<s n="np"/></r></p></e>
-      <e><p><l>America<s n="np"/></l><r>Amerika<s n="np"/></r></p></e>
+      <e><p><l>America<s n="np"/></l><r>Ameríka<s n="np"/></r></p></e>
       <e><p><l>Angola<s n="np"/></l><r>Angola<s n="np"/></r></p></e>
       <e><p><l>Antioch<s n="np"/></l><r>Antioshe<s n="np"/></r></p></e>
       <e><p><l>Asaph<s n="np"/></l><r>Asaf<s n="np"/></r></p></e>
@@ -760,7 +760,7 @@
       <e><p><l>Helaman<s n="np"/></l><r>Elamani<s n="np"/></r></p></e>
       <e><p><l>Elijah<s n="np"/></l><r>Eliya<s n="np"/></r></p></e>
       <e><p><l>Herod<s n="np"/></l><r>Erode<s n="np"/></r></p></e>
-      <e><p><l>Europe<s n="np"/></l><r>Eropa<s n="np"/></r></p></e>
+      <e><p><l>Europe<s n="np"/></l><r>Erópa<s n="np"/></r></p></e>
       <e><p><l>Eve<s n="np"/></l><r>Eva<s n="np"/></r></p></e>
       <e><p><l>Isaiah<s n="np"/></l><r>Ezaya<s n="np"/></r></p></e>
       <e><p><l>France<s n="np"/></l><r>Falansia<s n="np"/></r></p></e>
@@ -780,17 +780,17 @@
       <e><p><l>Kabila<s n="np"/></l><r>Kabila<s n="np"/></r></p></e>
       <e><p><l>Katanga<s n="np"/></l><r>Katanga<s n="np"/></r></p></e>
       <e><p><l>Kenya<s n="np"/></l><r>Kenya<s n="np"/></r></p></e>
-      <e><p><l>Kikongo<s n="np"/></l><r>Kikongo<s n="np"/></r></p></e>
-      <e><p><l>Kinshasa<s n="np"/></l><r>Kinsasa<s n="np"/></r></p></e>
+      <e><p><l>Kikongo<s n="np"/></l><r>Kikongó<s n="np"/></r></p></e>
+      <e><p><l>Kinshasa<s n="np"/></l><r>Kinsásá<s n="np"/></r></p></e>
       <e><p><l>Christ<s n="np"/></l><r>Klisto<s n="np"/></r></p></e>
-      <e><p><l>Congo<s n="np"/></l><r>Kongo<s n="np"/></r></p></e>
+      <e><p><l>Congo<s n="np"/></l><r>Kongó<s n="np"/></r></p></e>
       <e><p><l>Corinth<s n="np"/></l><r>Korente<s n="np"/></r></p></e>
       <e><p><l>Christ<s n="np"/></l><r>Kristo<s n="np"/></r></p></e>
       <e><p><l>Ethiopia<s n="np"/></l><r>Kusi<s n="np"/></r></p></e>
       <e><p><l>Laman<s n="np"/></l><r>Lamani<s n="np"/></r></p></e>
       <e><p><l>Lehi<s n="np"/></l><r>Lehi<s n="np"/></r></p></e>
-      <e><p><l>France<s n="np"/></l><r>lifalanse<s n="np"/></r></p></e>
-      <e><p><l>Lingala<s n="np"/></l><r>Lingala<s n="np"/></r></p></e>
+      <e><p><l>France<s n="np"/></l><r>Lifalansé<s n="np"/></r></p></e>
+      <e><p><l>Lingala<s n="np"/></l><r>Lingála<s n="np"/></r></p></e>
       <e><p><l>Luanda<s n="np"/></l><r>Luanda<s n="np"/></r></p></e>
       <e><p><l>Mary<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
       <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
@@ -846,7 +846,8 @@
       <e><p><l>abstinence<s n="n"/></l><r>ekila<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>church<s n="n"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>church<s n="n"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
-      <e><p><l>country<s n="n"/></l><r>ekolo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>country<s n="n"/></l><r>ekólo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>unit<s n="n"/></l><r>ekólo<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>pencil<s n="n"/></l><r>ekomele<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>costume<s n="n"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>dress<s n="n"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
@@ -888,6 +889,8 @@
       <e><p><l>conduct<s n="n"/></l><r>ezaleli<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>door<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>lid<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>language<s n="n"/></l><r>lokótá<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>dialect<s n="n"/></l><r>lokótá<s n="n"/><s n="cl11"/></r></p></e>
 
       <!-- SECTION: Verbs -->
 
@@ -1501,7 +1504,7 @@
       <e><p><l>only<s n="adv"/></l><r>bobele<s n="adv"/></r></p></e>
       <e><p><l>like<b/>this<s n="adv"/></l><r>boye<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>ee<s n="adv"/></r></p></e>
-      <e><p><l>no<s n="adv"/></l><r>té<s n="adv"/></r></p></e>
+      <e><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
       <e><p><l>only<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
@@ -1532,6 +1535,7 @@
       <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
+      <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
@@ -1559,7 +1563,7 @@
       <e><p><l>beautiful<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e>
       <e><p><l>white<s n="adj"/></l><r>pémbé<s n="adj"/></r></p></e>
       <e><p><l>white<s n="adj"/></l><r>mpémbé/lr<s n="adj"/></r></p></e>
-      <e><p><l>near<s n="adj"/></l><r>pene<s n="adj"/></r></p></e>
+      <e><p><l>near<s n="adj"/></l><r>pɛnɛ<s n="adj"/></r></p></e>
       <e><p><l>clear<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
       <e><p><l>open<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
       <e><p><l>eternal<s n="adj"/></l><r>seko<s n="adj"/></r></p></e>
@@ -1598,8 +1602,8 @@
       <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>inside<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
       <e><p><l>between<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
-      <e><p><l>like<s n="pr"/></l><r>lokola<s n="pr"/></r></p></e>
-      <e><p><l>as<s n="pr"/></l><r>lokola<s n="pr"/></r></p></e>
+      <e><p><l>like<s n="pr"/></l><r>lokóla<s n="pr"/></r></p></e>
+      <e><p><l>as<s n="pr"/></l><r>lokóla<s n="pr"/></r></p></e>
       <e><p><l>up<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
       <e><p><l>until<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
 
@@ -1610,25 +1614,26 @@
       <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
       <e><p><l>and<s n="adv"/></l><r>pé<s n="cnjcoo"/></r></p></e>
       <e><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
-      <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
+      <e><p><l>for<s n="cnjadv"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>until<s n="adv"/></l><r>tii<s n="cnjcoo"/></r></p></e>
       <e><p><l>été<s n="adv"/></l><r>that<s n="cnjcoo"/></r></p></e>
       <e><p><l>if<s n="adv"/></l><r>soki<s n="cnjcoo"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
-      <e><p><l>because<s n="cnjcoo"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
+      <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Connectives -->
 
       <e><p><l>the<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
+      <e><p><l>at<s n="det"/></l><r>o<s n="conn"/></r></p></e>
 
       <!-- SECTION: DETERMINER -->
 
-      <e><p><l>all<s n="predet"/></l><r>nyónso<s n="det"/></r></p></e>
+      <e><p><l>all<s n="predet"/></l><r>nyɔ́nsɔ<s n="det"/></r></p></e>
+      <e><p><l>this<s n="det"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
+      <e><p><l>that<s n="det"/></l><r>yangó<s n="det"/></r></p></e>   <!-- pron or adj -->
       <!-- <e><p><l>through<s n="pr"/></l><r>na<s n="pr"/></r></p></e> -->
-      <e><p><l>this<s n="det"/></l><r>yangó<s n="det"/></r></p></e>  <!-- pron or adj -->
-      <e><p><l>that<s n="det"/></l><r>óyo<s n="det"/></r></p></e>   <!-- pron or adj -->
 
       <!-- SECTION: TODO -->
       <!--
