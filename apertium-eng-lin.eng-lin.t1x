@@ -100,6 +100,11 @@
         <attr-item tags="sp"/>
       </def-attr>
 
+      <def-attr n="a_anim">
+        <attr-item tags="aa"/>
+        <attr-item tags="nn"/>
+      </def-attr>s
+
       <def-attr n="a_pers">
         <attr-item tags="p1"/>
         <attr-item tags="p2"/>
@@ -138,6 +143,11 @@
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="animate"/>
+    <def-var n="genre"/>
+    <def-var n="temps_chunk"/>
+    <def-var n="nbr_chunk"/>
+    <def-var n="pers_chunk"/>
+    <def-var n="verbfinal"/>
   </section-def-vars>
 
   <section-def-macros>

@@ -347,6 +347,9 @@
         <pattern-item n="verbcj"/>
       </pattern>
       <action>
+        <call-macro n="conj_verb1">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="nom_verb" case="caseFirstWord">
             <tags>
@@ -360,17 +363,31 @@
             </lu>
             <b/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="a_temps"/>
-              <clip pos="2" side="tl" part="a_pers"/>
-              <clip pos="2" side="tl" part="a_nbr" link-to="2"/>
+              <var n="verbfinal"/>
+      	      <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
       </action>
     </rule>
 
+<!--
+    <rule comment="RULE: INF">
+      <pattern>
+        <pattern-item n="inf"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="to_verb" case="caseFirstWord">
+            <lu>
+              <clip pos="2" side="tl" part="" />
+              <clip pos="1" side="" part="a_temps"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+-->
 
     <rule comment="RULE: SENT">
       <pattern>
