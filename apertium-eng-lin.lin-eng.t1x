@@ -107,6 +107,11 @@
         <attr-item tags="PD"/>
       </def-attr>
 
+      <def-attr n="a_anim">
+        <attr-item tags="aa"/>
+        <attr-item tags="nn"/>
+      </def-attr>
+
       <def-attr n="a_gen">
         <attr-item tags="m"/>
         <attr-item tags="f"/>
@@ -131,21 +136,166 @@
         <attr-item tags="ger"/>
         <attr-item tags="pprs"/>
         <attr-item tags="subs"/>
+        <attr-item tags="dpres"/>
+        <attr-item tags="urp"/>
       </def-attr>
 
   </section-def-attrs>
 
   <section-def-vars>
+    <def-var n="genre"/>
     <def-var n="number"/>
+    <def-var n="temps_chunk"/>
+    <def-var n="nbr_chunk"/>
+    <def-var n="pers_chunk"/>
+    <def-var n="verbfinal"/>
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
+    <def-macro n="conj_verb1" npar="1">
+      <choose>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="sl" part="a_temps"/>
+                <lit-tag v="past"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="a_temps"/>
+                <lit-tag v="urp"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="a_temps"/>
+                <lit-tag v="dpres"/>
+              </equal>
+            </or>
+          </test>
           <let>
-            <var n="number"/>
-            <lit v=""/>
+            <clip pos="1" side="tl" part="a_temps"/>
+            <lit-tag v="past"/>
           </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="a_temps"/>
+              <lit-tag v="pres"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_temps"/>
+            <lit-tag v="pres"/>
+          </let>
+        </when>
+
+        <!-- other tenses and mood will be added later -->
+
+      </choose>
+
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="a_pers"/>
+                <lit-tag v="p3"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="a_anim"/>
+                <lit-tag v="aa"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <var n="genre"/>
+            <lit-tag v="m"/>
+          </let>
+          <let>
+            <var n="verbfinal"/>
+            <concat>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="vblex"/> <!-- change this for analysis of vbhaver and vbser -->
+              <clip pos="1" side="tl" part="a_temps"/>
+              <clip pos="1" side="tl" part="a_pers"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="a_pers"/>
+              <lit-tag v="p2"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_nbr"/>
+            <lit-tag v="sp"/>
+          </let>
+          <let>
+            <var n="genre"/>
+            <lit-tag v="mf"/>
+          </let>
+          <let>
+            <var n="verbfinal"/>
+            <concat>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="vblex"/> <!-- change this for analysis of vbhaver and vbser -->
+              <clip pos="1" side="tl" part="a_temps"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="a_pers"/>
+                <lit-tag v="p3"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="a_anim"/>
+                <lit-tag v="nn"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <var n="genre"/>
+            <lit-tag v="nt"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="a_nbr"/>
+            <lit-tag v="sg"/>
+          </let>
+          <let>
+            <var n="verbfinal"/>
+            <concat>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="vblex"/> <!-- change this for analysis of vbhaver and vbser -->
+              <clip pos="1" side="tl" part="a_temps"/>
+              <clip pos="1" side="tl" part="a_pers"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+            </concat>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="genre"/>
+            <lit-tag v="mf"/>
+          </let>
+          <let>
+            <var n="verbfinal"/>
+            <concat>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="vblex"/> <!-- change this for analysis of vbhaver and vbser -->
+              <clip pos="1" side="tl" part="a_temps"/>
+            </concat>
+          </let>
+        </otherwise>
+      </choose>
+
     </def-macro>
+
   </section-def-macros>
 
   <section-rules>
@@ -159,28 +309,32 @@
         <pattern-item n="verbcj"/>
       </pattern>
       <action>
+
+        <call-macro n="conj_verb1">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
-          <chunk name="verb" case="caseFirstWord">
+          <chunk name="lemma_verb" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="temps"/></tag>
-              <tag><clip pos="1" side="tl" part="pers"/></tag>
-              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+      	      <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+      	      <!-- <tag><var n="temps_chunk"/></tag> -->
+      	      <tag><clip pos="1" side="tl" part="a_pers"/></tag>
+      	      <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
               <lit v="prpers"/>
               <lit-tag v="prn"/>
               <lit-tag v="subj"/>
               <clip pos="1" side="tl" part="a_pers" />
-              <lit-tag v="mf"/>
+              <var n="genre"/>
               <clip pos="1" side="tl" part="a_nbr" />
             </lu>
             <b/>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="a_temps"/>
-            </lu>
+      	      <var n="verbfinal"/>
+      	      <clip pos="1" side="tl" part="lemq"/>
+      	    </lu>
           </chunk>
         </out>
       </action>
@@ -218,7 +372,7 @@
     </rule>
 
 
-    <rule comment="REGLA: SENT">
+    <rule comment="RULE: SENT">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
