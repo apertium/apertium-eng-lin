@@ -103,7 +103,7 @@
       <def-attr n="a_anim">
         <attr-item tags="aa"/>
         <attr-item tags="nn"/>
-      </def-attr>s
+      </def-attr>
 
       <def-attr n="a_pers">
         <attr-item tags="p1"/>
@@ -384,27 +384,6 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_adj"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="RULE: TO INF">
-      <pattern>
-        <pattern-item n="to"/>
-        <pattern-item n="inf"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="to_inf" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="a_temps"/>
             </lu>
           </chunk>
         </out>

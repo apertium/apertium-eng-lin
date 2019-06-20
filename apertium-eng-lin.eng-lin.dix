@@ -200,6 +200,7 @@
       <e><p><l>saint<s n="n"/></l><r>mosántu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>other<s n="n"/></l><r>mosúsu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>person<s n="n"/></l><r>moto<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>person<s n="n"/></l><r>mutu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>slave<s n="n"/></l><r>moúmbu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>singer<s n="n"/></l><r>moyémbi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>thief<s n="n"/></l><r>moyíbi<s n="n"/><s n="cl1"/></r></p></e>
@@ -329,7 +330,7 @@
       <e><p><l>throat<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>voice<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>sound<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>east<s n="n"/></l><r>monyele<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>east<s n="n"/></l><r>monyɛlɛ<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>torment<s n="n"/></l><r>monyókoli<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>work<s n="n"/></l><r>mosálá<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>occupation<s n="n"/></l><r>mosálá<s n="n"/><s n="cl3"/></r></p></e>
@@ -438,7 +439,7 @@
       <e><p><l>problem<s n="n"/></l><r>likambo<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>miracle<s n="n"/></l><r>likámwisi<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>thought<s n="n"/></l><r>likanisi<s n="n"/><s n="cl5"/></r></p></e>
-      <e><p><l>egg<s n="n"/></l><r>liki<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>egg<s n="n"/></l><r>likí<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>meeting<s n="n"/></l><r>likita<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>assembly<s n="n"/></l><r>likita<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>conspiracy<s n="n"/></l><r>likita<s n="n"/><s n="cl5"/></r></p></e>
@@ -743,7 +744,10 @@
       <e><p><l>Antioch<s n="np"/></l><r>Antioshe<s n="np"/></r></p></e>
       <e><p><l>Asaph<s n="np"/></l><r>Asaf<s n="np"/></r></p></e>
       <e><p><l>Assyria<s n="np"/></l><r>Asulia<s n="np"/></r></p></e>
-      <e><p><l>Asia<s n="np"/></l><r>Azia<s n="np"/></r></p></e>
+      <e><p><l>Switzerland<s n="np"/></l><r>Swisi<s n="np"/></r></p></e>
+      <e><p><l>Belgium<s n="np"/></l><r>Bɛ́lɛjika<s n="np"/></r></p></e>
+      <e><p><l>Belgium<s n="np"/></l><r>Bɛ́ljika<s n="np"/></r></p></e>
+      <e><p><l>Asia<s n="np"/></l><r>Azía<s n="np"/></r></p></e>
       <e><p><l>Barnabas<s n="np"/></l><r>Barnabas<s n="np"/></r></p></e>
       <e><p><l>Judaism<s n="np"/></l><r>Bayuda<s n="np"/></r></p></e>
       <e><p><l>Myanmar<s n="np"/></l><r>Birmani<s n="np"/></r></p></e>
@@ -792,7 +796,8 @@
       <e><p><l>France<s n="np"/></l><r>Lifalansé<s n="np"/></r></p></e>
       <e><p><l>Lingala<s n="np"/></l><r>Lingála<s n="np"/></r></p></e>
       <e><p><l>Luanda<s n="np"/></l><r>Luanda<s n="np"/></r></p></e>
-      <e><p><l>Mary<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
+      <e><p><l>Mary<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
+      <e><p><l>Zechariah<s n="np"/></l><r>Zakariya<s n="np"/></r></p></e>
       <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
       <e><p><l>Matt<s n="np"/></l><r>Mat<s n="np"/></r></p></e>
       <e><p><l>Matthew<s n="np"/></l><r>Matie<s n="np"/></r></p></e>
@@ -811,7 +816,7 @@
       <e><p><l>Pierre<s n="np"/></l><r>Pierre<s n="np"/></r></p></e>
       <e><p><l>Pilate<s n="np"/></l><r>Pilate<s n="np"/></r></p></e>
       <e><p><l>Pison<s n="np"/></l><r>Pisoni<s n="np"/></r></p></e>
-      <e><p><l>Republic<s n="np"/></l><r>Republiki<s n="np"/></r></p></e>
+      <e><p><l>Republic<s n="np"/></l><r>Republíki<s n="np"/></r></p></e>
       <e><p><l>Romans<s n="np"/></l><r>Rome<s n="np"/></r></p></e>
       <e><p><l>Rwanda<s n="np"/></l><r>Rwanda<s n="np"/></r></p></e>
       <e><p><l>Sadducees<s n="np"/></l><r>Sadusé<s n="np"/></r></p></e>
@@ -821,6 +826,7 @@
       <e><p><l>Simon<s n="np"/></l><r>Simon<s n="np"/></r></p></e>
       <e><p><l>Sion<s n="np"/></l><r>Sion<s n="np"/></r></p></e>
       <e><p><l>Tanzania<s n="np"/></l><r>Tanzania<s n="np"/></r></p></e>
+      <e><p><l>Switzerland<s n="np"/></l><r>Swissi<s n="np"/></r></p></e>
       <e><p><l>Timothy<s n="np"/></l><r>Timote<s n="np"/></r></p></e>
       <e><p><l>Tshiluba<s n="np"/></l><r>Tshiluba<s n="np"/></r></p></e>
       <e><p><l>Uganda<s n="np"/></l><r>Uganda<s n="np"/></r></p></e>
@@ -1361,8 +1367,7 @@
       <e><p><l>whisper<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
       <e><p><l>tell<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
       <e><p><l>say<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
-      <e><p><l>pick<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
-      <e><p><l>up<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+      <e><p><l>pick<b/>up<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
       <e><p><l>defeat<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
       <e><p><l>win<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
       <e><p><l>dream<s n="vblex"/></l><r>kolɔ́ta<s n="vblex"/></r></p></e>
@@ -1536,13 +1541,16 @@
       <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
       <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
+      <e><p><l>outside<s n="adv"/></l><r>libándá<s n="adv"/></r></p></e>
+      <e><p><l>up<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
+      <e><p><l>upstairs<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
       <e><p><l>small<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
       <e><p><l>short<s n="adj"/></l><r>mokúsé<s n="adj"/></r></p></e>
       <e><p><l>long<s n="adj"/></l><r>molaí<s n="adj"/></r></p></e>
-      <e><p><l>big<s n="adj"/></l><r>monéne<s n="adj"/></r></p></e>
+      <e><p><l>big<s n="adj"/></l><r>monɛ́nɛ<s n="adj"/></r></p></e>
       <e><p><l>all<s n="adj"/></l><r>banso<s n="adj"/></r></p></e>
       <e><p><l>only<s n="adj"/></l><r>bobele<s n="adj"/></r></p></e>
       <e><p><l>sour<s n="adj"/></l><r>ngai<s n="adj"/></r></p></e>
@@ -1606,6 +1614,7 @@
       <e><p><l>as<s n="pr"/></l><r>lokóla<s n="pr"/></r></p></e>
       <e><p><l>up<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
       <e><p><l>until<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
+      <e><p><l>outside<s n="pr"/></l><r>libándá<s n="pr"/></r></p></e>
 
       <!-- SECTION: Conjunctions -->
 
