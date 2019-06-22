@@ -1492,6 +1492,9 @@
       <e><p><l>nap<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
       <e><p><l>dwell<b/>a<b/>long<b/>time<s n="vblex"/></l><r>koúmela<s n="vblex"/></r></p></e>
       <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
+      <e><p><l>can<s n="vblex"/></l><r>kokoka<s n="vblex"/></r></p></e>
+
+      <e><p><l>must<s n="vbmod"/></l><r>kosɛngɛle<s n="vaux"/></r></p></e>
 
       <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
       <!-- <e><p><l>have<s n="vbhaver"/></l><r>kozala<s n="vblex"/></r></p></e> -->
