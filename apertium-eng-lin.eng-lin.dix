@@ -869,6 +869,10 @@
       <e><p><l>face<s n="n"/></l><r>elongi<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>city<s n="n"/></l><r>engumba<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>place<s n="n"/></l><r>epái<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>place<s n="n"/></l><r>esíká<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>location<s n="n"/></l><r>esíká<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>site<s n="n"/></l><r>esíká<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>zone<s n="n"/></l><r>esíká<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>location<s n="n"/></l><r>epái<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>work<s n="n"/></l><r>esalelo<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>material<s n="n"/></l><r>esalelo<s n="n"/><s n="cl7"/></r></p></e>
@@ -1510,6 +1514,7 @@
       <e><p><l>here<s n="adv"/></l><r>áwa<s n="adv"/></r></p></e>
       <e><p><l>since<s n="adv"/></l><r>bandá<s n="adv"/></r></p></e>
       <e><p><l>only<s n="adv"/></l><r>bobele<s n="adv"/></r></p></e>
+      <e><p><l>permanently<s n="adv"/></l><r>bobele<s n="adv"/></r></p></e>
       <e><p><l>like<b/>this<s n="adv"/></l><r>boye<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>ee<s n="adv"/></r></p></e>
       <e><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
@@ -1517,16 +1522,19 @@
       <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
       <e><p><l>only<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
       <e><p><l>once<b/>upon<b/>a<b/>time<s n="adv"/></l><r>kala<s n="adv"/></r></p></e>
-      <e><p><l>there<s n="adv"/></l><r>kuna<s n="adv"/></r></p></e>
+      <e><p><l>there<s n="adv"/></l><r>wana<s n="adv"/></r></p></e>
       <e><p><l>moreover<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
       <e><p><l>rather<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
       <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
+      <e><p><l>yesterday<s n="adv"/></l><r>lobi<b/>eleki<s n="adv"/></r></p></e>
       <e><p><l>yesterday<s n="adv"/></l><r>lobi<s n="adv"/></r></p></e>
+      <e><p><l>tomorrow<s n="adv"/></l><r>lobi<s n="adv"/></r></p></e>
       <e><p><l>again<s n="adv"/></l><r>lisúsu<s n="adv"/></r></p></e>
       <e><p><l>really<s n="adv"/></l><r>mpenzá<s n="adv"/></r></p></e>
       <e><p><l>already<s n="adv"/></l><r>nanu<s n="adv"/></r></p></e>
       <e><p><l>as<b/>if<s n="adv"/></l><r>neti<s n="adv"/></r></p></e>
       <e><p><l>quickly<s n="adv"/></l><r>noki<s n="adv"/></r></p></e>
+      <e><p><l>immediately<s n="adv"/></l><r>noki<s n="adv"/></r></p></e>
       <e><p><l>slowly<s n="adv"/></l><r>malembe<s n="adv"/></r></p></e>
       <e><p><l>however<s n="adv"/></l><r>kasi<s n="adv"/></r></p></e>
       <e><p><l>very<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
@@ -1544,9 +1552,28 @@
       <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
       <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
+      <e><p><l>very<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
       <e><p><l>outside<s n="adv"/></l><r>libándá<s n="adv"/></r></p></e>
       <e><p><l>up<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
       <e><p><l>upstairs<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
+      <e><p><l>everywhere<s n="adv"/></l><r>bisíká<b/>binso<s n="adv"/></r></p></e>
+      <e><p><l>elsewhere<s n="adv"/></l><r>esíká<b/>esusu<s n="adv"/></r></p></e>
+      <e><p><l>never<s n="adv"/></l><r>mokɔlɔ<b/>mókó<b/>tɛ́<s n="adv"/></r></p></e>
+      <e><p><l>always<s n="adv"/></l><r>mikɔlɔ<b/>minso<s n="adv"/></r></p></e>
+      <e><p><l>everyday<s n="adv"/></l><r>mikɔlɔ<b/>nyɔ́nsɔ<s n="adv"/></r></p></e>
+      <e><p><l>before<s n="adv"/></l><r>libosó<s n="adv"/></r></p></e>
+      <e><p><l>before<s n="adv"/></l><r>yambo<s n="adv"/></r></p></e>
+      <e><p><l>over<b/>there<s n="adv"/></l><r>kuna<s n="adv"/></r></p></e>
+      <e><p><l>tonight<s n="adv"/></l><r>na<b/>butú<s n="adv"/></r></p></e>
+      <e><p><l>twice<s n="adv"/></l><r>mbala<b/>míbalé<s n="adv"/></r></p></e>
+      <e><p><l>therefore<s n="adv"/></l><r>ndé<s n="adv"/></r></p></e>
+      <e><p><l>how<s n="adv"/></l><r>boni<s n="adv"/></r></p></e>
+      <e><p><l>quite<s n="adv"/></l><r>nye<s n="adv"/></r></p></e>
+      <e><p><l>enough<s n="adv"/></l><r>ekoki<s n="adv"/></r></p></e>
+      <e><p><l>once<s n="adv"/></l><r>mbala<b/>mókó<s n="adv"/></r></p></e>
+      <e><p><l>often<s n="adv"/></l><r>mbala<b/>míngi<s n="adv"/></r></p></e>
+      <e><p><l>daily<s n="adv"/></l><r>ntóngó<b/>nyɔ́nsɔ<s n="adv"/></r></p></e>
+      <e><p><l>almost<s n="adv"/></l><r>mbele<s n="adv"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
@@ -1618,6 +1645,9 @@
       <e><p><l>up<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
       <e><p><l>until<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
       <e><p><l>outside<s n="pr"/></l><r>libándá<s n="pr"/></r></p></e>
+      <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>libosó<s n="pr"/></r></p></e>
+      <e><p><l>before<s n="pr"/></l><r>libosó<s n="pr"/></r></p></e>
+      <e><p><l>before<s n="pr"/></l><r>yambo<s n="pr"/></r></p></e>
 
       <!-- SECTION: Conjunctions -->
 
@@ -1662,8 +1692,6 @@
       <e><p><l>how<s n="adv"/></l><r>boni<s n="adv"/></r></p></e>
       <e><p><l>something<s n="prn"/></l><r>elóko<b/>móko<s n=""/></r></p></e>
       <e><p><l>anything<s n="prn"/></l><r>ya<s n=""/></r></p></e>
-      <e><p><l>everywhere<s n="adv"/></l><r>bisika binso<s n=""/></r></p></e>
-      <e><p><l>never<s n="adv"/></l><r>mokolo mókó té<s n="adv"/></r></p></e>
       <e><p><l>from<s n="pr"/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>of course<s n="adv"/></l><r>ya<s n=""/></r></p></e>
       -->
