@@ -149,6 +149,25 @@
      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- They -->
      <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Them -->
 
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ya<b/>ngáí<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Mine -->
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>yó<s n="prn"/><s n="pos"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Yours -->
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- His -->
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Hers -->
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bísó<s n="prn"/><s n="pos"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Ours -->
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>bínó<s n="prn"/><s n="pos"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Yours(pl) -->
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bangó<s n="prn"/><s n="pos"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Theirs -->
+
+
+     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ya<b/>ngáí<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- My -->
+     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>yó<s n="prn"/><s n="pos"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Your -->
+     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- His -->
+     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Hers -->
+     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bísó<s n="prn"/><s n="pos"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Our -->
+     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>bínó<s n="prn"/><s n="pos"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Yours(pl) -->
+     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bangó<s n="prn"/><s n="pos"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Their -->
+
+
+     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="nn"/></r></p></e> <!-- Its -->
      <!-- SECTION: Nouns -->
 
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
@@ -1496,8 +1515,8 @@
       <e><p><l>nap<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
       <e><p><l>dwell<b/>a<b/>long<b/>time<s n="vblex"/></l><r>koúmela<s n="vblex"/></r></p></e>
       <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
-      <e><p><l>can<s n="vblex"/></l><r>kokoka<s n="vblex"/></r></p></e>
 
+      <e><p><l>can<s n="vbmod"/></l><r>kokoka<s n="vaux"/></r></p></e>
       <e><p><l>must<s n="vbmod"/></l><r>kosɛngɛle<s n="vaux"/></r></p></e>
 
       <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
@@ -1577,60 +1596,61 @@
 
       <!-- SECTION: Adjectives -->
       <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
-      <e><p><l>small<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
-      <e><p><l>short<s n="adj"/></l><r>mokúsé<s n="adj"/></r></p></e>
-      <e><p><l>long<s n="adj"/></l><r>molaí<s n="adj"/></r></p></e>
-      <e><p><l>big<s n="adj"/></l><r>monɛ́nɛ<s n="adj"/></r></p></e>
+      <e><p><l>small<s n="adj"/><s n="sint"/></l><r>moké<s n="adj"/></r></p></e>
+      <e><p><l>short<s n="adj"/><s n="sint"/></l><r>mokúsé<s n="adj"/></r></p></e>
+      <e><p><l>long<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
+      <e><p><l>big<s n="adj"/><s n="sint"/></l><r>monɛ́nɛ<s n="adj"/></r></p></e>
       <e><p><l>all<s n="adj"/></l><r>banso<s n="adj"/></r></p></e>
       <e><p><l>only<s n="adj"/></l><r>bobele<s n="adj"/></r></p></e>
-      <e><p><l>sour<s n="adj"/></l><r>ngai<s n="adj"/></r></p></e>
-      <e><p><l>sour<s n="adj"/></l><r>bololo<s n="adj"/></r></p></e>
+      <e><p><l>sour<s n="adj"/><s n="sint"/></l><r>ngai<s n="adj"/></r></p></e>
+      <e><p><l>sour<s n="adj"/><s n="sint"/></l><r>bololo<s n="adj"/></r></p></e>
       <e><p><l>bitter<s n="adj"/></l><r>bololo<s n="adj"/></r></p></e>
-      <e><p><l>bad<s n="adj"/></l><r>mabé<s n="adj"/></r></p></e>
-      <e><p><l>strong<s n="adj"/></l><r>makási<s n="adj"/></r></p></e>
-      <e><p><l>hard<s n="adj"/></l><r>makási<s n="adj"/></r></p></e>
+      <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>mabé<s n="adj"/></r></p></e>
+      <e><p><l>strong<s n="adj"/><s n="sint"/></l><r>makási<s n="adj"/></r></p></e>
+      <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>makási<s n="adj"/></r></p></e>
       <e><p><l>difficult<s n="adj"/></l><r>makási<s n="adj"/></r></p></e>
-      <e><p><l>good<s n="adj"/></l><r>malámu<s n="adj"/></r></p></e>
-      <e><p><l>raw<s n="adj"/></l><r>mobésu<s n="adj"/></r></p></e>
+      <e><p><l>good<s n="adj"/><s n="sint"/></l><r>malámu<s n="adj"/></r></p></e>
+      <e><p><l>raw<s n="adj"/><s n="sint"/></l><r>mobésu<s n="adj"/></r></p></e>
       <e><p><l>whole<s n="adj"/></l><r>mobimba<s n="adj"/></r></p></e>
       <e><p><l>some<s n="adj"/></l><r>mwá<s n="adj"/></r></p></e>
       <e><p><l>african<s n="adj"/></l><r>mwíndo<s n="adj"/></r></p></e>
-      <e><p><l>black<s n="adj"/></l><r>mwíndo<s n="adj"/></r></p></e>
+      <e><p><l>black<s n="adj"/><s n="sint"/></l><r>mwíndo<s n="adj"/></r></p></e>
       <e><p><l>central<s n="adj"/></l><r>ntei<s n="adj"/></r></p></e>
       <e><p><l>middle<s n="adj"/></l><r>ntei<s n="adj"/></r></p></e>
       <e><p><l>beautiful<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e>
-      <e><p><l>white<s n="adj"/></l><r>pémbé<s n="adj"/></r></p></e>
-      <e><p><l>white<s n="adj"/></l><r>mpémbé/lr<s n="adj"/></r></p></e>
-      <e><p><l>near<s n="adj"/></l><r>pɛnɛ<s n="adj"/></r></p></e>
-      <e><p><l>clear<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
+      <e><p><l>white<s n="adj"/><s n="sint"/></l><r>pémbé<s n="adj"/></r></p></e>
+      <e><p><l>white<s n="adj"/><s n="sint"/></l><r>mpémbé/lr<s n="adj"/></r></p></e>
+      <e><p><l>near<s n="adj"/><s n="sint"/></l><r>pɛnɛ<s n="adj"/></r></p></e>
+      <e><p><l>clear<s n="adj"/><s n="sint"/></l><r>polele<s n="adj"/></r></p></e>
       <e><p><l>open<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
       <e><p><l>eternal<s n="adj"/></l><r>seko<s n="adj"/></r></p></e>
-      <e><p><l>new<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
+      <e><p><l>new<s n="adj"/><s n="sint"/></l><r>sika<s n="adj"/></r></p></e>
       <e><p><l>true<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
-      <e><p><l>first<s n="adj"/></l><r>yambo<s n="adj"/></r></p></e>
+      <e><p><l>first<s n="adj"/><s n="sint"/></l><r>yambo<s n="adj"/></r></p></e>
       <e><p><l>close<s n="adj"/></l><r>mpembéni<s n="adj"/></r></p></e>
-      <e><p><l>old<s n="adj"/></l><r>kala<s n="adj"/></r></p></e>
-      <e><p><l>hot<s n="adj"/></l><r>molungé<s n="adj"/></r></p></e>
-      <e><p><l>cold<s n="adj"/></l><r>malílí<s n="adj"/></r></p></e>
-      <e><p><l>happy<s n="adj"/></l><r>esengo<s n="adj"/></r></p></e>
-      <e><p><l>far<s n="adj"/></l><r>mosíká<s n="adj"/></r></p></e>
-      <e><p><l>deep<s n="adj"/></l><r>bonzido<s n="adj"/></r></p></e>
-      <e><p><l>cold<s n="adj"/></l><r>mpío<s n="adj"/></r></p></e>
-      <e><p><l>clean<s n="adj"/></l><r>petwa<s n="adj"/></r></p></e>
-      <e><p><l>weak<s n="adj"/></l><r>molémbu<s n="adj"/></r></p></e>
-      <e><p><l>easy<s n="adj"/></l><r>molémbu<s n="adj"/></r></p></e>
-      <e><p><l>dark<s n="adj"/></l><r>moíndo<s n="adj"/></r></p></e>
-      <e><p><l>black<s n="adj"/></l><r>moíndo<s n="adj"/></r></p></e>
-      <e><p><l>blue<s n="adj"/></l><r>bulo<s n="adj"/></r></p></e>
+      <e><p><l>old<s n="adj"/><s n="sint"/></l><r>kala<s n="adj"/></r></p></e>
+      <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>molungé<s n="adj"/></r></p></e>
+      <e><p><l>warm<s n="adj"/><s n="sint"/></l><r>molungé<s n="adj"/></r></p></e>
+      <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>malílí<s n="adj"/></r></p></e>
+      <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>esengo<s n="adj"/></r></p></e>
+      <e><p><l>far<s n="adj"/><s n="sint"/></l><r>mosíká<s n="adj"/></r></p></e>
+      <e><p><l>deep<s n="adj"/><s n="sint"/></l><r>bonzido<s n="adj"/></r></p></e>
+      <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>mpío<s n="adj"/></r></p></e>
+      <e><p><l>clean<s n="adj"/><s n="sint"/></l><r>petwa<s n="adj"/></r></p></e>
+      <e><p><l>weak<s n="adj"/><s n="sint"/></l><r>molémbu<s n="adj"/></r></p></e>
+      <e><p><l>easy<s n="adj"/><s n="sint"/></l><r>molémbu<s n="adj"/></r></p></e>
+      <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>moíndo<s n="adj"/></r></p></e>
+      <e><p><l>black<s n="adj"/><s n="sint"/></l><r>moíndo<s n="adj"/></r></p></e>
+      <e><p><l>blue<s n="adj"/><s n="sint"/></l><r>bulo<s n="adj"/></r></p></e>
       <e><p><l>bald<s n="adj"/></l><r>libáta<s n="adj"/></r></p></e>
-      <e><p><l>quick<s n="adj"/></l><r>noki<s n="adj"/></r></p></e>
+      <e><p><l>quick<s n="adj"/><s n="sint"/></l><r>noki<s n="adj"/></r></p></e>
       <e><p><l>correct<s n="adj"/></l><r>sambá<s n="adj"/></r></p></e>
       <e><p><l>elder<s n="adj"/></l><r>yaya<s n="adj"/></r></p></e>
       <e><p><l>ripe<s n="adj"/></l><r>téla<s n="adj"/></r></p></e>
-      <e><p><l>south<s n="adj"/></l><r>sudi<s n="adj"/></r></p></e>
-      <e><p><l>north<s n="adj"/></l><r>nordi<s n="adj"/></r></p></e>
+      <e><p><l>south<s n="adj"/><s n="sint"/></l><r>sudi<s n="adj"/></r></p></e>
+      <e><p><l>north<s n="adj"/><s n="sint"/></l><r>nordi<s n="adj"/></r></p></e>
       <e><p><l>comfortable<s n="adj"/></l><r>séí<s n="adj"/></r></p></e>
-      <e><p><l>new<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
+      <e><p><l>new<s n="adj"/><s n="sint"/></l><r>sika<s n="adj"/></r></p></e>
       <e><p><l>recent<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
 
       <!--SECTION: Prepositions -->
@@ -1668,7 +1688,9 @@
 
       <e><p><l>the<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
-      <e><p><l>at<s n="det"/></l><r>o<s n="conn"/></r></p></e>
+      <e><p><l>of<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
+      <!--<e><p><l></l><r>o<s n="conn"/></r></p></e> Error, the left side of an entry is left empty--> 
+
 
       <!-- SECTION: DETERMINER -->
 
