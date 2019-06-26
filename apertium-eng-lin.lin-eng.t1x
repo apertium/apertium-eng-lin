@@ -6,6 +6,10 @@
       <cat-item lemma="to" tags="pr"/>
     </def-cat>
 
+    <def-cat n="yaconn">
+      <cat-item lemma="ya" tags="conn"/>
+    </def-cat>
+
     <def-cat n="kozala">
       <cat-item lemma="kozala" tags="vblex.*"/> <!-- tags should be vaux. more work on CG needed -->
     </def-cat>
@@ -28,12 +32,8 @@
     </def-cat>
 
     <def-cat n="adj">
-      <cat-item tags="adj"/>
-      <cat-item tags="adj.comp"/>
-      <cat-item tags="adj.sup"/>
-      <cat-item tags="adj.pos"/>
-      <cat-item tags="adj.sint"/>
-      <cat-item tags="adj.sint.*"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adj.pos.*"/>
     </def-cat>
 
     <def-cat n="det">
@@ -88,6 +88,16 @@
 
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
+      <attr-item tags="adj.sint"/>
+      <attr-item tags="adj.sint.comp"/>
+      <attr-item tags="adj.sint.sup"/>
+      <attr-item tags="adj.pos"/>
+      <attr-item tags="adj.ind"/>
+      <attr-item tags="adj.itg"/>
+      <attr-item tags="vblex.pp"/>
+      <attr-item tags="vbmod.pp"/>
+      <attr-item tags="vbhaver.pp"/>
+      <attr-item tags="vbser.pp"/>
     </def-attr>
 
       <def-attr n="a_cls">
@@ -406,34 +416,69 @@
       </action>
     </rule>
 
-    <!-- <rule comment="RULE: NOM YA(conn) ADJ">
-          <pattern>
-            <pattern-item n="nomcomu"/>
-          </pattern>
-          <action>
-            <call-macro n="conj_verb1">
-              <with-param pos="2"/>
-            </call-macro>
-            <out>
-              <chunk name="nom_verb" case="caseFirstWord">
-                <tags>
-                  <tag><lit-tag v="SV"/></tag>
-                  <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <clip pos="1" side="tl" part="a_nom"/>
-                  <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
-                </lu>
-                <b/>
-                <lu>
-                  <var n="verbfinal"/>
-                  <clip pos="2" side="tl" part="lemq"/>
-                </lu>
-              </chunk>
-            </out>
-          </action>
-        </rule> -->
+    <!-- <rule comment="RULE: ADJ">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="the"/>
+              <lit-tag v="det"/>
+              <lit-tag v="def"/>
+              <lit-tag v="sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule> -->
+
+    <rule comment="RULE: NOM YA ADJ">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="yaconn"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+
+        <out>
+          <chunk name="nom_ya_adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="the"/>
+              <lit-tag v="det"/>
+              <lit-tag v="def"/>
+              <lit-tag v="sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_adj"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+            </lu>
+
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <!--********************************* REGLES DE SV ***************************************************** -->
 
@@ -600,7 +645,7 @@
       </action>
     </rule>
 
-    
+
 
     <rule comment="RULE: NOM VERB">
       <pattern>

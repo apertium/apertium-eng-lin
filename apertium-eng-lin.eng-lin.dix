@@ -163,7 +163,7 @@
      <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- His -->
      <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Hers -->
      <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bísó<s n="prn"/><s n="pos"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Our -->
-     <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>bínó<s n="prn"/><s n="pos"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Yours(pl) -->
+     <!--<e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>bínó<s n="prn"/><s n="pos"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e>--> <!-- Yours(pl) -->
      <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bangó<s n="prn"/><s n="pos"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Their -->
 
 
@@ -1627,7 +1627,7 @@
       <e><p><l>new<s n="adj"/><s n="sint"/></l><r>sika<s n="adj"/></r></p></e>
       <e><p><l>true<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
       <e><p><l>first<s n="adj"/><s n="sint"/></l><r>yambo<s n="adj"/></r></p></e>
-      <e><p><l>close<s n="adj"/></l><r>mpembéni<s n="adj"/></r></p></e>
+      <e><p><l>close<s n="adj"/><s n="sint"/></l><r>mpembéni<s n="adj"/></r></p></e>
       <e><p><l>old<s n="adj"/><s n="sint"/></l><r>kala<s n="adj"/></r></p></e>
       <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>molungé<s n="adj"/></r></p></e>
       <e><p><l>warm<s n="adj"/><s n="sint"/></l><r>molungé<s n="adj"/></r></p></e>
