@@ -1,22 +1,13 @@
 <rules>
-  <!--
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
-    Add your own rules within <rule> here, using the resources below as a guide
-  -->
 
   <rule>
-    <match lemma="wind"/>
+    <match tags="n.*"/>
     <match lemma="power" tags="n.*">
       <select lemma="energía" tags="n.*"/>
     </match>
+    <match tags="n.*"/>
   </rule>
 
-  <rule> <!-- translates 'lobi' to 'tomorrow' if following verb is in future -->
-    <match lemma="lobi" tags="adv.* " >
-      <select lemma="tomorrow" tags="adv.*"/>
-    </match>
-    <match tags="vblex.fut"/>
-  </rule>
 </rules>
 
 <!--

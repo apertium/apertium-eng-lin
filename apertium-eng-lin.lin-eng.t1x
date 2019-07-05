@@ -10,6 +10,10 @@
       <cat-item lemma="ya" tags="conn"/>
     </def-cat>
 
+    <def-cat n="na">
+      <cat-item lemma="na" tags="pr"/>
+    </def-cat>
+
     <def-cat n="kozala">
       <cat-item lemma="kozala" tags="vblex.*"/> <!-- tags should be vaux. more work on CG needed -->
     </def-cat>
@@ -466,6 +470,79 @@
             <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_adj"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+            </lu>
+
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="RULE: NOM NA ADJ"> <!-- old Lingala but still in used in formal literature -->
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="na"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+
+        <out>
+          <chunk name="nom_na_adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="the"/>
+              <lit-tag v="det"/>
+              <lit-tag v="def"/>
+              <lit-tag v="sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_adj"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+            </lu>
+
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="RULE: NOM ADJ">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+
+        <out>
+          <chunk name="nom_adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="the"/>
+              <lit-tag v="det"/>
+              <lit-tag v="def"/>
+              <lit-tag v="sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_adj"/>
             </lu>
             <b/>
             <lu>
