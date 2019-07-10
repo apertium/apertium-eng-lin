@@ -23,6 +23,12 @@
     </match>
   </rule>
 
+  <rule><!-- default case -->
+    <match  lemma="koloba" tags="vblex.*" >
+      <select lemma="say" tags="vblex.*"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!--

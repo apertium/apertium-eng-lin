@@ -121,6 +121,7 @@
     <sdef n="aa" />
     <sdef n="rel" />
     <sdef n="subj"/>
+    <sdef n="caus"           c="Verb causative"/>
 
     <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
@@ -157,16 +158,10 @@
      <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>bínó<s n="prn"/><s n="pos"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Yours(pl) -->
      <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bangó<s n="prn"/><s n="pos"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Theirs -->
 
+     <e><p><l>something<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></l><r>elóko<b/>mókó<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+     <e><p><l>anything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>mókó<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+     <e><p><l>everything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>nyɔ́nsɔ<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
 
-     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ya<b/>ngáí<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- My -->
-     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>yó<s n="prn"/><s n="pos"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Your -->
-     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- His -->
-     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Hers -->
-     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bísó<s n="prn"/><s n="pos"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Our -->
-     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>ya<b/>bangó<s n="prn"/><s n="pos"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Their -->
-
-
-     <e><p><l>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>ya<b/>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="nn"/></r></p></e> <!-- Its -->
      <!-- SECTION: Nouns -->
 
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
@@ -184,7 +179,6 @@
       <e><p><l>just<s n="n"/></l><r>mosémboli<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>judge<s n="n"/></l><r>mobekisi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>husband<s n="n"/></l><r>mobáli<s n="n"/><s n="cl1"/></r></p></e>
-      <e><p><l>man<s n="n"/></l><r>motu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>merchant<s n="n"/></l><r>motɛ́kisi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>mother<s n="n"/></l><r>mobóti<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>mother<b/>in<b/>law<s n="n"/></l><r>mokilo<s n="n"/><s n="cl1"/></r></p></e>
@@ -1384,11 +1378,11 @@
       <e><p><l>love<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
       <e><p><l>want<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
       <e><p><l>desire<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+      <e><p><l>say<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
       <e><p><l>speak<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
       <e><p><l>talk<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
       <e><p><l>whisper<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
-      <e><p><l>tell<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
-      <e><p><l>say<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+      <e><p><l>tell<s n="vblex"/></l><r>koyeba<s n="vblex"/><s n="caus"/></r></p></e>
       <e><p><l>pick<b/>up<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
       <e><p><l>defeat<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
       <e><p><l>win<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
@@ -1700,10 +1694,30 @@
 
       <!-- SECTION: DETERMINER -->
 
+      <e><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>bínó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>yó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>ngáí<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>yé<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>yé<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e><p><l>its<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>yé<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>bísó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>na<b/>bangó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+
+      <e r="LR"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>bínó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>yó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>ngáí<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>yé<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>yé<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>its<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>yé<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>bísó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>bangó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+
+
       <e><p><l>all<s n="predet"/></l><r>nyɔ́nsɔ<s n="det"/></r></p></e>
-      <e><p><l>this<s n="det"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
+      <e><p><l>this<s n="det"/><s n="dem"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
       <e><p><l>that<s n="det"/></l><r>yangó<s n="det"/></r></p></e>   <!-- pron or adj -->
       <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>nini<s n="prn"/><s n="itg"/><s n="itg"/><s n="nn"/></r></p></e>
+      <e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mwá<s n="adj"/></r></p></e>
 
       <!-- SECTION: TODO -->
       <!--
@@ -1717,8 +1731,6 @@
       <e><p><l>although<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>around<s n=""/></l><r>ya<s n=""/></r></p></e>
 
-      <e><p><l>something<s n="prn"/></l><r>elóko<b/>móko<s n=""/></r></p></e>
-      <e><p><l>anything<s n="prn"/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>from<s n="pr"/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>of course<s n="adv"/></l><r>ya<s n=""/></r></p></e>
       -->
