@@ -1535,7 +1535,6 @@
       <e r="LR"><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
-      <e><p><l>only<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
       <e><p><l>once<b/>upon<b/>a<b/>time<s n="adv"/></l><r>kala<s n="adv"/></r></p></e>
       <e><p><l>there<s n="adv"/></l><r>wana<s n="adv"/></r></p></e>
       <e><p><l>moreover<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
@@ -1562,7 +1561,7 @@
       <e><p><l>when<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
       <e><p><l>behind<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
       <e><p><l>so<s n="adv"/></l><r>boyé<s n="adv"/></r></p></e>
-      <e><p><l>under<s n="adv"/></l><r>nsé<s n="adv"/></r></p></e>
+      <e><p><l>under<s n="adv"/></l><r>na<b/>nsé<s n="adv"/></r></p></e>
       <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
@@ -1590,6 +1589,8 @@
       <e><p><l>almost<s n="adv"/></l><r>mbele<s n="adv"/></r></p></e>
       <e><p><l>why<s n="adv"/></l><r>pona<b/>nini<s n="adv"/></r></p></e>
       <e><p><l>how<s n="adv"/></l><r>ndenge<b/>nini<s n="adv"/></r></p></e>
+      <e><p><l>still<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
+      <e><p><l>still<s n="adv"/></l><r>se<s n="adv"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
@@ -1727,7 +1728,6 @@
       <e><p><l>his<s n=""/></l><r>ya<s n=""/></r></p></e>
 
       <e><p><l>then<s n=""/></l><r>ya<s n=""/></r></p></e>
-      <e><p><l>still<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>although<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>around<s n=""/></l><r>ya<s n=""/></r></p></e>
 

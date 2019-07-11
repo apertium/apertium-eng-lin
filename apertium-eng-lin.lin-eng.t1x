@@ -561,6 +561,30 @@
       </action>
     </rule>
 
+    <rule comment="RULE: NOM DET"> <!-- mama na-ye, her mom -->
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="nom_na_det" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <!--********************************* REGLES DE SV ***************************************************** -->
 
@@ -820,7 +844,6 @@
 
       </action>
     </rule>
-
 
 
     <rule comment="RULE: NOM VERB">
