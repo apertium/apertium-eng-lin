@@ -58,6 +58,11 @@
       <cat-item tags="vaux.inf"/>
     </def-cat>
 
+    <def-cat n="aux">
+      <cat-item tags="vaux.*"/>
+    </def-cat>
+
+
     <def-cat n="verbcj">
       <cat-item tags="vblex.*." />
       <cat-item tags="vbser.*." />
@@ -680,45 +685,139 @@
       </action>
     </rule>
 
-    <rule comment="RULE: KOZALA(BE) INF"> <!-- kozala(be) komona(see) -->
+
+    <rule comment="RULE: AUX INF">
       <pattern>
-        <pattern-item n="kozala"/>
-        <pattern-item n="inf"/>
+        <pattern-item n="aux"/>
+        <pattern-item n="verbcj"/>
       </pattern>
       <action>
-        <call-macro n="conj_verb1">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="kozala_inf" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="a_verb"/></tag>
-              <tag><clip pos="1" side="tl" part="a_temps"/></tag>
-              <tag><clip pos="1" side="tl" part="a_pers"/></tag>
-              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
-            </tags>
-            <lu>
-              <lit v="prpers"/>
-              <lit-tag v="prn"/>
-              <lit-tag v="subj"/>
-              <clip pos="1" side="tl" part="a_pers" />
-              <var n="genre"/>
-              <clip pos="1" side="tl" part="a_nbr" />
-            </lu>
-            <b/>
-            <lu>
-      	      <var n="verbfinal"/>
-      	      <clip pos="1" side="tl" part="lemq"/>
-      	    </lu>
-            <b/>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-      	      <lit-tag v="pprs"/>
-            </lu>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="kozala"/>
+              </equal>
+            </test>
+            <call-macro n="conj_verb1">
+              <with-param pos="1"/>
+            </call-macro>
+            <out>
+              <chunk name="kozala_pp" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+                </tags>
+                <lu>
+                  <lit v="prpers"/>
+                  <lit-tag v="prn"/>
+                  <lit-tag v="subj"/>
+                  <clip pos="1" side="tl" part="a_pers" />
+                  <var n="genre"/>
+                  <clip pos="1" side="tl" part="a_nbr" />
+                </lu>
+                <b/>
+                <lu>
+          	      <var n="verbfinal"/>
+          	      <clip pos="1" side="tl" part="lemq"/>
+          	    </lu>
+                <b/>
+                <lu>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+          	      <lit-tag v="pprs"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <choose>
+              <when>
+                <test>
+                  <equal>
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v="kosɛngɛle"/>
+                  </equal>
+                </test>
+                <call-macro n="conj_verb1">
+                  <with-param pos="2"/>
+                </call-macro>
+                <out>
+                  <chunk name="kosengele_inf" case="caseFirstWord">
+                    <tags>
+                      <tag><lit-tag v="SV"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_temps"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_pers"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+                    </tags>
+                    <lu>
+                      <lit v="prpers"/>
+                      <lit-tag v="prn"/>
+                      <lit-tag v="subj"/>
+                      <clip pos="2" side="tl" part="a_pers" />
+                      <var n="genre"/>
+                      <clip pos="2" side="tl" part="a_nbr" />
+                    </lu>
+                    <b/>
+                    <lu>
+              	      <lit v="must"/>
+                      <lit-tag v="vbmod"/>
+              	      <lit-tag v="pres"/>
+              	    </lu>
+                    <b/>
+                    <lu>
+                      <clip pos="2" side="tl" part="lem"/>
+                      <clip pos="2" side="tl" part="a_verb"/>
+              	      <lit-tag v="inf"/>
+                    </lu>
+                  </chunk>
+                </out>
+              </when>
+              <otherwise> <!-- kokoka(can) -->
+                <call-macro n="conj_verb1">
+                  <with-param pos="1"/>
+                </call-macro>
+                <out>
+                  <chunk name="kokoka_inf" case="caseFirstWord">
+                    <tags>
+                      <tag><lit-tag v="SV"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_temps"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_pers"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+                    </tags>
+                    <lu>
+                      <lit v="prpers"/>
+                      <lit-tag v="prn"/>
+                      <lit-tag v="subj"/>
+                      <clip pos="1" side="tl" part="a_pers" />
+                      <var n="genre"/>
+                      <clip pos="1" side="tl" part="a_nbr" />
+                    </lu>
+                    <b/>
+                    <lu>
+                      <lit v="can"/>
+                      <lit-tag v="vbmod"/>
+              	      <lit-tag v="pres"/>
+                    </lu>
+                    <b/>
+                    <lu>
+                      <clip pos="2" side="tl" part="lem"/>
+                      <clip pos="2" side="tl" part="a_verb"/>
+                      <lit-tag v="inf"/>
+                    </lu>
+                  </chunk>
+                </out>
+              </otherwise>
+            </choose>
+          </otherwise>
+        </choose>
+
       </action>
     </rule>
 

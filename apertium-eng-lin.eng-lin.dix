@@ -210,7 +210,6 @@
       <e><p><l>pangan<s n="n"/></l><r>mopǎgánu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>visitor<s n="n"/></l><r>mopaya<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>saint<s n="n"/></l><r>mosántu<s n="n"/><s n="cl1"/></r></p></e>
-      <e><p><l>other<s n="n"/></l><r>mosúsu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>person<s n="n"/></l><r>moto<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>person<s n="n"/></l><r>mutu<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>slave<s n="n"/></l><r>moúmbu<s n="n"/><s n="cl1"/></r></p></e>
@@ -338,9 +337,9 @@
       <e><p><l>river<s n="n"/></l><r>moluka<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>meet<s n="n"/></l><r>molúlú<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>white<b/>man<s n="n"/></l><r>mondélé<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>throat<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>voice<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>sound<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e r="LR"><p><l>throat<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>voice<s n="n"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>east<s n="n"/></l><r>monyɛlɛ<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>torment<s n="n"/></l><r>monyókoli<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>work<s n="n"/></l><r>mosálá<s n="n"/><s n="cl3"/></r></p></e>
@@ -348,7 +347,6 @@
       <e><p><l>far<s n="n"/></l><r>mosíká<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>dowry<s n="n"/></l><r>mosolo<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>money<s n="n"/></l><r>mosolo<s n="n"/><s n="cl3"/></r></p></e>
-      <e><p><l>other<s n="n"/></l><r>mosusu<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>trap<s n="n"/></l><r>motámbo<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>light<s n="n"/></l><r>motáné<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>color<s n="n"/></l><r>motáné<s n="n"/><s n="cl3"/></r></p></e>
@@ -1378,6 +1376,7 @@
       <e><p><l>love<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
       <e><p><l>want<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
       <e><p><l>desire<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+      <e><p><l>like<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
       <e><p><l>say<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
       <e><p><l>speak<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
       <e><p><l>talk<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
@@ -1514,7 +1513,7 @@
       <e><p><l>can<s n="vbmod"/></l><r>kokoka<s n="vaux"/></r></p></e>
       <e><p><l>may<s n="vbmod"/></l><r>kokoka<s n="vaux"/></r></p></e>
       <e><p><l>must<s n="vbmod"/></l><r>kosɛngɛle<s n="vaux"/></r></p></e>
-
+      <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vaux"/></r></p></e>
       <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
       <!-- <e><p><l>have<s n="vbhaver"/></l><r>kozala<s n="vblex"/></r></p></e> -->
       <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vblex"/></r></p></e>
@@ -1532,7 +1531,8 @@
       <e><p><l>permanently<s n="adv"/></l><r>bobele<s n="adv"/></r></p></e>
       <e><p><l>like<b/>this<s n="adv"/></l><r>boye<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>ee<s n="adv"/></r></p></e>
-      <e><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
+      <e><p><l>not<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
+      <e r="LR"><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
       <e><p><l>only<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
@@ -1718,6 +1718,7 @@
       <e><p><l>that<s n="det"/></l><r>yangó<s n="det"/></r></p></e>   <!-- pron or adj -->
       <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>nini<s n="prn"/><s n="itg"/><s n="itg"/><s n="nn"/></r></p></e>
       <e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mwá<s n="adj"/></r></p></e>
+      <e><p><l>other<s n="det"/></l><r>mosúsu<s n="det"/></r></p></e>
 
       <!-- SECTION: TODO -->
       <!--
@@ -1725,7 +1726,6 @@
       <e><p><l>both<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>his<s n=""/></l><r>ya<s n=""/></r></p></e>
 
-      <e><p><l>another<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>then<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>still<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>although<s n=""/></l><r>ya<s n=""/></r></p></e>

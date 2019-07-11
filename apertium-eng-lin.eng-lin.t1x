@@ -233,8 +233,7 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
