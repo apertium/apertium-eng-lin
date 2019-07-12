@@ -1591,6 +1591,8 @@
       <e><p><l>how<s n="adv"/></l><r>ndenge<b/>nini<s n="adv"/></r></p></e>
       <e><p><l>still<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
       <e><p><l>still<s n="adv"/></l><r>se<s n="adv"/></r></p></e>
+      <e><p><l>around<s n="adv"/></l><r>zingazinga<s n="adv"/></r></p></e>
+      <e r="RL"><p><l>around<s n="adv"/></l><r>nzinganzinga<s n="adv"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
@@ -1669,6 +1671,8 @@
       <e><p><l>before<s n="pr"/></l><r>libosó<s n="pr"/></r></p></e>
       <e><p><l>before<s n="pr"/></l><r>yambo<s n="pr"/></r></p></e>
       <e><p><l>of<s n="pr"/></l><r>ya<s n="conn"/></r></p></e>
+      <e><p><l>around<s n="pr"/></l><r>zingazinga<s n="pr"/></r></p></e>
+      <e r="RL"><p><l>around<s n="pr"/></l><r>nzinganzinga<s n="pr"/></r></p></e>
 
       <!-- SECTION: Conjunctions -->
 
@@ -1729,23 +1733,21 @@
 
       <e><p><l>then<s n=""/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>although<s n=""/></l><r>ya<s n=""/></r></p></e>
-      <e><p><l>around<s n=""/></l><r>ya<s n=""/></r></p></e>
-
       <e><p><l>from<s n="pr"/></l><r>ya<s n=""/></r></p></e>
       <e><p><l>of course<s n="adv"/></l><r>ya<s n=""/></r></p></e>
       -->
 
       <!-- Numerals -->
-      <e><p><l>one<s n="num"/></l><r>mókó<s n="num"/></r></p></e>
-      <e><p><l>two<s n="num"/></l><r>míbalé<s n="num"/></r></p></e>
-      <e><p><l>three<s n="num"/></l><r>mísáto<s n="num"/></r></p></e>
-      <e><p><l>four<s n="num"/></l><r>mínei<s n="num"/></r></p></e>
-      <e><p><l>five<s n="num"/></l><r>mítáno<s n="num"/></r></p></e>
-      <e><p><l>six<s n="num"/></l><r>motóbá<s n="num"/></r></p></e>
-      <e><p><l>seven<s n="det"/></l><r>sambo<s n="num"/></r></p></e>
-      <e><p><l>eight<s n="num"/></l><r>mwambe<s n="num"/></r></p></e>
-      <e><p><l>nine<s n="num"/></l><r>libwá<s n="num"/></r></p></e>
-      <e><p><l>ten<s n="num"/></l><r>zómi<s n="num"/></r></p></e>
+      <e><p><l>one<s n="num"/><s n="sg"/></l><r>mókó<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>two<s n="num"/><s n="pl"/></l><r>míbalé<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>three<s n="num"/><s n="pl"/></l><r>mísáto<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>four<s n="num"/><s n="pl"/></l><r>mínei<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>five<s n="num"/><s n="pl"/></l><r>mítáno<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>six<s n="num"/><s n="pl"/></l><r>motóbá<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>seven<s n="num"/><s n="pl"/></l><r>sambo<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>eight<s n="num"/><s n="pl"/></l><r>mwambe<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>nine<s n="num"/><s n="pl"/></l><r>libwá<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>ten<s n="num"/><s n="pl"/></l><r>zómi<s n="num"/><s n="ord"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>

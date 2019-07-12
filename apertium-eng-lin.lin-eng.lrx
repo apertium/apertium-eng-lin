@@ -1,4 +1,5 @@
 <rules>
+  <!-- LIN-ENG -->
 
   <!--  translates 'na' to 'of' if it's between 2 nouns -->
   <rule>
@@ -27,6 +28,13 @@
     <match  lemma="koloba" tags="vblex.*" >
       <select lemma="say" tags="vblex.*"/>
     </match>
+  </rule>
+
+  <rule> <!-- selecting 'year' when 'mbula' is followed by a numeral -->
+    <match lemma="mbula" tags="n.*">
+      <select lemma="year" tags="n.*"/>
+    </match>
+    <match tags="num.*"/>
   </rule>
 
 </rules>

@@ -14,6 +14,11 @@
       <cat-item lemma="na" tags="pr"/>
     </def-cat>
 
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
+      <cat-item tags="num"/>
+    </def-cat>
+
     <def-cat n="kozala">
       <cat-item lemma="kozala" tags="vblex.*"/> <!-- tags should be vaux. more work on CG needed -->
     </def-cat>
@@ -451,7 +456,7 @@
       </action>
     </rule> -->
 
-    <rule comment="RULE: NOM YA ADJ">
+    <rule comment="RULE: NOM YA ADJ"> <!-- ndako ya pembe -> the white house -->
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="yaconn"/>
@@ -560,6 +565,42 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="RULE: NOM NUM">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+
+        <out>
+          <chunk name="nom_num" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="the"/>
+              <lit-tag v="det"/>
+              <lit-tag v="def"/>
+              <lit-tag v="sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+            </lu>
+
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="RULE: NOM DET"> <!-- mama na-ye, her mom -->
       <pattern>
