@@ -47,8 +47,7 @@
       </action>
     </rule>
 
-    <!-- <rule comment="REGLA: SN SV"> for removing pers pronouns before SV
-
+    <!-- <rule comment="REGLA: SN SV">
       <pattern>
         <pattern-item n="SN"/>
         <pattern-item n="SV"/>

@@ -10,11 +10,15 @@
     <match tags="n.*"/>
   </rule>
 
-  <rule> <!-- translates 'lobi' to 'tomorrow' if the following verb is in future -->
-    <match lemma="lobi" tags="n.* " >
-      <select lemma="tomorrow" tags="n.*"/>
+  <rule> <!-- translates 'lobi' to 'yesterday' if the following verb is in past -->
+    <match lemma="lobi" tags="adv" >
+      <select lemma="yesterday" tags="adv"/>
     </match>
-    <match tags="vblex.fut.*"/>
+    <or>
+      <match tags="vblex.past.*" />
+	    <match tags="vblex.dpres.*" />
+	    <match tags="vblex.urp.*" />
+    </or>
   </rule>
 
   <rule> <!--  ndako na ngai -> house my(rather than house mine) -->
@@ -31,10 +35,37 @@
   </rule>
 
   <rule> <!-- selecting 'year' when 'mbula' is followed by a numeral -->
-    <match lemma="mbula" tags="n.*">
+    <match lemma="mbúla" tags="n.*">
       <select lemma="year" tags="n.*"/>
     </match>
     <match tags="num.*"/>
+  </rule>
+
+  <rule> <!--(not working) selecting 'also' as adv when 'mpe(and)' follows a verb. Very common in Lingala writings -->
+    <match tags="vblex.*"/>
+    <match lemma="mpé">
+      <select lemma="also" tags="adv"/>
+    </match>
+  </rule>
+
+  <rule> <!-- selecting the preposition 'with' when 'na' is followed by a np -->
+    <match lemma="na" tags="*">
+      <select lemma="with" tags="pr"/>
+    </match>
+    <match tags="np.*"/>
+  </rule>
+
+  <rule> <!-- (not working) 'ya' followed by an adv changes it to a adj-->
+    <match lemma="ya" tags="conn"/>
+    <match lemma="kala">
+      <select lemma="old" tags="adj.*"/>
+    </match>
+  </rule>
+
+  <rule> <!-- default form of 'kosala(do)'-->
+    <match lemma="kosála">
+      <select lemma="do" tags="vblex.*"/>
+    </match>
   </rule>
 
 </rules>

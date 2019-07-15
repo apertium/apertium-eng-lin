@@ -161,7 +161,7 @@
      <e><p><l>something<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></l><r>elóko<b/>mókó<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
      <e><p><l>anything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>mókó<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
      <e><p><l>everything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>nyɔ́nsɔ<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
-
+     <e><p><l>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>yangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="nn"/></r></p></e>   <!-- pron or adj -->
      <!-- SECTION: Nouns -->
 
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
@@ -222,7 +222,7 @@
       <e><p><l>throne<s n="n"/></l><r>kíti<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>grandparent<s n="n"/></l><r>kóko<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>broom<s n="n"/></l><r>kómbo<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>mom<s n="n"/></l><r>mama<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>mother<s n="n"/></l><r>mama<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>guard<s n="n"/></l><r>mbuta<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>house<s n="n"/></l><r>ndako<s n="n"/><s n="cl1a"/></r></p></e>
@@ -321,6 +321,7 @@
       <e><p><l>law<s n="n"/></l><r>mobeko<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>command<s n="n"/></l><r>mobeko<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>year<s n="n"/></l><r>mobú<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>year<s n="n"/></l><r>mbúla<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>disorder<s n="n"/></l><r>mobúlú<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>book<s n="n"/></l><r>mokandá<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>commitment<s n="n"/></l><r>mokano<s n="n"/><s n="cl3"/></r></p></e>
@@ -685,7 +686,7 @@
       <e><p><l>lip<s n="n"/></l><r>lobebo<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>life<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>existence<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
-      <e><p><l>arm<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e>
+      <e r="LR"><p><l>arm<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e> <!--- 'loboko' rarely translates to 'arm' -->
       <e><p><l>hand<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>vanity<s n="n"/></l><r>lofundu<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>leaf<s n="n"/></l><r>lokásá<s n="n"/><s n="cl11"/></r></p></e>
@@ -1550,7 +1551,7 @@
       <e><p><l>quickly<s n="adv"/></l><r>noki<s n="adv"/></r></p></e>
       <e><p><l>immediately<s n="adv"/></l><r>noki<s n="adv"/></r></p></e>
       <e><p><l>slowly<s n="adv"/></l><r>malembe<s n="adv"/></r></p></e>
-      <e><p><l>however<s n="adv"/></l><r>kasi<s n="adv"/></r></p></e>
+      <e r="LR"><p><l>however<s n="adv"/></l><r>kasi<s n="adv"/></r></p></e>
       <e><p><l>very<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
       <e><p><l>really<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
       <e><p><l>very<b/>close<s n="adv"/></l><r>penepene<s n="adv"/></r></p></e>
@@ -1564,7 +1565,7 @@
       <e><p><l>under<s n="adv"/></l><r>na<b/>nsé<s n="adv"/></r></p></e>
       <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
-      <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
+      <!-- <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e> -->
       <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
       <e><p><l>very<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
       <e><p><l>outside<s n="adv"/></l><r>libándá<s n="adv"/></r></p></e>
@@ -1587,7 +1588,7 @@
       <e><p><l>often<s n="adv"/></l><r>mbala<b/>míngi<s n="adv"/></r></p></e>
       <e><p><l>daily<s n="adv"/></l><r>ntóngó<b/>nyɔ́nsɔ<s n="adv"/></r></p></e>
       <e><p><l>almost<s n="adv"/></l><r>mbele<s n="adv"/></r></p></e>
-      <e><p><l>why<s n="adv"/></l><r>pona<b/>nini<s n="adv"/></r></p></e>
+      <e><p><l>why<s n="adv"/><s n="itg"/></l><r>pona<b/>nini<s n="adv"/></r></p></e>
       <e><p><l>how<s n="adv"/></l><r>ndenge<b/>nini<s n="adv"/></r></p></e>
       <e><p><l>still<s n="adv"/></l><r>káka<s n="adv"/></r></p></e>
       <e><p><l>still<s n="adv"/></l><r>se<s n="adv"/></r></p></e>
@@ -1660,7 +1661,7 @@
       <e><p><l>to<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>na<s n="pr"/></r></p></e> <!-- 'na' has many transations. more rules will be added later -->
       <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
-      <e><p><l>inside<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
+      <e><p><l>inside<s n="pr"/></l><r>na<b/>káti<s n="pr"/></r></p></e>
       <e><p><l>between<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
       <e><p><l>like<s n="pr"/></l><r>lokóla<s n="pr"/></r></p></e>
       <e><p><l>as<s n="pr"/></l><r>lokóla<s n="pr"/></r></p></e>
@@ -1679,8 +1680,8 @@
       <e><p><l>so<s n="adv"/></l><r>bongo<s n="cnjcoo"/></r></p></e>
       <e><p><l>but<s n="cnjcoo"/></l><r>kasi<s n="cnjcoo"/></r></p></e>
       <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
-      <e><p><l>and<s n="adv"/></l><r>pé<s n="cnjcoo"/></r></p></e>
-      <e><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
+      <e><p><l>and<s n="cnjcoo"/></l><r>pé<s n="cnjcoo"/></r></p></e>
+      <e r="LR"><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>until<s n="adv"/></l><r>tii<s n="cnjcoo"/></r></p></e>
       <e><p><l>été<s n="adv"/></l><r>that<s n="cnjcoo"/></r></p></e>
@@ -1720,8 +1721,7 @@
 
       <e><p><l>all<s n="predet"/></l><r>nyɔ́nsɔ<s n="det"/></r></p></e>
       <e><p><l>this<s n="det"/><s n="dem"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
-      <e><p><l>that<s n="det"/></l><r>yangó<s n="det"/></r></p></e>   <!-- pron or adj -->
-      <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>nini<s n="prn"/><s n="itg"/><s n="itg"/><s n="nn"/></r></p></e>
+      <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>níni<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/></r></p></e>
       <e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mwá<s n="adj"/></r></p></e>
       <e><p><l>other<s n="det"/></l><r>mosúsu<s n="det"/></r></p></e>
 
