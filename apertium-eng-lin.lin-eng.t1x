@@ -10,6 +10,10 @@
       <cat-item lemma="ya" tags="conn"/>
     </def-cat>
 
+    <def-cat n="mbula">
+      <cat-item lemma="mbúla" tags="n.*"/>
+    </def-cat>
+
     <def-cat n="na">
       <cat-item lemma="na" tags="pr"/>
     </def-cat>
@@ -90,6 +94,11 @@
       <attr-item tags="np.cog"/>
       <attr-item tags="np.al"/>
       <attr-item tags="adv"/>
+    </def-attr>
+
+    <def-attr n="a_np_acr">
+      <attr-item tags="np"/>
+      <attr-item tags="acr"/>
     </def-attr>
 
     <def-attr n="a_verb">
@@ -181,8 +190,22 @@
     <def-var n="temps_chunk"/>
     <def-var n="nbr_chunk"/>
     <def-var n="pers_chunk"/>
+    <def-var n="EOS"/>
+    <def-var n="caseFirstWord"/>
     <def-var n="verbfinal"/>
   </section-def-vars>
+
+  <section-def-lists>
+    <def-list n="en_majuscules">
+      <list-item v="Mokɔlɔ ya libosó"/>
+      <list-item v="Mokɔlɔ ya míbalé"/>
+      <list-item v="Mokɔlɔ ya mísáto"/>
+      <list-item v="Mokɔlɔ ya mínei"/>
+      <list-item v="Mokɔlɔ ya mítáno"/>
+      <list-item v="Pɔsɔ"/>
+      <list-item v="Eyenga"/>
+    </def-list>
+  </section-def-lists>
 
   <section-def-macros>
 
@@ -397,6 +420,55 @@
       </choose>
     </def-macro>
 
+    <!-- <def-macro n="firstWord" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <var n="EOS"/>
+              <lit v="true"/>
+            </equal>
+          </test>
+      	  <choose>
+      	    <when>
+      	      <test>
+    		        <and>
+  		            <equal>
+                      <clip pos="1" side="sl" part="a_np_acr"/>
+    		              <lit v=""/>
+	                </equal>
+    		          <not>
+    		            <in>
+    		              <clip pos="1" side="tl" part="lem"/>
+    		              <list n="en_majuscules"/>
+    		            </in>
+    		          </not>
+    		        </and>
+      	      </test>
+      	      <modify-case>
+    		        <clip pos="1" side="tl" part="lem"/>
+  		          <lit v="aa"/>
+      	      </modify-case>
+      	    </when>
+      	  </choose>
+      	  <let>
+      	    <var n="caseFirstWord"/>
+      	    <lit v="Aa"/>
+      	  </let>
+      	</when>
+      	<otherwise>
+      	  <let>
+      	    <var n="caseFirstWord"/>
+      	    <lit v="aa"/>
+      	  </let>
+	       </otherwise>
+      </choose>
+      <let>
+       <var n="EOS"/>
+       <lit v="false"/>
+      </let>
+    </def-macro> -->
+
   </section-def-macros>
 
   <section-rules>
@@ -409,6 +481,9 @@
         <pattern-item n="nomcomu"/>
       </pattern>
       <action>
+        <!-- <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro> -->
         <out>
           <chunk name="nomcomu" case="caseFirstWord">
             <tags>
@@ -566,7 +641,7 @@
       </action>
     </rule>
 
-    <rule comment="RULE: NOM NUM">
+    <rule comment="RULE: NOM NUM"> <!-- ndako mibale -> two houses (this can go into t2x)-->
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="num"/>
@@ -601,6 +676,36 @@
       </action>
     </rule>
 
+    <rule comment="RULE: NA MBULA NUM"> <!-- na mbula mibale -> two years old -->
+      <pattern>
+        <pattern-item n="na"/>
+        <pattern-item n="mbula"/>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="na_mbula_num" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="old"/>
+              <lit-tag v="adj.sint"/>
+            </lu>
+
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="RULE: NOM DET"> <!-- mama na-ye, her mom -->
       <pattern>
@@ -896,24 +1001,70 @@
         <call-macro n="conj_verb1">
           <with-param pos="2"/>
         </call-macro>
-        <out>
-          <chunk name="nom_verb" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
-            </lu>
-            <b/>
-            <lu>
-              <var n="verbfinal"/>
-      	      <clip pos="2" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
+        <!-- <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro> -->
+        <choose>
+          <when>
+            <test>
+              <or>
+                <equal>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <lit-tag v="np.ant"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <lit-tag v="np.top"/>
+                </equal>
+              </or>
+            </test>
+            <out>
+              <chunk name="np_verb" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+                </lu>
+                <b/>
+                <lu>
+                  <var n="verbfinal"/>
+          	      <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk name="nom_verb" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+                </tags>
+                <lu>
+                  <lit v="the"/>
+                  <lit-tag v="det"/>
+                  <lit-tag v="def"/>
+                  <lit-tag v="sp"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+                </lu>
+                <b/>
+                <lu>
+                  <var n="verbfinal"/>
+          	      <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
       </action>
     </rule>
 
