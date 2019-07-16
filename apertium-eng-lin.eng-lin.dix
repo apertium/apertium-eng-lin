@@ -161,7 +161,8 @@
      <e><p><l>something<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></l><r>elóko<b/>mókó<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
      <e><p><l>anything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>mókó<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
      <e><p><l>everything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>nyɔ́nsɔ<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
-     <e><p><l>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>yangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="nn"/></r></p></e>   <!-- pron or adj -->
+     <e><p><l>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>yangó<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yangó<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nn"/></r></p></e> <!-- it(obj) -->
      <!-- SECTION: Nouns -->
 
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
@@ -790,7 +791,7 @@
       <e><p><l>India<s n="np"/></l><r>India<s n="np"/></r></p></e>
       <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/></r></p></e>
       <e><p><l>Jake<s n="np"/></l><r>Jake<s n="np"/></r></p></e>
-      <e><p><l>Joseph<s n="np"/></l><r>Joseph<s n="np"/></r></p></e>
+      <e r="RL"><p><l>Joseph<s n="np"/></l><r>Joseph<s n="np"/></r></p></e>
       <e><p><l>Joseph<s n="np"/></l><r>Jozef<s n="np"/></r></p></e>
       <e><p><l>Kabila<s n="np"/></l><r>Kabila<s n="np"/></r></p></e>
       <e><p><l>Katanga<s n="np"/></l><r>Katanga<s n="np"/></r></p></e>
@@ -807,7 +808,7 @@
       <e><p><l>France<s n="np"/></l><r>Lifalansé<s n="np"/></r></p></e>
       <e><p><l>Lingala<s n="np"/></l><r>Lingála<s n="np"/></r></p></e>
       <e><p><l>Luanda<s n="np"/></l><r>Luanda<s n="np"/></r></p></e>
-      <e><p><l>Mary<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
+      <e><p><l>Marie<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
       <e><p><l>Zechariah<s n="np"/></l><r>Zakariya<s n="np"/></r></p></e>
       <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
       <e><p><l>Matt<s n="np"/></l><r>Mat<s n="np"/></r></p></e>
@@ -1516,7 +1517,7 @@
       <e><p><l>must<s n="vbmod"/></l><r>kosɛngɛle<s n="vaux"/></r></p></e>
       <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vaux"/></r></p></e>
       <!-- 'be' and 'have' are translated as kozala, and kozala na, respectively. 'na' is the connective -->
-      <!-- <e><p><l>have<s n="vbhaver"/></l><r>kozala<s n="vblex"/></r></p></e> -->
+      <e r="LR"><p><l>have<s n="vbhaver"/></l><r>kozala<s n="vblex"/></r></p></e>
       <e><p><l>be<s n="vbser"/></l><r>kozala<s n="vblex"/></r></p></e>
       <e><p><l>go<s n="vblex"/></l><r>kokɛndɛ<s n="vblex"/></r></p></e>
 

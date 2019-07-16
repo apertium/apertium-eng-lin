@@ -76,7 +76,7 @@
       <cat-item tags="vblex.*." />
       <cat-item tags="vbser.*." />
       <cat-item tags="vbhaver.*." />
-  </def-cat>
+    </def-cat>
 
     <def-cat n="sent">
       <cat-item tags="sent"/>
