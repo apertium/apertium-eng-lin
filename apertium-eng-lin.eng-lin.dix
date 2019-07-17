@@ -809,6 +809,7 @@
       <e><p><l>Lingala<s n="np"/></l><r>Lingála<s n="np"/></r></p></e>
       <e><p><l>Luanda<s n="np"/></l><r>Luanda<s n="np"/></r></p></e>
       <e><p><l>Marie<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
+      <e><p><l>Mary<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
       <e><p><l>Zechariah<s n="np"/></l><r>Zakariya<s n="np"/></r></p></e>
       <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
       <e><p><l>Matt<s n="np"/></l><r>Mat<s n="np"/></r></p></e>
@@ -1692,11 +1693,11 @@
       <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Connectives -->
-
-      <e><p><l>the<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>of<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <!--<e><p><l></l><r>o<s n="conn"/></r></p></e> Error, the left side of an entry is left empty-->
+      <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r></r></p></e>
+      <e r="LR"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r></r></p></e>
 
 
       <!-- SECTION: DETERMINER -->

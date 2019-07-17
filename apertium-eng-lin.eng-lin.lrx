@@ -8,6 +8,12 @@
     <match tags="n.*"/>
   </rule>
 
+  <rule> <!-- default translation of cold -->
+    <match lemma="cold" tags="adj.*">
+      <select lemma="malílí" tags="adj"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!--
