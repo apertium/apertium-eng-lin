@@ -76,7 +76,6 @@
     <def-cat n="det">
       <cat-item tags="det.dem.*"/>
       <cat-item tags="det.ind.*"/>
-      <cat-item tags="det.def.*"/>
       <cat-item tags="det.pos.*"/>
       <cat-item tags="det.qnt.*"/>
       <cat-item tags="det.itg.*"/>

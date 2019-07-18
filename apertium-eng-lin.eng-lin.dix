@@ -494,7 +494,7 @@
       <e><p><l>earth<s n="n"/></l><r>mabele<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>oil<s n="n"/></l><r>mafúta<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>perfume<s n="n"/></l><r>malási<s n="n"/><s n="cl5"/></r></p></e>
-      <e><p><l>water<s n="n"/></l><r>maí<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>water<s n="n"/><s n="sg"/></l><r>maí<s n="n"/><s n="cl5"/><s n="pl"/></r></p></e>
       <e><p><l>blood<s n="n"/></l><r>makilá<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>equator<s n="n"/></l><r>mambénga<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>vaccine<s n="n"/></l><r>mangwele<s n="n"/><s n="cl5"/></r></p></e>
@@ -808,7 +808,7 @@
       <e><p><l>France<s n="np"/></l><r>Lifalansé<s n="np"/></r></p></e>
       <e><p><l>Lingala<s n="np"/></l><r>Lingála<s n="np"/></r></p></e>
       <e><p><l>Luanda<s n="np"/></l><r>Luanda<s n="np"/></r></p></e>
-      <e><p><l>Marie<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
+      <e r="LR"><p><l>Marie<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
       <e><p><l>Mary<s n="np"/></l><r>Mariya<s n="np"/></r></p></e>
       <e><p><l>Zechariah<s n="np"/></l><r>Zakariya<s n="np"/></r></p></e>
       <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
