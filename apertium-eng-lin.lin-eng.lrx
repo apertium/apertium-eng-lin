@@ -41,15 +41,15 @@
     <match tags="num.*"/>
   </rule>
 
-  <rule>
+  <rule> <!-- default translation of mmpé-->
     <match lemma="mpé">
       <select lemma="and" tags="cnjcoo"/>
     </match>
   </rule>
 
-  <rule> <!--(not working) selecting 'also' as adv when 'mpe(and)' follows a verb. Very common in Lingala writings -->
+  <rule> <!-- selecting 'also' as adv when 'mpe(and)' follows a verb. Very common in Lingala writings -->
     <match tags="vblex.*"/>
-    <match lemma="mpé">
+    <match lemma="mpé" tags="*">
       <select lemma="also" tags="adv"/>
     </match>
   </rule>
