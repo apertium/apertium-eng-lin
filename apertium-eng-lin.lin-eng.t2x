@@ -10,6 +10,10 @@
       <cat-item tags="SV.*"/>
     </def-cat>
 
+    <def-cat n="negacio"><!-- BCN-->
+      <cat-item tags="SN.DET.*.*.negacio"/>
+    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>

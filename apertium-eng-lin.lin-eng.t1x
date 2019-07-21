@@ -516,7 +516,9 @@
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <lit v="the"/>
+              <get-case-from pos="1">
+                <lit v="the"/>
+              </get-case-from>
               <lit-tag v="det"/>
               <lit-tag v="def"/>
               <lit-tag v="sp"/>
@@ -571,7 +573,9 @@
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <lit v="the"/>
+              <get-case-from pos="1">
+                <lit v="the"/>
+              </get-case-from>
               <lit-tag v="det"/>
               <lit-tag v="def"/>
               <lit-tag v="sp"/>
@@ -608,7 +612,9 @@
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <lit v="the"/>
+              <get-case-from pos="1">
+                <lit v="the"/>
+              </get-case-from>
               <lit-tag v="det"/>
               <lit-tag v="def"/>
               <lit-tag v="sp"/>
@@ -644,7 +650,9 @@
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <lit v="the"/>
+              <get-case-from pos="1">
+                <lit v="the"/>
+              </get-case-from>
               <lit-tag v="det"/>
               <lit-tag v="def"/>
               <lit-tag v="sp"/>
@@ -680,7 +688,9 @@
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <lit v="the"/>
+              <get-case-from pos="1">
+                <lit v="the"/>
+              </get-case-from>
               <lit-tag v="det"/>
               <lit-tag v="def"/>
               <lit-tag v="sp"/>
@@ -793,7 +803,9 @@
           	      <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                 </tags>
                 <lu>
-                  <lit v="prpers"/>
+                  <get-case-from pos="1">
+                    <lit v="prpers"/>
+                  </get-case-from>
                   <lit-tag v="prn"/>
                   <lit-tag v="subj"/>
                   <clip pos="1" side="tl" part="a_pers" />
@@ -827,7 +839,9 @@
           	      <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                 </tags>
                 <lu>
-                  <lit v="prpers"/>
+                  <get-case-from pos="1">
+                    <lit v="prpers"/>
+                  </get-case-from>
                   <lit-tag v="prn"/>
                   <lit-tag v="subj"/>
                   <clip pos="1" side="tl" part="a_pers" />
@@ -865,7 +879,9 @@
                   <tag><clip pos="1" side="sl" part="a_temps"/></tag>
                 </tags>
                 <lu>
-                  <lit v="to"/>
+                  <get-case-from pos="1">
+                    <lit v="to"/>
+                  </get-case-from>
                   <lit-tag v="pr"/>
                 </lu>
                 <b/>
@@ -908,7 +924,9 @@
                   <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                 </tags>
                 <lu>
-                  <lit v="prpers"/>
+                  <get-case-from pos="1">
+                    <lit v="prpers"/>
+                  </get-case-from>
                   <lit-tag v="prn"/>
                   <lit-tag v="subj"/>
                   <clip pos="1" side="tl" part="a_pers" />
@@ -1070,7 +1088,9 @@
                   <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                 </tags>
                 <lu>
-                  <lit v="the"/>
+                  <get-case-from pos="1">
+                    <lit v="the"/>
+                  </get-case-from>
                   <lit-tag v="det"/>
                   <lit-tag v="def"/>
                   <lit-tag v="sp"/>
