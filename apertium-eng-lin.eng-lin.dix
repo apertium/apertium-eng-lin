@@ -226,7 +226,7 @@
       <e><p><l>mother<s n="n"/></l><r>mama<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>guard<s n="n"/></l><r>mbuta<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>house<s n="n"/></l><r>ndako<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>house<s n="n"/></l><r>ndáko<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>sibling<s n="n"/></l><r>ndeko<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>crocodile<s n="n"/></l><r>ngando<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>controller<s n="n"/></l><r>ngando<s n="n"/><s n="cl1a"/></r></p></e>
@@ -1538,7 +1538,7 @@
       <e r="LR"><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
-      <e><p><l>once<b/>upon<b/>a<b/>time<s n="adv"/></l><r>kala<s n="adv"/></r></p></e>
+      <!-- <e><p><l>once<b/>upon<b/>a<b/>time<s n="adv"/></l><r>kala<s n="adv"/></r></p></e> -->
       <e><p><l>there<s n="adv"/></l><r>wana<s n="adv"/></r></p></e>
       <e><p><l>moreover<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
       <e><p><l>rather<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
@@ -1721,7 +1721,7 @@
       <e r="LR"><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>ya<b/>bangó<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
 
 
-      <e><p><l>all<s n="predet"/></l><r>nyɔ́nsɔ<s n="det"/></r></p></e>
+      <e><p><l>all<s n="det"/><s n="qnt"/><s n="pl"/></l><r>nyɔ́nsɔ<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>this<s n="det"/><s n="dem"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
       <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>níni<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/></r></p></e>
       <e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mwá<s n="adj"/></r></p></e>

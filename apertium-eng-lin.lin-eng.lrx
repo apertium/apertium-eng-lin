@@ -61,16 +61,18 @@
     <match tags="np.*"/>
   </rule>
 
-  <rule> <!-- (not working) 'ya' followed by an adv changes it to a adj-->
-    <match lemma="ya" tags="conn"/>
-    <match lemma="kala">
-      <select lemma="old" tags="adj.*"/>
-    </match>
-  </rule>
+
 
   <rule> <!-- default form of 'kosala(do)'-->
     <match lemma="kosála">
       <select lemma="do" tags="vblex.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="ya" tags="conn"/>
+    <match lemma="kala">
+      <select lemma="old" tags="adj.*"/>
     </match>
   </rule>
 
