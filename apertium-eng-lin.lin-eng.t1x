@@ -321,6 +321,10 @@
               <lit-tag v="pres"/>
             </equal>
           </test>
+          <modify-case>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="aa"/>
+          </modify-case>
           <let>
             <var n="temps_chunk"/>
             <lit-tag v="pres"/>
@@ -414,6 +418,10 @@
               </equal>
             </or>
           </test>
+          <modify-case>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="aa"/>
+          </modify-case>
           <let>
             <var n="temps_chunk"/>
             <lit-tag v="past"/>
@@ -422,7 +430,7 @@
             <when> <!-- be, p1 or p3, sg or sp -->
               <test>
                 <and>
-                  <equal>
+                  <equal caseless="yes">
                     <clip pos="1" side="tl" part="lem"/>
                     <lit v="be"/>
                   </equal>
@@ -707,32 +715,6 @@
      </action>
     </rule>
 
-    <!-- <rule comment="RULE: ADJ">
-      <pattern>
-        <pattern-item n="adj"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="adj" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
-            </tags>
-            <lu>
-              <lit v="the"/>
-              <lit-tag v="det"/>
-              <lit-tag v="def"/>
-              <lit-tag v="sp"/>
-            </lu>
-            <b/>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule> -->
-
     <rule comment="RULE: NOM YA ADJ"> <!-- ndako ya pembe -> the white house -->
       <pattern>
         <pattern-item n="nom"/>
@@ -998,9 +980,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="conj_verb1">
-          <with-param pos="1"/>
-        </call-macro>
         <choose>
           <!-- PRS, PAST -->
           <when>
@@ -1016,6 +995,9 @@
                 </equal>
               </or>
             </test>
+            <call-macro n="conj_verb1">
+              <with-param pos="1"/>
+            </call-macro>
             <out>
               <chunk name="lemma_verb_pres" case="caseFirstWord">
                 <tags>
@@ -1052,6 +1034,9 @@
                 <lit-tag v="fut"/>
               </equal>
             </test>
+            <call-macro n="conj_verb1">
+              <with-param pos="1"/>
+            </call-macro>
             <out>
               <chunk name="lemma_verb_fut" case="caseFirstWord">
                 <tags>
@@ -1131,7 +1116,7 @@
         <choose>
           <when>
             <test>
-              <equal>
+              <equal caseless="yes">
                 <clip pos="1" side="sl" part="lem"/>
                 <lit v="kozala"/>
               </equal>
@@ -1176,7 +1161,7 @@
             <choose>
               <when>
                 <test>
-                  <equal>
+                  <equal caseless="yes">
                     <clip pos="1" side="sl" part="lem"/>
                     <lit v="kosɛngɛle"/>
                   </equal>
@@ -1194,7 +1179,9 @@
                       <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                     </tags>
                     <lu>
-                      <lit v="prpers"/>
+                      <get-case-from pos="1">
+                        <lit v="prpers"/>
+                      </get-case-from>
                       <lit-tag v="prn"/>
                       <lit-tag v="subj"/>
                       <clip pos="2" side="tl" part="a_pers" />
@@ -1230,7 +1217,9 @@
                       <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                     </tags>
                     <lu>
-                      <lit v="prpers"/>
+                      <get-case-from pos="1">
+                        <lit v="prpers"/>
+                      </get-case-from>
                       <lit-tag v="prn"/>
                       <lit-tag v="subj"/>
                       <clip pos="1" side="tl" part="a_pers" />
@@ -1330,21 +1319,7 @@
       </action>
     </rule>
 
-    <!-- <rule comment="RULE: INF">
-      <pattern>
-        <pattern-item n="inf"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="to_verb" case="caseFirstWord">
-            <lu>
-              <clip pos="2" side="tl" part="" />
-              <clip pos="1" side="" part="a_temps"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule> -->
+    <!-- <rule comment="RULE: VERB VERB"> -->
 
     <rule comment="RULE: SENT">
       <pattern>
