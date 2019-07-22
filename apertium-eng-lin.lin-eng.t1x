@@ -562,9 +562,9 @@
              <var n="article"/>
              <concat>
                  <lit v="^"/>
+                 <get-case-from pos="1">
                    <lit v="the"/>
-                 <!--<get-case-from pos="1">
-                 </get-case-from> -->
+                 </get-case-from>
                  <lit-tag v="det.def"/>
                  <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
                  <lit v="$ "/>
@@ -740,6 +740,9 @@
         <pattern-item n="adj"/>
       </pattern>
       <action>
+        <call-macro n="nom_article1">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
@@ -749,15 +752,7 @@
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
-            <lu>
-              <get-case-from pos="1">
-                <lit v="the"/>
-              </get-case-from>
-              <lit-tag v="det"/>
-              <lit-tag v="def"/>
-              <lit-tag v="sp"/>
-            </lu>
-            <b/>
+            <var n="article"/>
             <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_adj"/>
@@ -861,6 +856,9 @@
         <pattern-item n="num"/>
       </pattern>
       <action>
+        <call-macro n="nom_article1">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
@@ -870,15 +868,7 @@
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
-            <lu>
-              <get-case-from pos="1">
-                <lit v="the"/>
-              </get-case-from>
-              <lit-tag v="det"/>
-              <lit-tag v="def"/>
-              <lit-tag v="sp"/>
-            </lu>
-            <b/>
+            <var n="article"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
@@ -964,23 +954,19 @@
         <pattern-item n="adj"/>
       </pattern>
       <action>
+        <call-macro n="nom_article1">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="nom_adj_ya_adj" case="caseFirstWord">
+          <chunk name="det_nom_adj_ya_adj" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
-            <lu>
-              <get-case-from pos="1">
-                <lit v="the"/>
-              </get-case-from>
-              <lit-tag v="det"/>
-              <lit-tag v="def"/>
-              <lit-tag v="sp"/>
-            </lu>
+            <var n="article"/>
             <b/>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
@@ -1133,7 +1119,6 @@
       </action>
     </rule>
 
-
     <rule comment="RULE: AUX INF">
       <pattern>
         <pattern-item n="aux"/>
@@ -1274,13 +1259,15 @@
       </action>
     </rule>
 
-
     <rule comment="RULE: NOM VERB">
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="verbcj"/>
       </pattern>
       <action>
+        <call-macro n="nom_article1">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="conj_verb1">
           <with-param pos="2"/>
         </call-macro>
@@ -1290,27 +1277,25 @@
         <choose>
           <when>
             <test>
-              <or>
+              <not>
                 <equal>
-                  <clip pos="1" side="tl" part="a_nom"/>
-                  <lit-tag v="np.ant"/>
+                  <var n="article"/>
+                  <lit v=""/>
                 </equal>
-                <equal>
-                  <clip pos="1" side="tl" part="a_nom"/>
-                  <lit-tag v="np.top"/>
-                </equal>
-              </or>
+              </not>
             </test>
             <out>
-              <chunk name="np_verb" case="caseFirstWord">
+              <chunk name="det_nom_verb" case="caseFirstWord">
                 <tags>
                   <tag><lit-tag v="SV"/></tag>
                   <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                 </tags>
+                <var n="article"/>
                 <lu>
-                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_nom"/>
                   <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+                  <clip pos="1" side="tl" part="lemq"/>
                 </lu>
                 <b/>
                 <lu>
@@ -1328,18 +1313,10 @@
                   <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
                 </tags>
                 <lu>
-                  <get-case-from pos="1">
-                    <lit v="the"/>
-                  </get-case-from>
-                  <lit-tag v="det"/>
-                  <lit-tag v="def"/>
-                  <lit-tag v="sp"/>
-                </lu>
-                <b/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_nom"/>
                   <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+                  <clip pos="1" side="tl" part="lemq"/>
                 </lu>
                 <b/>
                 <lu>
@@ -1352,7 +1329,6 @@
         </choose>
       </action>
     </rule>
-
 
     <!-- <rule comment="RULE: INF">
       <pattern>
