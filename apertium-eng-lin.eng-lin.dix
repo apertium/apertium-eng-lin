@@ -100,7 +100,7 @@
     <sdef n="cl9"             c="Class 9 nouns"/>
     <sdef n="cl11"            c="Class 11 nouns"/>
     <sdef n="cl14"            c="Class 14 nouns"/>
-    <sdef n="cl115"           c="Class 15 nouns"/>
+    <sdef n="cl15"           c="Class 15 nouns"/>
 
     <!-- Additional symbols defined in the original en-fr dix -->
     <sdef n="tn" />
@@ -1692,13 +1692,26 @@
       <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
 
-      <!-- SECTION: Connectives -->
+      <!-- SECTION: Connectives and loan words-->
       <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>of<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
       <!--<e><p><l></l><r>o<s n="conn"/></r></p></e> Error, the left side of an entry is left empty-->
       <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r></r></p></e>
       <e r="LR"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r></r></p></e>
 
+      <e r="RL"><p><l></l><r>ya<s n="cl5"/><s n="sg"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl1"/><s n="sg"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl1"/><s n="pl"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl3"/><s n="pl"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl5"/><s n="pl"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl7"/><s n="pl"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl11"/><s n="sg"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl14"/><s n="sg"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="cl15"/><s n="sg"/><s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>o<s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>e<s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>mersi<s n="n"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r>de<s n="pr"/></r></p></e>
 
       <!-- SECTION: DETERMINER -->
 
