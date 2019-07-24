@@ -162,7 +162,20 @@
      <e><p><l>anything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>mókó<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
      <e><p><l>everything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>nyɔ́nsɔ<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
      <e><p><l>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>yangó<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+     <e><p><l>that<s n="det"/><s n="dem"/><s n="sg"/></l><r>yangó<s n="det"/><s n="dem"/></r></p></e>
      <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yangó<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nn"/></r></p></e> <!-- it(obj) -->
+     <e><p><l>nothing<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>mókó<b/>tɛ́<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+     <e><p><l>nothing<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>elóko<b/>tɛ́<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+
+     <e><p><l>myself<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<b/>mókó<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+     <e><p><l>yourself<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>yó<b/>mókó<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+     <e><p><l>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<b/>mókó<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+     <e><p><l>herself<s n="prn"/><s n="ref"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<b/>mókó<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+     <e><p><l>itself<s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<b/>mókó<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+     <e><p><l>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<b/>mókó<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e><p><l>yourselves<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>bínó<b/>mókó<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e><p><l>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<b/>mókó<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
      <!-- SECTION: Nouns -->
 
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
@@ -359,6 +372,7 @@
       <e><p><l>theft<s n="n"/></l><r>moyíbi<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>depth<s n="n"/></l><r>mozindó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>question<s n="n"/></l><r>motuna<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>light<s n="n"/></l><r>mwinda<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>abcess<s n="n"/></l><r>litukú<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>bag<s n="n"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>purse<s n="n"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
@@ -592,6 +606,7 @@
       <e><p><l>sheep<s n="n"/></l><r>mémé<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>table<s n="n"/></l><r>mesa<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>tax<s n="n"/></l><r>mpáku<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>sun<s n="n"/></l><r>mói<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>example<s n="n"/></l><r>ndakisa<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>part<s n="n"/></l><r>ndámbo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>citrus<b/>fruit<s n="n"/></l><r>ndímo<s n="n"/><s n="cl9"/></r></p></e>
@@ -818,10 +833,8 @@
       <e><p><l>Moses<s n="np"/></l><r>Moize<s n="np"/></r></p></e>
       <e><p><l>Nazareth<s n="np"/></l><r>Nazaret<s n="np"/></r></p></e>
       <e><p><l>Nefi<s n="np"/></l><r>Nefi<s n="np"/></r></p></e>
-      <e><p><l>Lord<s n="np"/></l><r>Nkolo<s n="np"/></r></p></e>
       <e><p><l>Noah<s n="np"/></l><r>Noé<s n="np"/></r></p></e>
-      <e><p><l>God<s n="np"/></l><r>Nzambe<s n="np"/></r></p></e>
-      <e><p><l>Lord<s n="np"/></l><r>Nzambe<s n="np"/></r></p></e>
+      <e><p><l>God<s n="np"/></l><r>Nzámbe<s n="np"/></r></p></e>
       <e><p><l>Passover<s n="np"/></l><r>Pake<s n="np"/></r></p></e>
       <e><p><l>Euphrates<s n="np"/></l><r>Pelata<s n="np"/></r></p></e>
       <e><p><l>Paul<s n="np"/></l><r>Pólo<s n="np"/></r></p></e>
@@ -1181,6 +1194,7 @@
       <e><p><l>dry<s n="vblex"/></l><r>kokékisa<s n="vblex"/></r></p></e>
       <e><p><l>scold<s n="vblex"/></l><r>kopalela<s n="vblex"/></r></p></e>
       <e><p><l>sparkle<s n="vblex"/></l><r>kongɛnga<s n="vblex"/></r></p></e>
+      <e><p><l>shine<s n="vblex"/></l><r>kongɛnga<s n="vblex"/></r></p></e>
       <e><p><l>swim<s n="vblex"/></l><r>konyanya<s n="vblex"/></r></p></e>
       <e><p><l>dwindle<s n="vblex"/></l><r>koɔndɔ́<s n="vblex"/></r></p></e>
       <e><p><l>revolt<s n="vblex"/></l><r>koyúnzóla<s n="vblex"/></r></p></e>
@@ -1665,6 +1679,7 @@
       <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>inside<s n="pr"/></l><r>na<b/>káti<s n="pr"/></r></p></e>
       <e><p><l>between<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
+      <e><p><l>inside<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
       <e><p><l>like<s n="pr"/></l><r>lokóla<s n="pr"/></r></p></e>
       <e><p><l>as<s n="pr"/></l><r>lokóla<s n="pr"/></r></p></e>
       <e><p><l>up<s n="pr"/></l><r>tii<s n="pr"/></r></p></e>
@@ -1691,6 +1706,7 @@
       <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
+      <e><p><l>so<b/>that<s n="cnjsub"/></l><r>mpó<b/>ete<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Connectives and loan words-->
       <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
@@ -1712,6 +1728,7 @@
       <e r="RL"><p><l></l><r>e<s n="conn"/></r></p></e>
       <e r="RL"><p><l></l><r>mersi<s n="n"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l></l><r>de<s n="pr"/></r></p></e>
+      <e><p><l>witness<s n="n"/><s n="sg"/></l><r>temwe<s n="n"/><s n="sg"/></r></p></e>
 
       <!-- SECTION: DETERMINER -->
 

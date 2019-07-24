@@ -76,6 +76,20 @@
     </match>
   </rule>
 
+  <rule> <!-- kati na yo(inside him/her/us)-->
+    <match lemma="káti" tags="pr"><select lemma="inside" tags="pr"/></match>
+    <match lemma="na yé" tags="det.*"/>
+  </rule>
+
+  <rule> <!-- moi/mwinda ezali kongenga the sun/light is shinning -->
+    <or>
+      <match lemma="mói" tags="n.*"/>
+      <match lemma="mwinda" tags="n.*"/>
+    </or>
+    <match tags="vblex.*"/>
+    <match lemma="kongɛnga"><select lemma="shine" tags="vblex.*"/></match>
+  </rule>
+
 </rules>
 
 <!--
