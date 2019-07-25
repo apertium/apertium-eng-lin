@@ -90,6 +90,35 @@
     <match lemma="kongɛnga"><select lemma="shine" tags="vblex.*"/></match>
   </rule>
 
+  <rule> <!-- default translation of ngai(I)-->
+    <match lemma="ngáí" tags="*"><select lemma="ngai" tags="prn.*"/></match>
+  </rule>
+
+  <rule> <!-- omoni ye (see him)-->
+    <match tags="vblex.*"/>
+    <match tags="prn.subj.*"><select tags="prn.obj.*"/></match>
+  </rule>
+
+  <rule> <!-- Na Congo(In Congo)-->
+    <match lemma="na" tags="*"><select lemma="in" tags="pr"/></match>
+    <or>
+      <match tags="np.top.*"/>
+      <match tags="np.org.*"/>
+    </or>
+  </rule>
+
+  <rule> <!-- kokende na Congo/ndako/eklezia(Go to Congo/house/church)-->
+    <match lemma="kokɛndɛ" tags="vblex.*"/>
+    <match lemma="na" tags="*">
+      <select lemma="to" tags="pr"/></match>
+    <or>
+      <match tags="np.top.*"/>
+      <match tags="np.org.*"/>
+      <match lemma="ndáko" tags="n.*"/>
+      <match lemma="eklézia" tags="n.*"/>
+    </or>
+  </rule>
+
 </rules>
 
 <!--

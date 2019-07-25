@@ -27,10 +27,9 @@
       <cat-item lemma="kozala" tags="vblex.*"/> <!-- tags should be vaux. more work on CG needed -->
     </def-cat>
 
-    <!-- <def-cat n="nom">
-      <cat-item tags="n.*"/>
-      <cat-item tags="np.*"/>
-    </def-cat> -->
+    <def-cat n="prnsubj">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
 
     <def-cat n="nom">
      <cat-item tags="n.*"/>
@@ -47,9 +46,9 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
-    <def-cat n="prnsubj">
+    <!-- <def-cat n="prnsubj">
       <cat-item tags="prn.subj.*"/>
-    </def-cat>
+    </def-cat> -->
 
     <def-cat n="top">
      <cat-item tags="np.top.*"/>
@@ -313,6 +312,16 @@
         </otherwise>
       </choose>
 
+      <!-- Default output -->
+      <let>
+        <var n="verbfinal"/>
+        <concat>
+          <clip pos="1" side="tl" part="lem"/>
+          <clip pos="1" side="tl" part="a_verb"/>
+          <var n="temps_chunk"/>
+        </concat>
+      </let>
+
       <choose><!-- Present -->
         <when>
           <test>
@@ -388,7 +397,7 @@
                 </concat>
               </let>
             </when>
-            <otherwise>
+            <!-- <otherwise>
               <let>
                 <var n="verbfinal"/>
                 <concat>
@@ -397,7 +406,7 @@
                   <var n="temps_chunk"/>
                 </concat>
               </let>
-            </otherwise>
+            </otherwise> -->
           </choose>
         </when>
 
@@ -459,7 +468,7 @@
               <let>
                 <var n="verbfinal"/>
                 <concat>
-                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
                   <var n="temps_chunk"/>
                   <clip pos="1" side="tl" part="a_pers"/>
@@ -467,21 +476,23 @@
                 </concat>
               </let>
             </when>
-            <otherwise>
+            <!-- <otherwise>
               <let>
                 <var n="verbfinal"/>
                 <concat>
-                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
                   <var n="temps_chunk"/>
                 </concat>
               </let>
-            </otherwise>
+            </otherwise> -->
           </choose>
         </when>
 
-        <!-- Future -->
+        <!-- Imperative -->
         <!-- <when>
+          <test>
+          </test>
         </when> -->
       </choose>
     </def-macro>
@@ -970,6 +981,36 @@
       </action>
     </rule>
 
+    <rule comment="RULE: NOM NOMCOMU"> <!-- ya ndako(the house)-->
+      <pattern>
+        <pattern-item n="yaconn"/>
+        <pattern-item n="nomcomu"/>
+      </pattern>
+      <action>
+        <call-macro n="nom_article1">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="firstWord">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="det_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="2" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <var n="article"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="a_nbr" link-to="2"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <!--********************************* REGLES DE SV ***************************************************** -->
 
     <rule comment="RULE: VERB">
@@ -977,6 +1018,9 @@
         <pattern-item n="verbcj"/>
       </pattern>
       <action>
+        <call-macro n="conj_verb1">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
@@ -1099,8 +1143,27 @@
               </chunk>
             </out>
           </when>
-        </choose>
 
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="a_temps"/>
+                <lit-tag v="imp"/>
+              </equal>
+            </test>
+            <out>
+              <chunk name="lemma_verb_imp" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="sl" part="a_temps"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+        </choose>
       </action>
     </rule>
 

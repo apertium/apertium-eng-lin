@@ -135,6 +135,9 @@
      <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Me -->
 
      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
+
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
      <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
 
      <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- she -->
@@ -807,6 +810,7 @@
       <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/></r></p></e>
       <e><p><l>Jake<s n="np"/></l><r>Jake<s n="np"/></r></p></e>
       <e r="RL"><p><l>Joseph<s n="np"/></l><r>Joseph<s n="np"/></r></p></e>
+      <e><p><l>Joseph<s n="np"/></l><r>Zozefi<s n="np"/></r></p></e>
       <e><p><l>Joseph<s n="np"/></l><r>Jozef<s n="np"/></r></p></e>
       <e><p><l>Kabila<s n="np"/></l><r>Kabila<s n="np"/></r></p></e>
       <e><p><l>Katanga<s n="np"/></l><r>Katanga<s n="np"/></r></p></e>
@@ -831,7 +835,9 @@
       <e><p><l>Matthew<s n="np"/></l><r>Matie<s n="np"/></r></p></e>
       <e><p><l>Messiah<s n="np"/></l><r>Mesia<s n="np"/></r></p></e>
       <e><p><l>Moses<s n="np"/></l><r>Moize<s n="np"/></r></p></e>
+      <e><p><l>Moses<s n="np"/></l><r>Moyize<s n="np"/></r></p></e>
       <e><p><l>Nazareth<s n="np"/></l><r>Nazaret<s n="np"/></r></p></e>
+      <e><p><l>Nazareth<s n="np"/></l><r>Nazareti<s n="np"/></r></p></e>
       <e><p><l>Nefi<s n="np"/></l><r>Nefi<s n="np"/></r></p></e>
       <e><p><l>Noah<s n="np"/></l><r>Noé<s n="np"/></r></p></e>
       <e><p><l>God<s n="np"/></l><r>Nzámbe<s n="np"/></r></p></e>
@@ -850,6 +856,8 @@
       <e><p><l>Satan<s n="np"/></l><r>Satan<s n="np"/></r></p></e>
       <e><p><l>Saul<s n="np"/></l><r>Saul<s n="np"/></r></p></e>
       <e><p><l>Simon<s n="np"/></l><r>Simon<s n="np"/></r></p></e>
+      <e><p><l>Andrew<s n="np"/></l><r>Andele<s n="np"/></r></p></e>
+      <e><p><l>Philip<s n="np"/></l><r>Filipo<s n="np"/></r></p></e>
       <e><p><l>Sion<s n="np"/></l><r>Sion<s n="np"/></r></p></e>
       <e><p><l>Tanzania<s n="np"/></l><r>Tanzania<s n="np"/></r></p></e>
       <e><p><l>Switzerland<s n="np"/></l><r>Swissi<s n="np"/></r></p></e>
@@ -858,12 +866,14 @@
       <e><p><l>Uganda<s n="np"/></l><r>Uganda<s n="np"/></r></p></e>
       <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/></r></p></e>
       <e><p><l>James<s n="np"/></l><r>Zaki<s n="np"/></r></p></e>
+      <e><p><l>Nathanael<s n="np"/></l><r>Natanayele<s n="np"/></r></p></e>
       <e><p><l>God<s n="np"/></l><r>Yawe<s n="np"/></r></p></e>
       <e><p><l>Jerusalem<s n="np"/></l><r>Yelusaleme<s n="np"/></r></p></e>
       <e><p><l>Jerusalem<s n="np"/></l><r>Yeruzalem<s n="np"/></r></p></e>
       <e><p><l>Jesus<s n="np"/></l><r>Yesu<s n="np"/></r></p></e>
       <e><p><l>Jesus<s n="np"/></l><r>Yézu<s n="np"/></r></p></e>
       <e><p><l>Israel<s n="np"/></l><r>Yisalaele<s n="np"/></r></p></e>
+      <e r="RL"><p><l>Israel<s n="np"/></l><r>Isalayele<s n="np"/></r></p></e>
       <e><p><l>John<s n="np"/></l><r>Yoane<s n="np"/></r></p></e>
       <e><p><l>Judah<s n="np"/></l><r>Yuda<s n="np"/></r></p></e>
       <e><p><l>Judas<s n="np"/></l><r>Yudas<s n="np"/></r></p></e>
@@ -1526,6 +1536,7 @@
       <e><p><l>eat<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
       <e><p><l>can<s n="vblex"/></l><r>kokoka<s n="vblex"/></r></p></e>
       <e><p><l>fit<s n="vblex"/></l><r>kokoka<s n="vblex"/></r></p></e>
+      <e><p><l>testify<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
 
       <e><p><l>can<s n="vbmod"/></l><r>kokoka<s n="vaux"/></r></p></e>
       <e><p><l>may<s n="vbmod"/></l><r>kokoka<s n="vaux"/></r></p></e>
@@ -1676,6 +1687,7 @@
 
       <e><p><l>to<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>na<s n="pr"/></r></p></e> <!-- 'na' has many transations. more rules will be added later -->
+      <!-- <e><p><l>to<s n="pr"/></l><r>mpó<b/>na<s n="pr"/></r></p></e> -->
       <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>inside<s n="pr"/></l><r>na<b/>káti<s n="pr"/></r></p></e>
       <e><p><l>between<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
@@ -1701,7 +1713,7 @@
       <e r="LR"><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>until<s n="adv"/></l><r>tii<s n="cnjcoo"/></r></p></e>
-      <e><p><l>été<s n="adv"/></l><r>that<s n="cnjcoo"/></r></p></e>
+      <e><p><l>that<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>
       <e><p><l>if<s n="adv"/></l><r>soki<s n="cnjcoo"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
@@ -1753,7 +1765,9 @@
 
       <e><p><l>all<s n="det"/><s n="qnt"/><s n="pl"/></l><r>nyɔ́nsɔ<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>this<s n="det"/><s n="dem"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
-      <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>níni<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/></r></p></e>
+      <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>níni<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/></r></p></e>
+      <e><p><l>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>banáni<s n="prn"/><s n="itg"/><s n="pl"/><s n="aa"/></r></p></e>
+      <e><p><l>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>náni<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/></r></p></e>
       <e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mwá<s n="adj"/></r></p></e>
       <e><p><l>other<s n="det"/></l><r>mosúsu<s n="det"/></r></p></e>
 
