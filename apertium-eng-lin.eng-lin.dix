@@ -1741,6 +1741,7 @@
       <e r="RL"><p><l></l><r>mersi<s n="n"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l></l><r>de<s n="pr"/></r></p></e>
       <e><p><l>witness<s n="n"/><s n="sg"/></l><r>temwe<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>chickenpox<s n="n"/><s n="sg"/></l><r>varicelle<s n="n"/><s n="sg"/></r></p></e>
 
       <!-- SECTION: DETERMINER -->
 
@@ -1765,7 +1766,7 @@
 
       <e><p><l>all<s n="det"/><s n="qnt"/><s n="pl"/></l><r>nyɔ́nsɔ<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>this<s n="det"/><s n="dem"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
-      <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>níni<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/></r></p></e>
+      <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>níni<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/></r></p></e>
       <e><p><l>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>banáni<s n="prn"/><s n="itg"/><s n="pl"/><s n="aa"/></r></p></e>
       <e><p><l>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>náni<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/></r></p></e>
       <e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mwá<s n="adj"/></r></p></e>
