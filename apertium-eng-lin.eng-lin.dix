@@ -940,6 +940,7 @@
 
       <!-- SECTION: Verbs -->
 
+      <e><p><l>lose<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
       <e><p><l>walk<s n="vblex"/></l><r>kotambola<s n="vblex"/></r></p></e>
       <e><p><l>rise<s n="vblex"/></l><r>kokundwa<s n="vblex"/></r></p></e>
       <e><p><l>save<s n="vblex"/></l><r>kobumba<s n="vblex"/></r></p></e>
@@ -1585,7 +1586,7 @@
       <e><p><l>now<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
       <e><p><l>now<s n="adv"/></l><r>sikawa<s n="adv"/></r></p></e>
       <e><p><l>immediately<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
-      <e><p><l>where<s n="adv"/></l><r>wápi<s n="adv"/></r></p></e>
+      <e><p><l>where<s n="adv"/><s n="itg"/></l><r>wápi<s n="adv"/></r></p></e>
       <e><p><l>when<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
       <e><p><l>behind<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
       <e><p><l>so<s n="adv"/></l><r>boyé<s n="adv"/></r></p></e>
@@ -1594,7 +1595,7 @@
       <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
       <!-- <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e> -->
       <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
-      <e><p><l>very<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
+      <!-- <e><p><l>very<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e> -->
       <e><p><l>outside<s n="adv"/></l><r>libándá<s n="adv"/></r></p></e>
       <e><p><l>up<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
       <e><p><l>upstairs<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
@@ -1612,7 +1613,7 @@
       <e><p><l>quite<s n="adv"/></l><r>nye<s n="adv"/></r></p></e>
       <e><p><l>enough<s n="adv"/></l><r>ekoki<s n="adv"/></r></p></e>
       <e><p><l>once<s n="adv"/></l><r>mbala<b/>mókó<s n="adv"/></r></p></e>
-      <e><p><l>often<s n="adv"/></l><r>mbala<b/>míngi<s n="adv"/></r></p></e>
+      <e><p><l>often<s n="adv"/></l><r>míngi<b/>míngi<s n="adv"/></r></p></e>
       <e><p><l>daily<s n="adv"/></l><r>ntóngó<b/>nyɔ́nsɔ<s n="adv"/></r></p></e>
       <e><p><l>almost<s n="adv"/></l><r>mbele<s n="adv"/></r></p></e>
       <e><p><l>why<s n="adv"/><s n="itg"/></l><r>pona<b/>nini<s n="adv"/></r></p></e>
@@ -1721,8 +1722,9 @@
       <e><p><l>so<b/>that<s n="cnjsub"/></l><r>mpó<b/>ete<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Connectives and loan words-->
-      <e><p><l>a<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
-      <e><p><l>of<s n="det"/></l><r>ya<s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>ya<s n="conn"/></r></p></e>
+      <!-- <e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>ya<s n="conn"/></r></p></e> -->
+      <e><p><l>of<s n="pr"/></l><r>ya<s n="conn"/></r></p></e>
       <!--<e><p><l></l><r>o<s n="conn"/></r></p></e> Error, the left side of an entry is left empty-->
       <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r></r></p></e>
       <e r="LR"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r></r></p></e>
@@ -1766,6 +1768,7 @@
 
       <e><p><l>all<s n="det"/><s n="qnt"/><s n="pl"/></l><r>nyɔ́nsɔ<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>this<s n="det"/><s n="dem"/></l><r>óyo<s n="det"/></r></p></e>  <!-- pron or adj -->
+      <e r="RL"><p><l>this<s n="det"/><s n="dem"/></l><r>eye<s n="det"/></r></p></e>  <!-- pron or adj -->
       <e><p><l>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>níni<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/></r></p></e>
       <e><p><l>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>banáni<s n="prn"/><s n="itg"/><s n="pl"/><s n="aa"/></r></p></e>
       <e><p><l>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>náni<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/></r></p></e>

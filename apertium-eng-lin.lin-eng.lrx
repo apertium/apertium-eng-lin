@@ -119,6 +119,29 @@
     </or>
   </rule>
 
+  <rule> <!-- mpasi ya miso(the suffering of the eyes)-->
+    <match tags="n.*"/>
+    <match lemma="ya" tags="conn">
+      <select lemma="of" tags="pr"/>
+    </match>
+    <match tags="n.*"/>
+  </rule>
+
+  <rule> <!-- ya miso(the eye(removing ya))-->
+    <match lemma="ya" tags="conn">
+      <remove lemma="of" tags="pr"/>
+      <!-- <remove lemma="a" tags="det.*"/> -->
+    </match>
+    <match tags="n.*"/>
+  </rule>
+
+  <rule> <!-- ya komona(removing ya)-->
+    <match lemma="ya" tags="conn">
+      <remove lemma="of" tags="pr"/>
+    </match>
+    <match tags="vblex.*"/>
+  </rule>
+
 </rules>
 
 <!--

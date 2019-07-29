@@ -258,7 +258,9 @@
               <let>
                 <var n="verbfinal"/>
                 <concat>
-                  <clip pos="2" side="tl" part="lem"/>
+                  <get-case-from pos="1">
+                    <clip pos="2" side="tl" part="lem"/>
+                  </get-case-from>
                   <clip pos="2" side="tl" part="a_verb"/>
                   <clip pos="2" side="tl" part="a_temps"/>
                   <clip pos="1" side="tl" part="a_pers"/>
@@ -287,7 +289,9 @@
               <let>
                 <var n="verbfinal"/>
                 <concat>
-                  <clip pos="2" side="tl" part="lem"/>
+                  <get-case-from pos="1">
+                    <clip pos="2" side="tl" part="lem"/>
+                  </get-case-from>
                   <clip pos="2" side="tl" part="a_verb"/>
                   <clip pos="2" side="tl" part="a_temps"/>
                   <clip pos="1" side="tl" part="a_pers"/>
@@ -304,7 +308,9 @@
               <let>
                 <var n="verbfinal"/>
                 <concat>
-                  <clip pos="2" side="tl" part="lem"/>
+                  <get-case-from pos="1">
+                    <clip pos="2" side="tl" part="lem"/>
+                  </get-case-from>
                   <clip pos="2" side="tl" part="a_verb"/>
                   <clip pos="2" side="tl" part="a_temps"/>
                   <clip pos="1" side="tl" part="a_pers"/>

@@ -981,7 +981,8 @@
       </action>
     </rule>
 
-    <rule comment="RULE: NOM NOMCOMU"> <!-- ya ndako(the house)-->
+    <!-- ya ndako(the house)-->
+    <!-- <rule comment="RULE: YA NOMCOMU">
       <pattern>
         <pattern-item n="yaconn"/>
         <pattern-item n="nomcomu"/>
@@ -994,7 +995,7 @@
           <with-param pos="2"/>
         </call-macro>
         <out>
-          <chunk name="det_nom" case="caseFirstWord">
+          <chunk name="ya_nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="2" side="tl" part="a_nbr"/></tag>
@@ -1009,7 +1010,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule> -->
 
     <!--********************************* REGLES DE SV ***************************************************** -->
 
