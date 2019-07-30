@@ -244,6 +244,7 @@
       <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>house<s n="n"/></l><r>ndáko<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>sibling<s n="n"/></l><r>ndeko<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>sister<s n="n"/></l><r>ndeko<b/>mwasi<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>crocodile<s n="n"/></l><r>ngando<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>controller<s n="n"/></l><r>ngando<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>expert<s n="n"/></l><r>nganga<s n="n"/><s n="cl1a"/></r></p></e>
@@ -1584,7 +1585,7 @@
       <e><p><l>really<s n="adv"/></l><r>penzá<s n="adv"/></r></p></e>
       <e><p><l>very<b/>close<s n="adv"/></l><r>penepene<s n="adv"/></r></p></e>
       <e><p><l>now<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
-      <e><p><l>now<s n="adv"/></l><r>sikawa<s n="adv"/></r></p></e>
+      <e r="RL"><p><l>now<s n="adv"/></l><r>sikawa<s n="adv"/></r></p></e>
       <e><p><l>immediately<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
       <e><p><l>where<s n="adv"/><s n="itg"/></l><r>wápi<s n="adv"/></r></p></e>
       <e><p><l>when<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
@@ -1592,8 +1593,8 @@
       <e><p><l>so<s n="adv"/></l><r>boyé<s n="adv"/></r></p></e>
       <e><p><l>under<s n="adv"/></l><r>na<b/>nsé<s n="adv"/></r></p></e>
       <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
-      <e><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
-      <!-- <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e> -->
+      <e r="RL"><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
+      <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
       <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
       <!-- <e><p><l>very<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e> -->
       <e><p><l>outside<s n="adv"/></l><r>libándá<s n="adv"/></r></p></e>
@@ -1624,12 +1625,12 @@
       <e r="RL"><p><l>around<s n="adv"/></l><r>nzinganzinga<s n="adv"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
-      <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/></r></p></e>
+      <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/><s n="adj"/></r></p></e>
       <e><p><l>small<s n="adj"/><s n="sint"/></l><r>moké<s n="adj"/></r></p></e>
       <e><p><l>narrow<s n="adj"/><s n="sint"/></l><r>moké<s n="adj"/></r></p></e>
       <e><p><l>short<s n="adj"/><s n="sint"/></l><r>mokúsé<s n="adj"/></r></p></e>
       <e><p><l>long<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
-      <e><p><l>big<s n="adj"/><s n="sint"/></l><r>monɛ́nɛ<s n="adj"/></r></p></e>
+      <e><p><l>big<s n="adj"/><s n="sint"/></l><r>monɛ́nɛ<s n="adj"/><s n="sg"/></r></p></e>
       <e><p><l>all<s n="adj"/></l><r>banso<s n="adj"/></r></p></e>
       <e><p><l>only<s n="adj"/></l><r>bobele<s n="adj"/></r></p></e>
       <e><p><l>sour<s n="adj"/><s n="sint"/></l><r>ngai<s n="adj"/></r></p></e>
@@ -1709,7 +1710,7 @@
 
       <e><p><l>so<s n="adv"/></l><r>bongo<s n="cnjcoo"/></r></p></e>
       <e><p><l>but<s n="cnjcoo"/></l><r>kasi<s n="cnjcoo"/></r></p></e>
-      <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="cnjcoo"/></r></p></e>
+      <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="adv"/></r></p></e>
       <e><p><l>and<s n="cnjcoo"/></l><r>pé<s n="cnjcoo"/></r></p></e>
       <e r="LR"><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>

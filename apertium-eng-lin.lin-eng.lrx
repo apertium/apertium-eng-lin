@@ -41,7 +41,7 @@
     <match tags="num.*"/>
   </rule>
 
-  <rule> <!-- default translation of mmpé-->
+  <rule> <!-- default translation of mpé-->
     <match lemma="mpé">
       <select lemma="and" tags="cnjcoo"/>
     </match>
@@ -52,6 +52,14 @@
     <match lemma="mpé" tags="*">
       <select lemma="also" tags="adv"/>
     </match>
+  </rule>
+
+  <rule> <!-- amoni mpe aseki(she sees and laughs) -->
+    <match tags="vblex.*"/>
+    <match lemma="mpé" tags="*">
+      <select lemma="and" tags="adv"/>
+    </match>
+    <match tags="vblex.*"/>
   </rule>
 
   <rule> <!-- selecting the preposition 'with' when 'na' is followed by a np -->

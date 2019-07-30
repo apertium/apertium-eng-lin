@@ -5,12 +5,29 @@
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
     </def-cat>
+
+    <def-cat n="SV">
+      <cat-item tags="SV.*"/>
+    </def-cat>
+
+    <def-cat n="ADV">
+      <cat-item lemma="adv" tags="adv"/>
+      <cat-item lemma="adv" tags="adv.*"/>
+      <cat-item lemma="ne" tags="adv"/>
+    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
     </def-attr>
+
+    <def-attr n="a_anim">
+      <attr-item tags="aa"/>
+      <attr-item tags="nn"/>
+    </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -24,10 +41,17 @@
         <lit v=""/>
       </let>
     </def-macro>
+
+    <def-macro n="conj_verb1" npar="2">
+      <let>
+        <clip pos="2" part="a_anim"/>
+        <lit-tag v="aa"/>
+      </let>
+    </def-macro>
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: SN">
+    <rule comment="RULE: SN">
       <pattern>
         <pattern-item n="SN"/>
       </pattern>
@@ -38,6 +62,36 @@
             <clip pos="1" part="tags"/>
             <clip pos="1" part="chcontent"/>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="RULE: SN SV">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <!-- <call-macro n="conj_verb1">
+         <with-param pos="1"/>
+	       <with-param pos="2"/>
+	     </call-macro> -->
+      <action>
+        <let>
+          <clip pos="2" part="a_anim"/>
+          <lit-tag v="aa"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+      	  <chunk>
+      	    <clip pos="2" part="lem"/>
+      	    <clip pos="2" part="tags"/>
+      	    <clip pos="2" part="chcontent"/>
+      	  </chunk>
         </out>
       </action>
     </rule>
@@ -52,4 +106,3 @@ Resources:
     http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
     http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
 -->
-
