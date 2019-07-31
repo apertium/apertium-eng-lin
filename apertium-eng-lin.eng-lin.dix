@@ -131,27 +131,27 @@
 
      <!-- SECTION: Pronouns -->
 
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- I -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="obj"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Me -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- I -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ngáí<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Me -->
 
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>yó<s n="prn"/><s n="subj"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>yó<s n="prn"/><s n="obj"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>yó<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- You(sg) -->
 
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="subj"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="obj"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>bínó<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="aa"/></r></p></e> <!-- You(pl) -->
 
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="subj"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- she -->
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="subj"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- he -->
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="subj"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="obj"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- her -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="obj"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- him -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="obj"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- she -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- he -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- her -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- him -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>yé<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="aa"/></r></p></e> <!-- it(inanimate) -->
 
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- We -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="obj"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Us -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- We -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>bísó<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Us -->
 
-     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="subj"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- They -->
-     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="obj"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Them -->
+     <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- They -->
+     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="aa"/></r></p></e> <!-- Them -->
 
      <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>ya<b/>ngáí<s n="prn"/><s n="pos"/><s n="p1"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Mine -->
      <e><p><l>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ya<b/>yó<s n="prn"/><s n="pos"/><s n="p2"/><s n="sg"/><s n="aa"/></r></p></e> <!-- Yours -->
@@ -650,6 +650,7 @@
       <e><p><l>wood<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>elephant<s n="n"/></l><r>nzoku<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>body<s n="n"/></l><r>nzɔ́to<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>glory<s n="n"/></l><r>nkémbo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>ball<s n="n"/></l><r>balé<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>baptism<s n="n"/></l><r>batísimo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>care<s n="n"/></l><r>bozó<s n="n"/><s n="cl9"/></r></p></e>
@@ -1331,6 +1332,9 @@
       <e><p><l>sit<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
       <e><p><l>stay<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
       <e><p><l>live<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+      <e><p><l>sit<s n="vblex"/></l><r>kovánda<s n="vblex"/></r></p></e>
+      <e><p><l>stay<s n="vblex"/></l><r>kovánda<s n="vblex"/></r></p></e>
+      <e><p><l>live<s n="vblex"/></l><r>kovánda<s n="vblex"/></r></p></e>
       <e><p><l>insult<s n="vblex"/></l><r>kofínga<s n="vblex"/></r></p></e>
       <e><p><l>accuse<s n="vblex"/></l><r>kofúnda<s n="vblex"/></r></p></e>
       <e><p><l>shout<s n="vblex"/></l><r>kogánga<s n="vblex"/></r></p></e>
@@ -1593,6 +1597,7 @@
       <e><p><l>where<s n="adv"/><s n="itg"/></l><r>wápi<s n="adv"/></r></p></e>
       <e><p><l>when<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
       <e><p><l>behind<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
+      <e><p><l>after<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
       <e><p><l>behind<s n="adv"/></l><r>na<b/>nsima<s n="adv"/></r></p></e>
       <e><p><l>so<s n="adv"/></l><r>boyé<s n="adv"/></r></p></e>
       <e><p><l>under<s n="adv"/></l><r>na<b/>nsé<s n="adv"/></r></p></e>

@@ -102,9 +102,14 @@
     <match lemma="ngáí" tags="*"><select lemma="ngai" tags="prn.*"/></match>
   </rule>
 
-  <rule> <!-- omoni ye (see him) (not see I)--> 
+  <rule> <!-- omoni ye (see him) (not see I)-->
     <match tags="vblex.*"/>
     <match tags="prn.*"><select lemma="prpers" tags="prn.obj.*"/></match>
+  </rule>
+
+  <rule> <!-- ye amoni (him he sees)-->
+    <match tags="prn.*"><select lemma="prpers" tags="prn.obj.*"/></match>
+    <match tags="vblex.*"/>
   </rule>
 
   <rule> <!-- Na Congo(In Congo)-->
@@ -169,6 +174,31 @@
       <match tags="n.*"/>
       <match tags="prn.*"/>
     </or>
+  </rule>
+
+  <rule> <!-- sit on a chair(not live/stay)-->
+    <match lemma="kofánda" tags="vblex.*">
+      <select lemma="sit" tags="vblex.*"/>
+    </match>
+    <match lemma="na" tags="pr"/>
+    <match lemma="kíti" tags="n.*"/>
+  </rule>
+
+  <rule> <!-- kokoma moto(become a person)-->
+    <match lemma="kokoma" tags="vblex.*">
+      <select lemma="become" tags="vblex.*"/>
+    </match>
+    <or>
+      <match lemma="moto" tags="n.*"/>
+      <match tags="np.*"/>
+    </or>
+  </rule>
+
+  <rule> <!-- koya sima(come after)-->
+    <match lemma="koyâ" tags="vblex.*"/>
+    <match lemma="nsima" tags="adv">
+      <select lemma="after" tags="adv"/>
+    </match>
   </rule>
 
 </rules>
