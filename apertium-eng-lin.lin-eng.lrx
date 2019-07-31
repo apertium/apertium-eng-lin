@@ -29,7 +29,7 @@
   </rule>
 
   <rule><!-- default case -->
-    <match  lemma="koloba" tags="vblex.*" >
+    <match lemma="koloba" tags="vblex.*" >
       <select lemma="say" tags="vblex.*"/>
     </match>
   </rule>
@@ -102,9 +102,9 @@
     <match lemma="ngáí" tags="*"><select lemma="ngai" tags="prn.*"/></match>
   </rule>
 
-  <rule> <!-- omoni ye (see him)-->
+  <rule> <!-- omoni ye (see him) (not see I)--> 
     <match tags="vblex.*"/>
-    <match tags="prn.subj.*"><select tags="prn.obj.*"/></match>
+    <match tags="prn.*"><select lemma="prpers" tags="prn.obj.*"/></match>
   </rule>
 
   <rule> <!-- Na Congo(In Congo)-->
@@ -148,6 +148,27 @@
       <remove lemma="of" tags="pr"/>
     </match>
     <match tags="vblex.*"/>
+  </rule>
+
+  <rule> <!-- koloba na mama/Zaki -> to talk to someone-->
+    <match lemma="koloba" tags="vblex.*"/>
+    <match lemma="na" tags="*">
+      <select lemma="to" tags="pr"/>
+    </match>
+    <or>
+      <match tags="n.*"/>
+      <match tags="np.*"/>
+    </or>
+  </rule>
+
+  <rule> <!-- lobela ngai/ye/bango-->
+    <match lemma="koloba" tags="vblex.*">
+      <select lemma="tell" tags="vblex.*"/>
+    </match>
+    <or>
+      <match tags="n.*"/>
+      <match tags="prn.*"/>
+    </or>
   </rule>
 
 </rules>
