@@ -201,6 +201,13 @@
     </match>
   </rule>
 
+  <rule> <!-- bato mingi(people many)-->
+    <match lemma="koyâ" tags="vblex.*"/>
+    <match lemma="nsima" tags="adv">
+      <select lemma="after" tags="adv"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!--

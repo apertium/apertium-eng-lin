@@ -207,6 +207,15 @@
         <attr-item tags="fut"/>
       </def-attr>
 
+      <def-attr n="a_ext">
+        <attr-item tags="appl"/>
+        <attr-item tags="caus"/>
+        <attr-item tags="recip"/>
+        <attr-item tags="pass"/>
+        <attr-item tags="rev"/>
+        <attr-item tags="stat"/>
+      </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -318,12 +327,12 @@
         <concat>
           <clip pos="1" side="tl" part="lem"/>
           <clip pos="1" side="tl" part="a_verb"/>
-          <var n="temps_chunk"/>
+          <var n="temps_chunk"/> <!-- undefined -->
         </concat>
       </let>
 
-      <choose><!-- Present -->
-        <when>
+      <choose>
+        <when><!-- Present -->
           <test>
             <equal>
               <clip pos="1" side="sl" part="a_temps"/>
@@ -436,6 +445,26 @@
             <lit-tag v="past"/>
           </let>
           <choose>
+            <when> <!-- passive extension -->
+              <test>
+                <equal>
+                  <clip pos="1" side="sl" part="a_ext"/>
+                  <lit v="pass"/>
+                </equal>
+              </test>
+              <let>
+                <var n="temps_chunk"/>
+                <lit-tag v="pp"/>
+              </let>
+              <let>
+                <var n="verbfinal"/>
+                <concat>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <var n="temps_chunk"/>
+                </concat>
+              </let>
+            </when>
             <when> <!-- be, p1 or p3, sg or sp -->
               <test>
                 <and>
@@ -476,7 +505,7 @@
                 </concat>
               </let>
             </when>
-            <!-- <otherwise>
+            <otherwise>
               <let>
                 <var n="verbfinal"/>
                 <concat>
@@ -485,7 +514,7 @@
                   <var n="temps_chunk"/>
                 </concat>
               </let>
-            </otherwise> -->
+            </otherwise>
           </choose>
         </when>
 
@@ -1152,6 +1181,7 @@
             </out>
           </when>
 
+          <!-- IMP -->
           <when>
             <test>
               <equal>
@@ -1168,6 +1198,45 @@
                 <lu>
                   <clip pos="1" side="tl" part="whole"/>
                 </lu>
+              </chunk>
+            </out>
+          </when>
+
+          <!-- PP -->
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="a_temps"/>
+                <lit-tag v="pp"/>
+              </equal>
+            </test>
+            <out>
+              <chunk name="lemma_verb_pp" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="sl" part="a_temps"/></tag>
+                </tags>
+                <lu>
+                  <get-case-from pos="1">
+                    <lit v="prpers"/>
+                  </get-case-from>
+                  <lit-tag v="prn"/>
+                  <lit-tag v="subj"/>
+                  <clip pos="1" side="tl" part="a_pers" />
+                  <var n="genre"/>
+                  <clip pos="1" side="tl" part="a_nbr" />
+                </lu>
+                <b/>
+                <lu> <!-- temporary -->
+                  <lit v="be"/>
+                  <lit-tag v="vbser"/>
+                  <lit-tag v="past"/>
+                </lu>
+                <b/>
+                <lu>
+          	      <var n="verbfinal"/>
+          	      <clip pos="1" side="tl" part="lemq"/>
+          	    </lu>
               </chunk>
             </out>
           </when>
