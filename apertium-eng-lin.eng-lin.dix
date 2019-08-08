@@ -1142,8 +1142,8 @@
       <e><p><l>dress<s n="vblex"/></l><r>kolátisa<s n="vblex"/></r></p></e>
       <e><p><l>clothe<s n="vblex"/></l><r>kolátisa<s n="vblex"/></r></p></e>
       <e><p><l>dress<b/>oneself<s n="vblex"/></l><r>koláta<s n="vblex"/></r></p></e>
-      <e><p><l>converse<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
-      <e><p><l>narrate<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
+      <e><p><l>converse<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
+      <e><p><l>narrate<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
       <e><p><l>expose<s n="vblex"/></l><r>kotálisa<s n="vblex"/></r></p></e>
       <e><p><l>appear<s n="vblex"/></l><r>komɔ́nana<s n="vblex"/></r></p></e>
       <e><p><l>appear<s n="vblex"/></l><r>kobimela<s n="vblex"/></r></p></e>
@@ -1625,7 +1625,7 @@
       <e><p><l>twice<s n="adv"/></l><r>mbala<b/>míbalé<s n="adv"/></r></p></e>
       <e><p><l>therefore<s n="adv"/></l><r>ndé<s n="adv"/></r></p></e>
       <e><p><l>quite<s n="adv"/></l><r>nye<s n="adv"/></r></p></e>
-      <e><p><l>enough<s n="adv"/></l><r>ekoki<s n="adv"/></r></p></e>
+      <!-- <e><p><l>enough<s n="adv"/></l><r>ekoki<s n="adv"/></r></p></e> -->
       <e><p><l>once<s n="adv"/></l><r>mbala<b/>mókó<s n="adv"/></r></p></e>
       <e><p><l>often<s n="adv"/></l><r>míngi<b/>míngi<s n="adv"/></r></p></e>
       <e><p><l>daily<s n="adv"/></l><r>ntóngó<b/>nyɔ́nsɔ<s n="adv"/></r></p></e>
@@ -1704,6 +1704,7 @@
       <e><p><l>in<s n="pr"/></l><r>na<s n="pr"/></r></p></e> <!-- 'na' has many transations. more rules will be added later -->
       <!-- <e><p><l>to<s n="pr"/></l><r>mpó<b/>na<s n="pr"/></r></p></e> -->
       <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+      <e><p><l>by<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
       <e><p><l>inside<s n="pr"/></l><r>na<b/>káti<s n="pr"/></r></p></e>
       <e><p><l>between<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
       <e><p><l>inside<s n="pr"/></l><r>káti<s n="pr"/></r></p></e>
@@ -1730,7 +1731,7 @@
       <e><p><l>until<s n="adv"/></l><r>tii<s n="cnjcoo"/></r></p></e>
       <e><p><l>that<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>
       <e><p><l>that<s n="cnjsub"/></l><r>óyo<s n="prn"/><s n="rel"/></r></p></e> <!-- similar to French -->
-      <e><p><l>if<s n="adv"/></l><r>soki<s n="cnjcoo"/></r></p></e>
+      <e><p><l>if<s n="cnjsub"/></l><r>soki<s n="cnjsub"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>

@@ -208,6 +208,25 @@
     </match>
   </rule>
 
+  <rule> <!-- moko na moko(one by one)-->
+    <match tags="num.*"/>
+    <match lemma="na" tags="*">
+      <select lemma="by" tags="pr"/>
+    </match>
+    <match tags="num.*"/>
+  </rule>
+
+  <rule> <!-- kozua(to get, used most often)-->
+    <or>
+      <match lemma="kozúa">
+        <select lemma="get" tags="vblex.*"/>
+      </match>
+      <match lemma="kozwa">
+        <select lemma="get" tags="vblex.*"/>
+      </match>
+    </or>
+  </rule>
+
 </rules>
 
 <!--
