@@ -69,8 +69,6 @@
     <match tags="np.*"/>
   </rule>
 
-
-
   <rule> <!-- default form of 'kosala(do)'-->
     <match lemma="kosála">
       <select lemma="do" tags="vblex.*"/>
@@ -216,16 +214,40 @@
     <match tags="num.*"/>
   </rule>
 
-  <rule> <!-- kozua(to get, used most often)-->
+  <rule> <!-- kokende/kopesa na(to go/give to)-->
     <or>
-      <match lemma="kozúa">
-        <select lemma="get" tags="vblex.*"/>
-      </match>
-      <match lemma="kozwa">
-        <select lemma="get" tags="vblex.*"/>
-      </match>
+      <match lemma="kokɛndɛ" tags="vblex.*"/>
+      <match lemma="kopɛ́sa" tags="vblex.*"/>
     </or>
+    <match lemma="na" tags="*">
+      <select lemma="to" tags="pr"/>
+    </match>
+    <match tags="*"/>
   </rule>
+
+  <rule> <!-- kokende/kopesa lelo/mai na(to go/give * to)-->
+    <or>
+      <match lemma="kokɛndɛ" tags="vblex.*"/>
+      <match lemma="kopɛ́sa" tags="vblex.*"/>
+    </or>
+    <match tags="*"/>
+    <match lemma="na" tags="*">
+      <select lemma="to" tags="pr"/>
+    </match>
+    <match tags="*"/>
+  </rule>
+
+  <rule>
+    <match lemma="tɛ́">
+      <select lemma="no" tags="adv"/>
+    </match>
+  </rule>
+
+  <!-- <rule>
+    <match lemma="tɛ́">
+      <select lemma="no" tags="adv"/>
+    </match>
+  </rule> -->
 
 </rules>
 

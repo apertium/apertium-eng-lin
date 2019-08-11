@@ -895,6 +895,8 @@
       <e><p><l>church<s n="n"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>country<s n="n"/></l><r>ekólo<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>unit<s n="n"/></l><r>ekólo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>generation<s n="n"/></l><r>ekólo<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>generation<s n="n"/></l><r>ekólo<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>pencil<s n="n"/></l><r>ekomele<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>costume<s n="n"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>dress<s n="n"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
@@ -1048,6 +1050,7 @@
       <e><p><l>intoxicate<s n="vblex"/></l><r>kolángisa<s n="vblex"/></r></p></e>
       <e><p><l>wrangle<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
       <e><p><l>argue<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+      <e><p><l>argue<s n="vblex"/></l><r>kosuána<s n="vblex"/></r></p></e>
       <e><p><l>worry<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
       <e><p><l>amuse<s n="vblex"/></l><r>kosepelisa<s n="vblex"/></r></p></e>
       <e><p><l>polish<s n="vblex"/></l><r>kotánisa<s n="vblex"/></r></p></e>
@@ -1540,7 +1543,7 @@
       <e><p><l>take<s n="vblex"/></l><r>kozwa<s n="vblex"/></r></p></e>
       <e><p><l>receive<s n="vblex"/></l><r>kozwa<s n="vblex"/></r></p></e>
       <e><p><l>return<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
-      <e><p><l>go<b/>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
+      <!-- <e><p><l>go<b/>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e> -->
       <e><p><l>reply<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
       <e><p><l>answer<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
       <e><p><l>sleep<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
@@ -1573,6 +1576,7 @@
       <e><p><l>like<b/>this<s n="adv"/></l><r>boye<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>ee<s n="adv"/></r></p></e>
       <e><p><l>not<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
+      <e><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e r="LR"><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
@@ -1638,9 +1642,9 @@
       <e r="RL"><p><l>around<s n="adv"/></l><r>nzinganzinga<s n="adv"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
-      <e><p><l>little<s n="adj"/></l><r>moké<s n="adj"/><s n="adj"/></r></p></e>
-      <e><p><l>small<s n="adj"/><s n="sint"/></l><r>moké<s n="adj"/></r></p></e>
-      <e><p><l>narrow<s n="adj"/><s n="sint"/></l><r>moké<s n="adj"/></r></p></e>
+      <e><p><l>little<s n="adj"/></l><r>mokɛ́<s n="adj"/><s n="adj"/></r></p></e>
+      <e><p><l>small<s n="adj"/><s n="sint"/></l><r>mokɛ́<s n="adj"/></r></p></e>
+      <e><p><l>narrow<s n="adj"/><s n="sint"/></l><r>mokɛ́<s n="adj"/></r></p></e>
       <e><p><l>short<s n="adj"/><s n="sint"/></l><r>mokúsé<s n="adj"/></r></p></e>
       <e><p><l>long<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
       <e><p><l>big<s n="adj"/><s n="sint"/></l><r>monɛ́nɛ<s n="adj"/><s n="sg"/></r></p></e>
@@ -1736,6 +1740,8 @@
       <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
       <e><p><l>so<b/>that<s n="cnjsub"/></l><r>mpó<b/>ete<s n="cnjcoo"/></r></p></e>
+      <e><p><l>for<s n="cnjadv"/></l><r>mpó<b/>na<s n="cnjcoo"/></r></p></e>
+      <e><p><l>to<s n="pr"/></l><r>mpó<b/>na<s n="cnjcoo"/></r></p></e> <!-- before verbs -->
 
       <!-- SECTION: Connectives and loan words-->
       <e r="RL"><p><l></l><r>ya<s n="conn"/></r></p></e>
@@ -1760,6 +1766,19 @@
       <e r="RL"><p><l></l><r>de<s n="pr"/></r></p></e>
       <e><p><l>witness<s n="n"/><s n="sg"/></l><r>temwe<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>chickenpox<s n="n"/><s n="sg"/></l><r>varicelle<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>thank<b/>you<s n="ij"/></l><r>mersi<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>December<s n="n"/><s n="sg"/></l><r>Dɛsɛ́mbɛ<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>February<s n="n"/><s n="sg"/></l><r>Febwáli<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>state<s n="n"/><s n="sg"/></l><r>letá<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>politics<s n="n"/><s n="sg"/></l><r>politíki<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>hospital<s n="n"/><s n="sg"/></l><r>lopitalo<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>machine<s n="n"/><s n="sg"/></l><r>masíni<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>music<s n="n"/><s n="sg"/></l><r>mizíki<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>government<s n="n"/><s n="sg"/></l><r>guvɛnɛmá<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>province<s n="n"/><s n="sg"/></l><r>provinci<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>father<s n="n"/><s n="sg"/></l><r>pápa<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>party<s n="n"/><s n="sg"/></l><r>fɛ́tí<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>Atlantic<s n="np"/><s n="top"/><s n="sg"/></l><r>Atlantíki<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
       <!-- SECTION: DETERMINER -->
 
