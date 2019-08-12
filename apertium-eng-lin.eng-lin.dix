@@ -1543,7 +1543,7 @@
       <e><p><l>take<s n="vblex"/></l><r>kozwa<s n="vblex"/></r></p></e>
       <e><p><l>receive<s n="vblex"/></l><r>kozwa<s n="vblex"/></r></p></e>
       <e><p><l>return<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
-      <!-- <e><p><l>go<b/>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e> -->
+      <e><p><l>go<b/>back<s n="vblex"/></l><r>kozónga<s n="vblex"/></r></p></e>
       <e><p><l>reply<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
       <e><p><l>answer<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
       <e><p><l>sleep<s n="vblex"/></l><r>kolála<s n="vblex"/></r></p></e>
@@ -1612,8 +1612,8 @@
       <e><p><l>well<s n="adv"/></l><r>malámu<s n="adv"/></r></p></e>
       <e r="RL"><p><l>also<s n="adv"/></l><r>kalakala<s n="adv"/></r></p></e>
       <e><p><l>also<s n="adv"/></l><r>mpé<s n="adv"/></r></p></e>
-      <!-- <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e> -->
-      <!-- <e><p><l>very<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e> -->
+      <e><p><l>too<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
+      <e><p><l>very<s n="adv"/></l><r>míngi<s n="adv"/></r></p></e>
       <e><p><l>outside<s n="adv"/></l><r>libándá<s n="adv"/></r></p></e>
       <e><p><l>up<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
       <e><p><l>upstairs<s n="adv"/></l><r>likólo<s n="adv"/></r></p></e>
@@ -1629,7 +1629,7 @@
       <e><p><l>twice<s n="adv"/></l><r>mbala<b/>míbalé<s n="adv"/></r></p></e>
       <e><p><l>therefore<s n="adv"/></l><r>ndé<s n="adv"/></r></p></e>
       <e><p><l>quite<s n="adv"/></l><r>nye<s n="adv"/></r></p></e>
-      <!-- <e><p><l>enough<s n="adv"/></l><r>ekoki<s n="adv"/></r></p></e> -->
+      <e><p><l>enough<s n="adv"/></l><r>ekoki<s n="adv"/></r></p></e>
       <e><p><l>once<s n="adv"/></l><r>mbala<b/>mókó<s n="adv"/></r></p></e>
       <e><p><l>often<s n="adv"/></l><r>míngi<b/>míngi<s n="adv"/></r></p></e>
       <e><p><l>daily<s n="adv"/></l><r>ntóngó<b/>nyɔ́nsɔ<s n="adv"/></r></p></e>

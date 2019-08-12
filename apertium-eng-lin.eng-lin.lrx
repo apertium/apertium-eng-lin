@@ -14,6 +14,12 @@
     </match>
   </rule>
 
+  <rule>
+    <match lemma="very" tags="adv">
+      <select lemma="penzá" tags="adv"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!--

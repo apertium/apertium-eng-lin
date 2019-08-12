@@ -249,6 +249,19 @@
     </match>
   </rule> -->
 
+  <rule>
+    <match lemma="kozónga" tags="vblex.*">
+      <select lemma="return" tags="vblex.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <!-- <match lemma="ya" tags="*"/> -->
+    <match lemma="kala" tags="adv">
+      <select lemma="old" tags="adj.*"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!--
