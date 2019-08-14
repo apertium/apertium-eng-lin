@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệěfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -910,7 +910,7 @@
       <e><p><l>thing<s n="n"/></l><r>elóko<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>object<s n="n"/></l><r>elóko<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>face<s n="n"/></l><r>elongi<s n="n"/><s n="cl7"/></r></p></e>
-      <e><p><l>city<s n="n"/></l><r>engumba<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>city<s n="n"/></l><r>engúmba<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>place<s n="n"/></l><r>epái<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>place<s n="n"/></l><r>esíká<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>location<s n="n"/></l><r>esíká<s n="n"/><s n="cl7"/></r></p></e>
@@ -1585,6 +1585,7 @@
       <e><p><l>moreover<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
       <e><p><l>rather<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
       <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
+      <e r="RL"><p><l>today<s n="adv"/></l><r>lolo<s n="adv"/></r></p></e>
       <e><p><l>yesterday<s n="adv"/></l><r>lobi<b/>eleki<s n="adv"/></r></p></e>
       <e><p><l>yesterday<s n="adv"/></l><r>lobi<s n="adv"/></r></p></e>
       <e><p><l>tomorrow<s n="adv"/></l><r>lobi<s n="adv"/></r></p></e>
@@ -1658,6 +1659,7 @@
       <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>makási<s n="adj"/></r></p></e>
       <e><p><l>difficult<s n="adj"/></l><r>makási<s n="adj"/></r></p></e>
       <e><p><l>good<s n="adj"/><s n="sint"/></l><r>malámu<s n="adj"/></r></p></e>
+      <e><p><l>nice<s n="adj"/><s n="sint"/></l><r>malámu<s n="adj"/></r></p></e>
       <e><p><l>raw<s n="adj"/><s n="sint"/></l><r>mobésu<s n="adj"/></r></p></e>
       <e><p><l>whole<s n="adj"/></l><r>mobimba<s n="adj"/></r></p></e>
       <e><p><l>some<s n="adj"/></l><r>mwá<s n="adj"/></r></p></e>
