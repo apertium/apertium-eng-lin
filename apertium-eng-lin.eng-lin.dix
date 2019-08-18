@@ -710,7 +710,7 @@
       <e><p><l>life<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>existence<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
       <e r="LR"><p><l>arm<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e> <!--- 'loboko' rarely translates to 'arm' -->
-      <e><p><l>hand<s n="n"/></l><r>loboko<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>hand<s n="n"/></l><r>lobɔ́kɔ<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>vanity<s n="n"/></l><r>lofundu<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>leaf<s n="n"/></l><r>lokásá<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>page<s n="n"/></l><r>lokásá<s n="n"/><s n="cl11"/></r></p></e>
@@ -978,8 +978,8 @@
       <e><p><l>wash<s n="vblex"/></l><r>kosukola<s n="vblex"/></r></p></e>
       <e><p><l>bathe<s n="vblex"/></l><r>kosukola<s n="vblex"/></r></p></e>
       <e><p><l>shower<s n="vblex"/></l><r>kosukola<s n="vblex"/></r></p></e>
-      <e><p><l>write<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
-      <e><p><l>mark<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
+      <e><p><l>write<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+      <e><p><l>mark<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
       <e><p><l>ask<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
       <e><p><l>interrogate<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
       <e><p><l>whirl<s n="vblex"/></l><r>kojelinginya<s n="vblex"/></r></p></e>
@@ -1371,10 +1371,10 @@
       <e><p><l>increase<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
       <e><p><l>ripe<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
       <e><p><l>mature<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
-      <e><p><l>arrive<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
-      <e><p><l>happen<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
-      <e><p><l>become<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
-      <e><p><l>start<b/>to<s n="vblex"/></l><r>kokoma<s n="vblex"/></r></p></e>
+      <e><p><l>arrive<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+      <e><p><l>happen<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+      <e><p><l>become<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+      <e><p><l>start<b/>to<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
       <e><p><l>monopolize<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
       <e><p><l>occupy<b/>by<b/>force<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
       <e><p><l>lie<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
@@ -1578,7 +1578,7 @@
       <e><p><l>not<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
       <e r="LR"><p><l>no<s n="adv"/></l><r>tɛ́<s n="adv"/></r></p></e>
-      <e><p><l>together<s n="adv"/></l><r>elongó<s n="adv"/></r></p></e>
+      <e><p><l>together<s n="adv"/></l><r>elɔngɔ́<s n="adv"/></r></p></e>
       <e><p><l>yes<s n="adv"/></l><r>iyo<s n="adv"/></r></p></e>
       <!-- <e><p><l>once<b/>upon<b/>a<b/>time<s n="adv"/></l><r>kala<s n="adv"/></r></p></e> -->
       <e><p><l>there<s n="adv"/></l><r>wana<s n="adv"/></r></p></e>
@@ -1728,7 +1728,7 @@
 
       <!-- SECTION: Conjunctions -->
 
-      <e><p><l>so<s n="adv"/></l><r>bongo<s n="cnjcoo"/></r></p></e>
+      <e><p><l>so<s n="adv"/></l><r>bɔngɔ́<s n="cnjcoo"/></r></p></e>
       <e><p><l>but<s n="cnjcoo"/></l><r>kasi<s n="cnjcoo"/></r></p></e>
       <e><p><l>and<s n="cnjcoo"/></l><r>mpé<s n="adv"/></r></p></e>
       <e><p><l>and<s n="cnjcoo"/></l><r>pé<s n="cnjcoo"/></r></p></e>
