@@ -526,7 +526,7 @@
       <e><p><l>bracelet<s n="n"/></l><r>ekómo<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>branch<s n="n"/></l><r>etápi<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>bunch<s n="n"/></l><r>ekango<s n="n"/><s n="cl7"/></r></p></e>
-      <e><p><l>pumpkin<s n="n"/></l><r>ekútu<s n="n"/><s n="c75"/></r></p></e>
+      <e><p><l>pumpkin<s n="n"/></l><r>ekútu<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>chip<s n="n"/></l><r>epásu<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>house<s n="n"/></l><r>etakoleli<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>flock<s n="n"/></l><r>étónga<s n="n"/><s n="cl7"/></r></p></e>
@@ -1605,6 +1605,7 @@
       <e><p><l>immediately<s n="adv"/></l><r>sik'oyo<s n="adv"/></r></p></e>
       <e><p><l>where<s n="adv"/><s n="itg"/></l><r>wápi<s n="adv"/></r></p></e>
       <e><p><l>when<s n="adv"/></l><r>tangó<s n="adv"/></r></p></e>
+      <e><p><l>when<s n="adv"/><s n="itg"/></l><r>tangó<s n="adv"/></r></p></e>
       <e><p><l>behind<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
       <e><p><l>after<s n="adv"/></l><r>nsima<s n="adv"/></r></p></e>
       <e><p><l>behind<s n="adv"/></l><r>na<b/>nsima<s n="adv"/></r></p></e>
@@ -1648,6 +1649,7 @@
       <e><p><l>narrow<s n="adj"/><s n="sint"/></l><r>mokɛ́<s n="adj"/></r></p></e>
       <e><p><l>short<s n="adj"/><s n="sint"/></l><r>mokúsé<s n="adj"/></r></p></e>
       <e><p><l>long<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
+      <e><p><l>tall<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
       <e><p><l>big<s n="adj"/><s n="sint"/></l><r>monɛ́nɛ<s n="adj"/><s n="sg"/></r></p></e>
       <e><p><l>all<s n="adj"/></l><r>banso<s n="adj"/></r></p></e>
       <e><p><l>only<s n="adj"/></l><r>bobele<s n="adj"/></r></p></e>
@@ -1725,6 +1727,7 @@
       <e><p><l>of<s n="pr"/></l><r>ya<s n="conn"/></r></p></e>
       <e><p><l>around<s n="pr"/></l><r>zingazinga<s n="pr"/></r></p></e>
       <e r="RL"><p><l>around<s n="pr"/></l><r>nzinganzinga<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>at<s n="pr"/></l><r></r></p></e>
 
       <!-- SECTION: Conjunctions -->
 
@@ -1744,6 +1747,7 @@
       <e><p><l>so<b/>that<s n="cnjsub"/></l><r>mpó<b/>ete<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpó<b/>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>to<s n="pr"/></l><r>mpó<b/>na<s n="cnjcoo"/></r></p></e> <!-- before verbs -->
+      <e><p><l>then<s n="cnjadv"/></l><r>bɔngɔ́<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Connectives and loan words-->
       <e r="RL"><p><l></l><r>ya<s n="conn"/></r></p></e>
