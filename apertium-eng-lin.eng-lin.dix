@@ -179,6 +179,8 @@
      <e><p><l>yourselves<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>bínó<b/>mókó<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
      <e><p><l>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<b/>mókó<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
+     <e><p><l>others<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>mosúsu<s n="n"/><s n="cl3"/><s n="pl"/></r></p></e>
+
      <!-- SECTION: Nouns -->
 
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
@@ -265,7 +267,17 @@
       <e><p><l>soldier<s n="n"/></l><r>sodá<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>dad<s n="n"/></l><r>tata<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>box<s n="n"/></l><r>sanduku<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>mayor<s n="n"/></l><r>bugumési<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>demon<s n="n"/></l><r>zábolo<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>plate<s n="n"/></l><r>sani<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>mosque<s n="n"/></l><r>moske<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>market<s n="n"/></l><r>wɛnzɛ<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>fish<s n="n"/></l><r>mbísi<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>flu<s n="n"/></l><r>gilípi<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>province<s n="n"/></l><r>kanton<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>catholic<s n="n"/></l><r>mumpɛ́<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>origin<s n="n"/></l><r>ewutéli<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>creation<s n="n"/></l><r>ekélami<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>artery<s n="n"/></l><r>mosisa<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>vein<s n="n"/></l><r>mosisa<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>dress<s n="n"/></l><r>moláto<s n="n"/><s n="cl3"/></r></p></e>
@@ -729,7 +741,7 @@
       <e><p><l>ugliness<s n="n"/></l><r>bobé<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>friendship<s n="n"/></l><r>bobóto<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>power<s n="n"/></l><r>bokási<s n="n"/><s n="cl14"/></r></p></e>
-      <e><p><l>illness<s n="n"/></l><r>bokono<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>illness<s n="n"/></l><r>bokɔnɔ<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>length<s n="n"/></l><r>bolaí<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>kindness<s n="n"/></l><r>bolámu<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>love<s n="n"/></l><r>bolingo<s n="n"/><s n="cl14"/></r></p></e>
@@ -823,6 +835,7 @@
       <e><p><l>Kinshasa<s n="np"/></l><r>Kinsásá<s n="np"/></r></p></e>
       <e><p><l>Christ<s n="np"/></l><r>Klisto<s n="np"/></r></p></e>
       <e><p><l>Congo<s n="np"/></l><r>Kongó<s n="np"/></r></p></e>
+      <e><p><l>Congo<s n="np"/></l><r>Kɔ́ngɔ<s n="np"/></r></p></e>
       <e><p><l>Corinth<s n="np"/></l><r>Korente<s n="np"/></r></p></e>
       <e><p><l>Christ<s n="np"/></l><r>Kristo<s n="np"/></r></p></e>
       <e><p><l>Ethiopia<s n="np"/></l><r>Kusi<s n="np"/></r></p></e>
@@ -944,6 +957,15 @@
       <e><p><l>lid<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>language<s n="n"/></l><r>lokótá<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>dialect<s n="n"/></l><r>lokótá<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>July<s n="n"/></l><r>yúli<s n="n"/></r></p></e>
+      <e><p><l>June<s n="n"/></l><r>yúni<s n="n"/></r></p></e>
+      <e><p><l>May<s n="n"/></l><r>máyí<s n="n"/></r></p></e>
+      <e><p><l>April<s n="n"/></l><r>apríli<s n="n"/></r></p></e>
+      <e><p><l>October<s n="n"/></l><r>ɔkɔtɔ́bɛ<s n="n"/></r></p></e>
+      <e><p><l>November<s n="n"/></l><r>novɛ́mbɛ<s n="n"/></r></p></e>
+      <e><p><l>christmas<s n="n"/></l><r>Nɔ́ɛlɛ<s n="n"/></r></p></e>
+      <e><p><l>internet<s n="n"/></l><r>ɛntɛrnɛ́tɛ<s n="n"/></r></p></e>
+      <e><p><l>oxygen<s n="n"/></l><r>oksijɛ́ní<s n="n"/></r></p></e>
 
       <!-- SECTION: Verbs -->
 
@@ -1705,6 +1727,9 @@
       <e><p><l>new<s n="adj"/><s n="sint"/></l><r>sika<s n="adj"/></r></p></e>
       <e><p><l>recent<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
       <e><p><l>cowardly<s n="adj"/></l><r>ngoi<b/>ngoi<s n="adj"/></r></p></e>
+      <e><p><l>south<s n="adj"/><s n="sint"/></l><r>sidi<s n="adj"/></r></p></e>
+      <e><p><l>lingala<s n="adj"/></l><r>lingála<s n="adj"/></r></p></e>
+      <e><p><l>lingala<s n="adj"/></l><r>lingɛlɛ́sa<s n="adj"/></r></p></e>
 
       <!--SECTION: Prepositions -->
 
@@ -1737,11 +1762,15 @@
       <e><p><l>and<s n="cnjcoo"/></l><r>pé<s n="cnjcoo"/></r></p></e>
       <e r="LR"><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
-      <e><p><l>until<s n="adv"/></l><r>tii<s n="cnjcoo"/></r></p></e>
+      <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
+      <e><p><l>until<s n="adv"/></l><r>tíí<s n="cnjcoo"/></r></p></e>
+      <e><p><l>until<s n="adv"/></l><r>kíno<s n="cnjcoo"/></r></p></e>
       <e><p><l>that<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>
       <e><p><l>that<s n="cnjsub"/></l><r>óyo<s n="prn"/><s n="rel"/></r></p></e> <!-- similar to French -->
-      <e><p><l>if<s n="cnjsub"/></l><r>soki<s n="cnjsub"/></r></p></e>
+      <e><p><l>if<s n="cnjsub"/></l><r>sɔ́kí<s n="cnjsub"/></r></p></e>
+      <e><p><l>if<s n="cnjsub"/></l><r>soko<s n="cnjsub"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
+      <e><p><l>or<s n="cnjcoo"/></l><r>tó<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
       <e><p><l>so<b/>that<s n="cnjsub"/></l><r>mpó<b/>ete<s n="cnjcoo"/></r></p></e>
@@ -1751,7 +1780,9 @@
 
       <!-- SECTION: Connectives and loan words-->
       <e r="RL"><p><l></l><r>ya<s n="conn"/></r></p></e>
-      <!-- <e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>ya<s n="conn"/></r></p></e> -->
+      <e r="RL"><p><l></l><r>e<s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>o<s n="conn"/></r></p></e>
+      <e r="RL"><p><l></l><r>a<s n="conn"/></r></p></e>
       <e><p><l>of<s n="pr"/></l><r>ya<s n="conn"/></r></p></e>
       <!--<e><p><l></l><r>o<s n="conn"/></r></p></e> Error, the left side of an entry is left empty-->
       <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r></r></p></e>
@@ -1785,6 +1816,7 @@
       <e><p><l>father<s n="n"/><s n="sg"/></l><r>pápa<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>party<s n="n"/><s n="sg"/></l><r>fɛ́tí<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>Atlantic<s n="np"/><s n="top"/><s n="sg"/></l><r>Atlantíki<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>party<s n="n"/><s n="sg"/></l><r>fɛ́tí<s n="n"/><s n="sg"/></r></p></e>
 
       <!-- SECTION: DETERMINER -->
 
@@ -1817,6 +1849,7 @@
       <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mua<s n="adj"/></r></p></e>
       <e><p><l>other<s n="det"/></l><r>mosúsu<s n="det"/></r></p></e>
       <e><p><l>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>míngi<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>all<s n="det"/><s n="qnt"/><s n="pl"/></l><r>nionso<s n="det"/><s n="qnt"/></r></p></e>
 
       <!-- SECTION: TODO -->
       <!--
