@@ -656,7 +656,7 @@
       <e><p><l>leopard<s n="n"/></l><r>nkoi<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>crocodile<s n="n"/></l><r>nkóli<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>seed<s n="n"/></l><r>nkóna<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>lion<s n="n"/></l><r>nkósi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>lion<s n="n"/></l><r>nkɔ́si<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>miles<s n="n"/></l><r>ntáká<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>cheetah<s n="n"/></l><r>ntambwe<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>animal<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
@@ -673,6 +673,12 @@
       <e><p><l>elephant<s n="n"/></l><r>nzoku<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>body<s n="n"/></l><r>nzɔ́to<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>glory<s n="n"/></l><r>nkémbo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>glory<s n="n"/></l><r>nguyá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>python<s n="n"/></l><r>ngúma<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>red<s n="n"/></l><r>ngóla<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>hair<s n="n"/></l><r>nkunza<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>poison<s n="n"/></l><r>ngɛngɛ<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>insect<s n="n"/></l><r>nzinzi<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>ball<s n="n"/></l><r>balé<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>baptism<s n="n"/></l><r>batísimo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>care<s n="n"/></l><r>bozó<s n="n"/><s n="cl9"/></r></p></e>
@@ -698,6 +704,14 @@
       <e><p><l>wine<s n="n"/></l><r>víno<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>sand<s n="n"/></l><r>zélo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>bird<s n="n"/></l><r>ndɛkɛ<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>newspaper<s n="n"/></l><r>zuluná<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>commune<s n="n"/></l><r>komíni<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>shoe<s n="n"/></l><r>sapáto<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>alphabet<s n="n"/></l><r>afabɛ́<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>diocese<s n="n"/></l><r>dyosɛ́zi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>vaccine<s n="n"/></l><r>mángwɛlɛ́<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>pregancy<s n="n"/></l><r>zemi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>market<s n="n"/></l><r>zándo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>nothing<s n="n"/></l><r>mpámba<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>suffering<s n="n"/></l><r>mpási<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>close<s n="n"/></l><r>mpembéni<s n="n"/><s n="cl9"/></r></p></e>
@@ -705,6 +719,8 @@
       <e><p><l>evening<s n="n"/></l><r>mpókwa<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>sleep<s n="n"/></l><r>mpongí<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>envy<s n="n"/></l><r>mpósá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>horse<s n="n"/></l><r>mpúnda<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>government<s n="n"/></l><r>mbulamatari<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>anger<s n="n"/></l><r>nkándá<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>thunder<s n="n"/></l><r>nkáké<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>calm<s n="n"/></l><r>nkímyá<s n="n"/><s n="cl9"/></r></p></e>
@@ -721,12 +737,19 @@
       <e><p><l>number<s n="n"/></l><r>ntálo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>time<s n="n"/></l><r>ntángo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>morning<s n="n"/></l><r>ntóngó<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>reason<s n="n"/></l><r>ntina<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>cause<s n="n"/></l><r>ntina<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>reason<s n="n"/></l><r>ntína<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>cause<s n="n"/></l><r>ntína<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>doubt<s n="n"/></l><r>ntembe<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>advice<s n="n"/></l><r>ntolí<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>torso<s n="n"/></l><r>ntólo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>forest<s n="n"/></l><r>nzámba<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>neck<s n="n"/></l><r>nkíngó<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>bike<s n="n"/></l><r>nkíngá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>ginger<s n="n"/></l><r>ntángawisi<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>owner<s n="n"/></l><r>nkóló<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>lord<s n="n"/></l><r>nkóló<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>ancestor<s n="n"/></l><r>nkɔ́kɔ<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>ground<s n="n"/></l><r>nsé<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>lip<s n="n"/></l><r>lobebo<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>life<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>existence<s n="n"/></l><r>lobíko<s n="n"/><s n="cl11"/></r></p></e>
@@ -745,6 +768,12 @@
       <e><p><l>pride<s n="n"/></l><r>loléndo<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>method<s n="n"/></l><r>loléngé<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>waves<s n="n"/></l><r>londende<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>residence<s n="n"/></l><r>lopángo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>skin<s n="n"/></l><r>loposo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>skin<s n="n"/></l><r>lomposo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>song<s n="n"/></l><r>loyémbo<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>sea<s n="n"/></l><r>lombú<s n="n"/><s n="cl11"/></r></p></e>
+      <e><p><l>ocean<s n="n"/></l><r>lombú<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>residential<b/>parcel<s n="n"/></l><r>lopángo<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>evil<s n="n"/></l><r>bobé<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>ugliness<s n="n"/></l><r>bobé<s n="n"/><s n="cl14"/></r></p></e>
@@ -789,6 +818,10 @@
       <e><p><l>stupidity<s n="n"/></l><r>bozóba<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>fatness<s n="n"/></l><r>bozitó<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>possession<s n="n"/></l><r>bozwi<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>acquisition<s n="n"/></l><r>bozwi<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>death<s n="n"/></l><r>bowéyi<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>century<s n="n"/></l><r>bonkámá<s n="n"/><s n="cl14"/></r></p></e>
+      <e><p><l>university<s n="n"/></l><r>bobɔngɔ́<s n="n"/><s n="cl14"/></r></p></e>
       <e><p><l>Abel<s n="np"/></l><r>Abel<s n="np"/></r></p></e>
       <e><p><l>Abraham<s n="np"/></l><r>Abraham<s n="np"/></r></p></e>
       <e><p><l>Adam<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
@@ -905,6 +938,20 @@
       <e><p><l>Judah<s n="np"/></l><r>Yuda<s n="np"/></r></p></e>
       <e><p><l>Judas<s n="np"/></l><r>Yudas<s n="np"/></r></p></e>
       <e><p><l>Zaire<s n="np"/></l><r>Zaíre<s n="np"/></r></p></e>
+      <e><p><l>Leopold<s n="np"/></l><r>Léopold<s n="np"/></r></p></e>
+      <e><p><l>Cameroon<s n="np"/></l><r>Kamerun<s n="np"/></r></p></e>
+      <e><p><l>Nigeria<s n="np"/></l><r>Nizeria<s n="np"/></r></p></e>
+      <e><p><l>Ivory<b/>Coast<s n="np"/></l><r>Kotdivuar<s n="np"/></r></p></e>
+      <e r="RL"><p><l>Ivory<b/>Coast<s n="np"/></l><r>Wɛlɛ<s n="np"/></r></p></e>
+      <e><p><l>Mozambique<s n="np"/></l><r>Mozambíki<s n="np"/></r></p></e>
+      <e><p><l>Internet<s n="np"/></l><r>Ɛntɛrnɛ́tɛ<s n="np"/></r></p></e>
+      <e><p><l>Germany<s n="np"/></l><r>Alémani<s n="np"/></r></p></e>
+      <e><p><l>Austria<s n="np"/></l><r>Otrish<s n="np"/></r></p></e>
+      <e><p><l>Portugal<s n="np"/></l><r>Pulutugal<s n="np"/></r></p></e>
+      <e><p><l>London<s n="np"/></l><r>Londoni<s n="np"/></r></p></e>
+      <e><p><l>Italy<s n="np"/></l><r>Italya<s n="np"/></r></p></e>
+      <e><p><l>Chief<s n="np"/></l><r>Mvemba<s n="np"/></r></p></e>
+      <e><p><l>Niger<s n="np"/></l><r>Nizer<s n="np"/></r></p></e>
       <e><p><l>river<s n="n"/></l><r>ebale<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>beginning<s n="n"/></l><r>ebandeli<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>wave<s n="n"/></l><r>ebangá<s n="n"/><s n="cl7"/></r></p></e>
