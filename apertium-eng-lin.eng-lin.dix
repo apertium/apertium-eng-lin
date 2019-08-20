@@ -535,7 +535,7 @@
       <e><p><l>earth<s n="n"/></l><r>mabele<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>oil<s n="n"/></l><r>mafúta<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>perfume<s n="n"/></l><r>malási<s n="n"/><s n="cl5"/></r></p></e>
-      <e><p><l>water<s n="n"/><s n="sg"/></l><r>maí<s n="n"/><s n="cl5"/><s n="pl"/></r></p></e>
+      <e><p><l>water<s n="n"/><s n="sg"/></l><r>máí<s n="n"/><s n="cl5"/><s n="pl"/></r></p></e>
       <e><p><l>blood<s n="n"/></l><r>makilá<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>equator<s n="n"/></l><r>mambénga<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>vaccine<s n="n"/></l><r>mangwele<s n="n"/><s n="cl5"/></r></p></e>
@@ -1662,7 +1662,7 @@
       <e><p><l>there<s n="adv"/></l><r>wana<s n="adv"/></r></p></e>
       <e><p><l>moreover<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
       <e><p><l>rather<s n="adv"/></l><r>kútu<s n="adv"/></r></p></e>
-      <e><p><l>today<s n="adv"/></l><r>lelo<s n="adv"/></r></p></e>
+      <e><p><l>today<s n="adv"/></l><r>lɛlɔ́<s n="adv"/></r></p></e>
       <e r="RL"><p><l>today<s n="adv"/></l><r>lolo<s n="adv"/></r></p></e>
       <e><p><l>yesterday<s n="adv"/></l><r>lobi<b/>eleki<s n="adv"/></r></p></e>
       <e><p><l>yesterday<s n="adv"/></l><r>lobi<s n="adv"/></r></p></e>
@@ -1748,8 +1748,8 @@
       <e><p><l>central<s n="adj"/></l><r>ntei<s n="adj"/></r></p></e>
       <e><p><l>middle<s n="adj"/></l><r>ntei<s n="adj"/></r></p></e>
       <e><p><l>beautiful<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e>
-      <e><p><l>white<s n="adj"/><s n="sint"/></l><r>pémbé<s n="adj"/></r></p></e>
-      <e><p><l>white<s n="adj"/><s n="sint"/></l><r>mpémbé/lr<s n="adj"/></r></p></e>
+      <e><p><l>white<s n="adj"/><s n="sint"/></l><r>pɛ́mbɛ́<s n="adj"/></r></p></e>
+      <e><p><l>white<s n="adj"/><s n="sint"/></l><r>mpɛ́mbɛ́/lr<s n="adj"/></r></p></e>
       <e><p><l>near<s n="adj"/><s n="sint"/></l><r>pɛnɛ<s n="adj"/></r></p></e>
       <e><p><l>clear<s n="adj"/><s n="sint"/></l><r>polele<s n="adj"/></r></p></e>
       <e><p><l>open<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
