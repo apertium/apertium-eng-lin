@@ -185,7 +185,8 @@
 
       <e><p><l>girl<s n="n"/></l><r>mwasi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>child<s n="n"/></l><r>mwana<s n="n"/><s n="cl1"/></r></p></e>
-      <e><p><l>beater<s n="n"/></l><r>mobeti<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>beater<s n="n"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+      <e><p><l>beater<s n="n"/></l><r>drummer<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>blacksmith<s n="n"/></l><r>motúli<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>tailor<s n="n"/></l><r>motóngi<s n="n"/><s n="cl1"/></r></p></e>
       <e><p><l>builder<s n="n"/></l><r>motóngi<s n="n"/><s n="cl1"/></r></p></e>
@@ -390,6 +391,14 @@
       <e><p><l>depth<s n="n"/></l><r>mozindó<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>question<s n="n"/></l><r>motuna<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>light<s n="n"/></l><r>mwinda<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>challenge<s n="n"/></l><r>mokakatano<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>problem<s n="n"/></l><r>mokakatano<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>athlete<s n="n"/></l><r>mosani<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>number<s n="n"/></l><r>motango<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>estimate<s n="n"/></l><r>motango<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>line<s n="n"/></l><r>monkɔ́lɔ́tɔ́<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>gut<s n="n"/></l><r>mosɔpɔ́<s n="n"/><s n="cl3"/></r></p></e>
+      <e><p><l>intestine<s n="n"/></l><r>mosɔpɔ́<s n="n"/><s n="cl3"/></r></p></e>
       <e><p><l>abcess<s n="n"/></l><r>litukú<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>bag<s n="n"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>purse<s n="n"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
@@ -655,9 +664,9 @@
       <e><p><l>cat<s n="n"/></l><r>nyaú<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>snake<s n="n"/></l><r>nyoka<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>hunger<s n="n"/></l><r>nzala<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>street<s n="n"/></l><r>nzelá<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>road<s n="n"/></l><r>nzelá<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>opening<s n="n"/></l><r>nzelá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>street<s n="n"/></l><r>nzélá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>road<s n="n"/></l><r>nzélá<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>opening<s n="n"/></l><r>nzélá<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>song<s n="n"/></l><r>nzémbo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>tree<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>wood<s n="n"/></l><r>nzeté<s n="n"/><s n="cl9"/></r></p></e>
@@ -1730,6 +1739,25 @@
       <e><p><l>south<s n="adj"/><s n="sint"/></l><r>sidi<s n="adj"/></r></p></e>
       <e><p><l>lingala<s n="adj"/></l><r>lingála<s n="adj"/></r></p></e>
       <e><p><l>lingala<s n="adj"/></l><r>lingɛlɛ́sa<s n="adj"/></r></p></e>
+      <e><p><l>yellow<s n="adj"/></l><r>bondɔbɔ́<s n="adj"/></r></p></e>
+      <e><p><l>outside<s n="adj"/></l><r>libándá<s n="adj"/></r></p></e>
+      <e><p><l>Portuguese<s n="adj"/></l><r>liputrugɛ́shi<s n="adj"/></r></p></e>
+      <e r="RL"><p><l>Greek<s n="adj"/></l><r>ligresi<s n="adj"/></r></p></e>
+      <e><p><l>Greek<s n="adj"/></l><r>ligreki<s n="adj"/></r></p></e>
+      <e><p><l>pregnant<s n="adj"/></l><r>zémi<s n="adj"/></r></p></e>
+      <e><p><l>poisonous<s n="adj"/></l><r>ngɛngɛ<s n="adj"/></r></p></e>
+      <e><p><l>red<s n="adj"/><s n="sint"/></l><r>ngóla<s n="adj"/></r></p></e>
+      <e><p><l>German<s n="adj"/></l><r>lialémani<s n="adj"/></r></p></e>
+      <e><p><l>French<s n="adj"/></l><r>lifalansé<s n="adj"/></r></p></e>
+      <e r="RL"><p><l>French<s n="adj"/></l><r>falansé<s n="adj"/></r></p></e>
+      <e><p><l>east<s n="adj"/></l><r>kifwafwa<s n="adj"/></r></p></e>
+      <e><p><l>lingala<s n="adj"/></l><r>ɛ́sita<s n="adj"/></r></p></e>
+      <e><p><l>west<s n="adj"/></l><r>wɛ́sita<s n="adj"/></r></p></e>
+      <e><p><l>north<s n="adj"/><s n="sint"/></l><r>nola<s n="adj"/></r></p></e>
+      <e><p><l>occidental<s n="adj"/></l><r>límbe<s n="adj"/></r></p></e>
+      <e><p><l>alive<s n="adj"/></l><r>bómoí<s n="adj"/></r></p></e>
+      <e><p><l>south<s n="adj"/><s n="sint"/></l><r>súdi<s n="adj"/></r></p></e>
+
 
       <!--SECTION: Prepositions -->
 
@@ -1765,10 +1793,10 @@
       <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
       <e><p><l>until<s n="adv"/></l><r>tíí<s n="cnjcoo"/></r></p></e>
       <e><p><l>until<s n="adv"/></l><r>kíno<s n="cnjcoo"/></r></p></e>
-      <e><p><l>that<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>
+      <e><p><l>that<s n="cnjsub"/></l><r>éte<s n="cnjsub"/></r></p></e>
       <e><p><l>that<s n="cnjsub"/></l><r>óyo<s n="prn"/><s n="rel"/></r></p></e> <!-- similar to French -->
       <e><p><l>if<s n="cnjsub"/></l><r>sɔ́kí<s n="cnjsub"/></r></p></e>
-      <e><p><l>if<s n="cnjsub"/></l><r>soko<s n="cnjsub"/></r></p></e>
+      <e><p><l>if<s n="cnjsub"/></l><r>sɔ́kɔ́<s n="cnjsub"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>tó<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
