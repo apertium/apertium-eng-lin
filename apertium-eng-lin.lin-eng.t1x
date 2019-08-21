@@ -231,6 +231,30 @@
   </section-def-vars>
 
   <section-def-lists>
+    <def-list n="months">
+      <list-item v="yanwáli"/>
+      <list-item v="febwáli"/>
+      <list-item v="mársi"/>
+      <list-item v="apríli"/>
+      <list-item v="máyí"/>
+      <list-item v="yúni"/>
+      <list-item v="yúli"/>
+      <list-item v="ogusiti"/>
+      <list-item v="septembere"/>
+      <list-item v="ɔkɔtɔ́bɛ"/>
+      <list-item v="novɛ́mbɛ"/>
+      <list-item v="dɛsɛ́mbɛ"/>
+      <list-item v="sánzá ya yambo"/>
+      <list-item v="sánzá ya míbalé"/>
+      <list-item v="sánzá ya mísáto"/>
+      <list-item v="sánzá ya mínei"/>
+      <list-item v="sánzá ya mítáno"/>
+      <list-item v="sánzá ya motóbá"/>
+      <list-item v="sánzá ya nsambo"/>
+      <list-item v="sánzá ya mwambe"/>
+      <list-item v="sánzá ya libwa"/>
+      <list-item v="sánzá ya zómi na míbalé"/>
+    </def-list>
     <def-list n="en_majuscules">
       <list-item v="Mokɔlɔ ya libosó"/>
       <list-item v="Mokɔlɔ ya míbalé"/>
@@ -599,6 +623,10 @@
                    <clip pos="1" side="sl" part="a_nom"/>
                    <lit-tag v="np.al"/>
                  </equal>
+                 <in caseless="yes">
+                   <clip pos="1" side="sl" part="lem"/>
+                   <list n="months"/>
+                 </in>
                </or>
                </not>
            </test>

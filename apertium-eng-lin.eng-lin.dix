@@ -179,7 +179,7 @@
      <e><p><l>yourselves<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>bínó<b/>mókó<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
      <e><p><l>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>bangó<b/>mókó<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
-     <e><p><l>others<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>mosúsu<s n="n"/><s n="cl3"/><s n="pl"/></r></p></e>
+     <e><p><l>others<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>mosúsu<s n="n"/><s n="cl3"/><s n="sg"/></r></p></e>
 
      <!-- SECTION: Nouns -->
 
@@ -276,7 +276,7 @@
       <e><p><l>fish<s n="n"/></l><r>mbísi<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>flu<s n="n"/></l><r>gilípi<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>province<s n="n"/></l><r>kanton<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>catholic<s n="n"/></l><r>mumpɛ́<s n="n"/><s n="cl1a"/></r></p></e>
+      <e><p><l>Catholic<s n="n"/></l><r>mumpɛ́<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>origin<s n="n"/></l><r>ewutéli<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>creation<s n="n"/></l><r>ekélami<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>artery<s n="n"/></l><r>mosisa<s n="n"/><s n="cl3"/></r></p></e>
@@ -523,7 +523,7 @@
       <e><p><l>aid<s n="n"/></l><r>lisungi<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>cheek<s n="n"/></l><r>litáma<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>lesson<s n="n"/></l><r>litéya<s n="n"/><s n="cl5"/></r></p></e>
-      <e><p><l>grass'<s n="n"/></l><r>litíti<s n="n"/><s n="cl5"/></r></p></e>
+      <e><p><l>grass<s n="n"/></l><r>litíti<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>ear<s n="n"/></l><r>litói<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>testimony<s n="n"/></l><r>litatoli<s n="n"/><s n="cl5"/></r></p></e>
       <e><p><l>death<s n="n"/></l><r>liwá<s n="n"/><s n="cl5"/></r></p></e>
@@ -570,7 +570,7 @@
       <e><p><l>tool<s n="n"/></l><r>esaléli<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>tsete<b/>fly<s n="n"/></l><r>etuna<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>weed<s n="n"/></l><r>eyémbu<s n="n"/><s n="cl7"/></r></p></e>
-      <e><p><l>sunday<s n="n"/></l><r>eyenga<s n="n"/><s n="cl7"/></r></p></e>
+      <e><p><l>Sunday<s n="n"/></l><r>eyenga<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>holiday<s n="n"/></l><r>eyenga<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>festival<s n="n"/></l><r>eyenga<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>broom<s n="n"/></l><r>ekombeli<s n="n"/><s n="cl7"/></r></p></e>
@@ -642,7 +642,7 @@
       <e><p><l>hallucination<s n="n"/></l><r>ndóto<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>prostitute<s n="n"/></l><r>ndúmba<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>vegetable<s n="n"/></l><r>ndúnda<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>other<b/>side<s n="n"/></l><r>ngámbo<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>side<s n="n"/></l><r>ngámbo<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>bar<s n="n"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>restaurant<s n="n"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>grace<s n="n"/></l><r>ngolu<s n="n"/><s n="cl9"/></r></p></e>
@@ -657,7 +657,7 @@
       <e><p><l>crocodile<s n="n"/></l><r>nkóli<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>seed<s n="n"/></l><r>nkóna<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>lion<s n="n"/></l><r>nkɔ́si<s n="n"/><s n="cl9"/></r></p></e>
-      <e><p><l>miles<s n="n"/></l><r>ntáká<s n="n"/><s n="cl9"/></r></p></e>
+      <e><p><l>mile<s n="n"/></l><r>ntáká<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>cheetah<s n="n"/></l><r>ntambwe<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>animal<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
       <e><p><l>tapeworm<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
@@ -907,7 +907,6 @@
       <e><p><l>Pierre<s n="np"/></l><r>Pierre<s n="np"/></r></p></e>
       <e><p><l>Pilate<s n="np"/></l><r>Pilate<s n="np"/></r></p></e>
       <e><p><l>Pison<s n="np"/></l><r>Pisoni<s n="np"/></r></p></e>
-      <e><p><l>Republic<s n="np"/></l><r>Republíki<s n="np"/></r></p></e>
       <e><p><l>Romans<s n="np"/></l><r>Rome<s n="np"/></r></p></e>
       <e><p><l>Rwanda<s n="np"/></l><r>Rwanda<s n="np"/></r></p></e>
       <e><p><l>Sadducees<s n="np"/></l><r>Sadusé<s n="np"/></r></p></e>
@@ -1013,13 +1012,29 @@
       <e><p><l>lid<s n="n"/></l><r>ezibele<s n="n"/><s n="cl7"/></r></p></e>
       <e><p><l>language<s n="n"/></l><r>lokótá<s n="n"/><s n="cl11"/></r></p></e>
       <e><p><l>dialect<s n="n"/></l><r>lokótá<s n="n"/><s n="cl11"/></r></p></e>
-      <e><p><l>July<s n="n"/></l><r>yúli<s n="n"/></r></p></e>
-      <e><p><l>June<s n="n"/></l><r>yúni<s n="n"/></r></p></e>
-      <e><p><l>May<s n="n"/></l><r>máyí<s n="n"/></r></p></e>
+      <e><p><l>January<s n="n"/></l><r>yanwáli<s n="n"/></r></p></e>
+      <e><p><l>February<s n="n"/></l><r>febwáli<s n="n"/></r></p></e>
+      <e><p><l>March<s n="n"/></l><r>mársi<s n="n"/></r></p></e>
       <e><p><l>April<s n="n"/></l><r>apríli<s n="n"/></r></p></e>
+      <e><p><l>May<s n="n"/></l><r>máyí<s n="n"/></r></p></e>
+      <e><p><l>June<s n="n"/></l><r>yúni<s n="n"/></r></p></e>
+      <e><p><l>July<s n="n"/></l><r>yúli<s n="n"/></r></p></e>
+      <e><p><l>August<s n="n"/></l><r>ogusiti<s n="n"/></r></p></e>
+      <e><p><l>September<s n="n"/></l><r>septembere<s n="n"/></r></p></e>
       <e><p><l>October<s n="n"/></l><r>ɔkɔtɔ́bɛ<s n="n"/></r></p></e>
       <e><p><l>November<s n="n"/></l><r>novɛ́mbɛ<s n="n"/></r></p></e>
-      <e><p><l>christmas<s n="n"/></l><r>Nɔ́ɛlɛ<s n="n"/></r></p></e>
+      <e><p><l>December<s n="n"/><s n="sg"/></l><r>dɛsɛ́mbɛ<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>January<s n="n"/></l><r>sánzá<b/>ya<b/>yambo<s n="n"/></r></p></e>
+      <e><p><l>February<s n="n"/></l><r>sánzá<b/>ya<b/>míbalé<s n="n"/></r></p></e>
+      <e><p><l>March<s n="n"/></l><r>sánzá<b/>ya<b/>mísáto<s n="n"/></r></p></e>
+      <e><p><l>April<s n="n"/></l><r>sánzá<b/>ya<b/>mínei<s n="n"/></r></p></e>
+      <e><p><l>May<s n="n"/></l><r>sánzá<b/>ya<b/>mítáno<s n="n"/></r></p></e>
+      <e><p><l>June<s n="n"/></l><r>sánzá<b/>ya<b/>motóbá<s n="n"/></r></p></e>
+      <e><p><l>July<s n="n"/></l><r>sánzá<b/>ya<b/>nsambo<s n="n"/></r></p></e>
+      <e><p><l>August<s n="n"/></l><r>sánzá<b/>ya<b/>mwambe<s n="n"/></r></p></e>
+      <e><p><l>September<s n="n"/></l><r>sánzá<b/>ya<b/>libwa<s n="n"/></r></p></e>
+      <e><p><l>December<s n="n"/><s n="sg"/></l><r>sánzá<b/>ya<b/>zómi<b/>na<b/>míbalé<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>Christmas<s n="n"/></l><r>Nɔ́ɛlɛ<s n="n"/></r></p></e>
       <e><p><l>internet<s n="n"/></l><r>ɛntɛrnɛ́tɛ<s n="n"/></r></p></e>
       <e><p><l>oxygen<s n="n"/></l><r>oksijɛ́ní<s n="n"/></r></p></e>
 
@@ -1481,7 +1496,7 @@
       <e><p><l>advise<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
       <e><p><l>prepare<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
       <e><p><l>follow<s n="vblex"/></l><r>kolanda<s n="vblex"/></r></p></e>
-      <e><p><l>get<b/>drunk<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+      <e><p><l>intoxicated<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e> <!-- be drunk -->
       <e><p><l>cry<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
       <e><p><l>whine<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
       <e><p><l>pass<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
@@ -1755,7 +1770,7 @@
       <e><p><l>open<s n="adj"/></l><r>polele<s n="adj"/></r></p></e>
       <e><p><l>eternal<s n="adj"/></l><r>seko<s n="adj"/></r></p></e>
       <e><p><l>new<s n="adj"/><s n="sint"/></l><r>sika<s n="adj"/></r></p></e>
-      <e><p><l>true<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
+      <e><p><l>true<s n="adj"/><s n="sint"/></l><r>solo<s n="adj"/></r></p></e>
       <e><p><l>first<s n="adj"/><s n="sint"/></l><r>yambo<s n="adj"/></r></p></e>
       <e><p><l>close<s n="adj"/><s n="sint"/></l><r>mpembéni<s n="adj"/></r></p></e>
       <e><p><l>old<s n="adj"/><s n="sint"/></l><r>kala<s n="adj"/></r></p></e>
@@ -1838,16 +1853,16 @@
       <e r="LR"><p><l>and<s n="adv"/></l><r>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpó<s n="cnjcoo"/></r></p></e>
-      <e><p><l>until<s n="adv"/></l><r>tíí<s n="cnjcoo"/></r></p></e>
-      <e><p><l>until<s n="adv"/></l><r>kíno<s n="cnjcoo"/></r></p></e>
+      <e><p><l>until<s n="cnjsub"/></l><r>tíí<s n="cnjcoo"/></r></p></e>
+      <e><p><l>until<s n="cnjsub"/></l><r>kíno<s n="cnjcoo"/></r></p></e>
       <e><p><l>that<s n="cnjsub"/></l><r>éte<s n="cnjsub"/></r></p></e>
       <e><p><l>that<s n="cnjsub"/></l><r>óyo<s n="prn"/><s n="rel"/></r></p></e> <!-- similar to French -->
       <e><p><l>if<s n="cnjsub"/></l><r>sɔ́kí<s n="cnjsub"/></r></p></e>
       <e><p><l>if<s n="cnjsub"/></l><r>sɔ́kɔ́<s n="cnjsub"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>to<s n="cnjcoo"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>tó<s n="cnjcoo"/></r></p></e>
-      <e><p><l>because<s n="cnjcoo"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
-      <e><p><l>because<s n="cnjcoo"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
+      <e><p><l>because<s n="cnjsub"/></l><r>mpɔ<s n="cnjcoo"/></r></p></e>
+      <e><p><l>because<s n="cnjsub"/></l><r>zambi<s n="cnjcoo"/></r></p></e>
       <e><p><l>so<b/>that<s n="cnjsub"/></l><r>mpó<b/>ete<s n="cnjcoo"/></r></p></e>
       <e><p><l>for<s n="cnjadv"/></l><r>mpó<b/>na<s n="cnjcoo"/></r></p></e>
       <e><p><l>to<s n="pr"/></l><r>mpó<b/>na<s n="cnjcoo"/></r></p></e> <!-- before verbs -->
@@ -1879,7 +1894,6 @@
       <e><p><l>witness<s n="n"/><s n="sg"/></l><r>temwe<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>chickenpox<s n="n"/><s n="sg"/></l><r>varicelle<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>thank<b/>you<s n="ij"/></l><r>mersi<s n="n"/><s n="sg"/></r></p></e>
-      <e><p><l>December<s n="n"/><s n="sg"/></l><r>Dɛsɛ́mbɛ<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>February<s n="n"/><s n="sg"/></l><r>Febwáli<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>state<s n="n"/><s n="sg"/></l><r>letá<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>politics<s n="n"/><s n="sg"/></l><r>politíki<s n="n"/><s n="sg"/></r></p></e>
@@ -1892,6 +1906,8 @@
       <e><p><l>party<s n="n"/><s n="sg"/></l><r>fɛ́tí<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>Atlantic<s n="np"/><s n="top"/><s n="sg"/></l><r>Atlantíki<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>party<s n="n"/><s n="sg"/></l><r>fɛ́tí<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>republic<s n="n"/><s n="sg"/></l><r>republíki<s n="n"/><s n="sg"/></r></p></e>
+
 
       <!-- SECTION: DETERMINER -->
 
@@ -1922,7 +1938,7 @@
       <e><p><l>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>náni<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/></r></p></e>
       <e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mwá<s n="adj"/></r></p></e>
       <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mua<s n="adj"/></r></p></e>
-      <e><p><l>other<s n="det"/></l><r>mosúsu<s n="det"/></r></p></e>
+      <e><p><l>other<s n="det"/><s n="ind"/><s n="sg"/></l><r>mosúsu<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
       <e><p><l>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>míngi<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>all<s n="det"/><s n="qnt"/><s n="pl"/></l><r>nionso<s n="det"/><s n="qnt"/></r></p></e>
 
