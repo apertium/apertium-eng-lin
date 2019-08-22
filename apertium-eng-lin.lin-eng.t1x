@@ -64,6 +64,7 @@
 
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
+      <cat-item tags="adj"/>
       <cat-item tags="adj.pos.*"/>
     </def-cat>
 
@@ -721,6 +722,53 @@
        </choose>
      </def-macro>
 
+    <def-macro n="f_concord2" npar="2">
+      <!--element 1= principal (nom). Element 2 = secundari (adj/det)
+          En anglès els noms poden ser sg, pl o ND (mai sp en els diccs actuals)-->
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit-tag v="ND"/>
+            </equal>
+          </test>
+          <choose>
+            <when>
+              <test>
+                <or>
+                  <equal>
+                    <clip pos="2" side="tl" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                  <equal>
+                    <clip pos="2" side="tl" part="nbr"/>
+                    <lit-tag v="pl"/>
+                  </equal>
+                </or>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="nbr"/>
+                <clip pos="2" side="tl" part="nbr"/>
+              </let>
+            </when>
+            <when>
+	      <!--'tres dijous' -->
+              <test>
+                <equal>
+                  <clip pos="2" side="tl" part="a_num"/>
+                  <lit-tag v="num"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="pl"/>
+              </let>
+            </when>
+          </choose>
+        </when>
+      </choose>
+    </def-macro>
   </section-def-macros>
 
   <section-rules>
@@ -790,6 +838,10 @@
         <pattern-item n="adj"/>
       </pattern>
       <action>
+        <call-macro n="f_concord2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
         <call-macro n="nom_article1">
           <with-param pos="1"/>
         </call-macro>
@@ -801,6 +853,7 @@
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
             </tags>
             <var n="article"/>
             <lu>
@@ -812,8 +865,8 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
-
           </chunk>
         </out>
       </action>
@@ -860,9 +913,8 @@
       </action>
     </rule>
 
-    <rule comment="RULE: NOM ADJ">
+    <rule comment="REGLA: ADJ">
       <pattern>
-        <pattern-item n="nom"/>
         <pattern-item n="adj"/>
       </pattern>
       <action>
@@ -870,31 +922,57 @@
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="nom_adj" case="caseFirstWord">
+          <chunk name="adj" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <get-case-from pos="1">
-                <lit v="the"/>
-              </get-case-from>
-              <lit-tag v="det"/>
-              <lit-tag v="def"/>
-              <lit-tag v="sp"/>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
-            <b/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: NOM ADJ">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord2">
+          <with-param pos="1"/>
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="nom_article1">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="nom_adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <var n="article"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_adj"/>
             </lu>
-            <b/>
+            <b pos="1"/>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="a_nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
-
           </chunk>
         </out>
       </action>
