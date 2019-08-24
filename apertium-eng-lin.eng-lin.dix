@@ -261,7 +261,7 @@
       <e><p><l>lord<s n="n"/></l><r>nkolo<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>owner<s n="n"/></l><r>nkolo<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>uncle<s n="n"/></l><r>nókó<s n="n"/><s n="cl1a"/></r></p></e>
-      <e><p><l>free<s n="n"/></l><r>nsómí<s n="n"/><s n="cl1a"/></r></p></e>
+      <!-- <e><p><l>free<s n="n"/></l><r>nsómí<s n="n"/><s n="cl1a"/></r></p></e> -->
       <e><p><l>apostle<s n="n"/></l><r>ntoma<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>bee<s n="n"/></l><r>nzói<s n="n"/><s n="cl1a"/></r></p></e>
       <e><p><l>prophet<s n="n"/></l><r>profete<s n="n"/><s n="cl1a"/></r></p></e>
@@ -1439,7 +1439,7 @@
       <e><p><l>donate<s n="vblex"/></l><r>kokaba<s n="vblex"/></r></p></e>
       <e><p><l>negotiate<s n="vblex"/></l><r>kokákola<s n="vblex"/></r></p></e>
       <e><p><l>be<b/>surprised<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
-      <e><p><l>amazed<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+      <e><p><l>amaze<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
       <e><p><l>decide<s n="vblex"/></l><r>kokána<s n="vblex"/></r></p></e>
       <e><p><l>close<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
       <e><p><l>catch<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
