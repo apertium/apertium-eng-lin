@@ -1,0 +1,8 @@
+[Rq4hLTKPVh3s#0] ^Nom_det<SN><pl>{^your<det><pos><sp>$ ^grandparent<n><pl>$}$^Sent<SENT>{^.<sent>$}$
+[/Rq4hLTKPVh3s]
+[XdKuLfLo8NXN#0] ^Nom_det<SN><sg>{^my<det><pos><sp>$ ^book<n><sg>$}$^Sent<SENT>{^.<sent>$}$
+[/XdKuLfLo8NXN]
+[q-PBWENzfTRN#0] ^Nom_det<SN><pl>{^your<det><pos><sp>$ ^case<n><pl>$}$^Sent<SENT>{^.<sent>$}$
+[/q-PBWENzfTRN]
+[xcIfmhf32Gci#0] ^Nom_det<SN><sg>{^his<det><pos><sp>$ ^school<n><sg>$}$^Sent<SENT>{^.<sent>$}$
+[/xcIfmhf32Gci]

@@ -1,0 +1,10 @@
+{
+    "eng-lin-regression": {
+        "input": "eng-lin-regression-input.txt",
+        "mode": "eng-lin"
+    },
+    "lin-eng-regression": {
+        "input": "lin-eng-regression-input.txt",
+        "mode": "lin-eng"
+    }
+}

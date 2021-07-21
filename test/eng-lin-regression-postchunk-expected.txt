@@ -1,0 +1,78 @@
+[-IINzfPXLgZi#0] ^elanga<n><cl7><sg>$ ^ya yé<det><pos><sp>$
+[/-IINzfPXLgZi]
+[-bguz2wxqrh6#0] ^ndáko<n><cl1a><sg>$
+[/-bguz2wxqrh6]
+[-o4_2Xvqv8Cu#0] ^mesa<n><cl9><sg>$
+[/-o4_2Xvqv8Cu]
+[0iUFSyDXkUvn#0] ^Kozala<vblex><past><p1><sg><aa>$ ^kosakana<vblex><ger><aa>$^.<sent>$
+[/0iUFSyDXkUvn]
+[0sogRVsm2f4s#0] ^Kosakana<vblex><pres><p1><sg><aa>$^.<sent>$
+[/0sogRVsm2f4s]
+[2FGVfTHBPiSO#0] ^Kozala<vblex><pres><p1><sg><aa>$ ^tɛ́<adv>$ ^kosakana<vblex><ger><aa>$^.<sent>$
+[/2FGVfTHBPiSO]
+[4sADC4YbYW2d#0] ^elanga<n><cl7><sg>$ ^na yé<det><pos><sp>$
+[/4sADC4YbYW2d]
+[9Xr7fSdaJt8N#0] ^Ya ngáí<prn><pos><p1><sg><aa>$
+[/9Xr7fSdaJt8N]
+[A18J8j4gQBpW#0] ^na<pr>$  ^elanga<n><cl7><sg>$
+[/A18J8j4gQBpW]
+[AfgyRTrWZ3o7#0] ^Ya yé<det><pos><sp>$^.<sent>$
+[/AfgyRTrWZ3o7]
+[BW8hyrGvQgq8#0] ^elanga<n><cl7><sg>$ ^na ngáí<det><pos><sp>$
+[/BW8hyrGvQgq8]
+[Dlwfl9aHXjc6#0] ^Bangó<prn><pers><p3><pl><aa>$^.<sent>$
+[/Dlwfl9aHXjc6]
+[HJ49NSN_3MJP#0] ^elanga<n><cl7><sg>$ ^ya yó<det><pos><sp>$
+[/HJ49NSN_3MJP]
+[ME5Nib9lAlfd#0] ^Bísó<prn><pers><p1><pl><aa>$^.<sent>$
+[/ME5Nib9lAlfd]
+[NMVGEWFRyLQO#0] ^Ya yé<prn><pos><p3><sg><aa>$^.<sent>$
+[/NMVGEWFRyLQO]
+[O30m9MgGF7Qu#0] ^káti<pr>$  ^elanga<n><cl7><sg>$
+[/O30m9MgGF7Qu]
+[RK7svtz2Gg0j#0] ^Ngáí<prn><pers><p1><sg><aa>$ ^*will$ ^kosakana<vblex><inf><aa>$^.<sent>$
+[/RK7svtz2Gg0j]
+[TIgk9r4dNlI1#0] ^Yó<prn><pers><p2><sg><aa>$^.<sent>$
+[/TIgk9r4dNlI1]
+[U2Otfn0s9CX2#0] ^Kozala<vblex><pres><p1><sg><aa>$ ^kosakana<vblex><ger><aa>$^.<sent>$
+[/U2Otfn0s9CX2]
+[US5FTfuAXHXA#0] ^Ya yé<prn><pos><p3><sg><aa>$^.<sent>$
+[/US5FTfuAXHXA]
+[UwGZIId2kUpl#0] ^Yé<prn><pers><p3><sg><aa>$^.<sent>$
+[/UwGZIId2kUpl]
+[YXf9JmTXhb88#0] ^Ngáí<prn><pers><p1><sg><aa>$^.<sent>$
+[/YXf9JmTXhb88]
+[YgERG4Ogy1sJ#0] ^mpé<adv>$
+[/YgERG4Ogy1sJ]
+[YpxiIAk4tXMF#0] ^elanga<n><cl7><sg>$^.<sent>$
+[/YpxiIAk4tXMF]
+[YtndlQptxMOR#0] ^Ya bangó<prn><pos><p3><pl><aa>$^.<sent>$
+[/YtndlQptxMOR]
+[ZXelxUo8Zb9w#0] ^elanga<n><cl7><sg>$ ^na bísó<det><pos><sp>$
+[/ZXelxUo8Zb9w]
+[cXVRejcLXNLm#0] ^tó<cnjcoo>$
+[/cXVRejcLXNLm]
+[d7EErtBHX5L8#0] ^Ya yó<prn><pos><p2><sg><aa>$^.<sent>$
+[/d7EErtBHX5L8]
+[jDQI5hARW-oM#0] ^Kosakana<vblex><past><p1><sg><aa>$^.<sent>$
+[/jDQI5hARW-oM]
+[jk9o8HmUteG3#0] ^Yé<prn><pers><p3><sg><aa>$^.<sent>$
+[/jk9o8HmUteG3]
+[lveZjovBHSLD#0] ^na<pr>$ ^elanga<n><cl7><sg>$
+[/lveZjovBHSLD]
+[mUtn5R0m9HkB#0] ^Kosála<vblex><past><p1><sg><aa>$ ^tɛ́<adv>$ ^kosakana<vblex><inf><aa>$^.<sent>$
+[/mUtn5R0m9HkB]
+[rzlxS9VN28Zd#0] ^elanga<n><cl7><sg>$
+[/rzlxS9VN28Zd]
+[uWRGgt06CQeP#0] ^Kozala<vblex><past><p1><sg><aa>$ ^tɛ́<adv>$ ^kosakana<vblex><ger><aa>$^.<sent>$
+[/uWRGgt06CQeP]
+[uzLWro1D8SwB#0] ^elanga<n><cl7><sg>$ ^na yé<det><pos><sp>$
+[/uzLWro1D8SwB]
+[wb6oFWpwk-9m#0] ^Kosála<vblex><pres><p1><sg><aa>$ ^tɛ́<adv>$ ^kosakana<vblex><inf><aa>$^.<sent>$
+[/wb6oFWpwk-9m]
+[z6TE5KOVHKGy#0] ^Ya bísó<prn><pos><p1><pl><aa>$^.<sent>$
+[/z6TE5KOVHKGy]
+[zcKZN4hxiK03#0] ^kasi<cnjcoo>$
+[/zcKZN4hxiK03]
+[zh_1Y178TVVL#0] ^Yé<prn><pers><p3><sg><aa>$^.<sent>$
+[/zh_1Y178TVVL]

@@ -1,0 +1,78 @@
+[-IINzfPXLgZi#0] ^its<det><pos><sp>$ ^garden<n><sg>$
+[/-IINzfPXLgZi]
+[-bguz2wxqrh6#0] ^the<det><def><sp>$ ^house<n><sg>$
+[/-bguz2wxqrh6]
+[-o4_2Xvqv8Cu#0] ^the<det><def><sp>$ ^table<n><sg>$
+[/-o4_2Xvqv8Cu]
+[0iUFSyDXkUvn#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^play<vblex><ger>$^.<sent>$
+[/0iUFSyDXkUvn]
+[0sogRVsm2f4s#0] ^Prpers<prn><subj><p1><mf><sg>$ ^play<vblex><pres>$^.<sent>$
+[/0sogRVsm2f4s]
+[2FGVfTHBPiSO#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^not<adv>$ ^play<vblex><ger>$^.<sent>$
+[/2FGVfTHBPiSO]
+[4sADC4YbYW2d#0] ^his<det><pos><sp>$ ^garden<n><sg>$
+[/4sADC4YbYW2d]
+[9Xr7fSdaJt8N#0] ^Prpers<prn><pos><p1><mf><sg>$
+[/9Xr7fSdaJt8N]
+[A18J8j4gQBpW#0] ^in<pr>$ ^the<det><def><sp>$ ^garden<n><sg>$
+[/A18J8j4gQBpW]
+[AfgyRTrWZ3o7#0] ^Its<det><pos><sp>$^.<sent>$
+[/AfgyRTrWZ3o7]
+[BW8hyrGvQgq8#0] ^my<det><pos><sp>$ ^garden<n><sg>$
+[/BW8hyrGvQgq8]
+[Dlwfl9aHXjc6#0] ^Prpers<prn><subj><p3><mf><pl>$^.<sent>$
+[/Dlwfl9aHXjc6]
+[HJ49NSN_3MJP#0] ^your<det><pos><sp>$ ^garden<n><sg>$
+[/HJ49NSN_3MJP]
+[ME5Nib9lAlfd#0] ^Prpers<prn><subj><p1><mf><pl>$^.<sent>$
+[/ME5Nib9lAlfd]
+[NMVGEWFRyLQO#0] ^Prpers<prn><pos><p3><f><sg>$^.<sent>$
+[/NMVGEWFRyLQO]
+[O30m9MgGF7Qu#0] ^inside<pr>$ ^the<det><def><sp>$ ^garden<n><sg>$
+[/O30m9MgGF7Qu]
+[RK7svtz2Gg0j#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*will$ ^play<vblex><inf>$^.<sent>$
+[/RK7svtz2Gg0j]
+[TIgk9r4dNlI1#0] ^Prpers<prn><subj><p2><mf><sp>$^.<sent>$
+[/TIgk9r4dNlI1]
+[U2Otfn0s9CX2#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^play<vblex><ger>$^.<sent>$
+[/U2Otfn0s9CX2]
+[US5FTfuAXHXA#0] ^Prpers<prn><pos><p3><m><sg>$^.<sent>$
+[/US5FTfuAXHXA]
+[UwGZIId2kUpl#0] ^Prpers<prn><subj><p3><nt><sg>$^.<sent>$
+[/UwGZIId2kUpl]
+[YXf9JmTXhb88#0] ^Prpers<prn><subj><p1><mf><sg>$^.<sent>$
+[/YXf9JmTXhb88]
+[YgERG4Ogy1sJ#0] ^and<cnjcoo>$
+[/YgERG4Ogy1sJ]
+[YpxiIAk4tXMF#0] ^garden<n><sg>$^.<sent>$
+[/YpxiIAk4tXMF]
+[YtndlQptxMOR#0] ^Prpers<prn><pos><p3><mf><pl>$^.<sent>$
+[/YtndlQptxMOR]
+[ZXelxUo8Zb9w#0] ^our<det><pos><sp>$ ^garden<n><sg>$
+[/ZXelxUo8Zb9w]
+[cXVRejcLXNLm#0] ^or<cnjcoo>$
+[/cXVRejcLXNLm]
+[d7EErtBHX5L8#0] ^Prpers<prn><pos><p2><mf><sp>$^.<sent>$
+[/d7EErtBHX5L8]
+[jDQI5hARW-oM#0] ^Prpers<prn><subj><p1><mf><sg>$ ^play<vblex><past>$^.<sent>$
+[/jDQI5hARW-oM]
+[jk9o8HmUteG3#0] ^Prpers<prn><subj><p3><f><sg>$^.<sent>$
+[/jk9o8HmUteG3]
+[lveZjovBHSLD#0] ^in<pr>$ ^garden<n><sg>$
+[/lveZjovBHSLD]
+[mUtn5R0m9HkB#0] ^Prpers<prn><subj><p1><mf><sg>$ ^do<vblex><past>$ ^not<adv>$ ^play<vblex><inf>$^.<sent>$
+[/mUtn5R0m9HkB]
+[rzlxS9VN28Zd#0] ^the<det><def><sp>$ ^garden<n><sg>$
+[/rzlxS9VN28Zd]
+[uWRGgt06CQeP#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^not<adv>$ ^play<vblex><ger>$^.<sent>$
+[/uWRGgt06CQeP]
+[uzLWro1D8SwB#0] ^her<det><pos><sp>$ ^garden<n><sg>$
+[/uzLWro1D8SwB]
+[wb6oFWpwk-9m#0] ^Prpers<prn><subj><p1><mf><sg>$ ^do<vblex><pres>$ ^not<adv>$ ^play<vblex><inf>$^.<sent>$
+[/wb6oFWpwk-9m]
+[z6TE5KOVHKGy#0] ^Prpers<prn><pos><p1><mf><pl>$^.<sent>$
+[/z6TE5KOVHKGy]
+[zcKZN4hxiK03#0] ^but<cnjcoo>$
+[/zcKZN4hxiK03]
+[zh_1Y178TVVL#0] ^Prpers<prn><subj><p3><m><sg>$^.<sent>$
+[/zh_1Y178TVVL]

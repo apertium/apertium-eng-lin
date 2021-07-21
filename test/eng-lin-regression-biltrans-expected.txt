@@ -1,0 +1,78 @@
+[-IINzfPXLgZi#0] ^its<det><pos><sp>/ya yé<det><pos><sp>/na yé<det><pos><sp>$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/-IINzfPXLgZi]
+[-bguz2wxqrh6#0] ^the<det><def><sp>/$ ^house<n><sg>/ndáko<n><cl1a><sg>/etakoleli<n><cl7><sg>$
+[/-bguz2wxqrh6]
+[-o4_2Xvqv8Cu#0] ^the<det><def><sp>/$ ^table<n><sg>/mesa<n><cl9><sg>$
+[/-o4_2Xvqv8Cu]
+[0iUFSyDXkUvn#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^be<vbser><past><p1><sg>/kozala<vblex><past><p1><sg>/kozala<vaux><past><p1><sg>$ ^play<vblex><ger>/kosakana<vblex><ger>$^.<sent>/.<sent>$
+[/0iUFSyDXkUvn]
+[0sogRVsm2f4s#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^play<vblex><pres>/kosakana<vblex><pres>$^.<sent>/.<sent>$
+[/0sogRVsm2f4s]
+[2FGVfTHBPiSO#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^be<vbser><pres><p1><sg>/kozala<vblex><pres><p1><sg>/kozala<vaux><pres><p1><sg>$ ^not<adv>/tɛ́<adv>$ ^play<vblex><ger>/kosakana<vblex><ger>$^.<sent>/.<sent>$
+[/2FGVfTHBPiSO]
+[4sADC4YbYW2d#0] ^his<det><pos><sp>/na yé<det><pos><sp>/ya yé<det><pos><sp>$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/4sADC4YbYW2d]
+[9Xr7fSdaJt8N#0] ^Prpers<prn><pos><p1><mf><sg>/Ya ngáí<prn><pos><p1><sg><aa>$
+[/9Xr7fSdaJt8N]
+[A18J8j4gQBpW#0] ^in<pr>/na<pr>$ ^the<det><def><sp>/$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/A18J8j4gQBpW]
+[AfgyRTrWZ3o7#0] ^Its<det><pos><sp>/Ya yé<det><pos><sp>/Na yé<det><pos><sp>$^.<sent>/.<sent>$
+[/AfgyRTrWZ3o7]
+[BW8hyrGvQgq8#0] ^my<det><pos><sp>/na ngáí<det><pos><sp>/ya ngáí<det><pos><sp>$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/BW8hyrGvQgq8]
+[Dlwfl9aHXjc6#0] ^Prpers<prn><subj><p3><mf><pl>/Bangó<prn><pers><p3><pl><aa>$^.<sent>/.<sent>$
+[/Dlwfl9aHXjc6]
+[HJ49NSN_3MJP#0] ^your<det><pos><sp>/ya yó<det><pos><sp>/na yó<det><pos><sp>/ya bínó<det><pos><sp>/na bínó<det><pos><sp>$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/HJ49NSN_3MJP]
+[ME5Nib9lAlfd#0] ^Prpers<prn><subj><p1><mf><pl>/Bísó<prn><pers><p1><pl><aa>$^.<sent>/.<sent>$
+[/ME5Nib9lAlfd]
+[NMVGEWFRyLQO#0] ^Prpers<prn><pos><p3><f><sg>/Ya yé<prn><pos><p3><sg><aa>$^.<sent>/.<sent>$
+[/NMVGEWFRyLQO]
+[O30m9MgGF7Qu#0] ^inside<pr>/káti<pr>/na káti<pr>$ ^the<det><def><sp>/$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/O30m9MgGF7Qu]
+[RK7svtz2Gg0j#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^*will/*will$ ^play<vblex><inf>/kosakana<vblex><inf>$^.<sent>/.<sent>$
+[/RK7svtz2Gg0j]
+[TIgk9r4dNlI1#0] ^Prpers<prn><subj><p2><mf><sp>/Yó<prn><pers><p2><sg><aa>/Bínó<prn><pers><p2><pl><aa>$^.<sent>/.<sent>$
+[/TIgk9r4dNlI1]
+[U2Otfn0s9CX2#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^be<vbser><pres><p1><sg>/kozala<vblex><pres><p1><sg>/kozala<vaux><pres><p1><sg>$ ^play<vblex><ger>/kosakana<vblex><ger>$^.<sent>/.<sent>$
+[/U2Otfn0s9CX2]
+[US5FTfuAXHXA#0] ^Prpers<prn><pos><p3><m><sg>/Ya yé<prn><pos><p3><sg><aa>$^.<sent>/.<sent>$
+[/US5FTfuAXHXA]
+[UwGZIId2kUpl#0] ^Prpers<prn><subj><p3><nt><sg>/Yé<prn><pers><p3><sg><aa>$^.<sent>/.<sent>$
+[/UwGZIId2kUpl]
+[YXf9JmTXhb88#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$^.<sent>/.<sent>$
+[/YXf9JmTXhb88]
+[YgERG4Ogy1sJ#0] ^and<cnjcoo>/mpé<adv>/pé<cnjcoo>$
+[/YgERG4Ogy1sJ]
+[YpxiIAk4tXMF#0] ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$^.<sent>/.<sent>$
+[/YpxiIAk4tXMF]
+[YtndlQptxMOR#0] ^Prpers<prn><pos><p3><mf><pl>/Ya bangó<prn><pos><p3><pl><aa>$^.<sent>/.<sent>$
+[/YtndlQptxMOR]
+[ZXelxUo8Zb9w#0] ^our<det><pos><sp>/na bísó<det><pos><sp>/ya bísó<det><pos><sp>$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/ZXelxUo8Zb9w]
+[cXVRejcLXNLm#0] ^or<cnjcoo>/tó<cnjcoo>/to<cnjcoo>$
+[/cXVRejcLXNLm]
+[d7EErtBHX5L8#0] ^Prpers<prn><pos><p2><mf><sp>/Ya yó<prn><pos><p2><sg><aa>/Ya bínó<prn><pos><p2><pl><aa>$^.<sent>/.<sent>$
+[/d7EErtBHX5L8]
+[jDQI5hARW-oM#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^play<vblex><past>/kosakana<vblex><past>$^.<sent>/.<sent>$
+[/jDQI5hARW-oM]
+[jk9o8HmUteG3#0] ^Prpers<prn><subj><p3><f><sg>/Yé<prn><pers><p3><sg><aa>$^.<sent>/.<sent>$
+[/jk9o8HmUteG3]
+[lveZjovBHSLD#0] ^in<pr>/na<pr>$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/lveZjovBHSLD]
+[mUtn5R0m9HkB#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^do<vblex><past>/kosála<vblex><past>$ ^not<adv>/tɛ́<adv>$ ^play<vblex><inf>/kosakana<vblex><inf>$^.<sent>/.<sent>$
+[/mUtn5R0m9HkB]
+[rzlxS9VN28Zd#0] ^the<det><def><sp>/$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/rzlxS9VN28Zd]
+[uWRGgt06CQeP#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^be<vbser><past><p1><sg>/kozala<vblex><past><p1><sg>/kozala<vaux><past><p1><sg>$ ^not<adv>/tɛ́<adv>$ ^play<vblex><ger>/kosakana<vblex><ger>$^.<sent>/.<sent>$
+[/uWRGgt06CQeP]
+[uzLWro1D8SwB#0] ^her<det><pos><sp>/na yé<det><pos><sp>/ya yé<det><pos><sp>$ ^garden<n><sg>/elanga<n><cl7><sg>/lisalá<n><cl5><sg>$
+[/uzLWro1D8SwB]
+[wb6oFWpwk-9m#0] ^Prpers<prn><subj><p1><mf><sg>/Ngáí<prn><pers><p1><sg><aa>$ ^do<vblex><pres>/kosála<vblex><pres>$ ^not<adv>/tɛ́<adv>$ ^play<vblex><inf>/kosakana<vblex><inf>$^.<sent>/.<sent>$
+[/wb6oFWpwk-9m]
+[z6TE5KOVHKGy#0] ^Prpers<prn><pos><p1><mf><pl>/Ya bísó<prn><pos><p1><pl><aa>$^.<sent>/.<sent>$
+[/z6TE5KOVHKGy]
+[zcKZN4hxiK03#0] ^but<cnjcoo>/kasi<cnjcoo>$
+[/zcKZN4hxiK03]
+[zh_1Y178TVVL#0] ^Prpers<prn><subj><p3><m><sg>/Yé<prn><pers><p3><sg><aa>$^.<sent>/.<sent>$
+[/zh_1Y178TVVL]

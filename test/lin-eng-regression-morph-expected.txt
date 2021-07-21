@@ -1,0 +1,8 @@
+[Rq4hLTKPVh3s#0] ^Bakóko/kóko<n><cl1a><pl>$ ^na yó/na yó<det><pos><sp>$^./.<sent>/.<sent>$
+[/Rq4hLTKPVh3s]
+[XdKuLfLo8NXN#0] ^Búku/búku<n><cl9><sg>$ ^na ngáí/na ngáí<det><pos><sp>$^./.<sent>/.<sent>$
+[/XdKuLfLo8NXN]
+[q-PBWENzfTRN#0] ^Makambo/likambo<n><cl5><pl>$ ^na yó/na yó<det><pos><sp>$^./.<sent>/.<sent>$
+[/q-PBWENzfTRN]
+[xcIfmhf32Gci#0] ^Kelasi/kelasi<n><cl1a><sg>$ ^na yé/na yé<det><pos><sp>$^./.<sent>/.<sent>$
+[/xcIfmhf32Gci]

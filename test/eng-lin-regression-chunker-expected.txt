@@ -1,0 +1,78 @@
+[-IINzfPXLgZi#0] ^det_nom<SN><sg>{^elanga<n><cl7><sg>$ ^ya yé<det><pos><sp>$}$
+[/-IINzfPXLgZi]
+[-bguz2wxqrh6#0] ^default<default>{^ndáko<n><cl1a><sg>$}$
+[/-bguz2wxqrh6]
+[-o4_2Xvqv8Cu#0] ^default<default>{^mesa<n><cl9><sg>$}$
+[/-o4_2Xvqv8Cu]
+[0iUFSyDXkUvn#0] ^pron_verb<SV><vblex><p1><sg>{^Kozala<vblex><past><p1><sg><aa>$}$ ^lemma_verb<SV><vblex>{^kosakana<vblex><ger><aa>$}$^sent<SENT>{^.<sent>$}$
+[/0iUFSyDXkUvn]
+[0sogRVsm2f4s#0] ^pron_verb<SV><vblex><p1><sg>{^Kosakana<vblex><pres><p1><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/0sogRVsm2f4s]
+[2FGVfTHBPiSO#0] ^pron_verb<SV><vblex><p1><sg>{^Kozala<vblex><pres><p1><sg><aa>$}$ ^default<default>{^tɛ́<adv>$}$ ^lemma_verb<SV><vblex>{^kosakana<vblex><ger><aa>$}$^sent<SENT>{^.<sent>$}$
+[/2FGVfTHBPiSO]
+[4sADC4YbYW2d#0] ^det_nom<SN><sg>{^elanga<n><cl7><sg>$ ^na yé<det><pos><sp>$}$
+[/4sADC4YbYW2d]
+[9Xr7fSdaJt8N#0] ^default<default>{^Ya ngáí<prn><pos><p1><sg><aa>$}$
+[/9Xr7fSdaJt8N]
+[A18J8j4gQBpW#0] ^default<default>{^na<pr>$}$  ^default<default>{^elanga<n><cl7><sg>$}$
+[/A18J8j4gQBpW]
+[AfgyRTrWZ3o7#0] ^default<default>{^Ya yé<det><pos><sp>$}$^sent<SENT>{^.<sent>$}$
+[/AfgyRTrWZ3o7]
+[BW8hyrGvQgq8#0] ^det_nom<SN><sg>{^elanga<n><cl7><sg>$ ^na ngáí<det><pos><sp>$}$
+[/BW8hyrGvQgq8]
+[Dlwfl9aHXjc6#0] ^default<default>{^Bangó<prn><pers><p3><pl><aa>$}$^sent<SENT>{^.<sent>$}$
+[/Dlwfl9aHXjc6]
+[HJ49NSN_3MJP#0] ^det_nom<SN><sg>{^elanga<n><cl7><sg>$ ^ya yó<det><pos><sp>$}$
+[/HJ49NSN_3MJP]
+[ME5Nib9lAlfd#0] ^default<default>{^Bísó<prn><pers><p1><pl><aa>$}$^sent<SENT>{^.<sent>$}$
+[/ME5Nib9lAlfd]
+[NMVGEWFRyLQO#0] ^default<default>{^Ya yé<prn><pos><p3><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/NMVGEWFRyLQO]
+[O30m9MgGF7Qu#0] ^default<default>{^káti<pr>$}$  ^default<default>{^elanga<n><cl7><sg>$}$
+[/O30m9MgGF7Qu]
+[RK7svtz2Gg0j#0] ^default<default>{^Ngáí<prn><pers><p1><sg><aa>$}$ ^unknown<unknown>{^*will$}$ ^lemma_verb<SV><vblex>{^kosakana<vblex><inf><aa>$}$^sent<SENT>{^.<sent>$}$
+[/RK7svtz2Gg0j]
+[TIgk9r4dNlI1#0] ^default<default>{^Yó<prn><pers><p2><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/TIgk9r4dNlI1]
+[U2Otfn0s9CX2#0] ^pron_verb<SV><vblex><p1><sg>{^Kozala<vblex><pres><p1><sg><aa>$}$ ^lemma_verb<SV><vblex>{^kosakana<vblex><ger><aa>$}$^sent<SENT>{^.<sent>$}$
+[/U2Otfn0s9CX2]
+[US5FTfuAXHXA#0] ^default<default>{^Ya yé<prn><pos><p3><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/US5FTfuAXHXA]
+[UwGZIId2kUpl#0] ^default<default>{^Yé<prn><pers><p3><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/UwGZIId2kUpl]
+[YXf9JmTXhb88#0] ^default<default>{^Ngáí<prn><pers><p1><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/YXf9JmTXhb88]
+[YgERG4Ogy1sJ#0] ^default<default>{^mpé<adv>$}$
+[/YgERG4Ogy1sJ]
+[YpxiIAk4tXMF#0] ^default<default>{^elanga<n><cl7><sg>$}$^sent<SENT>{^.<sent>$}$
+[/YpxiIAk4tXMF]
+[YtndlQptxMOR#0] ^default<default>{^Ya bangó<prn><pos><p3><pl><aa>$}$^sent<SENT>{^.<sent>$}$
+[/YtndlQptxMOR]
+[ZXelxUo8Zb9w#0] ^det_nom<SN><sg>{^elanga<n><cl7><sg>$ ^na bísó<det><pos><sp>$}$
+[/ZXelxUo8Zb9w]
+[cXVRejcLXNLm#0] ^default<default>{^tó<cnjcoo>$}$
+[/cXVRejcLXNLm]
+[d7EErtBHX5L8#0] ^default<default>{^Ya yó<prn><pos><p2><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/d7EErtBHX5L8]
+[jDQI5hARW-oM#0] ^pron_verb<SV><vblex><p1><sg>{^Kosakana<vblex><past><p1><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/jDQI5hARW-oM]
+[jk9o8HmUteG3#0] ^default<default>{^Yé<prn><pers><p3><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/jk9o8HmUteG3]
+[lveZjovBHSLD#0] ^default<default>{^na<pr>$}$ ^default<default>{^elanga<n><cl7><sg>$}$
+[/lveZjovBHSLD]
+[mUtn5R0m9HkB#0] ^pron_verb<SV><vblex><p1><sg>{^Kosála<vblex><past><p1><sg><aa>$}$ ^default<default>{^tɛ́<adv>$}$ ^lemma_verb<SV><vblex>{^kosakana<vblex><inf><aa>$}$^sent<SENT>{^.<sent>$}$
+[/mUtn5R0m9HkB]
+[rzlxS9VN28Zd#0] ^default<default>{^elanga<n><cl7><sg>$}$
+[/rzlxS9VN28Zd]
+[uWRGgt06CQeP#0] ^pron_verb<SV><vblex><p1><sg>{^Kozala<vblex><past><p1><sg><aa>$}$ ^default<default>{^tɛ́<adv>$}$ ^lemma_verb<SV><vblex>{^kosakana<vblex><ger><aa>$}$^sent<SENT>{^.<sent>$}$
+[/uWRGgt06CQeP]
+[uzLWro1D8SwB#0] ^det_nom<SN><sg>{^elanga<n><cl7><sg>$ ^na yé<det><pos><sp>$}$
+[/uzLWro1D8SwB]
+[wb6oFWpwk-9m#0] ^pron_verb<SV><vblex><p1><sg>{^Kosála<vblex><pres><p1><sg><aa>$}$ ^default<default>{^tɛ́<adv>$}$ ^lemma_verb<SV><vblex>{^kosakana<vblex><inf><aa>$}$^sent<SENT>{^.<sent>$}$
+[/wb6oFWpwk-9m]
+[z6TE5KOVHKGy#0] ^default<default>{^Ya bísó<prn><pos><p1><pl><aa>$}$^sent<SENT>{^.<sent>$}$
+[/z6TE5KOVHKGy]
+[zcKZN4hxiK03#0] ^default<default>{^kasi<cnjcoo>$}$
+[/zcKZN4hxiK03]
+[zh_1Y178TVVL#0] ^default<default>{^Yé<prn><pers><p3><sg><aa>$}$^sent<SENT>{^.<sent>$}$
+[/zh_1Y178TVVL]

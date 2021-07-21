@@ -1,0 +1,8 @@
+[Rq4hLTKPVh3s#0] ^Kóko<n><cl1a><pl>/Grandparent<n><pl>$ ^na yó<det><pos><sp>/your<det><pos><sp>$^.<sent>/.<sent>$
+[/Rq4hLTKPVh3s]
+[XdKuLfLo8NXN#0] ^Búku<n><cl9><sg>/Book<n><sg>$ ^na ngáí<det><pos><sp>/my<det><pos><sp>$^.<sent>/.<sent>$
+[/XdKuLfLo8NXN]
+[q-PBWENzfTRN#0] ^Likambo<n><cl5><pl>/Case<n><pl>/Problem<n><pl>$ ^na yó<det><pos><sp>/your<det><pos><sp>$^.<sent>/.<sent>$
+[/q-PBWENzfTRN]
+[xcIfmhf32Gci#0] ^Kelasi<n><cl1a><sg>/School<n><sg>$ ^na yé<det><pos><sp>/his<det><pos><sp>/her<det><pos><sp>/its<det><pos><sp>$^.<sent>/.<sent>$
+[/xcIfmhf32Gci]

@@ -1,0 +1,8 @@
+[Rq4hLTKPVh3s#0] ^Your<det><pos><sp>$ ^grandparent<n><pl>$^.<sent>$
+[/Rq4hLTKPVh3s]
+[XdKuLfLo8NXN#0] ^My<det><pos><sp>$ ^book<n><sg>$^.<sent>$
+[/XdKuLfLo8NXN]
+[q-PBWENzfTRN#0] ^Your<det><pos><sp>$ ^case<n><pl>$^.<sent>$
+[/q-PBWENzfTRN]
+[xcIfmhf32Gci#0] ^His<det><pos><sp>$ ^school<n><sg>$^.<sent>$
+[/xcIfmhf32Gci]

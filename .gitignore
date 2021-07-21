@@ -25,3 +25,5 @@
 /dummy.txt
 /raw_text.txt
 /main.py
+/*.zhfst
+/test/*-output.txt

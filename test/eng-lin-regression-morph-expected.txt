@@ -1,0 +1,78 @@
+[-IINzfPXLgZi#0] ^its/its<det><pos><sp>$ ^garden/garden<n><sg>$
+[/-IINzfPXLgZi]
+[-bguz2wxqrh6#0] ^the/the<det><def><sp>$ ^house/house<n><sg>$
+[/-bguz2wxqrh6]
+[-o4_2Xvqv8Cu#0] ^the/the<det><def><sp>$ ^table/table<n><sg>$
+[/-o4_2Xvqv8Cu]
+[0iUFSyDXkUvn#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^playing/play<vblex><pprs>/play<vblex><subs>/play<vblex><ger>$^./.<sent>$
+[/0iUFSyDXkUvn]
+[0sogRVsm2f4s#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^play/play<vblex><inf>/play<vblex><pres>/play<vblex><imp>$^./.<sent>$
+[/0sogRVsm2f4s]
+[2FGVfTHBPiSO#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^not/not<adv>$ ^playing/play<vblex><pprs>/play<vblex><subs>/play<vblex><ger>$^./.<sent>$
+[/2FGVfTHBPiSO]
+[4sADC4YbYW2d#0] ^his/his<det><pos><sp>/prpers<prn><pos><p3><m><sg>$ ^garden/garden<n><sg>$
+[/4sADC4YbYW2d]
+[9Xr7fSdaJt8N#0] ^Mine/prpers<prn><pos><p1><mf><sg>$
+[/9Xr7fSdaJt8N]
+[A18J8j4gQBpW#0] ^in/in<pr>$ ^the/the<det><def><sp>$ ^garden/garden<n><sg>$
+[/A18J8j4gQBpW]
+[AfgyRTrWZ3o7#0] ^Its/its<det><pos><sp>$^./.<sent>$
+[/AfgyRTrWZ3o7]
+[BW8hyrGvQgq8#0] ^my/my<det><pos><sp>$ ^garden/garden<n><sg>$
+[/BW8hyrGvQgq8]
+[Dlwfl9aHXjc6#0] ^They/prpers<prn><subj><p3><mf><pl>$^./.<sent>$
+[/Dlwfl9aHXjc6]
+[HJ49NSN_3MJP#0] ^your/your<det><pos><sp>$ ^garden/garden<n><sg>$
+[/HJ49NSN_3MJP]
+[ME5Nib9lAlfd#0] ^We/prpers<prn><subj><p1><mf><pl>$^./.<sent>$
+[/ME5Nib9lAlfd]
+[NMVGEWFRyLQO#0] ^Hers/prpers<prn><pos><p3><f><sg>$^./.<sent>$
+[/NMVGEWFRyLQO]
+[O30m9MgGF7Qu#0] ^inside/inside<pr>$ ^the/the<det><def><sp>$ ^garden/garden<n><sg>$
+[/O30m9MgGF7Qu]
+[RK7svtz2Gg0j#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^will/*will$ ^play/play<vblex><inf>/play<vblex><pres>/play<vblex><imp>$^./.<sent>$
+[/RK7svtz2Gg0j]
+[TIgk9r4dNlI1#0] ^You/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$^./.<sent>$
+[/TIgk9r4dNlI1]
+[U2Otfn0s9CX2#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^playing/play<vblex><pprs>/play<vblex><subs>/play<vblex><ger>$^./.<sent>$
+[/U2Otfn0s9CX2]
+[US5FTfuAXHXA#0] ^His/his<det><pos><sp>/prpers<prn><pos><p3><m><sg>$^./.<sent>$
+[/US5FTfuAXHXA]
+[UwGZIId2kUpl#0] ^It/prpers<prn><subj><p3><nt><sg>/prpers<prn><obj><p3><nt><sg>$^./.<sent>$
+[/UwGZIId2kUpl]
+[YXf9JmTXhb88#0] ^I/prpers<prn><subj><p1><mf><sg>$^./.<sent>$
+[/YXf9JmTXhb88]
+[YgERG4Ogy1sJ#0] ^and/and<cnjcoo>$
+[/YgERG4Ogy1sJ]
+[YpxiIAk4tXMF#0] ^garden/garden<n><sg>$^./.<sent>$
+[/YpxiIAk4tXMF]
+[YtndlQptxMOR#0] ^Theirs/prpers<prn><pos><p3><mf><pl>$^./.<sent>$
+[/YtndlQptxMOR]
+[ZXelxUo8Zb9w#0] ^our/our<det><pos><sp>$ ^garden/garden<n><sg>$
+[/ZXelxUo8Zb9w]
+[cXVRejcLXNLm#0] ^or/or<cnjcoo>$
+[/cXVRejcLXNLm]
+[d7EErtBHX5L8#0] ^Yours/prpers<prn><pos><p2><mf><sp>$^./.<sent>$
+[/d7EErtBHX5L8]
+[jDQI5hARW-oM#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^played/play<vblex><pp>/play<vblex><past>$^./.<sent>$
+[/jDQI5hARW-oM]
+[jk9o8HmUteG3#0] ^She/prpers<prn><subj><p3><f><sg>$^./.<sent>$
+[/jk9o8HmUteG3]
+[lveZjovBHSLD#0] ^in/in<pr>$ ^garden/garden<n><sg>$
+[/lveZjovBHSLD]
+[mUtn5R0m9HkB#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^did/do<vblex><past>$ ^not/not<adv>$ ^play/play<vblex><inf>/play<vblex><pres>/play<vblex><imp>$^./.<sent>$
+[/mUtn5R0m9HkB]
+[rzlxS9VN28Zd#0] ^the/the<det><def><sp>$ ^garden/garden<n><sg>$
+[/rzlxS9VN28Zd]
+[uWRGgt06CQeP#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^not/not<adv>$ ^playing/play<vblex><pprs>/play<vblex><subs>/play<vblex><ger>$^./.<sent>$
+[/uWRGgt06CQeP]
+[uzLWro1D8SwB#0] ^her/her<det><pos><sp>/prpers<prn><obj><p3><f><sg>$ ^garden/garden<n><sg>$
+[/uzLWro1D8SwB]
+[wb6oFWpwk-9m#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^do/do<vblex><inf>/do<vblex><pres>/do<vblex><imp>$ ^not/not<adv>$ ^play/play<vblex><inf>/play<vblex><pres>/play<vblex><imp>$^./.<sent>$
+[/wb6oFWpwk-9m]
+[z6TE5KOVHKGy#0] ^Ours/prpers<prn><pos><p1><mf><pl>$^./.<sent>$
+[/z6TE5KOVHKGy]
+[zcKZN4hxiK03#0] ^but/but<cnjcoo>$
+[/zcKZN4hxiK03]
+[zh_1Y178TVVL#0] ^He/prpers<prn><subj><p3><m><sg>$^./.<sent>$
+[/zh_1Y178TVVL]
